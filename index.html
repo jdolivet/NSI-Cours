@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Exemple page html">
+  <meta name="keywords" content="NSI, HTML, CSS, JavaScript, langage">
+  <meta name="author" content="Johann Dolivet">
+
+  <title>Page web</title>
+  <link rel="icon" href="https://sites.google.com/site/sciencesdunumerique/favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <header>
+    <img src="https://sites.google.com/site/sciencesdunumerique/config/customLogo.gif" alt="logo ISN" />
+    <h1>La spécialité Numérique et Sciences Informatiques</h1>
+  </header>
+  <section>
+    <p>Cette page sert d'illustration au langage HTML (Hypertext Markup Language).</p>
+
+    <p>Quelques sites de référence pour la spécialité :</p>
+    <ul>
+      <li><a target="_blank" href="https://eduscol.education.fr/cid144156/nsi-bac-2021.html">La page Eduscol</a></li>
+      <li><a target="_blank" href="http://quandjepasselebac.education.fr/la-specialite-numerique-et-sciences-informatiques-au-bac/">Quand je passe le bac.</a></li>
+    </ul>
+    
+    <button data-href="" onclick="masquemod('Aide');return false;" class="button">Conseil</button>
+    <div id="Aide">
+      <p id="conseil">Informez vous sur le langage <b>CSS</b> et le <b>JavaScript</b> qui sont désormais incontournables pour l'élaboration de pages Web.</p>
+    </div>
+    <script src="bouton.js"></script>
+  </section>
+  <footer>
+    <br/>
+    <br/>
+    <p>Illustration pour le cours de NSI</p>
+  </footer>
+</body>
+
+</html>
