@@ -2,4 +2,4 @@
 
 Dépots regroupant les cours de NSI
 
-https://mybinder.org/v2/gh/jdolivet/NSI-Cours.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdolivet/NSI-Cours.git/HEAD)
