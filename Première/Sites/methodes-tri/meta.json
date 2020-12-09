@@ -1,0 +1,51 @@
+{
+    "name": "Les méthodes de tri",
+    "width": "800px",
+    "height": "450px",
+    "link": "http://interstices.info/tri",
+    "comment": "Simulation des différents algorithmes de tri . . pour une illustration didactique",
+    "links": [
+        {
+            "title": "Document original dans lequel ce grain s'insère",
+            "uri": "http://interstices.info/tri"
+        },
+        {
+            "title": "Version originale en ligne",
+            "uri": "http://math.hws.edu/TMCM/java/xSortLab"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Eck, David",
+            "role": "auteur",
+            "mail": "eck@hws.edu",
+            "comment": "version initiale en Java"
+        },
+        {
+            "name": "Benhaj-Abdellatif, Tahia",
+            "role": "auteur",
+            "comment": "adaptation française"
+        },
+        {
+            "name": "Gabarel, Nathan",
+            "role": "auteur",
+            "comment": "version HTLM5/JS"
+        },
+        {
+            "name": "www.centralelilleprojets.fr",
+            "role": "producteur"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "CC BY-NC-SA",
+            "uri": "http://creativecommons.org/licenses/by-nc-sa/3.0/fr",
+            "comment": "s'applique aux documents"
+        },
+        {
+            "name": "CeCILL-C",
+            "uri": "http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html",
+            "comment": "s'applique au code source"
+        }
+    ]
+}

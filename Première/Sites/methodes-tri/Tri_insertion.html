@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GRAIN : Algorithmes de tri</title>
+        <link type="text/css" rel="stylesheet" href="grain.css" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <!-- en HTML5 : <meta charset="UTF-8"> -->
+    </head>
+    <body>
+        <div id="wrapper">
+            <input type="button" id="boutonVisuel" value="Tri visuel" /><input type="button" id="boutonTemporel" value="Tri temporel" /><input type="button" id="boutonJournal" value="Journal" />
+            <div id="visuel">
+                <div id="visHint" class="hint">
+                    <p id="visHint0">Cliquez sur "Commencer"</p>
+                    <p id="visHint1"></p>
+                    <p id="visHint2"></p>
+                </div>
+                <div id="visAffichage">
+                    <canvas id="visCanvas" width="450px" height="300px"></canvas>
+                </div><div id="visControle" class="parametres">
+                    Type de tri :
+                    <select id="visChoixTri">
+                        <option value="5">Tri par sélection</option>
+                        <option value="1">Tri par propagation (ou à bulles)</option>
+                        <option value="2" selected="selected">Tri par insertion</option>
+                        <option value="3">Tri rapide</option>
+                        <option value="4">Tri par fusion</option>
+                    </select>
+                    <br />
+                    <input type="checkbox" id="visChoixAccelere" /> <label for="visChoixRapide">Accéléré</label>
+                    <br />
+                    <input type="button" id="visBoutonStart" value="Commencer" />
+                    <br />
+                    <input type="button" id="visBoutonStep" value="Pas à pas" />
+                    <br />
+                    <input type="button" id="visBoutonRestart" value="Recommencer" />
+                    <hr />
+                    <p>
+                        Comparaisons : <span id="visNbComparaisons">0</span><br />
+                        Copies : <span id="visNbCopies">0</span>
+                    </p>
+                </div>
+            </div>
+            <div id="temporel">
+                <p id="tempHint" class="hint">Choisissez les paramètres du tri puis cliquez sur "Commencer"</p>
+                <p id="tempParametres" class="parametres">
+                    <label for="tempTailleTab">Taille du tableau</label> : <input type="number" id="tempTailleTab" value="1000" /> <label for="tempNbTab">Nombre de tableaux</label> : <input type="number" id="tempNbTab" value="1" min="1" step="100" /><br />
+                    <select id="tempChoixTri">
+                        <option value="5">Tri par sélection</option>
+                        <option value="1">Tri par propagation (ou à bulles)</option>
+                        <option value="2"  selected="selected">Tri par insertion</option>
+                        <option value="3">Tri rapide</option>
+                        <option value="4">Tri par fusion</option>
+                    </select>
+                    <input type="button" id="tempBoutonStart" value="Commencer" />
+                </p>
+                <dl id="tempResultats">
+                    <dt>Méthode de tri</dt>
+                    <dd></dd>
+                    <dt>Nombres d'éléments par tableau</dt>
+                    <dd></dd>
+                    <dt>Tableaux triés</dt>
+                    <dd></dd>
+                    <dt>Temps total écoulé</dt>
+                    <dd></dd>
+                    <dt>Temps approximatif de calcul</dt>
+                    <dd></dd>
+                    <dt>Comparaisons</dt>
+                    <dd></dd>
+                    <dt>Copies</dt>
+                    <dd></dd>
+                </dl>
+            </div>
+            <div id="journal">
+                <div id="logContent"></div>
+                <p id="logControle" class="parametres"><input type="button" id="logBoutonReset" value="Effacer le journal" /> <input type="button" id="logBoutonCopier" value="Copier dans le presse-papier" /></p>
+            </div>
+        </div>
+        <script data-main="js/main" src="js/vendor/require.js"></script>
+    </body>
+</html>

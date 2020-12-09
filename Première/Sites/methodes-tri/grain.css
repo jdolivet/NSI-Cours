@@ -1,0 +1,126 @@
+/** Cadre **/
+body {
+	background : #333333;
+	font-family : sans-serif;
+	margin : 0;
+	padding : 0;
+}
+
+#wrapper {
+	background : white;
+	border : solid 3px black;
+	margin : 50px auto 0;
+	width : 720px;
+}
+
+/** Propriétés générales **/
+#boutonVisuel, #boutonTemporel, #boutonJournal {
+	width : 240px;
+}
+.hint {
+	background : #ffb510;
+	border : 2px solid #dd8500;
+	border-radius : 10px;
+	margin : 0 0 5px;
+	min-height : 30px;
+	padding : 5px 10px;
+}
+.parametres {
+	background : #cc5555;
+	border : solid 2px #990000;
+	color : white;
+	padding : 3px;
+}
+
+/** ---------- **/
+/** Tri visuel **/
+/** ---------- **/
+#visuel {
+	margin : 3px;
+}
+	#visHint0{
+		line-height: 34px;
+		margin: 0;
+		padding: 0;
+	}
+	#visHint1{
+		display: none;
+		font-size: 14px;
+		font-weight : bold;
+		margin: 0;
+	}
+	#visHint2{
+		display: none;
+		font-size: 14px;
+		height : 17px;
+		margin: 0;
+	}
+	#visAffichage {
+		background : #ffffff;
+		border : 1px solid black;
+		display : inline-block;
+		margin : 0 5px 0 0;
+	}
+	#visControle {
+		display : inline-block;
+		height : 297px;
+		vertical-align : bottom;
+		width : 245px;
+	}
+
+/** ------------ **/
+/** Tri temporel **/
+/** ------------ **/
+#temporel {
+	margin : 3px;
+}
+	#tempParametres {
+		margin : 0;
+		text-align : center;
+	}
+	#tempResultats {
+		border : 1px solid black;
+		margin : 5px 0 0;
+		padding : 5px;
+	}
+		#tempResultats dt {
+			clear : both;
+			display : inline-block;
+			font-weight : bold;
+			margin : 4px 0;
+			padding : 0 5px;
+			text-align : right;
+			width : 50%;
+		}
+		#tempResultats dd {
+			color : #a67405;
+			display : inline;
+			margin : 0;
+			padding : 0 5px;
+			width : 50%;
+		}
+
+/** ------- **/
+/** Journal **/
+/** ------- **/
+#journal {
+	margin : 3px;
+}
+	#logContent {
+		border : 1px solid black;
+		font-size : 13px;
+		margin : 0 0 5px;
+		height : 300px;
+		overflow : auto;
+		padding : 5px 5px 0;
+	}
+	#logContent p {
+		margin : 0 0 15px;
+	}
+		#logContent p:first-line{
+			font-weight : bold;
+		}
+	#logControle {
+		margin : 0;
+		text-align : center;
+	}
