@@ -1,0 +1,46 @@
+{
+    "name": "Fonctions de hachage",
+    "width": "800px",
+    "height": "700px",
+    "comment": "Un grain pour expérimenter et comprendre comment fonctionnent les algorithmes de hachage",
+    "link": "http://interstices.info/hachage",
+    "links": [
+        {
+            "title": "Document original dans lequel ce grain s'insère",
+            "uri": "http://interstices.info/hachage"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Ben Abdallah, Hamdi",
+            "role": "auteur",
+            "comment": "version initiale en Java"
+        },
+        {
+            "name": "Wallez, Corentin",
+            "role": "auteur",
+            "comment": "version HTLM5/JS"
+        },
+        {
+            "name": "Schindelhauer, Christian",
+            "role": "auteur",
+            "comment": "concepteur"
+        },
+        {
+            "name": "http://www.xprojets.com/",
+            "role": "producteur"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "CC BY-NC-SA",
+            "uri": "http://creativecommons.org/licenses/by-nc-sa/3.0/fr",
+            "comment": "s'applique aux documents"
+        },
+        {
+            "name": "CeCILL-C",
+            "uri": "http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html",
+            "comment": "s'applique au code source"
+        }
+    ]
+}
