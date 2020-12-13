@@ -1,0 +1,5 @@
+extension,commentaire
+.py,utilisé pour les fichiers source Python
+.jpeg,utilisé pour les fichiers d'image
+.csv,"Utilisé pour des fichiers CSV. Dans ces fichiers 
+on utilise des , et des "" pour séparer les données"
