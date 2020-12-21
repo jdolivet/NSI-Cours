@@ -1,0 +1,131 @@
+i.open_indicator{
+    margin: 2px 2px 2px 2px ;
+}
+li.file_name:hover{
+    background-color: lightyellow;
+}
+.folder_button_div span.btn{
+    margin: 0;
+}
+.popover-title { display: none; }
+.popover .arrow {display:none;}
+.folder_name span{
+    margin-left: 0px;
+    font-weight: bold;
+    color: black;
+}
+.file_name .file_button{
+    border: 0px;
+}
+input.input_file_name[type="text"]{
+   height: 20px;
+   font-size: 12px;
+   line-height: 20px;
+   padding: initial;
+   min-height: 10px;
+   border: solid 1px black;
+   margin: initial;
+   border-radius: 3px 0px 0px 3px ;
+   border: solid 1px gray;
+}
+div.input_file_name button.add-on{
+    padding-top: 1px;
+    padding-bottom: 7px;
+    border: initial;
+    border: solid 1px red;
+    margin: initial;
+    font-size: 12px;
+    border-radius: 0px 3px 3px 0px ;
+    height: 22px;
+}
+.file_button_div,
+.folder_button_div{
+    text-align:right;
+    float: right;
+    display: inline;
+    vertical-align: middle;
+    background-color: inherit;
+}
+.file_button_div{
+    text-align:right;
+    float:right;
+    display:inline-block;
+    vertical-align: middle;
+}
+.file_name:hover .file_button_div{
+   display:block;
+}
+.file_button, .folder_button {
+    padding: 0px;
+    width: 15px;
+    display: none;
+}
+.file_name:hover .file_button,
+.folder_name:hover .folder_button {
+    display: inline;
+}
+.file_name,
+.folder_name {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}   
+.file_name{
+    vertical-align: middle;
+}
+.sidebar-nav li{
+	list-style-type: none;
+}
+.sidebar-nav ul{
+    list-style-type: none;
+}
+.span2{
+    min-width: 170px;
+}
+.button_div{
+    margin:auto;
+    text-align: center;
+    width: 100%;
+}
+.folders_div{
+    padding:0px;
+    overflow: auto;
+}
+.file_paths{
+    padding:0px;
+}
+.shared_file_paths{
+    padding:0px;
+}
+.folder_name {
+}
+.folder_name:hover{
+    background-color:lightblue;
+}
+.root_folder_name{
+    background-color: #268bd2;
+}
+.root_folder_name select {
+    width: 130px;
+    /*height: 20px;*/
+    margin: 0 0 2px 0;
+    font-weight: bold;
+}
+.shared_root_folder_name{
+    background-color: #268bd2;
+}
+.folder_contents{
+    border:none;
+    border-radius: 4px;
+}
+.dragging_div{
+    background-color: grey;
+    padding: 3px; 
+    border-radius: 3px;
+}
+.hover_drop{
+    border: solid 1px ;
+    border-color: lightblue;
+}

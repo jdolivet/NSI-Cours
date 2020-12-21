@@ -1,0 +1,121 @@
+/* The official background colour */
+body {
+    background-color: #EEEEEE;
+    /*background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%, hsl(42,98%,67%) 80%); */
+    /*background-image: linear-gradient(to bottom, rgb(223, 223, 223) 0%, rgb(178, 178, 178) 40%);*/
+    /*background-image: linear-gradient(to bottom, #EEEEEE, #E1E1E1);*/
+    padding-right: 0;
+}
+
+/* Prevent bouncing on OS X/iOS */
+html {
+    overflow: hidden;
+}
+
+/* Thin-ish yellow header with centred title */
+.masthead {
+    height: 40px;
+    margin-bottom:0px;
+    margin-top:0px;
+    padding-top:0px;
+    text-align:center;
+}
+
+.masthead h1 {
+    margin-top:0px;
+    padding-top: 0px;
+    line-height: 40px;
+}
+
+.masthead .nav {
+    margin-bottom:5px;
+}
+
+/* Nav pills should be black because blue on yellow is ugly. */
+.masthead .nav-pills {
+    padding-top: 2px;
+    margin-bottom: 0;
+}
+.masthead .nav-pills > li > a:hover {
+    background-color: white;
+}
+
+.masthead .nav-pills > li > a {
+    color: #444;
+}
+
+.masthead .nav-pills > li.active > a {
+    background-color: #444;
+    color: white;
+}
+
+.split-controls {
+    padding-left: 10px;
+}
+
+/* Sidebar sizing */
+.sidebar-nav li {
+    line-height: 22px;
+    font-size: 13px;
+}
+
+/* Editors should have a border around them, but not between the editor and the tabs */
+.tab-pane {
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+.nav-tabs {
+    margin-bottom: 0;
+}
+
+.nav-tabs > li > a {
+    color: black;
+}
+
+/* Tabs should be obviously clickable. */
+.nav-pills li {
+    cursor: pointer;
+}
+
+.editor-tips {
+    max-width: 400px;
+}
+
+/* Split pane styles */
+.split-holder {
+    float: left;
+    overflow: hidden;
+}
+
+.split-splitter {
+    float: left;
+    width: 10px;
+    cursor: col-resize;
+}
+
+.split-splitter > div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 3px;
+    background-color: #555;
+    height: 100%;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+/* Wrapping toolbars is bad. */
+.btn-toolbar {
+    white-space: nowrap;
+}
+
+/* Alert area */
+#header-alert-holder > .alert {
+    max-width: -webkit-calc(100% - 300px);
+    max-width: calc(100% - 300px);
+    /*min-width: 300px;*/
+    position: absolute;
+    left: 250px;
+    top: 5px;
+    margin-right: 10px;
+}
