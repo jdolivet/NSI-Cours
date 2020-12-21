@@ -1,0 +1,2216 @@
+
+
+02016R0679 — LV — 04.05.2016 — 000.002
+
+Šis dokuments ir tikai informatīvs, un tam nav juridiska spēka. Eiropas Savienības iestādes neatbild par tā saturu. Attiecīgo tiesību aktu un to preambulu autentiskās versijas ir publicētas Eiropas Savienības “Oficiālajā Vēstnesī” un ir pieejamas datubāzē “Eur-Lex”. Šie oficiāli spēkā esošie dokumenti ir tieši pieejami, noklikšķinot uz šajā dokumentā iegultajām saitēm
+
+►B
+	
+
+EIROPAS PARLAMENTA UN PADOMES REGULA (ES) 2016/679
+
+(2016. gada 27. aprīlis)
+
+par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti un ar ko atceļ Direktīvu 95/46/EK (Vispārīgā datu aizsardzības regula)
+
+(Dokuments attiecas uz EEZ)
+
+(OV L 119, 4.5.2016., 1. lpp)
+
+
+Labota ar:
+
+►C1
+	
+
+Kļūdu labojums, OV L 127, 23.5.2018, lpp 2 (2016/679)
+
+
+
+▼B
+
+EIROPAS PARLAMENTA UN PADOMES REGULA (ES) 2016/679
+
+(2016. gada 27. aprīlis)
+
+par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti un ar ko atceļ Direktīvu 95/46/EK (Vispārīgā datu aizsardzības regula)
+
+(Dokuments attiecas uz EEZ)
+
+
+
+I NODAĻA
+
+Vispārīgi noteikumi
+
+1. pants
+
+Priekšmets un mērķi
+
+1.  Šī regula paredz noteikumus fizisku personu aizsardzībai attiecībā uz personas datu apstrādi un noteikumus personas datu brīvai apritei.
+
+2.  Šī regula aizsargā fizisku personu pamattiesības un pamatbrīvības un jo īpaši to tiesības uz personas datu aizsardzību.
+
+3.  Personas datu brīvu apriti Savienībā neierobežo un neaizliedz tādu iemeslu dēļ, kas saistīti ar fizisku personu aizsardzību attiecībā uz personas datu apstrādi.
+
+2. pants
+
+Materiālā darbības joma
+
+1.  Šo regulu piemēro personas datu apstrādei, kas pilnībā vai daļēji veikta ar automatizētiem līdzekļiem, un tādu personas datu apstrādei, kuri veido daļu no kartotēkas vai ir paredzēti, lai veidotu daļu no kartotēkas, ja apstrādi neveic ar automatizētiem līdzekļiem.
+
+2.  Šo regulu nepiemēro personas datu apstrādei:
+
+a) tādas darbības gaitā, kas neietilpst Savienības tiesību aktu darbības jomā;
+
+b) ko īsteno dalībvalstis, veicot darbības, kas ir LES V sadaļas 2. nodaļas darbības jomā;
+
+c) ko veic fiziska persona tikai personiska vai mājsaimnieciska pasākuma gaitā;
+
+d) ko veic kompetentas iestādes, lai novērstu, izmeklētu, atklātu noziedzīgus nodarījumus vai sauktu pie atbildības par tiem, vai izpildītu kriminālsodus, tostarp lai pasargātu no draudiem sabiedriskajai drošībai un tos novērstu.
+
+3.  Personas datu apstrādei Savienības iestādēs, struktūrās, birojos un aģentūrās piemēro Regulu (EK) Nr. 45/2001. Regulu (EK) Nr. 45/2001 un citus Savienības tiesību aktus, ko piemēro šādai personas datu apstrādei, pielāgo šīs regulas principiem un noteikumiem saskaņā ar 98. pantu.
+
+4.  Šī regula neskar Direktīvas 2000/31/EK piemērošanu, jo īpaši attiecībā uz minētās direktīvas 12.–15. panta noteikumiem par starpnieku pakalpojumu sniedzēju saistībām.
+
+3. pants
+
+Teritoriālā darbības joma
+
+1.  Šo regulu piemēro personas datu apstrādei saistībā ar darbībām, ko veic pārziņa vai apstrādātāja uzņēmējdarbības vietā Savienībā, neatkarīgi no tā, vai apstrāde notiek vai nenotiek Savienībā.
+
+2.  Šo regulu piemēro Savienībā esošu datu subjektu personas datu apstrādei, ko veic pārzinis vai apstrādātājs, kas neveic uzņēmējdarbību Savienībā, ja apstrādes darbības ir saistītas ar:
+
+a) preču vai pakalpojumu piedāvāšanu šādiem datu subjektiem Savienībā, neatkarīgi no tā, vai no datu subjekta tiek prasīta samaksa; vai
+
+b) viņu uzvedības novērošanu, ciktāl viņu uzvedība notiek Savienībā.
+
+3.  Šo regulu piemēro personas datu apstrādei, ko veic pārzinis, kas neveic uzņēmējdarbību Savienībā, bet vietā, kur saskaņā ar starptautiskajām publiskajām tiesībām ir piemērojamas dalībvalsts tiesības.
+
+4. pants
+
+Definīcijas
+
+Šajā regulā:
+
+1) “personas dati” ir jebkura informācija, kas attiecas uz identificētu vai identificējamu fizisku personu (“datu subjekts”); identificējama fiziska persona ir tāda, kuru var tieši vai netieši identificēt, jo īpaši atsaucoties uz identifikatoru, piemēram, minētās personas vārdu, uzvārdu, identifikācijas numuru, atrašanās vietas datiem, tiešsaistes identifikatoru vai vienu vai vairākiem minētajai fiziskajai personai raksturīgiem fiziskās, fizioloģiskās, ģenētiskās, garīgās, ekonomiskās, kultūras vai sociālās identitātes faktoriem;
+
+2) “apstrāde” ir jebkura ar personas datiem vai personas datu kopumiem veikta darbība vai darbību kopums, ko veic ar vai bez automatizētiem līdzekļiem, piemēram, vākšana, reģistrācija, organizēšana, strukturēšana, glabāšana, pielāgošana vai pārveidošana, atgūšana, aplūkošana, izmantošana, izpaušana, nosūtot, izplatot vai citādi darot tos pieejamus, saskaņošana vai kombinēšana, ierobežošana, dzēšana vai iznīcināšana;
+
+3) “apstrādes ierobežošana” ir uzglabātu personas datu iezīmēšana ar mērķi ierobežot to apstrādi nākotnē;
+
+4) “profilēšana” ir jebkura veida automatizēta personas datu apstrāde, kas izpaužas kā personas datu izmantošana nolūkā izvērtēt konkrētus ar fizisku personu saistītus personiskus aspektus, jo īpaši analizēt vai prognozēt aspektus saistībā ar minētās fiziskās personas sniegumu darbā, ekonomisko situāciju, veselību, personīgām vēlmēm, interesēm, uzticamību, uzvedību, atrašanās vietu vai pārvietošanos;
+
+5) “pseidonimizācija” ir personas datu apstrāde, ko veic tādā veidā, lai personas datus vairs nav iespējams saistīt ar konkrētu datu subjektu bez papildu informācijas izmantošanas, ar noteikumu, ka šāda papildu informācija tiek turēta atsevišķi un tai piemēro tehniskus un organizatoriskus pasākumus, lai nodrošinātu, ka personas dati netiek saistīti ar identificētu vai identificējamu fizisku personu;
+
+6) “kartotēka” ir jebkurš strukturēts personas datu kopums, kas ir pieejams saskaņā ar konkrētiem kritērijiem, neatkarīgi no tā, vai datu kopums ir centralizēts, decentralizēts vai izkliedēts, pamatojoties uz funkcionālu vai ģeogrāfisku motivāciju;
+
+7) “pārzinis” ir fiziska vai juridiska persona, publiska iestāde, aģentūra vai cita struktūra, kas viena pati vai kopīgi ar citām nosaka personas datu apstrādes nolūkus un līdzekļus; ja šādas apstrādes nolūkus un līdzekļus nosaka ar Savienības vai dalībvalsts tiesību aktiem, pārzini vai tā iecelšanas konkrētos kritērijus var paredzēt Savienības vai dalībvalsts tiesību aktos;
+
+8) “apstrādātājs” ir fiziska vai juridiska persona, publiska iestāde, aģentūra vai cita struktūra, kura pārziņa vārdā apstrādā personas datus;
+
+9) “saņēmējs” ir fiziska vai juridiska persona, publiska iestāde, aģentūra vai cita struktūra, kurai izpauž personas datus – neatkarīgi no tā, vai tā ir trešā persona vai nav. Tomēr publiskas iestādes, kas var saņemt personas datus saistībā ar konkrētu izmeklēšanu saskaņā ar Savienības vai dalībvalsts tiesību aktiem, netiek uzskatītas par saņēmējiem; minēto datu apstrāde, ko veic minētās publiskās iestādes, atbilst piemērojamiem datu aizsardzības noteikumiem saskaņā ar apstrādes nolūkiem;
+
+10) “trešā persona” ir fiziska vai juridiska persona, publiska iestāde, aģentūra vai struktūra, kura nav datu subjekts, pārzinis, apstrādātājs un personas, kuras pārziņa vai apstrādātāja tiešā pakļautībā ir pilnvarotas apstrādāt personas datus;
+
+11) datu subjekta “piekrišana” ir jebkura brīvi sniegta, konkrēta, apzināta un viennozīmīga norāde uz datu subjekta vēlmēm, ar kuru viņš paziņojuma vai skaidri apstiprinošas darbības veidā sniedz piekrišanu savu personas datu apstrādei;
+
+12) “personas datu aizsardzības pārkāpums” ir drošības pārkāpums, kura rezultātā notiek nejauša vai nelikumīga nosūtīto, uzglabāto vai citādi apstrādāto personas datu iznīcināšana, nozaudēšana, pārveidošana, neatļauta izpaušana vai piekļuve tiem;
+
+13) “ģenētiskie dati” ir personas dati, kas attiecas uz fiziskas personas pārmantotajām vai iegūtajām ģenētiskajām pazīmēm, sniedz unikālu informāciju par minētās fiziskās personas fizioloģiju vai veselību un kas izriet jo īpaši no attiecīgās fiziskās personas bioloģiskā parauga analīzes;
+
+14) “biometriskie dati” ir personas dati pēc specifiskas tehniskas apstrādes, kuri attiecas uz fiziskas personas fiziskajām, fizioloģiskajām vai uzvedības pazīmēm, kas ļauj veikt vai apstiprina minētās fiziskās personas unikālu identifikāciju, piemēram, sejas attēli vai daktiloskopijas dati;
+
+15) “veselības dati” ir personas dati, kas saistīti ar fiziskas personas fizisko vai garīgo veselību, tostarp veselības aprūpes pakalpojumu sniegšanu, un kas atspoguļo informāciju par tās veselības stāvokli;
+
+16) “galvenā uzņēmējdarbības vieta”:
+
+a) attiecībā uz pārzini, kura uzņēmējdarbības vietas atrodas vairāk nekā vienā dalībvalstī – tā galvenās pārvaldes atrašanās vieta Savienībā, ja vien lēmumi par personas datu apstrādes nolūkiem un līdzekļiem netiek pieņemti citā pārziņa uzņēmējdarbības vietā Savienībā un ja vien šai citai uzņēmējdarbības vietai nav šādu lēmumu īstenošanas pilnvaru – tādā gadījumā par galveno uzņēmējdarbības vietu uzskata to uzņēmējdarbības vietu, kurā pieņemti šādi lēmumi;
+
+b) attiecībā uz apstrādātāju, kura uzņēmējdarbības vietas atrodas vairāk nekā vienā dalībvalstī – tā galvenās pārvaldes atrašanās vieta Savienībā, vai, ja apstrādātājam nav galvenās pārvaldes Savienībā, – apstrādātāja uzņēmējdarbības vieta Savienībā, kur notiek galvenās apstrādes darbības saistībā ar apstrādātāja uzņēmējdarbības vietas darbībām, ciktāl uz apstrādātāju attiecas šajā regulā paredzētie konkrētie pienākumi;
+
+17) “pārstāvis” ir fiziska vai juridiska persona, kura veic uzņēmējdarbību Savienībā un kuru pārzinis vai apstrādātājs ir iecēlis rakstiski saskaņā ar 27. pantu, un kura pārstāv pārzini vai apstrādātāju saistībā ar to attiecīgajiem pienākumiem, kas paredzēti šajā regulā;
+
+18) “uzņēmums” ir fiziska vai juridiska persona, kas veic saimniecisku darbību, neatkarīgi no tās juridiskā statusa, tostarp partnerības vai apvienības, kas regulāri veic saimniecisku darbību;
+
+19) “uzņēmumu grupa” ir kontrolējošais uzņēmums un tā kontrolētie uzņēmumi;
+
+20) “saistošie uzņēmuma noteikumi” ir personas datu aizsardzības vadlīnijas, ko stingri ievēro pārzinis vai apstrādātājs, kas veic uzņēmējdarbību dalībvalsts teritorijā, attiecībā uz personas datu nosūtīšanu vai vairākkārtēju nosūtīšanu pārzinim vai apstrādātājam vienā vai vairākās trešās valstīs uzņēmumu grupā vai uzņēmējsabiedrību grupā, kas iesaistīta kopīgā saimnieciskā darbībā;
+
+21) “uzraudzības iestāde” ir neatkarīga publiska iestāde, ko dalībvalsts izveidojusi, ievērojot51. pantu;
+
+22) “attiecīgā uzraudzības iestāde” ir uzraudzības iestāde, uz kuru personas datu apstrāde attiecas tāpēc, ka:
+
+a) pārzinis vai apstrādātājs veic uzņēmējdarbību minētās uzraudzības iestādes dalībvalsts teritorijā;
+
+b) apstrāde būtiski ietekmē vai var būtiski ietekmēt datu subjektus, kas dzīvo minētās uzraudzības iestādes dalībvalstī; vai
+
+c) sūdzība ir iesniegta minētajai uzraudzības iestādei;
+
+23) “pārrobežu apstrāde” ir vai nu:
+
+a) personas datu apstrāde, kas notiek saistībā ar darbībām, kuras Savienībā veic pārziņa vai apstrādātāja uzņēmējdarbības vietās vairāk nekā vienā dalībvalstī, ja pārzinis vai apstrādātājs veic uzņēmējdarbību vairāk nekā vienā dalībvalstī; vai
+
+b) personas datu apstrāde, kas notiek saistībā ar darbībām, kuras Savienībā veic pārziņa vai apstrādātāja vienīgajā uzņēmējdarbības vietā, bet kas būtiski ietekmē vai var būtiski ietekmēt datu subjektus vairāk nekā vienā dalībvalstī;
+
+24) “būtisks un motivēts iebildums” ir iebildums lēmuma projektam par to, vai šī regula ir pārkāpta, vai par to, vai iecerētā darbība attiecībā uz pārzini vai apstrādātāju atbilst šai regulai, skaidri parādot to risku nozīmīgumu, ko lēmuma projekts rada datu subjektu pamattiesībām un pamatbrīvībām un attiecīgā gadījumā – personas datu brīvai apritei Savienībā;
+
+25) “informācijas sabiedrības pakalpojums” ir pakalpojums, kā definēts Eiropas Parlamenta un Padomes Direktīvas (ES) 2015/1535 ( 1 ) 1. panta 1. punkta b) apakšpunktā;
+
+26) “starptautiska organizācija” ir organizācija un tai pakārtotas struktūras, kas ir starptautisko publisko tiesību subjekti, vai jebkura cita struktūra, kas ir izveidota ar divu vai vairāku valstu nolīgumu vai uz tā pamata.
+
+
+
+II NODAĻA
+
+Principi
+
+5. pants
+
+Personas datu apstrādes principi
+
+1.  Personas dati:
+
+a) tiek apstrādāti likumīgi, godprātīgi un datu subjektam pārredzamā veidā (“likumīgums, godprātība un pārredzamība”);
+
+b) tiek vākti konkrētos, skaidros un leģitīmos nolūkos, un to turpmāku apstrādi neveic ar minētajiem nolūkiem nesavietojamā veidā; turpmāka apstrāde arhivēšanas nolūkos sabiedrības interesēs, zinātniskās vai vēstures pētniecības nolūkos, vai statistikas nolūkos saskaņā ar 89. panta 1. punktu nav uzskatāma par nesavietojamu ar sākotnējiem nolūkiem (“nolūka ierobežojumi”);
+
+c) ir adekvāti, atbilstīgi un ietver tikai to, kas nepieciešams to apstrādes nolūkos (“datu minimizēšana”);
+
+d) ir precīzi un, ja vajadzīgs, atjaunināti; ir jāveic visi saprātīgi pasākumi, lai nodrošinātu, ka neprecīzi personas dati, ņemot vērā nolūkus, kādos tie tiek apstrādāti, bez kavēšanās tiktu dzēsti vai laboti (“precizitāte”);
+
+e) tiek glabāti veidā, kas pieļauj datu subjektu identifikāciju, ne ilgāk kā nepieciešams nolūkiem, kādos attiecīgos personas datus apstrādā; personas datus var glabāt ilgāk, ciktāl personas datus apstrādās tikai arhivēšanas nolūkos sabiedrības interesēs, zinātniskās vai vēstures pētniecības nolūkos, vai statistikas nolūkos saskaņā ar 89. panta 1. punktu, ar noteikumu, ka tiek īstenoti atbilstoši tehniski un organizatoriski pasākumi, kas šajā regulā paredzēti, lai aizsargātu datu subjekta tiesības un brīvības (“glabāšanas ierobežojums”);
+
+f) tiek apstrādāti tādā veidā, lai tiktu nodrošināta atbilstoša personas datu drošība, tostarp aizsardzība pret neatļautu vai nelikumīgu apstrādi un pret nejaušu nozaudēšanu, iznīcināšanu vai sabojāšanu, izmantojot atbilstošus tehniskos vai organizatoriskos pasākumus (“integritāte un konfidencialitāte”).
+
+2.  Pārzinis ir atbildīgs par atbilstību 1. punktam un var to uzskatāmi parādīt (“pārskatatbildība”).
+
+6. pants
+
+Apstrādes likumīgums
+
+1.  Apstrāde ir likumīga tikai tādā apmērā un tikai tad, ja ir piemērojams vismaz viens no turpmāk minētajiem pamatojumiem:
+
+a) datu subjekts ir devis piekrišanu savu personas datu apstrādei vienam vai vairākiem konkrētiem nolūkiem;
+
+b) apstrāde ir vajadzīga līguma, kura līgumslēdzēja puse ir datu subjekts, izpildei vai pasākumu veikšanai pēc datu subjekta pieprasījuma pirms līguma noslēgšanas;
+
+c) apstrāde ir vajadzīga, lai izpildītu uz pārzini attiecināmu juridisku pienākumu;
+
+d) apstrāde ir vajadzīga, lai aizsargātu datu subjekta vai citas fiziskas personas vitālas intereses;
+
+e) apstrāde ir vajadzīga, lai izpildītu uzdevumu, ko veic sabiedrības interesēs vai īstenojot pārzinim likumīgi piešķirtās oficiālās pilnvaras;
+
+f) apstrāde ir vajadzīga pārziņa vai trešās personas leģitīmo interešu ievērošanai, izņemot, ja datu subjekta intereses vai pamattiesības un pamatbrīvības, kurām nepieciešama personas datu aizsardzība, ir svarīgākas par šādām interesēm, jo īpaši, ja datu subjekts ir bērns.
+
+Pirmās daļas f) apakšpunktu nepiemēro apstrādei, ko veic publiskas iestādes, pildot savus uzdevumus.
+
+2.  Dalībvalstis var paturēt spēkā vai ieviest konkrētākus noteikumus, lai šīs regulas noteikumu piemērošanu pielāgotu attiecībā uz apstrādi, ko veic, lai ievērotu 1. punkta c) un e) apakšpunktu, nosakot precīzāk konkrētas prasības apstrādei un citus pasākumus, ar ko nodrošina likumīgu un godprātīgu apstrādi, tostarp citās konkrētās apstrādes situācijās, kas paredzētas IX nodaļā.
+
+3.  Šā panta 1. punkta c) un e) apakšpunktā minēto apstrādes pamatu nosaka ar:
+
+a) Savienības tiesību aktiem; vai
+
+b) dalībvalsts tiesību aktiem, kas piemērojami pārzinim.
+
+Apstrādes nolūku nosaka minētajā juridiskajā pamatā vai – attiecībā uz 1. punkta e) apakšpunktā minēto apstrādi – tas ir vajadzīgs, lai izpildītu uzdevumu, ko veic sabiedrības interesēs vai īstenojot pārzinim likumīgi piešķirtās oficiālās pilnvaras. Minētajā juridiskajā pamatā var būt ietverti konkrēti noteikumi, lai pielāgotu šīs regulas noteikumu piemērošanu, cita starpā vispārēji nosacījumi, kas reglamentē pārziņa īstenotu apstrādes likumību; apstrādājamo datu veidi; attiecīgie datu subjekti; vienības, kurām personas dati var tikt izpausti, un mērķi, kādiem tie var tikt izpausti; apstrādes nolūka ierobežojumi; glabāšanas termiņi; un apstrādes darbības un apstrādes procedūras, tostarp pasākumi, lai nodrošinātu likumīgu un godprātīgu apstrādi, piemēram, citās konkrētās datu apstrādes situācijās, kas paredzētas IX nodaļā. Savienības vai dalībvalsts tiesību akti atbilst sabiedrības interešu mērķim un ir samērīgi ar izvirzīto leģitīmo mērķi.
+
+4.  Ja apstrāde citā nolūkā nekā tajā, kādā personas dati tika vākti, nav balstīta uz datu subjekta piekrišanu vai uz Savienības vai dalībvalsts tiesību aktiem, kas demokrātiskā sabiedrībā ir vajadzīgs un samērīgs pasākums, lai aizsargātu 23. panta 1. punktā minētos mērķus, pārzinis, lai pārliecinātos, vai apstrāde citā nolūkā ir savietojama ar nolūku, kādā personas dati sākotnēji tika vākti, cita starpā ņem vērā:
+
+a) jebkuru saikni starp nolūkiem, kādos personas dati ir vākti, un paredzētās turpmākās apstrādes nolūkiem;
+
+b) kontekstu, kādā personas dati ir vākti, jo īpaši saistībā ar datu subjektu un pārziņa attiecībām;
+
+c) personas datu raksturu, jo īpaši to, vai ir apstrādātas īpašas personas datu kategorijas, ievērojot 9. pantu, vai to, vai ir apstrādāti personas dati, kas attiecas uz sodāmību un pārkāpumiem, ievērojot 10. pantu;
+
+d) paredzētās turpmākās apstrādes iespējamās sekas datu subjektiem;
+
+e) atbilstošu garantiju esamību, kas var ietvert šifrēšanu vai pseidonimizāciju.
+
+7. pants
+
+Nosacījumi piekrišanai
+
+1.  Ja apstrāde pamatojas uz piekrišanu, pārzinim ir jāspēj uzskatāmi parādīt, ka datu subjekts ir piekritis savu personas datu apstrādei.
+
+2.  Ja datu subjekta piekrišanu dod saistībā ar rakstisku deklarāciju, kas attiecas arī uz citiem jautājumiem, lūgumu dot piekrišanu norāda tā, lai to varētu skaidri atšķirt no citiem jautājumiem, saprotamā un viegli pieejamā veidā, izmantojot skaidru un vienkāršu valodu. Jebkura šādas deklarācijas daļa, kura ir šīs regulas pārkāpums, nav saistoša.
+
+3.  Datu subjektam ir tiesības atsaukt savu piekrišanu jebkurā laikā. Piekrišanas atsaukums neietekmē apstrādes likumību, kas pamatojas uz piekrišanu pirms atsaukuma. Datu subjektam jābūt par to informētam, pirms viņš dod savu piekrišanu. Atsaukt piekrišanu ir tikpat viegli kā to dot.
+
+4.  Novērtējot to, vai piekrišana ir dota brīvi, maksimāli ņem vērā to, vai cita starpā līguma izpilde, tostarp pakalpojuma sniegšana, ir atkarīga no piekrišanas tādai personas datu apstrādei, kura nav nepieciešama minētā līguma izpildei.
+
+8. pants
+
+Nosacījumi, kas piemērojami bērna piekrišanai attiecībā uz informācijas sabiedrības pakalpojumiem
+
+1.  Ja attiecībā uz informācijas sabiedrības pakalpojumu tiešu sniegšanu bērnam ir piemērojams 6. panta 1. punkta a) apakšpunkts, bērna personas datu apstrāde ir likumīga, ja bērns ir vismaz 16 gadus vecs. Ja bērns ir jaunāks par 16 gadiem, šāda apstrāde ir likumīga tikai tad un tādā apmērā, ja piekrišanu ir devusi vai apstiprinājusi persona, kurai ir vecāku atbildība par bērnu.
+
+Dalībvalstis minētajiem nolūkiem ar likumu var paredzēt jaunāku vecumu, ar noteikumu, ka šāds jaunāks vecums nav mazāks par 13 gadiem.
+
+2.  Pārzinis pieliek saprātīgas pūles, lai šādos gadījumos pārbaudītu, vai piekrišanu ir devusi vai apstiprinājusi persona, kurai ir vecāku atbildība par bērnu, ņemot vērā pieejamās tehnoloģijas.
+
+3.  Šā panta 1. punkts neietekmē dalībvalstu vispārējās līgumtiesības, piemēram, noteikumus par attiecībā uz bērnu noslēgta līguma spēkā esību, noslēgšanu vai sekām.
+
+9. pants
+
+Īpašu kategoriju personas datu apstrāde
+
+1.  Ir aizliegta tādu personas datu apstrāde, kas atklāj rases vai etnisko piederību, politiskos uzskatus, reliģisko vai filozofisko pārliecību vai dalību arodbiedrībās, un ģenētisko datu, biometrisko datu, lai veiktu fiziskas personas unikālu identifikāciju, veselības datu vai datu par fiziskas personas dzimumdzīvi vai seksuālo orientāciju apstrāde.
+
+2.  Šā panta 1. punktu nepiemēro, ja ir piemērojams kāds no šādiem pamatojumiem:
+
+a) datu subjekts ir devis nepārprotamu piekrišanu šo personas datu apstrādei vienam vai vairākiem konkrētiem nolūkiem, izņemot, ja Savienības vai dalībvalsts tiesību akti paredz, ka 1. punktā minēto aizliegumu datu subjekts nevar atcelt;
+
+b) apstrāde ir vajadzīga, lai realizētu pārziņa pienākumus un īstenotu pārziņa vai datu subjekta konkrētas tiesības nodarbinātības, sociālā nodrošinājuma un sociālās aizsardzības tiesību jomā, ciktāl to pieļauj Savienības vai dalībvalsts tiesību akti vai koplīgums atbilstīgi dalībvalsts tiesību aktiem, paredzot piemērotas garantijas datu subjekta pamattiesībām un interesēm;
+
+c) apstrāde ir vajadzīga, lai aizsargātu datu subjekta vai citas fiziskas personas vitālas intereses, ja datu subjekts ir fiziski vai tiesiski nespējīgs dot savu piekrišanu;
+
+d) veicot leģitīmas darbības un nodrošinot atbilstošas garantijas, apstrādi veic fonds, apvienība vai jebkura cita bezpeļņas struktūra, kas to dara ar politisku, filozofisku, reliģisku vai ar arodbiedrībām saistītu mērķi un ar nosacījumu, ka apstrāde attiecas tikai uz šīs struktūras locekļiem vai bijušajiem locekļiem, vai personām, kas ar šo struktūru uztur regulārus sakarus saistībā ar tās nolūkiem, un ka bez datu subjekta piekrišanas personas datus neizpauž ārpus minētās struktūras;
+
+e) apstrāde attiecas uz personas datiem, kurus datu subjekts apzināti ir publiskojis;
+
+f) apstrāde ir vajadzīga, lai celtu, īstenotu vai aizstāvētu likumīgas prasības, vai ikreiz, kad tiesas pilda savus uzdevumus;
+
+g) apstrāde ir vajadzīga būtisku sabiedrības interešu dēļ, pamatojoties uz Savienības vai dalībvalsts tiesību aktiem, kas ir samērīgas izvirzītajam mērķim, ievēro tiesību uz datu aizsardzību būtību un paredz piemērotus un konkrētus pasākumus datu subjekta pamattiesību un interešu aizsardzībai;
+
+h) apstrāde ir vajadzīga profilaktiskās vai arodmedicīnas nolūkos, darbinieka darbspējas novērtēšanai, medicīniskas diagnozes, veselības vai sociālās aprūpes vai ārstēšanas vai veselības vai sociālās aprūpes sistēmu un pakalpojumu pārvaldības nodrošināšanas nolūkos, pamatojoties uz Savienības vai dalībvalsts tiesību aktiem vai saskaņā ar līgumu ar veselības darba profesionāli un ievērojot 3. punktā minētos nosacījumus un garantijas;
+
+i) apstrāde ir vajadzīga sabiedrības interešu dēļ sabiedrības veselības jomā, piemēram, aizsardzībai pret nopietniem pārrobežu draudiem veselībai vai augstu kvalitātes un drošības standartu nodrošināšanai, cita starpā zālēm vai medicīniskām ierīcēm, pamatojoties uz Savienības vai dalībvalsts tiesību aktiem, kas paredz atbilstošus un konkrētus pasākumus datu subjekta tiesību un brīvību, jo īpaši dienesta noslēpuma, aizsardzībai;
+
+j) apstrāde ir vajadzīga arhivēšanas nolūkos sabiedrības interesēs, zinātniskās vai vēstures pētniecības nolūkos, vai statistikas nolūkos saskaņā ar 89. panta 1. punktu, pamatojoties uz Savienības vai dalībvalsts tiesību aktiem, kas ir samērīgi izvirzītajam mērķim, ievēro tiesību uz datu aizsardzību būtību un paredz piemērotus un konkrētus pasākumus datu subjekta pamattiesību un interešu aizsardzībai.
+
+3.  Šā panta 1. punktā minētos personas datus var apstrādāt 2. punkta h) apakšpunktā minētajos nolūkos, ja šos datus apstrādā profesionālis, uz kuru saskaņā ar Savienības vai dalībvalsts tiesību aktiem vai valsts kompetento iestāžu ieviestiem noteikumiem attiecas dienesta noslēpuma ievērošanas pienākums, vai ja tos apstrādā šāda profesionāļa atbildībā; vai cita persona, uz kuru arī attiecas pienākums ievērot dienesta noslēpumu saskaņā ar Savienības vai dalībvalsts tiesību aktiem vai valsts kompetento iestāžu ieviestiem noteikumiem.
+
+4.  Dalībvalstis var saglabāt vai ieviest papildu nosacījumus, tostarp ierobežojumus, attiecībā uz ģenētisko datu, biometrisko datu vai veselības datu apstrādi.
+
+10. pants
+
+Personas datu par sodāmību un pārkāpumiem apstrāde
+
+Personas datu apstrādi par sodāmību un pārkāpumiem vai ar tiem saistītiem drošības pasākumiem, pamatojoties uz 6. panta 1. punktu, veic tikai oficiālas iestādes kontrolē vai tad, ja apstrādi atļauj Savienības vai dalībvalsts tiesību akti, paredzot atbilstošas garantijas datu subjektu tiesībām un brīvībām. Jebkādu visaptverošu sodāmības reģistru uzglabā tikai oficiālas iestādes kontrolē.
+
+11. pants
+
+Apstrāde, kurai nav nepieciešama identifikācija
+
+1.  Ja nolūki, kādos pārzinis apstrādā personas datus, neprasa vai vairs neprasa pārzinim identificēt datu subjektu, pārzinim nav pienākuma saglabāt, iegūt vai apstrādāt papildu informāciju, lai identificētu datu subjektu, ja vienīgais nolūks ir ievērot šo regulu.
+
+2.  Ja šā panta 1. punktā minētajos gadījumos pārzinis spēj uzskatāmi parādīt, ka viņš nevar identificēt datu subjektu, pārzinis, ja iespējams, attiecīgi informē datu subjektu. Šādos gadījumos 15.–20. pantu nepiemēro, izņemot gadījumos, kad datu subjekts, lai īstenotu savas tiesības saskaņā ar minētajiem pantiem, sniedz papildu informāciju, kas ļauj viņu identificēt.
+
+
+
+III NODAĻA
+
+Datu subjekta tiesības
+
+
+
+1. iedaļa
+
+Pārredzamība un izmantošanas kārtība
+
+12. pants
+
+Pārredzama informācija, saziņa un datu subjekta tiesību īstenošanas kārtība
+
+1.  Pārzinis veic atbilstošus pasākumus, lai kodolīgā, pārredzamā, saprotamā un viegli pieejamā veidā, izmantojot skaidru un vienkāršu valodu, datu subjektam sniegtu visu 13. un 14. pantā minēto informāciju un nodrošinātu visu 15.–22. pantā un 34. pantā minēto saziņu attiecībā uz apstrādi, jo īpaši attiecībā uz visu informāciju, kas konkrēti paredzēta bērnam. Informāciju sniedz rakstiski vai citā veidā, tostarp – vajadzības gadījumā – elektroniskā formā. Pēc datu subjekta pieprasījuma informāciju var sniegt mutiski – ar noteikumu, ka datu subjekta identitāte ir pierādīta citā veidā.
+
+2.  Pārzinis veicina datu subjekta tiesību īstenošanu saskaņā ar 15.–22. pantu. Regulas 11. panta 2. punktā minētajos gadījumos pārzinis neatsakās rīkoties pēc datu subjekta pieprasījuma par savu tiesību īstenošanu saskaņā ar 15.–22. pantu, izņemot gadījumus, kad pārzinis uzskatāmi parāda, ka nespēj identificēt datu subjektu.
+
+3.  Pārzinis bez nepamatotas kavēšanās un jebkurā gadījumā mēneša laikā pēc pieprasījuma saņemšanas datu subjektu informē par darbību, kas pēc pieprasījuma veikta saskaņā ar 15.–22. pantu. Vajadzības gadījumā minēto laikposmu var pagarināt vēl uz diviem mēnešiem, ņemot vērā pieprasījumu sarežģītību un skaitu. Pārzinis informē datu subjektu par jebkuru šādu pagarinājumu un kavēšanās iemesliem mēneša laikā pēc pieprasījuma saņemšanas. Ja datu subjekts pieprasījumu iesniedz elektroniskā formā, informāciju, ja iespējams, sniedz elektroniskā formā, izņemot, ja datu subjekts pieprasa citādi.
+
+4.  Ja pārzinis neveic darbību, ko pieprasījis datu subjekts, pārzinis bez kavēšanās un vēlākais mēneša laikā pēc pieprasījuma saņemšanas informē datu subjektu par darbības neveikšanas iemesliem un par iespēju iesniegt sūdzību uzraudzības iestādei un vērsties tiesā.
+
+5.  Informācija, ko sniedz saskaņā ar 13. un 14. pantu, un visa saziņa un visas darbības, ko īsteno saskaņā ar 15.–22. pantu un 34. pantu, ir bezmaksas. Ja datu subjekta pieprasījumi ir acīmredzami nepamatoti vai pārmērīgi, jo īpaši to regulāras atkārtošanās dēļ, pārzinis var vai nu:
+
+a) pieprasīt saprātīgu maksu, ņemot vērā administratīvās izmaksas, kas saistītas ar informācijas vai saziņas nodrošināšanu vai pieprasītās darbības veikšanu; vai arī
+
+b) atteikties izpildīt pieprasījumu.
+
+Pārzinim ir pienākums uzskatāmi parādīt, ka pieprasījums ir acīmredzami nepamatots vai pārmērīgs.
+
+6.  Neskarot 11. pantu – ja pārzinim ir pamatotas šaubas par tās fiziskās personas identitāti, kura iesniedz 15.–21. pantā minēto pieprasījumu, pārzinis var prasīt, lai tiktu sniegta papildu informācija, kas vajadzīga datu subjekta identitātes apstiprināšanai.
+
+7.  Informāciju, kas datu subjektiem sniedzama, ievērojot 13. un 14. pantu, var sniegt apvienojumā ar standartizētām ikonām, lai viegli uztveramā, saprotamā un skaidri salasāmā veidā sniegtu jēgpilnu pārskatu par paredzēto apstrādi. Ja ikonas attēlo elektroniski, tās ir mašīnlasāmas.
+
+8.  Komisija tiek pilnvarota pieņemt deleģētos aktus saskaņā ar 92. pantu, lai noteiktu informāciju, kas sniedzama, izmantojot ikonas, un procedūras standartizētu ikonu nodrošināšanai.
+
+
+
+2. iedaļa
+
+Informācija un piekļuve personas datiem
+
+13. pants
+
+Informācija, kas jāsniedz, ja personas dati ir iegūti no datu subjekta
+
+1.  Ja datu subjekta personas datus vāc no datu subjekta, pārzinis personas datu iegūšanas laikā datu subjektam sniedz visu šādu informāciju:
+
+a) pārziņa un attiecīgā gadījumā pārziņa pārstāvja identitāte un kontaktinformācija;
+
+b) attiecīgā gadījumā – datu aizsardzības speciālista kontaktinformācija;
+
+c) apstrādes nolūki, kam paredzēti personas dati, kā arī apstrādes juridiskais pamats;
+
+d) pārziņa vai trešās personas leģitīmās intereses, ja apstrāde pamatojas uz 6. panta 1. punkta f) apakšpunktu;
+
+e) personas datu saņēmēji vai saņēmēju kategorijas, ja tādi ir;
+
+f) attiecīgā gadījumā – informācija, ka pārzinis paredz nosūtīt personas datus uz trešo valsti vai starptautisku organizāciju, un informācija par to, ka eksistē vai neeksistē Komisijas lēmums par aizsardzības līmeņa pietiekamību, vai – 46. vai 47. pantā, vai 49. panta 1. punkta otrajā daļā minētās nosūtīšanas gadījumā – atsauce uz atbilstošām vai piemērotām garantijām un informācija par to, kā saņemt datu kopiju, vai to, kur tie ir darīti pieejami.
+
+2.  Papildus 1. punktā minētajai informācijai pārzinis personas datu iegūšanas laikā datu subjektam sniedz šādu papildu informāciju, kas vajadzīga, lai nodrošinātu godprātīgu un pārredzamu apstrādi:
+
+a) laikposms, cik ilgi personas dati tiks glabāti, vai, ja tas nav iespējams, kritēriji, ko izmanto minētā laikposma noteikšanai;
+
+b) tas, ka pastāv tiesības pieprasīt pārzinim piekļuvi datu subjekta personas datiem un to labošanu vai dzēšanu, vai apstrādes ierobežošanu attiecībā uz datu subjektu, vai tiesības iebilst pret apstrādi, kā arī tiesības uz datu pārnesamību;
+
+c) ja apstrāde pamatojas uz 6. panta 1. punkta a) apakšpunktu vai 9. panta 2. punkta a) apakšpunktu – tiesības jebkurā brīdī atsaukt piekrišanu, neietekmējot tādas apstrādes likumīgumu, kuras pamatā ir pirms atsaukuma sniegta piekrišana;
+
+d) tiesības iesniegt sūdzību uzraudzības iestādei;
+
+e) informācija, vai personas datu sniegšana ir noteikta saskaņā ar likumu vai līgumu, vai tā ir priekšnosacījums, lai līgumu noslēgtu, kā arī informācija par to, vai datu subjektam ir pienākums personas datus sniegt un kādas sekas var būt gadījumos, kad šādi dati netiek sniegti;
+
+f) tas, ka pastāv automatizēta lēmumu pieņemšana, tostarp profilēšana, kas minēta 22. panta 1. un 4. punktā, un – vismaz minētajos gadījumos – jēgpilna informācija par tajā ietverto loģiku, kā arī šādas apstrādes nozīmīgumu un paredzamajām sekām attiecībā uz datu subjektu.
+
+3.  Ja pārzinis paredz personas datus turpmāk apstrādāt citā nolūkā, kas nav nolūks, kādā personas dati tika vākti, pārzinis pirms minētās turpmākās apstrādes informē datu subjektu par minēto citu nolūku un sniedz tam visu attiecīgo papildu informāciju, kā minēts 2. punktā.
+
+4.  Šā panta 1., 2. un 3. punktu nepiemēro, ja un ciktāl datu subjekta rīcībā jau ir attiecīgā informācija.
+
+14. pants
+
+Informācija, kas jāsniedz, ja personas dati nav iegūti no datu subjekta
+
+1.  Ja personas dati nav iegūti no datu subjekta, pārzinis datu subjektam sniedz šādu informāciju:
+
+a) pārziņa un attiecīgā gadījumā pārziņa pārstāvja identitāte un kontaktinformācija;
+
+b) attiecīgā gadījumā – datu aizsardzības speciālista kontaktinformācija;
+
+c) apstrādes nolūki, kam paredzēti personas dati, kā arī apstrādes juridiskais pamats;
+
+d) attiecīgo personas datu kategorijas;
+
+e) personas datu saņēmēji vai saņēmēju kategorijas, ja tādas ir;
+
+f) attiecīgā gadījumā – informācija, ka pārzinis paredz nosūtīt personas datus saņēmējam trešā valstī vai starptautiskai organizācijai, un informācija par to, ka eksistē vai neeksistē Komisijas lēmums par aizsardzības līmeņa pietiekamību, vai – 46. vai 47. pantā, vai 49. panta 1. punkta otrajā daļā minētās nosūtīšanas gadījumā – atsauce uz atbilstošām vai piemērotām garantijām un informācija par to, kā saņemt datu kopiju, vai to, kur tie ir darīti pieejami.
+
+2.  Papildus 1. punktā minētajai informācijai, pārzinis datu subjektam sniedz turpmāk norādīto informāciju, kas vajadzīga, lai nodrošinātu godprātīgu un pārredzamu apstrādi attiecībā uz datu subjektu:
+
+a) laikposms, cik ilgi personas dati tiks glabāti, vai, ja tas nav iespējams, kritēriji, ko izmanto minētā laikposma noteikšanai;
+
+b) pārziņa vai trešās personas leģitīmās intereses, ja apstrāde pamatojas uz 6. panta 1. punkta f) apakšpunktu;
+
+c) tas, ka pastāv tiesības pieprasīt no pārziņa piekļuvi datu subjekta personas datiem un to labošanu vai dzēšanu, vai apstrādes ierobežošanu attiecībā uz datu subjektu un tiesības iebilst pret apstrādi, kā arī tiesības uz datu pārnesamību;
+
+d) ja apstrāde pamatojas uz 6. panta 1. punkta a) apakšpunktu vai 9. panta 2. punkta a) apakšpunktu – tiesības jebkurā brīdī atsaukt piekrišanu, neietekmējot tādas apstrādes likumīgumu, kuras pamatā ir pirms atsaukuma sniegta piekrišana;
+
+e) tiesības iesniegt sūdzību uzraudzības iestādei;
+
+f) informācija par to, no kāda avota personas dati ir iegūti, un – attiecīgā gadījumā – informācija par to, vai dati iegūti no publiski pieejamiem avotiem;
+
+g) tas, ka pastāv automatizēta lēmumu pieņemšana, tostarp profilēšana, kas minēta 22. panta 1. un 4. punktā, un – vismaz minētajos gadījumos – jēgpilna informācija par tajā ietverto loģiku, kā arī šādas apstrādes nozīmīgumu un paredzamajām sekām attiecībā uz datu subjektu.
+
+3.  Pārzinis 1. un 2. punktā minēto informāciju sniedz:
+
+a) saprātīgā termiņā pēc personas datu iegūšanas, bet vēlākais mēneša laikā, ņemot vērā konkrētos apstākļus, kādos personas dati tiek apstrādāti;
+
+b) ja personas datus ir paredzēts izmantot saziņai ar datu subjektu – vēlākais tad, kad ar minēto datu subjektu notiek pirmā saziņa; vai
+
+c) vēlākais tad, kad personas dati pirmoreiz tiek izpausti, ja ir paredzēts tos izpaust citam saņēmējam.
+
+4.  Ja pārzinis paredz personas datus turpmāk apstrādāt citā nolūkā, kas nav nolūks, kādā personas dati tika iegūti, pārzinis pirms minētās turpmākās apstrādes informē datu subjektu par minēto citu nolūku un sniedz tam visu attiecīgo papildu informāciju, kā minēts 2. punktā.
+
+5.  Šā panta 1.–4. punktu nepiemēro, ja un ciktāl:
+
+a) informācija jau ir datu subjekta rīcībā;
+
+b) izrādās, ka šādas informācijas sniegšana nav iespējama vai tā prasītu nesamērīgi lielas pūles; jo īpaši attiecībā uz apstrādi arhivēšanas nolūkos sabiedrības interesēs, zinātniskās vai vēstures pētniecības nolūkos, vai statistikas nolūkos, ievērojot 89. panta 1. punktā minētos nosacījumus un garantijas, vai ciktāl šā panta 1. punktā minētie pienākumi varētu neļaut vai būtiski traucēt sasniegt minētās apstrādes mērķus. Šādos gadījumos pārzinis veic atbilstošus pasākumus, lai aizsargātu datu subjekta tiesības un brīvības, un leģitīmās intereses, tostarp darot informāciju publiski pieejamu;
+
+c) iegūšana vai izpaušana ir skaidri paredzēta Savienības vai dalībvalsts tiesību aktos, kuri ir piemērojami pārzinim un kuros ir paredzēti atbilstoši pasākumi datu subjekta leģitīmo interešu aizsardzībai; vai
+
+d) ir jāsaglabā personas datu konfidencialitāte, ievērojot dienesta noslēpuma glabāšanas pienākumu, ko reglamentē ar Savienības vai dalībvalsts tiesību aktiem, ieskaitot statūtos noteiktu pienākumu glabāt noslēpumu.
+
+15. pants
+
+Datu subjekta piekļuves tiesības
+
+1.  Datu subjektam ir tiesības saņemt no pārziņa apstiprinājumu par to, vai attiecībā uz datu subjektu tiek vai netiek apstrādāti personas dati, un, ja tiek, datu subjektam ir tiesības piekļūt attiecīgajiem datiem un saņemt šādu informāciju:
+
+a) apstrādes nolūki;
+
+b) attiecīgo personas datu kategorijas;
+
+c) personas datu saņēmēji vai saņēmēju kategorijas, kam personas dati ir izpausti vai kam tos izpaudīs, jo īpaši saņēmēji trešās valstīs vai starptautiskās organizācijās;
+
+d) ja iespējams, paredzētais laikposms, cik ilgi personas dati tiks glabāti, vai, ja nav iespējams, kritēriji, ko izmanto minētā laikposma noteikšanai;
+
+e) tas, ka pastāv tiesības pieprasīt no pārziņa datu subjekta personas datu labošanu vai dzēšanu, vai personas datu apstrādes ierobežošanu vai tiesības iebilst pret šādu apstrādi;
+
+f) tiesības iesniegt sūdzību uzraudzības iestādei;
+
+g) visa pieejamā informācija par datu avotu, ja personas dati netiek vākti no datu subjekta;
+
+h) tas, ka pastāv automatizēta lēmumu pieņemšana, tostarp profilēšana, kas minēta 22. panta 1. un 4. punktā, un – vismaz minētajos gadījumos – jēgpilna informācija par tajā ietverto loģiku, kā arī šādas apstrādes nozīmīgumu un paredzamajām sekām attiecībā uz datu subjektu.
+
+2.  Ja personas datus nosūta trešai valstij vai starptautiskai organizācijai, datu subjektam ir tiesības saņemt informāciju par atbilstošām garantijām, ko saistībā ar datu nosūtīšanu piemēro, ievērojot 46. pantu.
+
+3.  Pārzinis nodrošina apstrādē esošo personas datu kopiju. Par visām papildus kopijām, ko pieprasa datu subjekts, pārzinis var iekasēt saprātīgu samaksu, kas balstīta uz administratīvām izmaksām. Ja datu subjekts pieprasījumu iesniedz elektroniskā formā un ja vien datu subjekts nepieprasa citādi, informāciju sniedz plaši izmantotā elektroniskā formātā.
+
+4.  Tiesības saņemt 3. punktā minēto kopiju neietekmē nelabvēlīgi citu personu tiesības un brīvības.
+
+
+
+3. iedaļa
+
+Labošana un dzēšana
+
+16. pants
+
+Tiesības labot
+
+Datu subjektam ir tiesības panākt, lai pārzinis bez nepamatotas kavēšanās labotu neprecīzus datu subjekta personas datus. Ņemot vērā apstrādes nolūkus, datu subjektam ir tiesības panākt, lai nepilnīgi personas dati tiktu papildināti, tostarp sniedzot papildu paziņojumu.
+
+17. pants
+
+Tiesības uz dzēšanu (tiesības “tikt aizmirstam”)
+
+1.  Datu subjektam ir tiesības panākt, lai pārzinis bez nepamatotas kavēšanās dzēstu datu subjekta personas datus, un pārziņa pienākums ir bez nepamatotas kavēšanās dzēst personas datus, ja pastāv viens no šādiem nosacījumiem:
+
+a) personas dati vairs nav nepieciešami saistībā ar nolūkiem, kādos tie tika vākti vai citādi apstrādāti;
+
+b) datu subjekts atsauc savu piekrišanu, uz kuras pamata veikta apstrāde saskaņā ar 6. panta 1. punkta a) apakšpunktu vai 9. panta 2. punkta a) apakšpunktu, un ja nav cita likumīga pamata apstrādei;
+
+c) datu subjekts iebilst pret apstrādi saskaņā ar 21. panta 1. punktu, un apstrādei nav nekāda svarīgāka leģitīma pamata, vai arī datu subjekts iebilst pret apstrādi saskaņā ar 21. panta 2. punktu;
+
+d) personas dati ir apstrādāti nelikumīgi;
+
+e) personas dati ir jādzēš, lai nodrošinātu, ka tiek pildīts juridisks pienākums, kas noteikts Savienības vai dalībvalsts tiesību aktos, kuri ir piemērojami pārzinim;
+
+f) personas dati ir savākti saistībā ar informācijas sabiedrības pakalpojumu piedāvāšanu, kā minēts 8. panta 1. punktā.
+
+2.  Ja pārzinis ir publiskojis personas datus un tā pienākums saskaņā ar 1. punktu ir minētos personas datus dzēst, pārzinis, ņemot vērā pieejamo tehnoloģiju un tās piemērošanas izmaksas, veic saprātīgus pasākumus, tostarp tehniskus pasākumus, lai informētu pārziņus, kas veic personas datu apstrādi, ka datu subjekts ir pieprasījis, lai minētie pārziņi dzēstu visas saites uz minētajiem personas datiem vai minēto personas datu kopijas vai atveidojumus.
+
+3.  Šā panta 1. un 2. punktu nepiemēro, ciktāl apstrāde ir nepieciešama:
+
+a) lai īstenotu tiesības uz vārda brīvību un informāciju;
+
+b) lai izpildītu juridisku pienākumu, kas prasa veikt apstrādi, kā paredzēts Savienības vai dalībvalsts tiesību aktos, kuri piemērojami pārzinim, vai lai izpildītu uzdevumu, ko veic sabiedrības interesēs vai saistībā ar pārzinim likumīgi piešķirto oficiālo pilnvaru īstenošanu;
+
+c) pamatojoties uz sabiedrības interesēm sabiedrības veselības jomā saskaņā ar 9. panta 2. punkta h) un i) apakšpunktu, kā arī 9. panta 3. punktu;
+
+d) arhivēšanas nolūkos sabiedrības interesēs, zinātniskās vai vēstures pētniecības nolūkos, vai statistikas nolūkos saskaņā ar 89. panta 1. punktu, ciktāl 1. punktā minētās tiesības varētu neļaut vai būtiski traucēt sasniegt minētās apstrādes mērķus; vai
+
+e) lai celtu, īstenotu vai aizstāvētu likumīgas prasības.
+
+18. pants
+
+Tiesības ierobežot apstrādi
+
+1.  Datu subjektam ir tiesības panākt, lai pārzinis ierobežotu apstrādi, ja ir viens no šādiem apstākļiem:
+
+a) datu subjekts apstrīd personas datu precizitāti – uz laiku, kurā pārzinis var pārbaudīt personas datu precizitāti;
+
+b) apstrāde ir nelikumīga, un datu subjekts iebilst pret personas datu dzēšanu un tās vietā pieprasa datu izmantošanas ierobežošanu;
+
+c) pārzinim personas dati apstrādei vairs nav vajadzīgi, taču tie ir nepieciešami datu subjektam, lai celtu, īstenotu vai aizstāvētu likumīgas prasības;
+
+d) datu subjekts ir iebildis pret apstrādi saskaņā ar 21. panta 1. punktu, kamēr nav pārbaudīts, vai pārziņa leģitīmie iemesli nav svarīgāki par datu subjekta leģitīmajiem iemesliem.
+
+2.  Ja apstrāde ir ierobežota saskaņā ar 1. punktu, šādus personas datus, izņemot glabāšanu, apstrādā tikai ar datu subjekta piekrišanu vai tādēļ, lai celtu, īstenotu vai aizstāvētu likumīgas prasības, vai lai aizsargātu citas fiziskas vai juridiskas personas tiesības, vai Savienības vai dalībvalsts svarīgu sabiedrības interešu dēļ.
+
+3.  Pārzinis datu subjektu, kas ir panācis apstrādes ierobežošanu saskaņā ar 1. punktu, informē pirms apstrādes ierobežojuma atcelšanas.
+
+19. pants
+
+Pienākums ziņot par personas datu labošanu vai dzēšanu, vai apstrādes ierobežošanu
+
+Pārzinis katram saņēmējam, kuram personas dati ir izpausti, ziņo par jebkuru personas datu labojumu vai dzēšanu vai apstrādes ierobežošanu, kas veikta saskaņā ar 16. pantu, 17. panta 1. punktu un 18. pantu, izņemot, ja izrādās, ka tas nav iespējams, vai ja tas ir saistīts ar nesamērīgi lielām pūlēm. Pārzinis informē datu subjektu par minētajiem saņēmējiem, ja datu subjekts to pieprasa.
+
+20. pants
+
+Tiesības uz datu pārnesamību
+
+1.  Datu subjektam ir tiesības saņemt personas datus attiecībā uz sevi, kurus viņš sniedzis pārzinim, strukturētā, plaši izmantotā un mašīnlasāmā formātā un ir tiesības minētos datus nosūtīt citam pārzinim, un pārzinis, kuram attiecīgie personas dati sniegti, tam nerada nekādus šķēršļus, ja:
+
+a) apstrāde pamatojas uz piekrišanu, ievērojot 6. panta 1. punkta a) apakšpunktu vai 9. panta 2. punkta a) apakšpunktu, vai uz līgumu, ievērojot 6. panta 1. punkta b) apakšpunktu; un
+
+b) apstrādi veic ar automatizētiem līdzekļiem.
+
+2.  Īstenojot savas tiesības uz datu pārnesamību saskaņā ar 1. punktu, datu subjektam ir tiesības uz personas datu nosūtīšanu tieši no viena pārziņa citam pārzinim, ja tas ir tehniski iespējams.
+
+3.  Šā panta 1. punktā minēto tiesību īstenošana neskar 17. pantu. Minētās tiesības neattiecas uz apstrādi, kas ir vajadzīga, lai izpildītu uzdevumu, ko veic sabiedrības interesēs vai īstenojot pārzinim likumīgi piešķirtas oficiālas pilnvaras.
+
+4.  Tiesības, kas minētas 1. punktā, neietekmē nelabvēlīgi citu personu tiesības un brīvības.
+
+
+
+4. iedaļa
+
+Tiesības iebilst un automatizēta individuālu lēmumu pieņemšana
+
+21. pants
+
+Tiesības iebilst
+
+1.  Datu subjektam, balstoties uz iemesliem saistībā ar viņa īpašo situāciju, ir tiesības jebkurā laikā iebilst pret savu personas datu apstrādi, kas pamatojas uz 6. panta 1. punkta e) vai f) apakšpunktu, tostarp profilēšanu, kas pamatojas uz minētajiem noteikumiem. Pārzinis personas datus vairs neapstrādā, izņemot, ja pārzinis norāda uz pārliecinošiem leģitīmiem apstrādes iemesliem, kas ir svarīgāki par datu subjekta interesēm, tiesībām un brīvībām, vai lai celtu, īstenotu vai aizstāvētu likumīgas prasības.
+
+2.  Ja personas datus apstrādā tiešās tirgvedības nolūkos, datu subjektam ir tiesības jebkurā laikā iebilst pret savu personas datu apstrādi šādas tirgvedības vajadzībām, kas ietver profilēšanu, ciktāl tā ir saistīta ar šādu tiešo tirgvedību.
+
+3.  Ja datu subjekts iebilst pret apstrādi tiešās tirgvedības vajadzībām, personas datus šādā nolūkā vairs neapstrādā.
+
+4.  Vēlākais tad, kad ar datu subjektu notiek pirmā saziņa, datu subjektu nepārprotami informē par 1. un 2. punktā minētajām tiesībām, un to dara tā, lai šī informācija būtu skaidra un lai to varētu atšķirt no jebkuras citas informācijas.
+
+5.  Saistībā ar informācijas sabiedrības pakalpojumu izmantošanu un neatkarīgi no Direktīvas 2002/58/EK datu subjekts savas tiesības iebilst var īstenot ar automatizētiem līdzekļiem, izmantojot tehniskās specifikācijas.
+
+6.  Ja personas datus apstrādā zinātniskās vai vēstures pētniecības nolūkos vai statistikas nolūkos, ievērojot 89. panta 1. punktu, datu subjektam, pamatojoties uz savu īpašo situāciju, ir tiesības iebilst pret savu personas datu apstrādi, izņemot, ja apstrāde ir vajadzīga, lai izpildītu uzdevumu, ko veic sabiedrības interesēs.
+
+22. pants
+
+Automatizēta individuālu lēmumu pieņemšana, tostarp profilēšana
+
+1.  Datu subjektam ir tiesības nebūt tāda lēmuma subjektam, kura pamatā ir tikai automatizēta apstrāde, tostarp profilēšana, kas attiecībā uz datu subjektu rada tiesiskās sekas vai kas līdzīgā veidā ievērojami ietekmē datu subjektu.
+
+2.  Šā panta 1. punktu nepiemēro, ja lēmums:
+
+a) ir vajadzīgs, lai noslēgtu vai izpildītu līgumu starp datu subjektu un datu pārzini;
+
+b) ir atļauts saskaņā ar Savienības vai dalībvalsts tiesību aktiem, kuri ir piemērojami pārzinim un kuros ir arī noteikti atbilstīgi pasākumi, ar ko aizsargā datu subjekta tiesības un brīvības, un leģitīmās intereses; vai
+
+c) pamatojas uz datu subjekta nepārprotamu piekrišanu.
+
+3.  Šā panta 2. punkta a) un c) apakšpunktā minētajos gadījumos datu pārzinis veic atbilstīgus pasākumus, lai aizsargātu datu subjekta tiesības un brīvības, un leģitīmās intereses – vismaz tiesības panākt cilvēka līdzdalību no pārziņa puses –, lai datu subjekts varētu paust savu viedokli un apstrīdēt lēmumu.
+
+4.  Šā panta 2. punktā minētos lēmumus nepamato ar īpašām personas datu kategorijām, kuras minētas 9. panta 1. punktā, izņemot, ja tiek piemērots 9. panta 2. punkta a) vai g) apakšpunkts un tiek nodrošināti atbilstīgi pasākumi, ar ko aizsargā datu subjekta tiesības un brīvības, un leģitīmās intereses.
+
+
+
+5. iedaļa
+
+Ierobežojumi
+
+23. pants
+
+Ierobežojumi
+
+1.  Saskaņā ar Savienības vai dalībvalsts tiesību aktiem, kas piemērojami datu pārzinim vai apstrādātājam, ar leģislatīvu pasākumu var ierobežot to pienākumu un tiesību darbības jomu, kas paredzēti 12.–22. pantā un 34. pantā, kā arī 5. pantā, ciktāl tā noteikumi atbilst 12.–22. pantā paredzētajām tiesībām un pienākumiem, – ja ar šādu ierobežojumu tiek ievērota pamattiesību un pamatbrīvību būtība un tas demokrātiskā sabiedrībā ir nepieciešams un samērīgs, lai garantētu:
+
+a) valsts drošību;
+
+b) aizsardzību;
+
+c) sabiedrisko drošību;
+
+d) noziedzīgu nodarījumu novēršanu, izmeklēšanu, atklāšanu vai saukšanu pie atbildības par tiem vai kriminālsodu izpildi, tostarp aizsardzību pret sabiedriskās drošības apdraudējumiem un to novēršanu;
+
+e) citus svarīgus Savienības vai dalībvalsts vispārējo sabiedrības interešu mērķus, jo īpaši Savienībai vai dalībvalstij svarīgas ekonomiskās vai finanšu intereses, tostarp monetāros, budžeta un nodokļu jautājumus, sabiedrības veselību un sociālo nodrošinājumu;
+
+f) tiesu neatkarības un tiesvedības aizsardzību;
+
+g) reglamentētu profesiju ētikas kodeksu pārkāpumu novēršanu, izmeklēšanu, atklāšanu un saukšanu pie atbildības par tiem;
+
+h) uzraudzības, pārbaudes vai regulatīvo funkciju, kas – pat, ja tikai epizodiski – ir saistīta ar oficiālu pilnvaru īstenošanu a) līdz e) un g) apakšpunktā minētajos gadījumos;
+
+i) datu subjekta aizsardzību vai citu personu tiesību un brīvību aizsardzību;
+
+j) civilprasību izpildi.
+
+2.  Jo īpaši – jebkurā leģislatīvā pasākumā, kas minēts 1. punktā, ietver konkrētus noteikumus attiecīgā gadījumā vismaz par:
+
+a) nolūkiem, kādos veic apstrādi, vai apstrādes kategorijām;
+
+b) personas datu kategorijām;
+
+c) ieviesto ierobežojumu darbības jomu;
+
+d) garantijām, lai novērstu ļaunprātīgu izmantošanu vai nelikumīgu piekļuvi vai nosūtīšanu;
+
+e) pārziņa vai pārziņu kategoriju noteikšanu;
+
+f) glabāšanas laikposmiem un piemērojamām garantijām, ņemot vērā apstrādes vai apstrādes kategoriju raksturu, darbības jomu un nolūkus;
+
+g) riskiem attiecībā uz datu subjektu tiesībām un brīvībām; un
+
+h) datu subjektu tiesībām saņemt informāciju par ierobežojumu, izņemot tad, ja tas var kaitēt ierobežojuma mērķim.
+
+
+
+IV NODAĻA
+
+Pārzinis un apstrādātājs
+
+
+
+1. iedaļa
+
+Vispārīgi pienākumi
+
+24. pants
+
+Pārziņa atbildība
+
+1.  Ņemot vērā apstrādes raksturu, apmēru, kontekstu un nolūkus, kā arī dažādas iespējamības un nopietnības pakāpes riskus attiecībā uz fizisku personu tiesībām un brīvībām, pārzinis īsteno atbilstošus tehniskus un organizatoriskus pasākumus, lai nodrošinātu un spētu uzskatāmi parādīt, ka apstrāde notiek saskaņā ar šo regulu. Ja nepieciešams, minētos pasākumus pārskata un atjaunina.
+
+2.  Ja tas ir samērīgi attiecībā uz apstrādes darbībām, 1. punktā minētajos pasākumos ietver to, ka pārzinis īsteno atbilstīgu politiku attiecībā uz datu aizsardzību.
+
+3.  Atbilstību apstiprinātam rīcības kodeksam, kā minēts 40. pantā, vai apstiprinātam sertifikācijas mehānismam, kā minēts 42. pantā, var izmantot kā elementu, ar ko apliecina pārziņa pienākumu izpildi.
+
+25. pants
+
+Integrēta datu aizsardzība un datu aizsardzība pēc noklusējuma
+
+1.  Ņemot vērā tehnikas līmeni, īstenošanas izmaksas un apstrādes raksturu, apmēru, kontekstu un nolūkus, kā arī dažādas iespējamības un nopietnības pakāpes riskus attiecībā uz fizisku personu tiesībām un brīvībām, kurus rada apstrāde, pārzinis gan apstrādes līdzekļu noteikšanas, gan pašas apstrādes laikā īsteno atbilstošus tehniskus un organizatoriskus pasākumus, piemēram, pseidonimizāciju, kas ir paredzēti, lai efektīvi īstenotu datu aizsardzības principus, piemēram, datu minimizēšanu, un lai apstrādē integrētu vajadzīgās garantijas nolūkā izpildīt šīs regulas prasības un aizsargāt datu subjektu tiesības.
+
+2.  Pārzinis īsteno atbilstošus tehniskus un organizatoriskus pasākumus, lai nodrošinātu, ka pēc noklusējuma tiek apstrādāti tikai tādi personas dati, kas ir nepieciešami katram konkrētajam apstrādes nolūkam. Minētais pienākums attiecas uz vākto personas datu apjomu, to apstrādes pakāpi, glabāšanas laikposmu un to pieejamību. Jo īpaši – ar šādiem pasākumiem nodrošina, ka pēc noklusējuma personas datus bez personas līdzdalības nedara pieejamus nenoteiktam fizisku personu skaitam.
+
+3.  Apstiprināts sertifikācijas mehānisms atbilstoši 42. pantam var tikt izmantots kā elements, ar ko apliecina atbilstību šā panta 1. un 2. punktā izklāstītajām prasībām.
+
+26. pants
+
+Kopīgi pārziņi
+
+1.  Ja divi vai vairāki pārziņi kopīgi nosaka apstrādes mērķus un veidus, tie ir kopīgi pārziņi. Kopīgi pārziņi pārredzamā veidā nosaka savus attiecīgos pienākumus, lai izpildītu šajā regulā uzliktās saistības, jo īpaši attiecībā uz datu subjekta tiesību īstenošanu un pārziņu attiecīgajiem pienākumiem sniegt 13. un 14. pantā minēto informāciju; pārziņi pienākumus nosaka, savstarpēji vienojoties, – izņemot, ja un ciktāl attiecīgie pārziņu pienākumi ir noteikti saskaņā ar Savienības vai dalībvalsts tiesību aktiem, kas piemērojami pārziņiem. Ar vienošanos var noteikt datu subjektu kontaktpunktu.
+
+2.  Šā panta 1. punktā minētā vienošanās pienācīgi atspoguļo kopīgo pārziņu attiecīgās lomas un attiecības ar datu subjektiem. Vienošanās galveno saturu dara pieejamu datu subjektam.
+
+3.  Neatkarīgi no 1. punktā minētās vienošanās nosacījumiem datu subjekts saskaņā ar šo regulu var īstenot savas tiesības attiecībā uz un pret katru pārzini.
+
+27. pants
+
+Tādu pārziņu vai apstrādātāju pārstāvji, kuri neveic uzņēmējdarbību Savienībā
+
+1.  Ja piemēro 3. panta 2. punktu, pārzinis vai apstrādātājs rakstiski ieceļ savu pārstāvi Savienībā.
+
+2.  Šā panta 1. punktā minēto pienākumu nepiemēro:
+
+a) apstrādei, kura ir neregulāra, neietver – plašā mērogā – 9. panta 1. punktā minēto īpašo datu kategoriju apstrādi vai 10. pantā minēto personas datu par sodāmību un pārkāpumiem apstrādi, un ja ir maz ticams, ka tā radīs risku fizisku personu tiesībām un brīvībām, ņemot vērā apstrādes raksturu, kontekstu, apmēru un nolūkus; vai
+
+b) publiskai iestādei vai struktūrai.
+
+3.  Pārstāvis veic uzņēmējdarbību vienā no tām dalībvalstīm, kur atrodas datu subjekti, kuru personas datus apstrādā saistībā ar preču vai pakalpojumu piedāvāšanu tiem vai kuru uzvedība tiek novērota.
+
+4.  Lai nodrošinātu atbilstību šai regulai, pārzinis vai apstrādātājs pilnvaro pārstāvi, pie kura – jo īpaši – uzraudzības iestādes un datu subjekti papildus vai pārziņa vai apstrādātāja vietā vēršas visos jautājumos saistībā ar apstrādi.
+
+5.  Pārziņa vai apstrādātāja pārstāvja iecelšana neskar tiesiskās prasības, ko varētu celt pret pašu pārzini vai apstrādātāju.
+
+28. pants
+
+Apstrādātājs
+
+1.  Gadījumos, kad apstrāde ir jāveic pārziņa vārdā, pārzinis izmanto tikai tādus apstrādātājus, kas sniedz pietiekamas garantijas, ka tiks īstenoti atbilstoši tehniskie un organizatoriskie pasākumi tādā veidā, ka apstrādē tiks ievērotas šīs regulas prasības un tiks nodrošināta datu subjekta tiesību aizsardzība.
+
+2.  Apstrādātājs bez iepriekšējas konkrētas vai vispārējas rakstiskas pārziņa atļaujas nepiesaista citu apstrādātāju. Vispārējas rakstiskas atļaujas gadījumā apstrādātājs informē pārzini par jebkādām iecerētām pārmaiņām saistībā ar papildu apstrādātāju vai apstrādātāja aizstāšanu, tādējādi sniedzot pārzinim iespēju iebilst pret šādām izmaiņām.
+
+3.  Apstrādi, ko veic apstrādātājs, reglamentē ar līgumu vai ar citu juridisku aktu saskaņā ar Savienības vai dalībvalsts tiesību aktiem, kas ir saistošs apstrādātājam un pārzinim un kurā norāda līguma priekšmetu un apstrādes ilgumu, apstrādes raksturu un nolūku, personas datu veidu un datu subjektu kategorijas un pārziņa pienākumus un tiesības. Minētais līgums vai cits juridiskais akts jo īpaši paredz, ka apstrādātājs:
+
+a) personas datus apstrādā tikai pēc pārziņa dokumentētiem norādījumiem, tostarp saistībā ar nosūtīšanu uz trešo valsti vai starptautisku organizāciju, izņemot, ja tas ir jādara saskaņā ar Savienības vai dalībvalsts tiesību aktiem, kas piemērojami apstrādātājam, un šādā gadījumā apstrādātājs par minēto juridisko prasību informē pārzini pirms apstrādes, izņemot, ja ar attiecīgo tiesību aktu šāda informēšana ir aizliegta svarīgu sabiedrības interešu dēļ;
+
+b) nodrošina, ka personas, kuras ir pilnvarotas apstrādāt datus, ir apņēmušās ievērot konfidencialitāti vai tām ir noteikts attiecīgs likumisks pienākums ievērot konfidencialitāti;
+
+c) īsteno visus pasākumus, kas nepieciešami saskaņā ar 32. pantu;
+
+d) ievēro 2. un 4. punktā minētos nosacījumus, saskaņā ar kuriem tiek piesaistīts cits apstrādātājs;
+
+e) ciktāl tas ir iespējams ņemot vērā apstrādes būtību, palīdz pārzinim ar atbilstīgiem tehniskiem un organizatoriskiem pasākumiem, kas nodrošina, ka pārzinis var izpildīt savu pienākumu atbildēt uz pieprasījumiem par III nodaļā paredzēto datu subjekta tiesību īstenošanu;
+
+f) palīdz pārzinim nodrošināt 32. līdz 36. pantā minēto pienākumu izpildi, ņemot vērā apstrādes veidu un apstrādātājam pieejamo informāciju;
+
+g) pēc apstrādes pakalpojumu sniegšanas pabeigšanas pēc pārziņa izvēles dzēš vai atdod visus personas datus un dzēš esošās kopijas, ja vien Savienības vai dalībvalsts tiesību aktos nav paredzēta personas datu glabāšana;
+
+h) pārzinim dara pieejamu visu informāciju, kas nepieciešama, lai apliecinātu, ka tiek pildīti šajā pantā paredzētie pienākumi, un lai ļautu pārzinim vai citam pārziņa pilnvarotam revidentam veikt revīzijas, tostarp pārbaudes, un sniegtu tajās ieguldījumu.
+
+Attiecībā uz pirmās daļas h) apakšpunktu apstrādātājs nekavējoties informē pārzini, ja, viņaprāt, kāds norādījums pārkāpj šo regulu vai citus Savienības vai dalībvalstu datu aizsardzības noteikumus.
+
+4.  Ja apstrādātājs ar līgumu vai citu juridisku aktu saskaņā ar Savienības vai dalībvalsts tiesību aktiem piesaista citu apstrādātāju konkrētu apstrādes darbību veikšanai pārziņa vārdā, šim citam apstrādātājam nosaka tos pašus datu aizsardzības pienākumus, kas noteikti līgumā vai citā juridiskā aktā, kas noslēgts starp pārzini un apstrādātāju, kā minēts 3. punktā, jo īpaši pietiekami garantējot, ka tiks īstenoti piemēroti tehniskie un organizatoriskie pasākumi tādā veidā, lai apstrādē tiktu ievērotas šajā regulā noteiktās prasības. Ja minētais cits apstrādātājs nepilda savus datu aizsardzības pienākumus, sākotnējais apstrādātājs paliek pilnībā atbildīgs pārzinim par šā cita apstrādātāja pienākumu izpildi.
+
+5.  Apstrādātāja atbilstību apstiprinātam rīcības kodeksam, kā minēts 40. pantā, vai apstiprinātam sertifikācijas mehānismam, kā minēts 42. pantā, var izmantot kā elementu, ar ko apliecina šā panta 1. un 4. punktā minētās pietiekamās garantijas.
+
+6.  Neskarot atsevišķu līgumu starp pārzini un apstrādātāju, šā panta 3. un 4. punktā minēto līgumu vai citu juridisku aktu var pilnībā vai daļēji balstīt uz šā panta 7. un 8. punktā minētajām līguma standartklauzulām, tostarp ja tās ir daļa no sertifikāta, kurš pārzinim vai apstrādātājam piešķirts saskaņā ar 42. un 43. pantu.
+
+7.  Komisija var izstrādāt līguma standartklauzulas šā panta 3. un 4. punktā minētajiem jautājumiem saskaņā ar pārbaudes procedūru, kas minēta 93. panta 2. punktā.
+
+8.  Uzraudzības iestāde var pieņemt līguma standartklauzulas šā panta 3. un 4. punktā minētajiem jautājumiem saskaņā ar konsekvences mehānismu, kas minēts 63. pantā.
+
+9.  Šā panta 3. un 4. punktā minētais līgums vai cits juridiskais akts ir sagatavots rakstiskā formā, tostarp elektroniski.
+
+10.  Neskarot 82., 83. un 84. pantu – ja apstrādātājs pārkāpj šo regulu, nosakot apstrādes nolūkus un līdzekļus, apstrādātāju uzskata par pārzini attiecībā uz minēto apstrādi.
+
+29. pants
+
+Apstrāde pārziņa vai apstrādātāja pakļautībā
+
+Apstrādātājs un jebkura persona, kas darbojas pārziņa vai apstrādātāja pakļautībā un kam ir piekļuve personas datiem, neapstrādā minētos datus citādi, kā vien saskaņā ar pārziņa norādījumiem, ja vien to darīt nepieprasa Savienības vai dalībvalsts tiesību akti.
+
+30. pants
+
+Apstrādes darbību reģistrēšana
+
+1.  Katrs pārzinis un attiecīgā gadījumā pārziņa pārstāvis reģistrē tā pakļautībā veiktās apstrādes darbības. Minētajā reģistrā ietver visu šādu informāciju:
+
+a) pārziņa un attiecīgā gadījumā visu kopīgo pārziņu, pārziņa pārstāvja un datu aizsardzības speciālista, vārds un uzvārds vai nosaukums un kontaktinformācija;
+
+b) apstrādes nolūki;
+
+c) datu subjektu kategoriju un personas datu kategoriju apraksts;
+
+d) to saņēmēju kategorijas, kuriem personas dati ir izpausti vai kuriem tos izpaudīs, tostarp saņēmēji trešās valstīs vai starptautiskās organizācijas;
+
+e) attiecīgā gadījumā, informācija par personas datu nosūtīšanu uz trešo valsti vai starptautisku organizāciju, tostarp šīs trešās valsts vai starptautiskās organizācijas identifikācija, un 49. panta 1. punkta otrajā daļā minētās nosūtīšanas gadījumā – atbilstošo garantiju dokumentācija;
+
+f) ja iespējams, paredzētie termiņi dažādu kategoriju datu dzēšanai;
+
+g) ja iespējams, 32. panta 1. punktā minēto tehnisko un organizatorisko drošības pasākumu vispārējs apraksts.
+
+2.  Katrs apstrādātājs un attiecīgā gadījumā apstrādātāja pārstāvis uztur visu pārziņa vārdā veikto apstrādes darbību kategoriju reģistru, ietverot šādu informāciju:
+
+a) apstrādātāja vai apstrādātāju vārdi un uzvārdi vai nosaukumi un kontaktinformācija un katra tā pārziņa vārds un uzvārds vai nosaukums un kontaktinformācija, kura vārdā apstrādātājs darbojas, un attiecīgā gadījumā pārziņa vai apstrādātāja pārstāvja un datu aizsardzības speciālista vārds un uzvārds un kontaktinformācija;
+
+b) katra pārziņa vārdā veiktās apstrādes kategorijas;
+
+c) attiecīgā gadījumā, informācija par personas datu nosūtīšanu uz trešo valsti vai starptautisku organizāciju, tostarp šīs trešās valsts vai starptautiskās organizācijas identifikācija, un 49. panta 1. punkta otrajā daļā minētās nosūtīšanas gadījumā – atbilstošo garantiju dokumentācija;
+
+d) ja iespējams, 32. panta 1. punktā minēto tehnisko un organizatorisko drošības pasākumu vispārējs apraksts.
+
+3.  Šā panta 1. un 2. punktā minēto reģistrēšanu veic rakstiski, tostarp elektroniskā formātā.
+
+4.  Pārzinis vai apstrādātājs, un attiecīgā gadījumā pārziņa vai apstrādātāja pārstāvis pēc pieprasījuma nodrošina reģistra pieejamību uzraudzības iestādei.
+
+5.  Pienākumus, kas minēti 1. un 2. punktā, nepiemēro uzņēmumam vai organizācijai, kas nodarbina mazāk nekā 250 personas, izņemot, ja uzņēmuma vai struktūras veiktā apstrāde varētu radīt risku datu subjektu tiesībām un brīvībām, apstrāde nav neregulāra vai apstrāde ietver īpašas datu kategorijas, kas minētas 9. panta 1. punktā, vai personas datus par sodāmību un pārkāpumiem, kas minēti 10. pantā.
+
+31. pants
+
+Sadarbība ar uzraudzības iestādi
+
+Pārzinis un apstrādātājs un attiecīgā gadījumā pārziņa vai apstrādātāja pārstāvis pēc pieprasījuma sadarbojas ar uzraudzības iestādi tās uzdevumu izpildē.
+
+
+
+2. iedaļa
+
+Personas datu drošība
+
+32. pants
+
+Apstrādes drošība
+
+1.  Ņemot vērā tehnikas līmeni, īstenošanas izmaksas un apstrādes raksturu, apmēru, kontekstu un nolūkus, kā arī dažādas iespējamības un smaguma pakāpes risku attiecībā uz fizisku personu tiesībām un brīvībām, pārzinis un apstrādātājs īsteno atbilstīgus tehniskus un organizatoriskus pasākumus, lai nodrošinātu tādu drošības līmeni, kas atbilst riskam, tostarp attiecīgā gadījumā cita starpā:
+
+a) personas datu pseidonimizāciju un šifrēšanu;
+
+b) spēju nodrošināt apstrādes sistēmu un pakalpojumu nepārtrauktu konfidencialitāti, integritāti, pieejamību un noturību;
+
+c) spēju laicīgi atjaunot personas datu pieejamību un piekļuvi tiem gadījumā, ja ir noticis fizisks vai tehnisks negadījums;
+
+d) procesu regulārai tehnisko un organizatorisko pasākumu efektivitātes testēšanai, izvērtēšanai un novērtēšanai, lai nodrošinātu apstrādes drošību.
+
+2.  Novērtējot atbilstīgo drošības līmeni, ņem vērā jo īpaši riskus, ko rada apstrāde, jo īpaši nejauša vai nelikumīga nosūtīto, uzglabāto vai citādi apstrādāto personas datu iznīcināšana, nozaudēšana, pārveidošana, neatļauta izpaušana vai piekļuve tiem.
+
+3.  Atbilstību apstiprinātam rīcības kodeksam, kā minēts 40. pantā, vai apstiprinātam sertifikācijas mehānismam, kā minēts 42. pantā, var izmantot kā elementu, ar ko apliecina šā panta 1. punktā izklāstīto prasību izpildi.
+
+4.  Pārzinis un apstrādātājs veic pasākumus, lai nodrošinātu, ka jebkura fiziska persona, kas darbojas pārziņa vai apstrādātāja pakļautībā un kam ir piekļuve personas datiem, tos neapstrādā bez pārziņa norādījumiem, izņemot, ja minētajai personai tas jādara saskaņā ar Savienības vai dalībvalsts tiesību aktiem.
+
+33. pants
+
+Personas datu aizsardzības pārkāpuma paziņošana uzraudzības iestādei
+
+1.  Personas datu aizsardzības pārkāpuma gadījumā pārzinis bez nepamatotas kavēšanās un, ja iespējams, ne vēlāk kā 72 stundu laikā no brīža, kad pārkāpums tam kļuvis zināms, paziņo par personas datu aizsardzības pārkāpumu uzraudzības iestādei, kas ir kompetenta saskaņā ar 55. pantu, izņemot gadījumus, kad ir maz ticams, ka personas datu aizsardzības pārkāpums varētu radīt risku fizisku personu tiesībām un brīvībām. Ja paziņošana uzraudzības iestādei nav notikusi 72 stundu laikā, paziņojumam pievieno kavēšanās iemeslus.
+
+2.  Apstrādātājs, tiklīdz tam kļuvis zināms personas datu aizsardzības pārkāpums, bez nepamatotas kavēšanās paziņo par to pārzinim.
+
+3.  Paziņojumā, kas minēts 1. punktā, vismaz:
+
+a) apraksta personas datu aizsardzības pārkāpuma raksturu, tostarp, ja iespējams, attiecīgo datu subjektu kategorijas un aptuveno skaitu un attiecīgo personas datu ierakstu kategorijas un aptuveno skaitu;
+
+b) paziņo datu aizsardzības speciālista vārdu un uzvārdu un kontaktinformāciju vai norāda citu kontaktpunktu, kur var iegūt papildu informāciju;
+
+c) apraksta personas datu aizsardzības pārkāpuma iespējamās sekas;
+
+d) apraksta pasākumus, ko pārzinis veicis vai ierosinājis veikt, lai novērstu personas datu aizsardzības pārkāpumu, tostarp attiecīgā gadījumā – pasākumus, lai mazinātu tā iespējamās nelabvēlīgās sekas.
+
+4.  Ja un ciktāl informāciju nav iespējams sniegt vienlaikus, informāciju var sniegt pa posmiem bez turpmākas nepamatotas kavēšanās.
+
+5.  Pārzinis dokumentē visus personas datu aizsardzības pārkāpumus, norādot faktus, kas saistīti ar personas datu pārkāpumu, tā sekas un veiktās koriģējošās darbības. Minētā dokumentācija ļauj uzraudzības iestādei pārbaudīt šā panta ievērošanu.
+
+34. pants
+
+Datu subjekta informēšana par personas datu aizsardzības pārkāpumu
+
+1.  Gadījumā, ja personas datu aizsardzības pārkāpums varētu radīt augstu risku fizisku personu tiesībām un brīvībām, pārzinis bez nepamatotas kavēšanās paziņo datu subjektam par personas datu aizsardzības pārkāpumu.
+
+2.  Paziņojumā datu subjektam, kas minēts šā panta 1. punktā, izmantojot skaidru un vienkāršu valodu, apraksta personas datu aizsardzības pārkāpuma raksturu un ietver vismaz 33. panta 3. punkta b), c) un d) apakšpunktā paredzēto informāciju un pasākumus.
+
+3.  Paziņojums datu subjektam, kā minēts 1. punktā, nav jāsniedz, ja tiek izpildīts jebkurš no šādiem nosacījumiem:
+
+a) pārzinis ir īstenojis atbilstīgus tehniskus un organizatoriskus aizsardzības pasākumus un minētie pasākumi ir piemēroti personas datiem, ko skāris personas datu aizsardzības pārkāpums, jo īpaši tādi pasākumi, kas personas datus padara nesaprotamus personām, kurām nav pilnvaru piekļūt datiem, piemēram, šifrēšana;
+
+b) pārzinis ir veicis turpmākus pasākumus, ar ko nodrošina, lai, visticamāk, vairs nevarētu materializēties 1. punktā minētais augstais risks attiecībā uz datu subjektu tiesībām un brīvībām;
+
+c) tas prasītu nesamērīgi lielas pūles. Šādā gadījumā tā vietā izmanto publisku saziņu vai līdzīgu pasākumu, ar ko datu subjekti tiek informēti vienlīdz efektīvā veidā.
+
+4.  Ja pārzinis vēl nav paziņojis datu subjektam par personas datu aizsardzības pārkāpumu, uzraudzības iestāde, apsvērusi iespējamību, ka personas datu pārkāpums varētu radīt augstu risku, var pieprasīt pārzinim paziņot datu subjektam vai var nolemt, ka ir izpildīti visi 3. punktā minētie nosacījumi.
+
+
+
+3. iedaļa
+
+Novērtējums par ietekmi uz datu aizsardzību un iepriekšēja apspriešanās
+
+35. pants
+
+Novērtējums par ietekmi uz datu aizsardzību
+
+1.  Ja apstrādes veids, jo īpaši, izmantojot jaunās tehnoloģijas un ņemot vērā apstrādes raksturu, apjomu, kontekstu un nolūkus, varētu radīt augstu risku fizisku personu tiesībām un brīvībām, pārzinis pirms apstrādes veic novērtējumu par to, kā plānotās apstrādes darbības ietekmēs personas datu aizsardzību. Vienā novērtējumā var pievērsties tādu līdzīgu apstrādes darbību kopumam, kurām piemīt līdzīgi augsti riski.
+
+2.  Pārzinis, veicot novērtējumu par ietekmi uz datu aizsardzību, lūdz padomu no datu aizsardzības speciālista, ja tāds ir iecelts.
+
+3.  Šā panta 1. punktā minētais novērtējums par ietekmi uz datu aizsardzību jo īpaši ir vajadzīgs šādos gadījumos:
+
+a) ar fiziskām personām saistītu personisku aspektu sistemātiska un plaša novērtēšana, kuras pamatā ir automatizēta apstrāde, tostarp profilēšana, un ar kuru pamato lēmumus, kas fiziskai personai rada tiesiskās sekas vai līdzīgi būtiski ietekmē fizisko personu;
+
+b) 9. panta 1. punktā minēto īpašo kategoriju datu vai 10. pantā minēto personas datu par sodāmību un pārkāpumiem apstrāde plašā mērogā; vai
+
+c) publiski pieejamas zonas sistemātiska uzraudzība plašā mērogā.
+
+4.  Uzraudzības iestāde izstrādā un publisko sarakstu ar tiem apstrādes darbību veidiem, attiecībā uz kuriem ir jāveic novērtējums par ietekmi uz datu aizsardzību saskaņā ar 1. punktu. Uzraudzības iestāde minētos sarakstus iesniedz 68. pantā minētajai kolēģijai.
+
+5.  Uzraudzības iestāde var izstrādāt un publiskot arī sarakstu ar tiem apstrādes darbību veidiem, attiecībā uz kuriem nav vajadzīgs novērtējums par ietekmi uz datu aizsardzību. Uzraudzības iestāde minētos sarakstus iesniedz kolēģijai.
+
+6.  Ja 4. un 5. punktā paredzētais saraksts ietver apstrādes darbības, kas ir saistītas ar preču vai pakalpojumu sniegšanu datu subjektiem vai ar viņu uzvedības novērošanu vairākās dalībvalstīs, vai kas var būtiski ietekmēt personas datu brīvu apriti Savienībā, kompetentā uzraudzības iestāde pirms minētā saraksta pieņemšanas piemēro 63. pantā paredzēto konsekvences mehānismu.
+
+7.  Novērtējumā ietver vismaz:
+
+a) plānoto apstrādes darbību un apstrādes nolūku, tostarp attiecīgā gadījumā pārziņa leģitīmo interešu sistemātisku aprakstu;
+
+b) novērtējumu par apstrādes darbību nepieciešamību un samērīgumu attiecībā uz nolūkiem;
+
+c) novērtējumu par 1. punktā minētajiem riskiem datu subjektu tiesībām un brīvībām; un
+
+d) pasākumus, kas paredzēti risku novēršanai, tostarp garantijas, drošības pasākumus un mehānismus, ar ko nodrošina personas datu aizsardzību un uzskatāmi parāda, ka ir ievērota šī regula, ņemot vērā datu subjektu un citu attiecīgo personu tiesības un leģitīmās intereses.
+
+8.  Attiecīgo pārziņu vai apstrādātāju atbilstību 40. pantā minētajam rīcības kodeksam pienācīgi ņem vērā, novērtējot šādu pārziņu vai apstrādātāju veikto apstrādes darbību ietekmi, jo īpaši saistībā ar novērtējumu par ietekmi uz datu aizsardzību.
+
+9.  Attiecīgā gadījumā pārzinis pieprasa datu subjektu vai viņu pārstāvju viedokli par plānoto apstrādi, neskarot komerciālu vai sabiedrības interešu aizsardzību vai apstrādes darbību drošību.
+
+10.  Ja saskaņā ar 6. panta 1. punkta c) vai e) apakšpunktu veiktās apstrādes juridiskais pamats ir noteikts Savienības tiesību aktos vai tās dalībvalsts tiesību aktos, kuri ir piemērojami pārzinim, un minētie tiesību akti reglamentē konkrēto apstrādes darbību vai minēto darbību kopumu, un novērtējums par ietekmi uz datu aizsardzību jau ir veikts kā daļa no vispārējā ietekmes novērtējuma saistībā ar minētā juridiskā pamata pieņemšanu, šā panta 1.–7. punktu nepiemēro, izņemot, ja dalībvalstis uzskata, ka pirms apstrādes darbībām ir jāveic šāds novērtējums.
+
+11.  Ja vajadzīgs, pārzinis veic pārskatu, lai novērtētu, vai apstrāde notiek saskaņā ar novērtējumu par ietekmi uz datu aizsardzību, vismaz tad, ja ir izmaiņas attiecībā uz apstrādes darbību radīto risku.
+
+36. pants
+
+Iepriekšēja apspriešanās
+
+1.  Pārzinis pirms apstrādes apspriežas ar uzraudzības iestādi, ja novērtējumā par ietekmi uz datu aizsardzību saskaņā ar 35. pantu ir norādīts, ka gadījumā, ja pārzinis neveiktu pasākumus riska mazināšanai, apstrāde radītu augstu risku.
+
+2.  Ja uzraudzības iestāde uzskata, ka 1. punktā minētā plānotā apstrāde pārkāptu šo regulu, jo īpaši, ja pārzinis nav pietiekami identificējis vai mazinājis risku, uzraudzības iestāde laikposmā līdz astoņām nedēļām no pieprasījuma par apspriešanos saņemšanas sniedz pārzinim un attiecīgā gadījumā apstrādātajam rakstisku padomu un var izmantot savas 58. pantā minētās pilnvaras. Minēto laikposmu var pagarināt par sešām nedēļām, ņemot vērā plānotās apstrādes sarežģītību. Uzraudzības iestāde informē pārzini un attiecīgā gadījumā apstrādātāju par jebkādu šādu pagarinājumu viena mēneša laikā pēc pieprasījuma par apspriešanos saņemšanas, norādot kavēšanās iemeslus. Minētos laikposmus var apturēt līdz brīdim, kamēr uzraudzības iestāde saņem informāciju, ko tā pieprasījusi apspriešanās nolūkiem.
+
+3.  Apspriežoties ar uzraudzības iestādi saskaņā ar 1. punktu, pārzinis iesniedz uzraudzības iestādei:
+
+a) attiecīgā gadījumā pārziņa, kopīgu pārziņu un apstrādē iesaistīto apstrādātāju attiecīgos pienākumus, jo īpaši, lai veiktu apstrādi uzņēmumu grupā;
+
+b) paredzētās apstrādes nolūkus un līdzekļus;
+
+c) pasākumus un garantijas, lai nodrošinātu datu subjektu tiesību un brīvību aizsardzību saskaņā ar šo regulu;
+
+d) attiecīgā gadījumā datu aizsardzības speciālista kontaktinformāciju;
+
+e) 35. pantā paredzēto novērtējumu par ietekmi uz datu aizsardzību; un
+
+f) jebkādu citu uzraudzības iestādes prasītu informāciju.
+
+4.  Dalībvalstis apspriežas ar uzraudzības iestādi, kamēr tiek gatavots priekšlikums leģislatīvam pasākumam, ko pieņems valsts parlaments, vai regulatīvs pasākums, kas balstās uz šādu leģislatīvu pasākumu, kurš attiecas uz apstrādi.
+
+5.  Neatkarīgi no 1. punkta – dalībvalsts tiesību aktos var būt noteikts, ka pārziņiem ir jāapspriežas ar uzraudzības iestādi un jāsaņem no tās iepriekšēja atļauja saistībā ar apstrādi, ko veic pārzinis, lai izpildītu sabiedrības interesēs īstenojamu uzdevumu, tostarp, kad minēto apstrādi veic saistībā ar sociālo aizsardzību un sabiedrības veselību.
+
+
+
+4. iedaļa
+
+Datu aizsardzības speciālists
+
+37. pants
+
+Datu aizsardzības speciālista iecelšana
+
+1.  Pārzinis un apstrādātājs ieceļ datu aizsardzības speciālistu katrā gadījumā, kad:
+
+a) apstrādi veic publiska iestāde vai struktūra, izņemot tiesas, tām pildot savus uzdevumus;
+
+b) pārziņa vai apstrādātāja pamatdarbība sastāv no apstrādes darbībām, kurām to būtības, apmēra un/vai nolūku dēļ nepieciešama regulāra un sistemātiska datu subjektu novērošana plašā mērogā; vai
+
+▼C1
+
+c) pārziņa vai apstrādātāja pamatdarbības ietver īpašo kategoriju datu saskaņā ar 9. pantu vai 10. pantā minēto personas datu par sodāmību un pārkāpumiem apstrādi plašā mērogā.
+
+▼B
+
+2.  Uzņēmumu grupa var iecelt vienu datu aizsardzības speciālistu ar noteikumu, ka katrs uzņēmums var viegli sazināties ar datu aizsardzības speciālistu.
+
+3.  Ja pārzinis vai apstrādātājs ir publiska iestāde vai struktūra, vienu datu aizsardzības speciālistu var iecelt vairākām šādām iestādēm vai struktūrām, ņemot vērā to organizatorisko uzbūvi un lielumu.
+
+4.  Gadījumos, kas nav minēti 1. punktā, pārzinis vai apstrādātājs, vai apvienības un citas struktūras, kas pārstāv pārziņu vai apstrādātāju kategorijas, var iecelt vai – ja tas jādara saskaņā ar Savienības vai dalībvalsts tiesību aktiem – ieceļ datu aizsardzības speciālistu. Datu aizsardzības speciālists var rīkoties šādu apvienību un citu struktūru, kas pārstāv pārziņus vai apstrādātājus, uzdevumā.
+
+5.  Datu aizsardzības speciālistu ieceļ, pamatojoties uz viņa profesionālo kvalifikāciju, jo īpaši speciālām zināšanām datu aizsardzības tiesību un prakses jomā un spēju pildīt 39. pantā minētos uzdevumus.
+
+6.  Datu aizsardzības speciālists var būt pārziņa vai apstrādātāja darbinieks, vai viņš var veikt uzdevumus, pamatojoties uz pakalpojumu līgumu.
+
+7.  Pārzinis vai apstrādātājs publisko datu aizsardzības speciālista kontaktinformāciju un paziņo to uzraudzības iestādei.
+
+38. pants
+
+Datu aizsardzības speciālista statuss
+
+1.  Pārzinis un apstrādātājs nodrošina, ka datu aizsardzības speciālists tiek pienācīgi un laikus iesaistīts visos jautājumos saistībā ar personas datu aizsardzību.
+
+2.  Pārzinis un apstrādātājs atbalsta datu aizsardzības speciālistu 39. pantā minēto uzdevumu izpildē, nodrošinot resursus, kas nepieciešami, lai veiktu minētos uzdevumus, un nodrošinot piekļuvi personas datiem un apstrādes darbībām, un lai viņš uzturētu speciālās zināšanas.
+
+3.  Pārzinis un apstrādātājs nodrošina, ka datu aizsardzības speciālists nesaņem nekādus norādījumus attiecībā uz minēto uzdevumu veikšanu. Pārzinis vai apstrādātājs viņu neatlaiž vai viņam nepiemēro sankcijas par viņa uzdevumu veikšanu. Datu aizsardzības speciālists ir tieši atbildīgs pārziņa vai apstrādātāja augstākās vadības priekšā.
+
+4.  Datu subjekti var vērsties pie datu aizsardzības speciālista visos jautājumos, kas saistīti ar viņu personas datu apstrādi un šajā regulā paredzēto tiesību īstenošanu.
+
+5.  Datu aizsardzības speciālistam ir saistoša slepenības vai konfidencialitātes ievērošana saistībā ar viņa uzdevumu pildīšanu, kā paredzēts Savienības vai dalībvalstu tiesību aktos.
+
+6.  Datu aizsardzības speciālists var pildīt citus uzdevumus un pienākumus. Pārzinis vai apstrādātājs nodrošina, lai neviens no minētajiem uzdevumiem un pienākumiem neradītu interešu konfliktu.
+
+39. pants
+
+Datu aizsardzības speciālista uzdevumi
+
+1.  Datu aizsardzības speciālistam ir vismaz šādi uzdevumi:
+
+a) informēt un konsultēt pārzini vai apstrādātāju un darbiniekus, kuri veic apstrādi, par viņu pienākumiem saskaņā ar šo regulu un ar citiem Savienības vai dalībvalstu noteikumiem par datu aizsardzību;
+
+b) uzraudzīt, vai tiek ievērota šī regula, citi Savienības vai dalībvalstu noteikumi par datu aizsardzību un pārziņa vai apstrādātāja politika saistībā ar personas datu aizsardzību, tostarp pienākumu sadali, apstrādes darbībās iesaistīto darbinieku informēšanu un apmācību, un ar to saistītajām revīzijām;
+
+c) pēc pieprasījuma sniegt padomus attiecībā uz novērtējumu par ietekmi uz datu aizsardzību un pārraudzīt tā īstenošanu saskaņā ar 35. pantu;
+
+d) sadarboties ar uzraudzības iestādi;
+
+e) būt par uzraudzības iestādes kontaktpunktu jautājumos, kas saistīti ar apstrādi, tostarp 36. pantā minēto iepriekšējo apspriešanos, un attiecīgā gadījumā konsultēt par jebkuru citu jautājumu.
+
+2.  Datu aizsardzības speciālists, pildot savus uzdevumus, pienācīgi ņem vērā ar apstrādes darbībām saistīto risku, ņemot vērā apstrādes raksturu, apjomu, kontekstu un nolūku.
+
+
+
+5. iedaļa
+
+Rīcības kodeksi un sertifikācija
+
+40. pants
+
+Rīcības kodeksi
+
+1.  Dalībvalstis, uzraudzības iestādes, kolēģija un Komisija mudina izstrādāt rīcības kodeksus, kas paredzēti, lai veicinātu šīs regulas atbilstīgu piemērošanu, ņemot vērā dažādo apstrādes nozaru specifiskās iezīmes un mikrouzņēmumu, mazo un vidējo uzņēmumu konkrētās vajadzības.
+
+2.  Apvienības un citas struktūras, kas pārstāv pārziņu vai apstrādātāju kategorijas, var izstrādāt rīcības kodeksus vai tos grozīt vai papildināt, lai precīzi noteiktu, kā piemērojama šī regula, piemēram, attiecībā uz:
+
+a) godprātīgu un pārredzamu apstrādi;
+
+b) pārziņu leģitīmajām interesēm konkrētos gadījumos;
+
+c) personas datu vākšanu;
+
+d) personas datu pseidonimizāciju;
+
+e) informāciju, ko sniedz sabiedrībai un datu subjektiem;
+
+f) datu subjektu tiesību īstenošanu;
+
+g) informāciju, ko sniedz bērniem un bērnu aizsardzību un to, kādā veidā iegūstama tās personas piekrišana, kurai ir vecāku atbildība par bērniem;
+
+h) pasākumiem un procedūrām, kas minēti 24. un 25. pantā, un pasākumiem, ar ko garantē 32. pantā minēto apstrādes drošību;
+
+i) uzraudzības iestāžu informēšanu par personas datu aizsardzības pārkāpumiem un šādu personas datu pārkāpumu paziņošanu datu subjektiem;
+
+j) personas datu nosūtīšanu uz trešām valstīm vai starptautiskām organizācijām; vai
+
+k) ārpustiesas procedūrām un citām strīdu risināšanas procedūrām attiecībā uz strīdiem starp pārzini un datu subjektu saistībā ar apstrādi, neskarot datu subjektu tiesības saskaņā ar 77. un 79. pantu.
+
+3.  Papildus tam, ka rīcības kodeksus, kas ir apstiprināti atbilstīgi šā panta 5. punktam un vispārēji piemērojami atbilstīgi šā panta 9. punktam, ievēro pārziņi vai apstrādātāji, uz kuriem attiecas šī regula, tos var ievērot arī pārziņi vai apstrādātāji, uz kuriem atbilstīgi 3. pantam šī regula neattiecas, lai nodrošinātu atbilstošas garantijas, ko piemēro personas datu nosūtīšanai uz trešām valstīm vai starptautiskām organizācijām saskaņā ar noteikumiem, kas minēti 46. panta 2. punkta e) apakšpunktā. Šādi pārziņi vai apstrādātāji, izmantojot līgumiskus vai citus juridiski saistošus instrumentus, uzņemas saistošas un īstenojamas saistības piemērot minētās atbilstošās garantijas, tostarp attiecībā uz datu subjektu tiesībām.
+
+4.  Neskarot to uzraudzības iestāžu uzdevumus un pilnvaras, kuras ir kompetentas saskaņā ar 55. vai 56. pantu, šā panta 2. punktā minētajā rīcības kodeksā ir ietverti mehānismi, kas ļauj 41. panta 1. punktā minētajai struktūrai veikt obligāto pārraudzību par to, kā pārziņi vai apstrādātāji, kuri apņemas piemērot attiecīgo kodeksu, ievēro tā noteikumus.
+
+5.  Šā panta 2. punktā minētās apvienības un citas struktūras, kas plāno izstrādāt rīcības kodeksu vai grozīt vai papildināt esošu rīcības kodeksu, iesniedz rīcības kodeksa, grozījumu vai papildinājumu projektu uzraudzības iestādei, kura saskaņā ar 55. pantu ir kompetenta. Uzraudzības iestāde sniedz atzinumu par to, vai rīcības kodeksa, grozījumu vai papildinājumu projekts ir saskaņā ar šo regulu, un apstiprina minēto rīcības kodeksa, grozījumu vai papildinājumu projektu, ja tā konstatē, ka tas nodrošina pietiekamas atbilstošas garantijas.
+
+6.  Ja rīcības kodeksa, grozījumu vai papildinājumu projekts ir apstiprināts saskaņā ar 5. punktu un ja attiecīgais rīcības kodekss neattiecas uz apstrādes darbībām vairākās dalībvalstīs, uzraudzības iestāde reģistrē un publisko kodeksu.
+
+7.  Ja rīcības kodeksa projekts attiecas uz apstrādes darbībām vairākās dalībvalstīs, uzraudzības iestāde, kura saskaņā ar 55. pantu ir kompetenta, pirms rīcības kodeksa projektu, grozījumu vai papildinājumu apstiprināšanas 63. pantā noteiktajā kārtībā iesniedz kolēģijai, kas sniedz atzinumu par to, vai minētais rīcības kodeksa projekts, grozījums vai papildinājums ir saskaņā ar šo regulu, vai – gadījumā, kas minēts šā panta 3. punktā – nodrošina atbilstošas garantijas.
+
+8.  Ja 7. punktā minētais atzinums apstiprina, ka rīcības kodeksa projekts, grozījums vai papildinājums ir saskaņā ar šo regulu vai – gadījumā, kas minēts 3. punktā – nodrošina atbilstošas garantijas, kolēģija iesniedz atzinumu Komisijai.
+
+9.  Komisija, pieņemot īstenošanas aktus, var nolemt, ka saskaņā ar šā panta 8. punktu iesniegts apstiprināts rīcības kodekss, grozījums vai papildinājums ir vispārēji piemērojami Savienībā. Minētos īstenošanas aktus pieņem saskaņā ar 93. panta 2. punktā minēto pārbaudes procedūru.
+
+10.  Komisija nodrošina atbilstīgu publicitāti tiem apstiprinātajiem rīcības kodeksiem, par kuriem saskaņā ar 9. punktu pieņemts lēmums, ka tie ir vispārēji piemērojami.
+
+11.  Kolēģija visus apstiprinātos rīcības kodeksus, grozījumus un papildinājumus sakopo reģistrā un dara tos publiski pieejamus, izmantojot piemērotus līdzekļus.
+
+41. pants
+
+Apstiprināto rīcības kodeksu pārraudzība
+
+1.  Neskarot kompetentās uzraudzības iestādes uzdevumus un pilnvaras, kas minēti 57. un 58. pantā, rīcības kodeksa ievērošanas pārraudzību saskaņā ar 40. pantu var veikt struktūra, kura pienācīgi pārzina kodeksa tematiku un kuru minētajam nolūkam ir akreditējusi kompetentā uzraudzības iestāde.
+
+2.  Šā panta 1. punktā paredzēto struktūru var akreditēt, lai pārraudzītu atbilstību rīcības kodeksam, ja minētā struktūra:
+
+a) kompetentajai uzraudzības iestādei ir uzskatāmi parādījusi, ka darbojas neatkarīgi un pārzina kodeksa tematiku;
+
+b) ir izstrādājusi kārtību, kas tai ļauj novērtēt, vai attiecīgie pārziņi un apstrādātāji ir tiesīgi piemērot attiecīgo kodeksu, un pārraudzīt, kā tie ievēro kodeksa noteikumus, kā arī periodiski pārskatīt kodeksa darbību;
+
+c) ir izstrādājusi kārtību un izveidojusi struktūras, lai izskatītu sūdzības par attiecīgā kodeksa pārkāpumiem vai to, kā pārzinis vai apstrādātājs ir īstenojis vai īsteno kodeksu, un lai nodrošinātu, ka minētā kārtība un struktūras ir datu subjektiem un sabiedrībai pārredzamas; un
+
+d) ir kompetentajai uzraudzības iestādei uzskatāmi parādījusi, ka tās uzdevumi un pienākumi nerada interešu konfliktu.
+
+▼C1
+
+3.  Kompetentā uzraudzības iestāde kolēģijai iesniedz projektu par šā panta 1. punktā minētās struktūras akreditēšanas prasībām saskaņā ar 63. pantā minēto konsekvences mehānismu.
+
+▼B
+
+4.  Neskarot kompetentās uzraudzības iestādes uzdevumus un pilnvaras un VIII nodaļā paredzētos noteikumus, šā panta 1. punktā minētā struktūra, ievērojot atbilstošas garantijas, atbilstīgi rīkojas gadījumos, kad pārzinis vai apstrādātājs izdara attiecīgā kodeksa pārkāpumu, tostarp tā uz laiku vai pavisam izslēdz pārzini vai apstrādātāju no attiecīgā kodeksa. Struktūra informē kompetento uzraudzības iestādi par minētajām darbībām un to veikšanas iemesliem.
+
+▼C1
+
+5.  Kompetentā uzraudzības iestāde atsauc 1. punktā minētās struktūras akreditāciju, ja nav izpildītas vai vairs netiek pildītas akreditācijas prasības vai ja struktūras veiktās darbības pārkāpj šo regulu.
+
+▼B
+
+6.  Šo pantu nepiemēro apstrādei, ko veic publiskas iestādes un struktūras.
+
+42. pants
+
+Sertifikācija
+
+1.  Dalībvalstis, uzraudzības iestādes, kolēģija un Komisija mudina, jo īpaši Savienības līmenī, izveidot datu aizsardzības sertifikācijas mehānismus un datu aizsardzības zīmogus un marķējumus, lai uzskatāmi parādītu, ka apstrādes darbības, ko veic pārziņi un apstrādātāji, atbilst šai regulai. Ņem vērā mikrouzņēmumu, mazo un vidējo uzņēmumu konkrētās vajadzības.
+
+2.  Papildus tam, ka saskaņā ar šā panta 5. punktu apstiprinātus datu aizsardzības sertifikācijas mehānismus, zīmogus vai marķējumus izmanto pārziņi vai apstrādātāji, uz kuriem attiecas šī regula, tos var izmantot, lai pierādītu, ka pārziņi vai apstrādātāji, uz kuriem, ievērojot 3. pantu, šī regula neattiecas, ir nodrošinājuši atbilstošas garantijas, ko piemēro datu nosūtīšanai uz trešām valstīm vai starptautiskajām organizācijām saskaņā ar noteikumiem, kas minēti 46. panta 2. punkta f) apakšpunktā. Šādi pārziņi vai apstrādātāji, izmantojot līgumiskus vai citus juridiski saistošus instrumentus, uzņemas saistošas un īstenojamas saistības piemērot minētās atbilstošās garantijas, tostarp attiecībā uz datu subjektu tiesībām.
+
+3.  Sertifikācija ir brīvprātīga un pieejama procesā, kas ir pārredzams.
+
+4.  Sertifikācija, ko veic saskaņā ar šo pantu, nemazina pārziņa vai apstrādātāja atbildību attiecībā uz šīs regulas ievērošanu, un tā neskar uzraudzības iestāžu, kuras ir kompetentas saskaņā ar 55. vai 56. pantu, uzdevumus un pilnvaras.
+
+5.  Šajā pantā paredzētu sertifikātu izdod 43. pantā minētās sertifikācijas struktūras vai kompetentā uzraudzības iestāde, pamatojoties uz kritērijiem, ko – ievērojot 58. panta 3. punktu – apstiprinājusi minētā kompetentā uzraudzības iestāde vai – ievērojot 63. pantu – kolēģija. Ja kritērijus apstiprinājusi kolēģija, var izdot kopīgu sertifikātu – Eiropas datu aizsardzības zīmogu.
+
+6.  Pārzinis vai apstrādātājs, kas savas apstrādes darbības pakļauj minētajam sertifikācijas mehānismam, sniedz visu informāciju 43. pantā paredzētajai sertifikācijas struktūrai vai attiecīgā gadījumā kompetentajai uzraudzības iestādei un nodrošina piekļuvi savām apstrādes darbībām, kas vajadzīga, lai veiktu minēto sertifikācijas procedūru.
+
+▼C1
+
+7.  Sertifikātu pārzinim vai apstrādātājam izdod uz laikposmu, kas nepārsniedz trīs gadus, un to var atjaunot ar tādiem pašiem nosacījumiem ar noteikumu, ka attiecīgie kritēriji joprojām ir izpildīti. Attiecīgā gadījumā 43. pantā minētās sertifikācijas struktūras vai kompetentā uzraudzības iestāde atsauc sertifikātu, ja sertifikācijas kritēriji nav izpildīti vai vairs netiek pildīti.
+
+▼B
+
+8.  Kolēģija visus sertifikācijas mehānismus un datu aizsardzības zīmogus un marķējumus sakopo reģistrā un dara tos publiski pieejamus, izmantojot jebkādus piemērotus līdzekļus.
+
+43. pants
+
+Sertifikācijas struktūras
+
+1.  Neskarot kompetentās uzraudzības iestādes uzdevumus un pilnvaras saskaņā ar 57. un 58. pantu, sertifikātu izdod un atjauno sertifikācijas struktūras, kam ir atbilstīgas specializētās zināšanas datu aizsardzības jomā, pēc tam, kad tās ir informējušas uzraudzības iestādi, lai tā vajadzības gadījumā varētu īstenot savas pilnvaras saskaņā ar 58. panta 2. punkta h) apakšpunktu. Dalībvalstis nodrošina, ka minētās sertifikācijas struktūras akreditē viena vai abas no turpmāk minētajām:
+
+a) uzraudzības iestāde, kas ir kompetenta, ievērojot 55. vai 56. pantu;
+
+b) valsts akreditācijas struktūra, kas norādīta saskaņā ar Eiropas Parlamenta un Padomes Regulu (EK) Nr. 765/2008 ( 2 ) atbilstīgi EN-ISO/IEC 17065/2012 un papildu prasībām, ko paredzējusi uzraudzības iestāde, kura ir kompetenta, ievērojot 55. vai 56. pantu.
+
+2.  Šā panta 1. punktā minētās sertifikācijas struktūras akreditē saskaņā ar minēto punktu tikai tad, ja tās:
+
+a) kompetentajai uzraudzības iestādei ir uzskatāmi parādījušas, ka darbojas neatkarīgi un pārzina sertifikācijas tematiku;
+
+b) ir apņēmušās ievērot 42. panta 5. punktā minētos kritērijus un to ir apstiprinājusi uzraudzības iestāde, kura ir kompetenta, ievērojot 55. vai 56. pantu, vai – ievērojot 63. pantu – kolēģija;
+
+c) ir izstrādājušas procedūru, kādā piešķir, periodiski pārskata un atsauc datu aizsardzības sertifikātu, zīmogus un marķējumus;
+
+d) ir izstrādājušas procedūru un izveidojušas struktūras, lai izskatītu sūdzības par attiecīgās sertifikācijas pārkāpumiem vai to, kā pārzinis vai apstrādātājs ir īstenojis vai īsteno sertifikāciju, un lai nodrošinātu, ka minētā procedūra un struktūras ir datu subjektiem un sabiedrībai pārredzamas; un
+
+e) kompetentajai uzraudzības iestādei ir uzskatāmi parādījušas, ka to uzdevumi un pienākumi nerada interešu konfliktu.
+
+3.   ►C1  Šā panta 1. un 2. punktā minēto sertifikācijas struktūru akreditāciju veic, pamatojoties uz prasībām, ko apstiprinājusi uzraudzības iestāde, kura ir kompetenta, ievērojot 55. vai 56. pantu, vai kolēģija, ievērojot 63. pantu. ◄ Ja akreditāciju veic, ievērojot šā panta 1. punkta b) apakšpunktu, minētās prasības papildina prasības, kas paredzētas Regulā (EK) Nr. 765/2008, un tehniskos noteikumus, kuros aprakstītas sertifikācijas struktūru metodes un procedūras.
+
+4.  Šā panta 1. punktā minētās sertifikācijas struktūras ir atbildīgas par to, lai sertifikāts tiktu piešķirts vai šāds sertifikāts tiktu atsaukts pēc pienācīgi veikta novērtējuma, neskarot pārziņa vai apstrādātāja pienākumu ievērot šo regulu. Akreditāciju piešķir uz laikposmu, kas nepārsniedz piecus gadus, un to var atjaunot ar tādiem pašiem nosacījumiem ar noteikumu, ka sertifikācijas struktūra atbilst šajā pantā izklāstītajām prasībām.
+
+5.  Šā panta 1. punktā minētās sertifikācijas struktūras sniedz kompetentajām uzraudzības iestādēm informāciju par prasītā sertifikāta piešķiršanas vai atsaukšanas iemesliem.
+
+▼C1
+
+6.  Uzraudzības iestāde viegli pieejamā veidā publisko šā panta 3. punktā minētās prasības un 42. panta 5. punktā minētos kritērijus. Uzraudzības iestādes minētās prasības un kritērijus iesniedz arī kolēģijai.
+
+▼B
+
+7.  Neskarot VIII nodaļu, kompetentā uzraudzības iestāde vai valsts akreditācijas struktūra atsauc sertifikācijas struktūras akreditāciju, ievērojot šā panta 1. punktu, ja nav izpildīti vai vairs netiek pildīti akreditācijas nosacījumi vai ja sertifikācijas struktūras veiktās darbības pārkāpj šo regulu.
+
+8.  Komisija tiek pilnvarota pieņemt deleģētos aktus saskaņā ar 92. pantu nolūkā precizēt prasības, kas jāņem vērā attiecībā uz 42. panta 1. punktā minētajiem datu aizsardzības sertifikācijas mehānismiem.
+
+9.  Komisija var pieņemt īstenošanas aktus, ar ko nosaka tehniskos standartus sertifikācijas mehānismiem un datu aizsardzības zīmogiem un marķējumiem, un mehānismus minēto sertifikācijas mehānismu, zīmogu un marķējumu popularizēšanai un atzīšanai. Minētos īstenošanas aktus pieņem saskaņā ar 93. panta 2. punktā minēto pārbaudes procedūru.
+
+
+
+V NODAĻA
+
+Personas datu nosūtīšana uz trešām valstīm vai starptautiskām organizācijām
+
+44. pants
+
+Nosūtīšanas vispārīgie principi
+
+Personas datus, kas tiek apstrādāti vai kurus ir paredzēts apstrādāt pēc nosūtīšanas uz trešo valsti vai starptautisku organizāciju, nosūta tikai tad, ja, ņemot vērā citus šīs regulas noteikumus, pārzinis un apstrādātājs ir ievērojuši šajā nodaļā paredzētos nosacījumus, ietverot arī personas datu tālāku nosūtīšanu no trešās valsts vai starptautiskās organizācijas uz citu trešo valsti vai citu starptautisku organizāciju. Piemēro visus šīs nodaļas noteikumus, lai nodrošinātu, ka nemazinās ar šo regulu garantētais fizisku personu aizsardzības līmenis.
+
+45. pants
+
+Nosūtīšana, pamatojoties uz lēmumu par aizsardzības līmeņa pietiekamību
+
+1.  Personas datu nosūtīšanu uz trešo valsti vai starptautisku organizāciju var veikt, ja Komisija ir nolēmusi, ka trešā valsts, kāda minētās trešās valsts teritorija vai viens vai vairāki konkrēti sektori, vai attiecīgā starptautiskā organizācija nodrošina pietiekamu aizsardzības līmeni. Šādai nosūtīšanai nav nepieciešama nekāda īpaša atļauja.
+
+2.  Izvērtējot aizsardzības līmeņa pietiekamību, Komisija jo īpaši ņem vērā šādus elementus:
+
+a) tiesiskums, cilvēktiesību un pamatbrīvību ievērošana, attiecīgie tiesību akti, gan vispārējie, gan nozaru, tostarp attiecībā uz sabiedrisko drošību, aizsardzību, valsts drošību un krimināltiesībām un publisko iestāžu piekļuvi personas datiem, kā arī šādu tiesību aktu, datu aizsardzības noteikumu, dienesta noteikumu un drošības pasākumu īstenošana, tostarp noteikumi par personas datu tālāku nosūtīšanu uz citu trešo valsti vai starptautisko organizāciju, kurus ievēro minētajā valstī vai minētajā starptautiskajā organizācijā, judikatūra, kā arī tas, vai pastāv efektīvas un tiesiski īstenojamas datu subjektu tiesības un efektīva aizsardzība administratīvā kārtā vai tiesā tiem datu subjektiem, kuru personas datus nosūta;
+
+b) tas, vai attiecīgajā trešā valstī vai attiecībā uz starptautisko organizāciju pastāv un efektīvi darbojas viena vai vairākas neatkarīgas uzraudzības iestādes, kuras ir atbildīgas par datu aizsardzības noteikumu ievērošanas nodrošināšanu un īstenošanu, tostarp ar adekvātām izpildes pilnvarām, par palīdzību un konsultāciju sniegšanu datu subjektiem saistībā ar viņu tiesību īstenošanu un par sadarbību ar dalībvalstu uzraudzības iestādēm; un
+
+c) starptautiskās saistības, ko ir uzņēmusies attiecīgā trešā valsts vai starptautiskā organizācija, vai citi pienākumi, kas izriet no juridiski saistošām konvencijām vai instrumentiem, kā arī no tās dalības daudzpusējās vai reģionālās sistēmās, jo īpaši saistībā ar personas datu aizsardzību.
+
+3.  Komisija pēc aizsardzības līmeņa pietiekamības izvērtēšanas ar īstenošanas aktu var nolemt, ka trešā valsts, trešās valsts teritorija vai viens vai vairāki konkrēti sektori, vai starptautiska organizācija nodrošina pietiekamu aizsardzības līmeni šā panta 2. punkta nozīmē. Īstenošanas aktā paredz periodiskas, vismaz reizi četros gados notiekošas pārskatīšanas mehānismu, kurā ņem vērā visas attiecīgās norises trešajā valstī vai starptautiskajā organizācijā. Īstenošanas aktā precizē tā teritoriālo un sektoriālo piemērošanu un attiecīgā gadījumā norāda šā panta 2. punkta b) apakšpunktā minēto uzraudzības iestādi vai iestādes. Īstenošanas aktu pieņem saskaņā ar pārbaudes procedūru, kas minēta 93. panta 2. punktā.
+
+4.  Komisija trešās valstīs un starptautiskajās organizācijās pastāvīgi uzrauga norises, kas varētu ietekmēt saskaņā ar šā panta 3. punktu pieņemto lēmumu un, balstoties uz Direktīvas 95/46/EK 25. panta 6. punktu, pieņemto lēmumu darbību.
+
+5.  Ja pieejamā informācija, jo īpaši pēc šā panta 3. punktā minētās pārskatīšanas, liecina, ka kāda trešā valsts, teritorija vai viens vai vairāki konkrēti sektori trešā valstī, vai kāda starptautiska organizācija vairs nenodrošina pietiekamu aizsardzības līmeni šā panta 2. punkta nozīmē, Komisija, pieņemot īstenošanas aktus, ciktāl tas nepieciešams atceļ, groza vai aptur šā panta 3. punktā minēto lēmumu bez atpakaļejoša spēka. Minētos īstenošanas aktus pieņem saskaņā ar 93. panta 2. punktā minēto pārbaudes procedūru.
+
+Pienācīgi pamatotu nenovēršamu un steidzamu iemeslu dēļ Komisija saskaņā ar procedūru, kura minēta 93. panta 3. punktā, pieņem īstenošanas aktus, kas jāpiemēro nekavējoties.
+
+6.  Komisija ar trešo valsti vai starptautisko organizāciju sāk konsultācijas, lai labotu stāvokli, kura dēļ saskaņā ar 5. punktu ir pieņemts lēmums.
+
+7.  Saskaņā ar šā panta 5. punktu pieņemts lēmums neskar personas datu nosūtīšanu uz trešo valsti, teritoriju vai vienu vai vairākiem konkrētiem sektoriem minētajā trešā valstī, vai attiecīgu starptautisku organizāciju atbilstīgi 46.–49. pantam.
+
+8.  Komisija Eiropas Savienības Oficiālajā Vēstnesī un savā tīmekļa vietnē publicē sarakstu ar tām trešām valstīm, teritorijām un konkrētiem sektoriem trešā valstī un starptautiskām organizācijām, attiecībā uz kurām tā ir pieņēmusi lēmumu, ka ir vai vairs nav nodrošināts pietiekams aizsardzības līmenis.
+
+9.  Lēmumi, ko Komisija pieņēmusi, pamatojoties uz Direktīvas 95/46/EK 25. panta 6. punktu, ir spēkā, kamēr tos negroza, neaizstāj vai neatceļ ar Komisijas lēmumu, kas pieņemts saskaņā ar šā panta 3. vai 5. punktu.
+
+46. pants
+
+Nosūtīšana, pamatojoties uz atbilstošām garantijām
+
+1.  Ja nav pieņemts lēmums saskaņā ar 45. panta 3. punktu, pārzinis vai apstrādātājs var nosūtīt personas datus uz trešo valsti vai uz starptautisku organizāciju tikai tad, ja pārzinis vai apstrādātājs ir sniedzis atbilstošas garantijas, un ar nosacījumu, ka datu subjektiem ir pieejamas īstenojamas datu subjekta tiesības un efektīvi tiesiskās aizsardzības līdzekļi.
+
+2.  Šā panta 1. punktā minētās atbilstošās garantijas, uzraudzības iestādei neprasot īpašu atļauju, var tikt nodrošinātas ar:
+
+a) starp publiskām iestādēm vai struktūrām juridiski saistošu un tiesiski īstenojamu instrumentu;
+
+b) saistošiem uzņēmuma noteikumiem saskaņā ar 47. pantu;
+
+c) standarta datu aizsardzības klauzulām, ko Komisija pieņem saskaņā ar 93. panta 2. punktā minēto pārbaudes procedūru;
+
+d) standarta datu aizsardzības klauzulām, ko pieņem uzraudzības iestāde un apstiprina Komisija saskaņā ar 93. panta 2. punktā minēto pārbaudes procedūru;
+
+e) saskaņā ar 40. pantu apstiprinātu rīcības kodeksu kopā ar trešās valsts datu pārziņa vai apstrādātāja saistošām un tiesiski īstenojamām saistībām piemērot atbilstošās garantijas, tostarp attiecībā uz datu subjekta tiesībām; vai
+
+f) saskaņā ar 42. pantu apstiprinātu sertifikācijas mehānismu kopā ar trešās valsts datu pārziņa vai apstrādātāja saistošām un tiesiski īstenojamām saistībām piemērot atbilstošas garantijas, tostarp attiecībā uz datu subjektu tiesībām.
+
+3.  Ja kompetentā uzraudzības iestāde dod tādu atļauju, tad 1. punktā minētās atbilstošās garantijas var arī nodrošināt jo īpaši ar:
+
+a) starp pārzini vai apstrādātāju un trešā valstī vai starptautiskā organizācijā esošu pārzini, apstrādātāju vai personas datu saņēmēju noslēgtu līgumu klauzulām; vai
+
+b) noteikumiem, kuri iekļaujami administratīvajās vienošanās starp publiskām iestādēm vai struktūrām un kuri ietver īstenojamas un efektīvas datu subjektu tiesības.
+
+4.  Uzraudzības iestāde šā panta 3. punktā minētajos gadījumos piemēro konsekvences mehānismu, kas minēts 63. pantā.
+
+5.  Dalībvalsts vai uzraudzības iestādes atļaujas, kas izsniegtas saskaņā ar Direktīvas 95/46/EK 26. panta 2. punktu, ir spēkā, kamēr minētā uzraudzības iestāde tās vajadzības gadījumā negroza, neaizstāj vai neatceļ. Lēmumi, ko Komisija pieņēmusi, pamatojoties uz Direktīvas 95/46/EK 26. panta 4. punktu, ir spēkā, kamēr tos vajadzības gadījumā negroza, neaizstāj vai neatceļ ar Komisijas lēmumu, kas pieņemts saskaņā ar šā panta 2. punktu.
+
+47. pants
+
+Saistoši uzņēmuma noteikumi
+
+1.  Kompetentā uzraudzības iestāde apstiprina saistošos uzņēmuma noteikumus saskaņā ar 63. pantā minēto konsekvences mehānismu ar noteikumu, ka tie:
+
+a) ir juridiski saistoši, un tie tiek piemēroti, un tos īsteno katrs attiecīgais uzņēmumu grupas loceklis vai katrs tādas uzņēmējsabiedrību grupas loceklis, kas iesaistīti kopīgā saimnieciskā darbībā, tostarp to darbinieki;
+
+b) skaidri piešķir īstenojamas tiesības datu subjektiem attiecībā uz personas datu apstrādi; un
+
+c) atbilst 2. punktā izklāstītajām prasībām.
+
+2.  Saistošajos uzņēmuma noteikumos, kas minēti 1. punktā, norāda vismaz:
+
+a) katras uzņēmumu grupas vai uzņēmējsabiedrību grupas, kas iesaistīta kopīgā saimnieciskā darbībā, un katra tās locekļa struktūru un kontaktinformāciju;
+
+b) datu nosūtīšanu vai vairākkārtēju nosūtīšanu, ietverot personas datu kategorijas, apstrādes veidu un nolūkus, attiecīgo datu subjektu veidu un attiecīgās trešās valsts vai valstu identifikāciju;
+
+c) to juridiski gan iekšēji, gan ārēji saistošo raksturu;
+
+d) vispārīgo datu aizsardzības principu piemērošanu, jo īpaši nolūka ierobežojumus, datu minimizēšanu, ierobežotus glabāšanas laikposmus, datu kvalitāti, integrētu datu aizsardzību un datu aizsardzību pēc noklusējuma, apstrādes juridisko pamatu, konkrētu personas datu kategoriju apstrādi, pasākumus datu drošības nodrošināšanai un prasības attiecībā uz tālāku nosūtīšanu struktūrām, uz kurām neattiecas saistoši uzņēmuma noteikumi;
+
+e) datu subjektu tiesības attiecībā uz apstrādi un līdzekļus minēto tiesību īstenošanai, ietverot tiesības nebūt tādu lēmumu subjektam, kuru pamatā ir vienīgi automatizēta apstrāde, tostarp profilēšana, saskaņā ar 22. pantu, tiesības iesniegt sūdzību kompetentai uzraudzības iestādei un kompetentai tiesai dalībvalstīs saskaņā ar 79. pantu un tiesības uz tiesību aizsardzību un vajadzības gadījumā uz kompensāciju saistošo uzņēmuma noteikumu pārkāpuma gadījumā;
+
+f) pārziņa vai apstrādātāja, kas veic uzņēmējdarbību dalībvalsts teritorijā, piekrišanu, ka tas uzņemas atbildību par saistošo uzņēmuma noteikumu pārkāpumu, ko izdara jebkurš attiecīgais loceklis, kas neveic uzņēmējdarbību Savienībā; pārzini vai apstrādātāju pilnībā vai daļēji atbrīvo no minētās atbildības tikai tad, ja pierāda, ka minētais loceklis nav atbildīgs par notikumu, ar ko nodarīts kaitējums;
+
+g) kā papildus 13. un 14. pantā minētajai informācijai datu subjektam tiek sniegta informācija par saistošiem uzņēmuma noteikumiem, jo īpaši par noteikumiem, kas minēti šā punkta d), e) un f) apakšpunktā;
+
+h) jebkura saskaņā ar 37. pantu ieceltā datu aizsardzības speciālista uzdevumus vai jebkuras citas personas vai vienības uzdevumus, kas ir atbildīga par to, lai uzraudzītu, kā uzņēmumu grupā vai uzņēmējsabiedrību grupā, kas iesaistīta kopīgā saimnieciskā darbībā, tiek ievēroti saistošie uzņēmuma noteikumi, kā arī uzdevumu uzraudzīt apmācības un sūdzību izskatīšanu;
+
+i) sūdzību procedūras;
+
+j) uzņēmumu grupā vai uzņēmējsabiedrību grupā, kas iesaistīta kopīgā saimnieciskā darbībā, izveidotos mehānismus, lai nodrošinātu verifikāciju par saistošo uzņēmuma noteikumu ievērošanu. Šādi mehānismi ietver datu aizsardzības revīziju un metodes, ar kurām nodrošina korektīvu rīcību, lai aizsargātu datu subjekta tiesības. Šādas verifikācijas rezultāti būtu jāpaziņo h) apakšpunktā minētai personai vai vienībai un uzņēmumu grupas kontrolējošā uzņēmuma valdei vai uzņēmējsabiedrību grupas, kas iesaistīta kopīgā saimnieciskā darbībā, valdei, un tiem pēc pieprasījuma vajadzētu būt pieejamiem kompetentajai uzraudzības iestādei;
+
+k) mehānismus, kas izveidoti, lai ziņotu par izmaiņām noteikumos un tās reģistrētu, un lai paziņotu par minētajām izmaiņām uzraudzības iestādei;
+
+l) sadarbības mehānismu ar uzraudzības iestādi, lai nodrošinātu, ka visi uzņēmumu grupas vai uzņēmējsabiedrību grupas, kas iesaistīta kopīgā saimnieciskā darbībā, locekļi ievēro noteikumus, jo īpaši darot uzraudzības iestādei pieejamus j) apakšpunktā minēto pasākumu verifikāciju rezultātus;
+
+m) mehānismus, lai ziņotu kompetentajai uzraudzības iestādei par jebkādām juridiskajām prasībām, kuras uzņēmumu grupas vai uzņēmējsabiedrību grupas, kas iesaistīti kopīgā saimnieciskā darbībā, loceklim piemēro trešā valstī un kurām var būt ievērojama nelabvēlīga ietekme uz garantijām, ko paredz saistoši uzņēmuma noteikumi; un
+
+n) piemērotu datu aizsardzības apmācību personālam, kuram ir pastāvīga vai regulāra piekļuve personas datiem.
+
+3.  Komisija var noteikt formātu un procedūras informācijas apmaiņai starp pārziņiem, apstrādātājiem un uzraudzības iestādēm saistībā ar saistošiem uzņēmuma noteikumiem šā panta nozīmē. Minētos īstenošanas aktus pieņem saskaņā ar pārbaudes procedūru, kas minēta 93. panta 2. punktā.
+
+48. pants
+
+Datu nosūtīšana vai izpaušana, kas saskaņā ar Savienības tiesību aktiem nav atļauta
+
+Neskarot citus nosūtīšanas pamatus saskaņā ar šo nodaļu, ikviens trešās valsts tiesas spriedums un ikviens trešās valsts administratīvās iestādes lēmums, kurā pārzinim vai apstrādātājam pieprasīts nosūtīt vai izpaust personas datus, var tikt atzīts vai būt izpildāms vienīgi tad, ja tas ir balstīts uz starptautisku nolīgumu, piemēram, savstarpējas tiesiskās palīdzības līgumu, kas ir spēkā starp pieprasītāju trešo valsti un Savienību vai kādu tās dalībvalsti.
+
+49. pants
+
+Atkāpes īpašās situācijās
+
+1.  Ja nav pieņemts lēmums par aizsardzības līmeņa pietiekamību saskaņā ar 45. panta 3. punktu vai nav nodrošinātas atbilstošas garantijas saskaņā ar 46. pantu, tostarp saistoši uzņēmuma noteikumi, personas datu nosūtīšana vai vairākkārtēja nosūtīšana uz trešo valsti vai starptautisku organizāciju notiek tikai tad, ja izpildīts viens no turpmāk minētajiem nosacījumiem:
+
+a) datu subjekts ir skaidri piekritis ierosinātajai nosūtīšanai pēc tam, kad ir ticis informēts par iespējamiem riskiem, ko šāda nosūtīšana var radīt datu subjektam lēmuma par aizsardzības līmeņa pietiekamību un atbilstošu garantiju trūkuma dēļ;
+
+b) nosūtīšana ir vajadzīga, lai izpildītu līgumu starp datu subjektu un pārzini vai īstenotu pasākumus pirms līguma noslēgšanas, kas pieņemti pēc datu subjekta pieprasījuma;
+
+c) nosūtīšana ir vajadzīga līguma noslēgšanai starp pārzini un citu fizisku vai juridisku personu datu subjekta interesēs vai šāda līguma izpildei;
+
+d) nosūtīšana ir nepieciešama, ja ir svarīgi iemesli sabiedrības interesēs;
+
+e) nosūtīšana ir vajadzīga, lai celtu, īstenotu vai aizstāvētu likumīgas prasības;
+
+f) nosūtīšana ir vajadzīga, lai aizsargātu datu subjekta vai citu personu īpaši svarīgas intereses, ja datu subjekts ir fiziski vai tiesiski nespējīgs dot savu piekrišanu;
+
+g) nosūtīšanu izdara no reģistra, kurš saskaņā ar Savienības vai dalībvalsts tiesību aktiem ir paredzēts, lai sniegtu informāciju sabiedrībai, un kuru var izmantot vai nu plaša sabiedrība, vai jebkura persona, kas var pierādīt savas leģitīmās intereses, taču vienīgi tiktāl, ciktāl konkrētajā gadījumā tiek pildīti Savienības vai dalībvalsts tiesību aktos paredzētie izmantošanas nosacījumi.
+
+Ja nosūtīšanu nevar balstīt uz 45. vai 46. pantā ietvertu noteikumu, tostarp noteikumu par saistošiem uzņēmuma noteikumiem, un nav piemērojama neviena no atkāpēm īpašās situācijās saskaņā ar šā punkta pirmo daļu, nosūtīšana uz trešo valsti vai starptautisku organizāciju var notikt tikai tad, ja nosūtīšana neatkārtojas, attiecas vienīgi uz ierobežotu skaitu datu subjektu, ir vajadzīga pārziņa pārliecinošām leģitīmām interesēm, attiecībā uz kurām datu subjekta intereses vai tiesības un brīvības nav svarīgākas, un pārzinis ir novērtējis visus apstākļus saistībā ar datu nosūtīšanu un, pamatojoties uz minēto novērtējumu, ir sniedzis atbilstošas garantijas attiecībā uz personas datu aizsardzību. Pārzinis par nosūtīšanu informē uzraudzības iestādi. Papildus 13. un 14. pantā minētās informācijas sniegšanai pārzinis informē datu subjektu par nosūtīšanu un par pārliecinošām leģitīmām interesēm.
+
+2.  Nosūtot datus saskaņā ar 1. punkta pirmās daļas g) apakšpunktu, nenosūta pilnīgi visus reģistrā ietvertos personas datus vai veselas personas datu kategorijas. Ja reģistrs ir paredzēts, lai to varētu izmantot personas, kurām ir leģitīmas intereses, datus nosūta tikai pēc minēto personu pieprasījuma vai ja šīs personas ir datu saņēmēji.
+
+3.  Šā panta 1. punkta pirmās daļas a), b) un c) apakšpunktu un otro daļu nepiemēro publisko iestāžu darbībai, kad tās īsteno savas publiskās pilnvaras.
+
+4.  Sabiedrības intereses, kas minētas 1. punkta pirmās daļas d) apakšpunktā, ir atzītas Savienības tiesībās vai tās dalībvalsts tiesībās, kas ir piemērojamas pārzinim.
+
+5.  Ja nav lēmuma par aizsardzības līmeņa pietiekamību, Savienības vai dalībvalsts tiesību aktos, ja ir svarīgi iemesli sabiedrības interesēs, skaidri nosaka ierobežojumus attiecībā uz konkrētu kategoriju personas datu nosūtīšanu uz trešo valsti vai starptautisku organizāciju. Dalībvalstis par jebkādiem šādiem noteikumiem paziņo Komisijai.
+
+6.  Pārzinis vai apstrādātājs 30. pantā minētajos datu reģistros dokumentē novērtējumu, kā arī šā panta 1. punkta otrajā daļā izklāstītās atbilstošās garantijas.
+
+50. pants
+
+Starptautiskā sadarbība personas datu aizsardzības jomā
+
+Attiecībā uz trešām valstīm un starptautiskām organizācijām Komisija un uzraudzības iestādes veic atbilstošus pasākumus, lai:
+
+a) izstrādātu starptautiskās sadarbības mehānismus, kas veicina personas datu aizsardzības tiesību aktu efektīvu izpildi;
+
+b) sniegtu starptautisku savstarpēju palīdzību personas datu aizsardzības tiesību aktu izpildei, ietverot paziņošanu, sūdzību tālāku nosūtīšanu, palīdzību izmeklēšanai un informācijas apmaiņu, ievērojot atbilstošas garantijas attiecībā uz personas datu aizsardzību un citas pamattiesības un pamatbrīvības;
+
+c) iesaistītu attiecīgās ieinteresētās personas diskusijās un pasākumos, kuru mērķis ir padziļināt starptautisko sadarbību datu aizsardzības tiesību aktu izpildē;
+
+d) veicinātu personas datu aizsardzības tiesību aktu un prakses piemēru apmaiņu un dokumentēšanu, tostarp attiecībā uz jurisdikcijas konfliktiem ar trešām valstīm.
+
+
+
+VI NODAĻA
+
+Neatkarīgas uzraudzības iestādes
+
+
+
+1. iedaļa
+
+Neatkarība
+
+51. pants
+
+Uzraudzības iestāde
+
+1.  Katra dalībvalsts paredz, ka viena vai vairākas neatkarīgas publiskas iestādes ir atbildīgas par šīs regulas piemērošanas uzraudzību, lai aizsargātu fizisku personu pamattiesības un pamatbrīvības saistībā ar apstrādi un veicinātu personas datu brīvu apriti Savienībā (“uzraudzības iestāde”).
+
+2.  Katra uzraudzības iestāde palīdz nodrošināt šīs regulas konsekventu piemērošanu visā Savienībā. Minētajā nolūkā uzraudzības iestādes sadarbojas cita ar citu un ar Komisiju saskaņā ar VII nodaļu.
+
+3.  Ja dalībvalstī ir vairāk nekā viena uzraudzības iestāde, minētā dalībvalsts ieceļ uzraudzības iestādi, kas pārstāv minētās iestādes kolēģijā, un izstrādā mehānismus, kas nodrošina, ka pārējās iestādes ievēro 63. panta noteikumus par konsekvences mehānismu.
+
+4.  Līdz 2018. gada 25. maijam katra dalībvalsts paziņo Komisijai noteikumus, ko tā pieņem saskaņā ar šo nodaļu, un nekavējoties paziņo Komisijai par jebkuriem turpmākiem šo noteikumu grozījumiem.
+
+52. pants
+
+Neatkarība
+
+1.  Katra uzraudzības iestāde rīkojas pilnīgi neatkarīgi, pildot savus uzdevumus un īstenojot savas pilnvaras saskaņā ar šo regulu.
+
+2.  Katras uzraudzības iestādes loceklis vai locekļi, pildot uzdevumus un īstenojot pilnvaras saskaņā ar šo regulu, ir brīvi no ārējas – tiešas vai netiešas – ietekmes un ne no viena nelūdz un nepieņem norādījumus.
+
+3.  Katras uzraudzības iestādes loceklis vai locekļi atturas veikt jebkādas darbības, kas nav savienojamas ar viņu pienākumiem, un, esot amatā, neuzņemas nekādu citu nesavienojamu algotu vai nealgotu darbu.
+
+4.  Katra dalībvalsts nodrošina, lai katrai uzraudzības iestādei būtu piešķirti cilvēkresursi, tehniskie un finanšu resursi, telpas un infrastruktūra, kas nepieciešami efektīvai tās uzdevumu izpildei un pilnvaru īstenošanai, tostarp arī tādu uzdevumu izpildei un pilnvaru īstenošanai, kuri jāveic saistībā ar savstarpējo palīdzību, sadarbību un dalību kolēģijā.
+
+5.  Katra dalībvalsts nodrošina, lai katra uzraudzības iestāde izraudzītos personālu un lai tai būtu pašai savs personāls, kas būtu pakļauts vienīgi attiecīgās uzraudzības iestādes locekļa vai locekļu vadībai.
+
+6.  Katra dalībvalsts nodrošina, lai katra uzraudzības iestāde būtu pakļauta tādai finanšu kontrolei, kas neietekmē tās neatkarību, un lai tai būtu atsevišķs publisks gada budžets, kas var būt daļa no kopējā valsts budžeta.
+
+53. pants
+
+Vispārīgi noteikumi par uzraudzības iestādes locekļiem
+
+1.  Dalībvalstis paredz, ka katru to uzraudzības iestāžu locekli, izmantojot pārredzamu procedūru, amatā ieceļ:
+
+— to parlamenti,
+
+— to valdības,
+
+— to valsts vadītāji vai
+
+— neatkarīga struktūra, kurai saskaņā ar dalībvalsts tiesību aktiem ir uzticēta iecelšana amatā.
+
+2.  Katram loceklim ir tāda kvalifikācija, pieredze un prasmes, jo īpaši personas datu aizsardzības jomā, kuras vajadzīgas, lai pildītu savus pienākumus un īstenotu savas pilnvaras.
+
+3.  Locekļa pienākumi beidzas līdz ar amata pilnvaru termiņa beigām, atkāpjoties no amata vai atlaišanas gadījumā, saskaņā ar attiecīgās dalībvalsts tiesību aktiem.
+
+4.  Locekli atbrīvo no amata tikai amata pienākumu smaga pārkāpuma gadījumos vai tad, ja viņš vairs neatbilst nosacījumiem, kas izvirzīti, lai pildītu pienākumus.
+
+54. pants
+
+Noteikumi par uzraudzības iestādes izveidi
+
+1.  Katra dalībvalsts tiesību aktos paredz visu turpmāk minēto:
+
+a) katras uzraudzības iestādes izveidi;
+
+b) kvalifikāciju un atbilstības nosacījumus, kas izvirzīti iecelšanai par locekli katrā no uzraudzības iestādēm;
+
+c) noteikumus un procedūras locekļa vai locekļu iecelšanai katrā uzraudzības iestādē;
+
+d) tādu locekļa vai locekļu amata pilnvaru laiku katrā uzraudzības iestādē, kurš nav mazāks par četriem gadiem, izņemot pirmo iecelšanu pēc 2016. gada 24. maija, kad daļēji var iecelt uz īsāku laiku, ja tas ir nepieciešams, lai aizsargātu uzraudzības iestādes neatkarību, šim nolūkam amatā iecelšanas procedūru rīkojot ar laika nobīdi;
+
+e) to, vai katras uzraudzības iestādes locekli vai locekļus var atkārtoti iecelt amatā un, ja var, tad uz cik pilnvaru termiņiem;
+
+f) nosacījumus attiecībā uz katras uzraudzības iestādes locekļa vai locekļu un personāla pienākumiem, aizliegumus attiecībā uz rīcību, ieņemamajiem amatiem un priekšrocībām, kas nav ar tiem savienojami, esot amatā un pēc pilnvaru termiņa beigām, un noteikumus attiecībā uz nodarbinātības pārtraukšanu.
+
+2.  Katras uzraudzības iestādes loceklis vai locekļi un personāls saskaņā ar Savienības vai dalībvalsts tiesību aktiem ievēro pienākumu glabāt dienesta noslēpumu, gan esot amatā, gan arī pēc pilnvaru termiņa beigām, attiecībā uz jebkādu konfidenciālu informāciju, ko tie ir ieguvuši, pildot savus amata pienākumus vai īstenojot pilnvaras. Viņu pilnvaru laikā minētais pienākums glabāt dienesta noslēpumu jo īpaši attiecas uz fizisku personu ziņojumiem par šīs regulas pārkāpumiem.
+
+
+
+2. iedaļa
+
+Kompetence, uzdevumi un pilnvaras
+
+55. pants
+
+Kompetence
+
+1.  Katra uzraudzības iestāde savas dalībvalsts teritorijā ir kompetenta pildīt uzticētos uzdevumus un īstenot pilnvaras, ko tai piešķir saskaņā ar šo regulu.
+
+2.  Ja apstrādi veic publiska iestāde vai privāta struktūra, kas darbojas saskaņā ar 6. panta 1. punkta c) vai e) apakšpunktu, par to ir atbildīga attiecīgās dalībvalsts uzraudzības iestāde. Šādos gadījumos 56. pantu nepiemēro.
+
+3.  Uzraudzības iestādes nav kompetentas uzraudzīt apstrādes darbības, ko veic tiesa, pildot savus uzdevumus.
+
+56. pants
+
+Vadošās uzraudzības iestādes kompetence
+
+1.  Neskarot 55. pantu, galvenās uzņēmējdarbības vietas vai pārziņa vai apstrādātāja darbības vietas uzraudzības iestāde ir kompetenta rīkoties kā vadošā uzraudzības iestāde attiecībā uz minētā pārziņa vai apstrādātāja veiktu pārrobežu apstrādi saskaņā ar 60. pantā paredzēto procedūru.
+
+2.  Atkāpjoties no 1. punkta, ikviena uzraudzības iestāde ir kompetenta izskatīt tai iesniegto sūdzību vai iespējamu šīs regulas pārkāpumu, ja lietas priekšmets attiecas vienīgi uz uzņēmējdarbības vietu tās dalībvalstī vai būtiski ietekmē datu subjektus vienīgi tās dalībvalstī.
+
+3.  Šā panta 2. punktā minētajos gadījumos uzraudzības iestāde nekavējoties par minēto jautājumu informē vadošo uzraudzības iestādi. Trīs nedēļu laikā pēc informēšanas vadošā uzraudzības iestāde nolemj, vai tā izskatīs vai neizskatīs jautājumu saskaņā ar 60. pantā paredzēto procedūru, ņemot vērā to, vai pārzinis vai apstrādātājs veic uzņēmējdarbību tajā dalībvalstī, kuras uzraudzības iestāde sniegusi informāciju.
+
+4.  Ja vadošā uzraudzības iestāde nolemj izskatīt jautājumu, piemēro 60. pantā paredzēto procedūru. Uzraudzības iestāde, kas informēja vadošo uzraudzības iestādi, vadošajai uzraudzības iestādei var iesniegt lēmuma projektu. Vadošā uzraudzības iestāde maksimāli ņem vērā minēto projektu, kad tā izstrādā 60. panta 3. punktā minēto lēmuma projektu.
+
+5.  Ja vadošā uzraudzības iestāde nolemj neizskatīt jautājumu, tā uzraudzības iestāde, kas informēja vadošo uzraudzības iestādi, izskata jautājumu saskaņā ar 61. un 62. pantu.
+
+6.  Vadošā uzraudzības iestāde ir vienīgais pārziņa vai apstrādātāja partneris saistībā ar minētā pārziņa vai apstrādātāja veiktu pārrobežu apstrādi.
+
+57. pants
+
+Uzdevumi
+
+1.  Neskarot citus uzdevumus, kas noteikti ar šo regulu, ikviena uzraudzības iestāde savā teritorijā:
+
+a) uzrauga un īsteno šīs regulas piemērošanu;
+
+b) veicina sabiedrības informētību un izpratni par riskiem, noteikumiem, garantijām un tiesībām saistībā ar apstrādi. Īpašu uzmanību pievērš darbībām, kas konkrēti attiecas uz bērniem;
+
+c) saskaņā ar dalībvalsts tiesību aktiem konsultē valsts parlamentu, valdību un citas iestādes un struktūras par likumdošanas un administratīviem pasākumiem saistībā ar fizisku personu tiesību un brīvību aizsardzību attiecībā uz apstrādi;
+
+d) veicina pārziņu un apstrādātāju izpratni par pienākumiem, ko tiem uztic saskaņā ar šo regulu;
+
+e) pēc pieprasījuma sniedz informāciju ikvienam datu subjektam par viņu tiesību īstenošanu saskaņā ar šo regulu un, ja nepieciešams, minētajā nolūkā sadarbojas ar citu dalībvalstu uzraudzības iestādēm;
+
+f) izskata kāda datu subjekta, struktūras vai organizācijas, vai apvienības iesniegtās sūdzības saskaņā ar 80. pantu, atbilstošā apjomā izmeklē jautājumu un saprātīgā termiņā informē sūdzības iesniedzēju par lietas virzību un izmeklēšanas rezultātiem, jo īpaši, ja ir nepieciešama papildus izmeklēšana vai koordinācija ar citu uzraudzības iestādi;
+
+g) sadarbojas ar citām uzraudzības iestādēm, tostarp apmainās ar informāciju un sniedz savstarpēju palīdzību, lai nodrošinātu konsekventu šīs regulas piemērošanu un izpildi;
+
+h) veic izmeklēšanu par šīs regulas piemērošanu, tostarp, pamatojoties uz informāciju, kas saņemta no citas uzraudzības iestādes vai citas publiskās iestādes;
+
+i) pārrauga attiecīgas attīstības tendences, ciktāl tās ietekmē personas datu aizsardzību, un jo īpaši informācijas un komunikācijas tehnoloģiju un komercprakses attīstību;
+
+j) apstiprina 28. panta 8. punktā un 46. panta 2. punkta d) apakšpunktā minētās līguma standartklauzulas;
+
+k) izveido un uztur sarakstu attiecībā uz prasību veikt novērtējumu par ietekmi uz datu aizsardzību saskaņā ar 35. panta 4. punktu;
+
+l) sniedz padomus par 36. panta 2. punktā minētajām apstrādes darbībām;
+
+m) veicina rīcības kodeksu izstrādi saskaņā ar 40. panta 1. punktu un saskaņā ar 40. panta 5. punktu sniedz atzinumu un apstiprina šādus rīcības kodeksus, kas sniedz pietiekamas garantijas;
+
+n) veicina datu aizsardzības sertifikācijas mehānismu un datu aizsardzības zīmogu un marķējumu izveidi saskaņā ar 42. panta 1. punktu un apstiprina sertifikācijas kritērijus saskaņā ar 42. panta 5. punktu;
+
+o) attiecīgā gadījumā veic periodisku pārbaudi tiem sertifikātiem, kas izsniegti saskaņā ar 42. panta 7. punktu;
+
+▼C1
+
+p) izstrādā un publicē akreditācijas prasības, lai akreditētu struktūru, kas uzrauga rīcības kodeksus, saskaņā ar 41. pantu un sertifikācijas struktūru saskaņā ar 43. pantu;
+
+▼B
+
+q) veic akreditāciju struktūrai, kas uzrauga rīcības kodeksus, saskaņā ar 41. pantu un sertifikācijas struktūrai saskaņā ar 43. pantu;
+
+r) apstiprina 46. panta 3. punktā minētās līguma klauzulas un noteikumus;
+
+s) apstiprina saistošos uzņēmuma noteikumus saskaņā ar 47. pantu;
+
+t) veicina kolēģijas darbības;
+
+u) uztur iekšēju reģistru par šīs regulas pārkāpumiem un saskaņā ar 58. panta 2. punktu veiktajiem pasākumiem; un
+
+v) pilda jebkādus citus uzdevumus saistībā ar personas datu aizsardzību.
+
+2.  Katra uzraudzības iestāde atvieglo 1. punkta f) apakšpunktā minēto sūdzību iesniegšanu ar tādiem pasākumiem kā, piemēram, sūdzības iesniegšanas veidlapu, kuru var aizpildīt arī elektroniski, neizslēdzot arī iespēju izmantot citus saziņas līdzekļus.
+
+3.  Attiecībā uz datu subjektu un attiecīgā gadījumā datu aizsardzības speciālistu katra uzraudzības iestāde savus uzdevumus veic bez maksas.
+
+4.  Ja pieprasījumi ir acīmredzami nepamatoti vai pārmērīgi, jo īpaši to regulāras atkārtošanās dēļ, uzraudzības iestāde var iekasēt saprātīgu samaksu, kas balstīta uz administratīvām izmaksām, vai atteikties veikt pieprasīto darbību. Uzraudzības iestādes pienākums ir pierādīt, ka pieprasījums ir acīmredzami nepamatots vai pārmērīgs.
+
+58. pants
+
+Pilnvaras
+
+1.  Katrai uzraudzības iestādei ir visas šādas izmeklēšanas pilnvaras:
+
+a) izdot rīkojumu pārzinim un apstrādātājam, un attiecīgā gadījumā pārziņa vai apstrādātāja pārstāvim sniegt visu informāciju, kas nepieciešama tās uzdevumu veikšanai;
+
+b) veikt izmeklēšanas, izmantojot datu aizsardzības revīzijas;
+
+c) veikt pārbaudi tiem sertifikātiem, kas izsniegti saskaņā ar 42. panta 7. punktu;
+
+d) paziņot pārzinim vai apstrādātājam par aizdomām par šīs regulas iespējamu pārkāpšanu;
+
+e) iegūt no pārziņa un apstrādātāja piekļuvi visiem personas datiem un visai informācijai, kas nepieciešama tās uzdevumu veikšanai;
+
+f) iegūt piekļuvi visām pārziņa un apstrādātāja telpām, tostarp jebkādām datu apstrādes iekārtām un līdzekļiem, saskaņā ar Savienības vai dalībvalsts procesuālajiem tiesību aktiem.
+
+2.  Katrai uzraudzības iestādei ir visas šādas korektīvās pilnvaras:
+
+a) brīdināt pārzini vai apstrādātāju, ka ar paredzētajām apstrādes darbībām, iespējams, var tikt pārkāpti šīs regulas noteikumi;
+
+b) izteikt rājienu pārzinim vai apstrādātājam, ja ar apstrādes darbībām ir tikuši pārkāpti šīs regulas noteikumi;
+
+c) izdot rīkojumu pārzinim vai apstrādātājam izpildīt datu subjekta pieprasījumu īstenot viņam saskaņā ar šo regulu piešķirtās tiesības;
+
+d) izdot rīkojumu pārzinim vai apstrādātājam saskaņot apstrādes darbības ar šīs regulas noteikumiem, vajadzības gadījumā – konkrētā veidā un konkrētā laikposmā;
+
+e) izdot rīkojumu pārzinim paziņot datu subjektam par personas datu aizsardzības pārkāpumu;
+
+f) uzlikt pagaidu vai galīgu apstrādes ierobežojumu, tostarp aizliegumu;
+
+g) izdot rīkojumu par personas datu labošanu vai dzēšanu, vai apstrādes ierobežošanu, ievērojot 16., 17. un 18. pantu, un par šādām darbībām informēt saņēmējus, kuriem personas dati ir izpausti, ievērojot 17. panta 2. punktu un 19. pantu;
+
+h) atsaukt sertifikātu vai izdot rīkojumu sertifikācijas struktūrai atsaukt sertifikātu, kurš izsniegts, ievērojot 42. un 43. pantu, vai izdot rīkojumu sertifikācijas struktūrai neizsniegt sertifikātu, ja nav izpildītas vai vairs netiek pildītas sertifikācijas prasības;
+
+i) piemērot administratīvu naudas sodu saskaņā ar 83. pantu, papildinot vai aizstājot šajā punktā minētos pasākumus atkarībā no katras konkrētās lietas apstākļiem;
+
+j) izdot rīkojumu apturēt datu plūsmu pie saņēmēja trešā valstī vai pie starptautiskas organizācijas.
+
+3.  Katrai uzraudzības iestādei ir visas šādas atļauju izsniegšanas un padomdevēja pilnvaras:
+
+a) konsultēt pārzini saskaņā ar 36. pantā minēto iepriekšējas apspriešanās procedūru;
+
+b) pēc savas iniciatīvas vai pēc pieprasījuma sniegt atzinumus valsts parlamentam, dalībvalsts valdībai vai – saskaņā ar dalībvalsts tiesību aktiem – citām iestādēm un struktūrām, kā arī sabiedrībai par jebkuru jautājumu, kas saistīts ar personas datu aizsardzību;
+
+c) dot atļauju uzsākt apstrādi, kas minēta 36. panta 5. punktā, ja dalībvalsts tiesību aktos ir paredzēta šāda iepriekšēja atļauja;
+
+d) saskaņā ar 40. panta 5. punktu sniegt atzinumu par rīcības kodeksa projektu un to apstiprināt;
+
+e) akreditēt sertifikācijas struktūras saskaņā ar 43. pantu;
+
+f) izsniegt sertifikātus un apstiprināt sertifikācijas kritērijus saskaņā ar 42. panta 5. punktu;
+
+g) pieņemt standarta datu aizsardzības klauzulas, kas minētas 28. panta 8. punktā un 4. panta 2. punkta d) apakšpunktā;
+
+h) apstiprināt līguma klauzulas, kas minētas 46. panta 3. punkta a) apakšpunktā;
+
+i) apstiprināt administratīvās vienošanās, kas minētas 46. panta 3. punkta b) apakšpunktā;
+
+j) apstiprināt saistošos uzņēmuma noteikumus saskaņā ar 47. pantu.
+
+4.  Uzraudzības iestāde saskaņā ar šo pantu piešķirto pilnvaru īstenošanā ievēro atbilstošas garantijas, tostarp efektīvu tiesību aizsardzību tiesā un pienācīgas procedūras, kas noteiktas Savienības un dalībvalstu tiesību aktos saskaņā ar hartu.
+
+5.  Katra dalībvalsts ar tiesību aktiem paredz, ka tās uzraudzības iestādei ir pilnvaras pievērst tiesu iestāžu uzmanību šīs regulas pārkāpumiem un vajadzības gadījumā uzsākt tiesvedību vai kā citādi iesaistīties tiesvedībā, lai īstenotu šīs regulas noteikumus.
+
+6.  Katra dalībvalsts var ar tiesību aktiem paredzēt, ka tās uzraudzības iestādei ir vēl citas pilnvaras papildus tām, kas minētas 1., 2. un 3. punktā. Minēto pilnvaru īstenošana netraucē VII nodaļas efektīvai darbībai.
+
+59. pants
+
+Darbības pārskati
+
+Katra uzraudzības iestāde par savu darbību sagatavo gada pārskatu, kurā var būt iekļauts saraksts ar paziņoto pārkāpumu veidiem un saskaņā ar 58. panta 2. punktu veikto pasākumu veidiem. Minētos pārskatus nosūta valsts parlamentam, valdībai un citām iestādēm, kas izraudzītas dalībvalsts tiesību aktos. Tos dara pieejamus sabiedrībai, Komisijai un kolēģijai.
+
+
+
+VII NODAĻA
+
+Sadarbība un konsekvence
+
+
+
+1. iedaļa
+
+Sadarbība
+
+60. pants
+
+Sadarbība starp vadošo uzraudzības iestādi un citām attiecīgajām uzraudzības iestādēm
+
+1.  Vadošā uzraudzības iestāde sadarbojas ar citām attiecīgajām uzraudzības iestādēm saskaņā ar šo pantu nolūkā panākt konsensu. Vadošā uzraudzības iestāde un attiecīgās uzraudzības iestādes savstarpēji apmainās ar visu būtisko informāciju.
+
+2.  Vadošā uzraudzības iestāde jebkurā laikā var lūgt citām attiecīgajām uzraudzības iestādēm sniegt savstarpēju palīdzību saskaņā ar 61. pantu un var veikt kopīgas operācijas saskaņā ar 62. pantu, jo īpaši nolūkā veikt izmeklēšanu vai uzraudzīt pasākuma īstenošanu saistībā ar pārzini vai apstrādātāju, kas veic uzņēmējdarbību citā dalībvalstī.
+
+3.  Vadošā uzraudzības iestāde nekavējoties nosūta attiecīgo informāciju par lietu citām attiecīgajām uzraudzības iestādēm. Tā nekavējoties nosūta citām attiecīgajām uzraudzības iestādēm lēmuma projektu, lai saņemtu to atzinumu un pienācīgi ņemtu vērā to viedokli.
+
+4.  Ja kāda no citām attiecīgajām uzraudzības iestādēm četru nedēļu laikā pēc konsultēšanās saskaņā ar šā panta 3. punktu izsaka būtisku un motivētu iebildumu par lēmuma projektu, vadošā uzraudzības iestāde, ja tā neņem vērā būtisku un motivētu iebildumu vai uzskata, ka iebildums nav būtisks vai motivēts, iesniedz lietu izskatīšanai saskaņā ar 63. pantā minēto konsekvences mehānismu.
+
+5.  Ja vadošā uzraudzības iestāde ir nolēmusi piekrist izteiktajam būtiskajam un motivētajam iebildumam, tā citām attiecīgajām uzraudzības iestādēm nosūta pārskatītu lēmuma projektu atzinuma saņemšanai. Uz minēto pārskatīto lēmuma projektu divu nedēļu laikposmā attiecas 4. punktā minētā procedūra.
+
+6.  Ja neviena no citām attiecīgajām uzraudzības iestādēm 4. un 5. punktā minētajā laikposmā neiebilst pret vadošās uzraudzības iestādes nosūtīto lēmuma projektu, uzskata, ka vadošā uzraudzības iestāde un attiecīgās uzraudzības iestādes ir vienojušās par minēto lēmuma projektu un tas viņām ir saistošs.
+
+7.  Vadošā uzraudzības iestāde pieņem lēmumu un to paziņo attiecīgi uz pārziņa vai apstrādātāja galveno vai vienīgo uzņēmējdarbības vietu un par minēto lēmumu informē attiecīgās uzraudzības iestādes un kolēģiju, tostarp sniedzot attiecīgo faktu un pamatojumu kopsavilkumu. Uzraudzības iestāde, kurā iesniegta sūdzība, informē sūdzības iesniedzēju par lēmumu.
+
+8.  Atkāpjoties no 7. punkta, ja sūdzība ir noraidīta, uzraudzības iestāde, kurā bija iesniegta sūdzība, pieņem lēmumu un to paziņo sūdzības iesniedzējam un par to informē pārzini.
+
+9.  Ja vadošā uzraudzības iestāde un attiecīgās uzraudzības iestādes vienojas noraidīt daļu no sūdzības un rīkoties attiecībā uz pārējo minētās sūdzības daļu, par katru no šā jautājuma daļām pieņem atsevišķu lēmumu. Vadošā uzraudzības iestāde pieņem lēmumu par daļu, kas attiecas uz rīcību attiecībā uz pārzini, paziņo to pārziņa vai apstrādātāja galvenajai vai vienīgajai uzņēmējdarbības vietai tās dalībvalsts teritorijā un par to informē sūdzības iesniedzēju; savukārt uzraudzības iestāde, kurā iesniegta sūdzība, pieņem lēmumu par to minētās sūdzības daļu, kuru noraida, un to paziņo minētajam sūdzības iesniedzējam un informē par to pārzini vai apstrādātāju.
+
+10.  Pēc vadošās uzraudzības iestādes lēmuma saņemšanas saskaņā ar 7. un 9. punktu pārzinis vai apstrādātājs īsteno vajadzīgos pasākumus, lai nodrošinātu atbilstību šim lēmumam attiecībā uz apstrādes darbībām visās tā uzņēmējdarbības vietās Savienībā. Pārzinis vai apstrādātājs par pasākumiem, kas īstenoti nolūkā nodrošināt atbilstību šim lēmumam, paziņo vadošajai uzraudzības iestādei, kura informē citas attiecīgās uzraudzības iestādes.
+
+11.  Ja ārkārtas apstākļos attiecīgajai uzraudzības iestādei ir pamats uzskatīt, ka ir steidzami jārīkojas, lai aizsargātu datu subjektu intereses, piemēro 66. pantā minēto steidzamības procedūru.
+
+12.  Vadošā uzraudzības iestāde un citas attiecīgās uzraudzības iestādes savstarpēji sniedz šajā pantā minēto informāciju elektroniskā veidā, izmantojot standarta formātu.
+
+61. pants
+
+Savstarpēja palīdzība
+
+1.  Uzraudzības iestādes sniedz cita citai visu attiecīgo informāciju un savstarpēju palīdzību, lai konsekventi īstenotu un piemērotu šo regulu, un īsteno pasākumus efektīvai savstarpējai sadarbībai. Savstarpēja palīdzība ietver jo īpaši informācijas pieprasījumus un uzraudzības pasākumus, piemēram, pieprasījumus sniegt iepriekšējas atļaujas un veikt apspriešanos, pārbaudes un izmeklēšanas.
+
+2.  Katra uzraudzības iestāde veic visus atbilstīgos pasākumus, kas nepieciešami, lai bez nepamatotas kavēšanās un ne vēlāk kā viena mēneša laikā pēc pieprasījuma saņemšanas atbildētu uz kādas citas uzraudzības iestādes pieprasījumu. Šādi pasākumi jo īpaši var ietvert attiecīgas informācijas par izmeklēšanas gaitu nosūtīšanu.
+
+3.  Palīdzības pieprasījumos ir norādīta visa nepieciešamā informācija, tostarp pieprasījuma nolūks un pamatojums. Apmaiņā iegūto informāciju izmanto tikai tam nolūkam, kādam tā tika pieprasīta.
+
+4.  Uzraudzības iestāde, kurai pieprasījums adresēts, neatsakās izpildīt pieprasījumu, izņemot, ja:
+
+a) pieprasījuma priekšmets vai pasākumi, kurus lūdz izpildīt, nav tās kompetencē; vai
+
+b) pieprasījuma izpilde pārkāptu šo regulu vai Savienības vai dalībvalsts tiesību aktus, ko piemēro uzraudzības iestādei, kura saņēmusi pieprasījumu.
+
+5.  Uzraudzības iestāde, kurai pieprasījums adresēts, informē pieprasošo uzraudzības iestādi par rezultātiem vai attiecīgā gadījumā par progresu vai pasākumiem, kas veikti, lai izpildītu pieprasījumu. Uzraudzības iestāde, kurai pieprasījums adresēts, ievērojot 4. punktu, paskaidro iemeslus jebkuram atteikumam izpildīt pieprasījumu.
+
+6.  Uzraudzības iestādes, kurām pieprasījums adresēts, parasti sniedz citu uzraudzības iestāžu pieprasīto informāciju elektroniskā veidā, izmantojot standarta formātu.
+
+7.  Uzraudzības iestādes, kurām pieprasījums adresēts, neprasa samaksu par darbībām, ko tās veikušas, ievērojot savstarpējās palīdzības pieprasījumu. Uzraudzības iestādes var vienoties par noteikumiem, kā savā starpā kompensēt īpašos izdevumus, kas radušies no savstarpējas palīdzības sniegšanas ārkārtas apstākļos.
+
+8.  Ja uzraudzības iestāde nesniedz šā panta 5. punktā minēto informāciju viena mēneša laikā pēc citas uzraudzības iestādes pieprasījuma saņemšanas, pieprasošā uzraudzības iestāde savas dalībvalsts teritorijā var pieņemt pagaidu pasākumu saskaņā ar 55. panta 1. punktu. Minētajā gadījumā tiek uzskatīts, ka saskaņā ar 66. panta 1. punktu ir steidzami jārīkojas un ir nepieciešams steidzams kolēģijas saistošs lēmums saskaņā ar 66. panta 2. punktu.
+
+9.  Komisija ar īstenošanas aktiem var noteikt formātu un procedūras savstarpējai palīdzībai, kas minēta šajā pantā, un kārtību, kādā uzraudzības iestādes savā starpā un ar kolēģiju apmainās ar informāciju, izmantojot elektroniskos līdzekļus, jo īpaši standarta formātu, kas minēts šā panta 6. punktā. Minētos īstenošanas aktus pieņem saskaņā ar pārbaudes procedūru, kas minēta 93. panta 2. punktā.
+
+62. pants
+
+Uzraudzības iestāžu kopīgās operācijas
+
+1.  Uzraudzības iestādes vajadzības gadījumā veic kopīgas operācijas, tostarp kopīgu izmeklēšanu un kopīgus izpildes pasākumus, kuros iesaistās citu dalībvalstu uzraudzības iestāžu locekļi vai personāls.
+
+2.  Ja pārzinis vai apstrādātājs veic uzņēmējdarbību vairākās dalībvalstīs vai apstrādes darbības var būtiski ietekmēt ievērojamu skaitu datu subjektu vairāk nekā vienā dalībvalstī, uzraudzības iestādei katrā no šīm dalībvalstīm ir tiesības piedalīties kopīgajās operācijās. Uzraudzības iestāde, kura ir kompetenta, ievērojot 56. panta 1. vai 4. punktu, aicina uzraudzības iestādes katrā no minētajām dalībvalstīm piedalīties kopīgajās operācijās un bez kavēšanās atbild uzraudzības iestādes pieprasījumam par piedalīšanos.
+
+3.  Katra uzraudzības iestāde var saskaņā ar dalībvalsts tiesību aktiem un ar pilnvaru pārņēmējas uzraudzības iestādes piekrišanu piešķirt pilnvaras, tostarp izmeklēšanas pilnvaras, pilnvaru pārņēmējas uzraudzības iestādes locekļiem vai personālam, kas iesaistīti kopīgās operācijās, vai tādā apmērā, kā to pieļauj uzņemošās uzraudzības iestādes dalībvalsts tiesību akti, var atļaut pilnvaru pārņēmējas uzraudzības iestādes locekļiem vai personālam īstenot viņu izmeklēšanas pilnvaras saskaņā ar pilnvaru pārņēmējas uzraudzības iestādes dalībvalsts tiesību aktiem. Šādas izmeklēšanas pilnvaras var īstenot tikai uzņemošās uzraudzības iestādes vadībā un tās locekļu vai personāla klātbūtnē. Pilnvaru pārņēmējas uzraudzības iestādes locekļiem vai personālam piemēro uzņemošās uzraudzības iestādes dalībvalsts tiesību aktus.
+
+4.  Ja saskaņā ar šā panta 1. punktu pilnvaru pārņēmējas uzraudzības iestādes personāls darbojas citā dalībvalstī, uzņemošās uzraudzības iestādes dalībvalsts uzņemas atbildību par tā darbībām, tostarp atbildību par jebkādu tā operāciju laikā nodarīto kaitējumu saskaņā ar tās dalībvalsts tiesību aktiem, kuras teritorijā tas darbojas.
+
+5.  Dalībvalsts, kuras teritorijā ir nodarīts kaitējums, novērš šādu kaitējumu saskaņā ar nosacījumiem, kurus piemēro šīs valsts personāla nodarītam kaitējumam. Pilnvaru pārņēmējas uzraudzības iestādes dalībvalsts, kuras personāls ir nodarījis kaitējumu kādai personai citas dalībvalsts teritorijā, minētajai citai dalībvalstij pilnībā atlīdzina visas summas, ko tā samaksājusi tās vārdā pilnvarotajām personām.
+
+6.  Neskarot dalībvalstu tiesību īstenošanu attiecībā uz trešām personām un izņemot 5. punktu, ikviena dalībvalsts 1. punktā paredzētajā gadījumā atturas pieprasīt atlīdzību no citas dalībvalsts par 4. punktā minēto kaitējumu.
+
+7.  Ja tiek plānota kopīga operācija un uzraudzības iestāde viena mēneša laikā neievēro pienākumus, kas minēti šā panta 2. punkta otrajā teikumā, pārējās uzraudzības iestādes var pieņemt pagaidu pasākumu šīs dalībvalsts teritorijā saskaņā ar 55. pantu. Minētajā gadījumā tiek uzskatīts, ka saskaņā ar 66. panta 1. punktu ir steidzami jārīkojas un ir nepieciešams steidzams kolēģijas atzinums vai saistošs lēmums saskaņā ar 66. panta 2. punktu.
+
+
+
+2. iedaļa
+
+Konsekvence
+
+63. pants
+
+Konsekvences mehānisms
+
+Lai sekmētu šīs regulas konsekventu piemērošanu visā Savienībā, uzraudzības iestādes sadarbojas cita ar citu un attiecīgā gadījumā ar Komisiju, izmantojot konsekvences mehānismu, kā izklāstīts šajā iedaļā.
+
+64. pants
+
+Kolēģijas atzinums
+
+1.  Kolēģija sniedz atzinumu, ja kompetentā uzraudzības iestāde gatavojas pieņemt jebkuru no turpmāk minētajiem pasākumiem. Šādā nolūkā kompetentā uzraudzības iestāde kolēģijai nosūta lēmuma projektu, kad:
+
+a) tā ir paredzējusi pieņemt sarakstu ar apstrādes darbībām, kam piemēro prasību par novērtējumu par ietekmi uz datu aizsardzību saskaņā ar 35. panta 4. punktu;
+
+b) tas attiecas uz jautājumu saskaņā ar 40. panta 7. punktu par to, vai rīcības kodeksa projekts vai tā grozījums vai papildinājums atbilst šai regulai;
+
+▼C1
+
+c) tā ir paredzējusi apstiprināt prasības struktūras akreditācijai saskaņā ar 41. panta 3. punktu, sertifikācijas struktūras akreditācijai saskaņā ar 43. panta 3. punktu vai 42. panta 5. punktā minētos sertifikācijas kritērijus;
+
+▼B
+
+d) tā ir paredzējusi noteikt standarta datu aizsardzības klauzulas, kas minētas 46. panta 2. punkta d) apakšpunktā un 28. panta 8. punktā;
+
+e) tā ir paredzējusi apstiprināt 46. panta 3. punkta a) apakšpunktā minētās līguma klauzulas; vai
+
+f) tā ir paredzējusi apstiprināt saistošos uzņēmuma noteikumus 47. panta nozīmē.
+
+2.  Jebkura uzraudzības iestāde, kolēģijas priekšsēdētājs vai Komisija var pieprasīt, lai kolēģija izskata jebkuru jautājumu par vispārējo piemērošanu vai kas rada sekas vairāk nekā vienā dalībvalstī nolūkā saņemt atzinumu, jo īpaši, ja kompetentā uzraudzības iestāde neievēro savstarpējas palīdzības pienākumu saskaņā ar 61. pantu vai kopīgu operāciju pienākumu saskaņā ar 62. pantu.
+
+3.  Gadījumos, kas minēti 1. un 2. punktā, kolēģija sniedz atzinumu par tai iesniegto jautājumu ar noteikumu, ka tā par to pašu jautājumu nav jau sniegusi atzinumu. Minēto atzinumu pieņem astoņu nedēļu laikā ar kolēģijas locekļu vienkāršu balsu vairākumu. Minēto termiņu var pagarināt vēl par sešām nedēļām, ņemot vērā jautājuma sarežģītību. Attiecībā uz 1. punktā minēto lēmuma projektu, kas saskaņā ar 5. punktu izplatīts kolēģijas locekļiem, uzskata, ka loceklis, kas priekšsēdētāja norādītā saprātīgā termiņā nav paudis iebildumus, piekrīt lēmuma projektam.
+
+4.  Uzraudzības iestādes un Komisija, izmantojot standarta formātu, bez nepamatotas kavēšanās elektroniski paziņo kolēģijai visu attiecīgo informāciju, ietverot attiecīgā gadījumā arī faktu kopsavilkumu, lēmuma projektu, pamatojumu, kāpēc šāds pasākums ir nepieciešams, un citu attiecīgo uzraudzības iestāžu viedokļus.
+
+5.  Kolēģijas priekšsēdētājs bez nepamatotas kavēšanās elektroniski informē:
+
+a) kolēģijas locekļus un Komisiju par visu attiecīgo informāciju, kas paziņota kolēģijai, izmantojot standarta formātu. Ja nepieciešams, kolēģijas sekretariāts nodrošina attiecīgās informācijas tulkojumus; un
+
+b) uzraudzības iestādi, kas attiecīgā gadījumā minēta 1. un 2. punktā, un Komisiju par atzinumu un to publisko.
+
+▼C1
+
+6.  Kompetentā uzraudzības iestāde, kas minēta 1. punktā, nepieņem 1. punktā minēto lēmuma projektu 3. punktā minētajā laikposmā.
+
+7.  Kompetentā uzraudzības iestāde, kas minēta 1. punktā, vislielākajā mērā ņem vērā kolēģijas atzinumu un divu nedēļu laikā pēc atzinuma saņemšanas, izmantojot standarta formātu, elektroniski paziņo kolēģijas priekšsēdētājam, vai tā paturēs spēkā vai grozīs savu lēmuma projektu un grozījumu gadījumā informē par grozīto lēmuma projektu.
+
+8.  Ja kompetentā uzraudzības iestāde, kas minēta 1. punktā, šā panta 7. punktā minētajā termiņā informē kolēģijas priekšsēdētāju, ka ir nolēmusi pilnībā vai daļēji neievērot kolēģijas atzinumu, sniedzot attiecīgo pamatojumu, tiek piemērots 65. panta 1. punkts.
+
+▼B
+
+65. pants
+
+Strīdu risināšana kolēģijā
+
+1.  Lai nodrošinātu šīs regulas pareizu un konsekventu piemērošanu katrā atsevišķā gadījumā, kolēģija pieņem saistošu lēmumu šādos gadījumos:
+
+a)  ►C1  ja 60. panta 4. punktā minētajā gadījumā attiecīgā uzraudzības iestāde ir cēlusi būtisku un motivētu iebildumu pret vadošās uzraudzības iestādes lēmuma projektu un vadošā uzraudzības iestāde nav ievērojusi iebildumu vai ir noraidījusi šādu iebildumu kā nebūtisku vai nemotivētu. ◄ Saistošais lēmums skar visus jautājumus, kas ir būtiskā un motivētā iebilduma priekšmets, jo īpaši jautājumu par to, vai ir pārkāpta šī regula;
+
+b) ja ir pretēji viedokļi par to, kurai attiecīgajai uzraudzības iestādei ir kompetence par galveno uzņēmējdarbības vietu;
+
+c) ja kompetentā uzraudzības iestāde 64. panta 1. punktā minētajos gadījumos nepieprasa kolēģijas atzinumu vai neievēro kolēģijas atzinumu, kas izsniegts saskaņā ar 64. pantu. Šādā gadījumā jebkura attiecīgā uzraudzības iestāde vai Komisija var par to informēt kolēģiju.
+
+2.  Lēmumu, kas minēts 1. punktā, pieņem viena mēneša laikā pēc tam, kad kolēģijas locekļu divu trešdaļu vairākums ir iesniedzis jautājumu. Minēto termiņu var pagarināt vēl par vienu mēnesi, ņemot vērā jautājuma sarežģītību. Šā panta 1. punktā minēto lēmumu motivē un adresē vadošajai uzraudzības iestādei un visām attiecīgajām uzraudzības iestādēm, un tas ir tām saistošs.
+
+3.  Ja kolēģija 2. punktā minētajos termiņos nav varējusi pieņemt lēmumu, tā savu lēmumu pieņem ar kolēģijas locekļu vienkāršu balsu vairākumu divu nedēļu laikā pēc tam, kad ir beidzies 2. punktā minētais otrais mēnesis. Ja kolēģijas locekļu balsojums ir neizšķirts, lēmuma pieņemšanu izšķir tās priekšsēdētāja balss.
+
+4.  Termiņos, kas minēti 2. un 3. punktā, attiecīgās uzraudzības iestādes nepieņem lēmumu par jautājumu, kas iesniegts kolēģijai saskaņā ar 1. punktu.
+
+5.  Kolēģijas priekšsēdētājs bez nepamatotas kavēšanās 1. punktā minēto lēmumu paziņo attiecīgajām uzraudzības iestādēm. Tā informē par to Komisiju. Pēc tam, kad uzraudzības iestāde ir paziņojusi 6. punktā minēto galīgo lēmumu, lēmumu nekavējoties publicē kolēģijas tīmekļa vietnē.
+
+6.  Vadošā uzraudzības iestāde vai attiecīgā gadījumā tā uzraudzības iestāde, kurai ir iesniegta sūdzība, pieņem savu galīgo lēmumu uz šā panta 1. punktā minētā lēmuma pamata bez nepamatotas kavēšanās un ne vēlāk kā vienu mēnesi pēc tam, kad kolēģija ir paziņojusi savu lēmumu. Vadošā uzraudzības iestāde vai attiecīgā gadījumā tā uzraudzības iestāde, kurai ir iesniegta sūdzība, informē kolēģiju par to, kurā dienā tās galīgais lēmums ir paziņots, attiecīgi, pārzinim vai apstrādātājam un datu subjektam. Attiecīgo uzraudzības iestāžu galīgo lēmumu pieņem saskaņā ar 60. panta 7., 8. un 9. punkta noteikumiem. Galīgajā lēmumā atsaucas uz šā panta 1. punktā minēto lēmumu un norāda, ka minētajā punktā minētais lēmums tiks publicēts kolēģijas tīmekļa vietnē saskaņā ar šā panta 5. punktu. Galīgajam lēmumam pievieno šā panta 1. punktā minēto lēmumu.
+
+66. pants
+
+Steidzamības procedūra
+
+1.  Ārkārtas apstākļos, ja kāda attiecīgā uzraudzības iestāde uzskata, ka ir steidzami jārīkojas, lai aizsargātu datu subjektu tiesības un brīvības, tā, atkāpjoties no 63., 64. un 65. pantā minētā konsekvences mehānisma vai 60. pantā minētās procedūras, var nekavējoties pieņemt pagaidu pasākumus, kuru nolūks ir radīt tiesiskas sekas savā teritorijā, norādot konkrētu spēkā esamības laikposmu, kas nepārsniedz trīs mēnešus. Uzraudzības iestāde šos pasākumus un to pieņemšanas iemeslus nekavējoties dara zināmus citām attiecīgajām uzraudzības iestādēm, kolēģijai un Komisijai.
+
+2.  Ja uzraudzības iestāde ir pieņēmusi pasākumu saskaņā ar 1. punktu un uzskata, ka ir steidzami jāpieņem galīgie pasākumi, tā var lūgt steidzamu atzinumu vai steidzamu saistošu lēmumu no kolēģijas, pamatojot šāda atzinuma vai lēmuma nepieciešamību.
+
+3.  Jebkura uzraudzības iestāde var lūgt steidzamu atzinumu vai attiecīgā gadījumā steidzamu saistošu lēmumu no kolēģijas, ja kāda kompetentā uzraudzības iestāde nav veikusi atbilstošu pasākumu situācijā, kad ir steidzama vajadzība rīkoties, lai aizsargātu datu subjektu tiesības un brīvības, pamatojot šāda atzinuma vai lēmuma nepieciešamību, tostarp vajadzību steidzami rīkoties.
+
+4.  Atkāpjoties no 64. panta 3. punkta un 65. panta 2. punkta, steidzamu atzinumu vai steidzamu saistošu lēmumu, kas minēts šā panta 2. un 3. punktā, pieņem divu nedēļu laikā ar kolēģijas locekļu vienkāršu balsu vairākumu.
+
+67. pants
+
+Informācijas apmaiņa
+
+Komisija var pieņemt vispārēji piemērojamus īstenošanas aktus, lai noteiktu kārtību, kādā, izmantojot elektroniskus līdzekļus, uzraudzības iestādes apmainās ar informāciju savā starpā un ar kolēģiju, jo īpaši nosakot standarta formātu, kas minēts 64. pantā.
+
+Minētos īstenošanas aktus pieņem saskaņā ar pārbaudes procedūru, kas minēta 93. panta 2. punktā.
+
+
+
+3. iedaļa
+
+Eiropas Datu aizsardzības kolēģija
+
+68. pants
+
+Eiropas Datu aizsardzības kolēģija
+
+1.  Ar šo tiek izveidota Eiropas Datu aizsardzības kolēģija (“kolēģija”) kā Savienības struktūra, un tā ir tiesību subjekts.
+
+2.  Kolēģiju pārstāv tās priekšsēdētājs.
+
+3.  Kolēģija sastāv no katras dalībvalsts vienas uzraudzības iestādes vadītāja un Eiropas Datu aizsardzības uzraudzītāja vai viņu attiecīgajiem pārstāvjiem.
+
+4.  Ja dalībvalstī par šīs regulas noteikumu piemērošanas uzraudzību atbild vairāk nekā viena uzraudzības iestāde, saskaņā ar minētās dalībvalsts tiesību aktiem ieceļ kopīgu pārstāvi.
+
+5.  Komisijai ir tiesības piedalīties kolēģijas darbībā un sanāksmēs bez balsošanas tiesībām. Komisija norīko pārstāvi. Kolēģijas priekšsēdētājs paziņo Komisijai par kolēģijas darbībām.
+
+6.  Gadījumos, kas minēti 65. pantā, Eiropas Datu aizsardzības uzraudzītājam ir balsošanas tiesības vienīgi par lēmumiem, kas attiecas uz principiem un noteikumiem, kuri ir piemērojami Savienības iestādēm, struktūrām, birojiem un aģentūrām un kuri pēc būtības atbilst šīs regulas principiem un noteikumiem.
+
+69. pants
+
+Neatkarība
+
+1.  Kolēģija, pildot savus uzdevumus vai īstenojot savas pilnvaras saskaņā ar 70. un 71. pantu, rīkojas neatkarīgi.
+
+▼C1
+
+2.  Neskarot Komisijas pieprasījumus, kas minēti 70. panta 1. un 2. punktā, kolēģija, pildot savus uzdevumus vai īstenojot savas pilnvaras, ne no viena nelūdz un nepieņem norādījumus.
+
+▼B
+
+70. pants
+
+Kolēģijas uzdevumi
+
+1.  Kolēģija nodrošina šīs regulas konsekventu piemērošanu. Šim nolūkam kolēģija pēc savas iniciatīvas vai attiecīgā gadījumā pēc Komisijas pieprasījuma jo īpaši:
+
+a) pārrauga un nodrošina šīs regulas pareizu piemērošanu gadījumos, kas paredzēti 64 un 65. pantā, neskarot valstu uzraudzības iestāžu uzdevumus;
+
+b) sniedz padomus Komisijai par visiem jautājumiem, kas attiecas uz personas datu aizsardzību Savienībā, tai skaitā par visiem šīs regulas grozījumiem, kas tiek ierosināti;
+
+c) sniedz padomus Komisijai par formātu un procedūrām informācijas apmaiņai starp pārziņiem, apstrādātājiem un uzraudzības iestādēm attiecībā uz saistošiem uzņēmuma noteikumiem;
+
+d) nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi attiecībā uz procedūrām saišu uz personas datiem, datu kopiju un atveidojumu dzēšanai no publiski pieejamiem komunikācijas pakalpojumiem, kā minēts 17. panta 2. punktā;
+
+e) pēc pašas kolēģijas iniciatīvas, pēc viena no tās locekļu vai Komisijas pieprasījuma izskata jebkādus jautājumus, kas attiecas uz šīs regulas piemērošanu, un nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi, lai veicinātu šīs regulas konsekventu piemērošanu;
+
+f) nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi saskaņā ar šā punkta e) apakšpunktu, kā sīkāk noteikt kritērijus un nosacījumus uz profilēšanu balstītiem lēmumiem saskaņā ar 22. panta 2. punktu;
+
+g) saskaņā ar šā punkta e) apakšpunktu nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi, kā noteikt personas datu aizsardzības pārkāpumus un 33. panta 1. un 2. punktā minēto nepamatoto kavēšanos, un īpaši tādus apstākļus, kādos pārzinim un apstrādātājam ir jāziņo par personas datu aizsardzības pārkāpumu;
+
+h) saskaņā ar šā punkta e) apakšpunktu nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi attiecībā uz apstākļiem, kādos personas datu aizsardzības pārkāpums varētu radīt augstu risku fizisku personu tiesībām un brīvībām, kā minēts 34. panta 1. punktā;
+
+i) saskaņā ar šā punkta e) apakšpunktu nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi, kā sīkāk noteikt kritērijus un prasības personas datu nosūtīšanai, pamatojoties uz saistošiem uzņēmuma noteikumiem, kurus ievēro pārzinis, un saistošiem uzņēmuma noteikumiem, kurus ievēro apstrādātāji, un uz sīkākām nepieciešamām prasībām, lai nodrošinātu attiecīgo datu subjektu personas datu aizsardzību, kas minētas 47. pantā;
+
+j) saskaņā ar šā panta 1. punkta e) apakšpunktu nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi, kā sīkāk noteikt kritērijus un prasības attiecībā uz datu personas nosūtīšanu, pamatojoties uz 49. panta 1. punktu;
+
+k) izstrādā uzraudzības iestādēm adresētas pamatnostādnes par 58. panta 1., 2. un 3. punktā minēto pasākumu piemērošanu un par administratīvo naudas sodu noteikšanu saskaņā ar 83. pantu;
+
+▼C1
+
+l) pārskata pamatnostādņu, ieteikumu un paraugprakses praktisko piemērošanu;
+
+▼B
+
+m) saskaņā ar šā punkta e) apakšpunktu nāk klajā ar pamatnostādnēm, ieteikumiem un paraugpraksi, kā izveidot kopīgas procedūras attiecībā uz fizisku personu ziņojumiem par šīs regulas pārkāpumiem saskaņā ar 54. panta 2. punktu;
+
+n) mudina izstrādāt rīcības kodeksus un izveidot datu aizsardzības sertifikācijas mehānismus un datu aizsardzības zīmogus un marķējumus saskaņā ar 40. un 42. pantu;
+
+▼C1
+
+o) apstiprina sertifikācijas kritērijus saskaņā ar 42. panta 5. punktu un uztur publisku reģistru par sertifikācijas mehānismiem un datu aizsardzības zīmogiem un marķējumiem saskaņā ar 42. panta 8. punktu un par sertificētiem pārziņiem vai apstrādātājiem, kas veic uzņēmējdarbību trešās valstīs, saskaņā ar 42. panta 7. punktu;
+
+p) apstiprina prasības, kas minētas 43. panta 3. punktā, lai akreditētu sertifikācijas struktūras, kas minētas 43. pantā;
+
+▼B
+
+q) sniedz Komisijai atzinumu par 43. panta 8. punktā minētajām sertifikācijas prasībām;
+
+r) sniedz Komisijai atzinumu par 12. panta 7. punktā minētajām ikonām;
+
+s) sniedz Komisijai atzinumu, lai novērtētu aizsardzības līmeņa pietiekamību trešā valstī vai starptautiskā organizācijā, tostarp lai novērtētu to, vai trešā valstī, teritorijā vai vienā vai vairākos konkrētos sektoros minētajā trešā valstī, vai starptautiskā organizācijā vairs netiek nodrošināts pietiekams aizsardzības līmenis. Šim nolūkam Komisija sniedz kolēģijai visu nepieciešamo dokumentāciju, tostarp saraksti ar trešās valsts valdību, attiecībā uz minēto trešo valsti, teritoriju vai konkrētu sektoru, vai starptautisku organizāciju;
+
+t) sniedz atzinumus par uzraudzības iestāžu lēmumiem saskaņā ar 64. panta 1. punktā minēto konsekvences mehānismu un par jautājumiem, kas iesniegti saskaņā ar 64. panta 2. punktu, un izdod saistošus lēmumus saskaņā ar 65. pantu, tostarp 66. pantā minētajos gadījumos;
+
+u) veicina sadarbību un efektīvu divpusēju un daudzpusēju apmaiņu ar informāciju un paraugpraksi starp uzraudzības iestādēm;
+
+v) veicina kopīgas apmācības programmas un personāla apmaiņu starp uzraudzības iestādēm un attiecīgā gadījumā ar trešo valstu vai starptautisko organizāciju uzraudzības iestādēm;
+
+w) veicina zināšanu un dokumentācijas apmaiņu par datu aizsardzības tiesību aktiem un praksi ar uzraudzības iestādēm visā pasaulē;
+
+x) sniedz atzinumus par Savienības līmenī izstrādātiem rīcības kodeksiem saskaņā ar 40. panta 9. punktu; un
+
+y) uztur publiski pieejamu elektronisku reģistru ar uzraudzības iestāžu un tiesu pieņemtiem lēmumiem par jautājumiem, kas risināti ar konsekvences mehānismu.
+
+2.  Ja Komisija lūdz kolēģijas padomu, tā var noteikt termiņu, ņemot vērā lietas steidzamību.
+
+3.  Kolēģija savus atzinumus, pamatnostādnes, ieteikumus un paraugpraksi nosūta Komisijai un 93. pantā norādītajai komitejai un publisko tos.
+
+4.  Kolēģija attiecīgā gadījumā apspriežas ar ieinteresētajām personām un dod tām iespēju saprātīgā termiņā izteikties. Kolēģija, neskarot 76. pantu, dara publiski pieejamus apspriešanās procedūras rezultātus.
+
+71. pants
+
+Ziņojumi
+
+1.  Kolēģija sagatavo gada ziņojumu par fizisku personu aizsardzību attiecībā uz apstrādi Savienībā un attiecīgā gadījumā trešās valstīs un starptautiskās organizācijās. Ziņojumu publisko un nosūta Eiropas Parlamentam, Padomei un Komisijai.
+
+2.  Gada ziņojumā ietver pārskatu par 70. panta 1. punkta l) apakšpunktā minēto pamatnostādņu, ieteikumu un paraugprakses praktisko īstenošanu, kā arī par 65. pantā minēto saistošo lēmumu praktisko īstenošanu.
+
+72. pants
+
+Procedūra
+
+1.  Kolēģija pieņem lēmumus ar vienkāršu kolēģijas locekļu balsu vairākumu, ja vien šajā regulā nav paredzēts citādi.
+
+2.  Kolēģija pieņem savu reglamentu ar tās locekļu divu trešdaļu balsu vairākumu un nosaka savu darbības kārtību.
+
+73. pants
+
+Priekšsēdētājs
+
+1.  Kolēģija ar vienkāršu balsu vairākumu ievēl priekšsēdētāju un divus priekšsēdētāja vietniekus no savu locekļu vidus.
+
+2.  Priekšsēdētāja un priekšsēdētāja vietnieku pilnvaru termiņš ir pieci gadi, un viņus var ievēlēt amatā atkārtoti vēl vienu reizi.
+
+74. pants
+
+Priekšsēdētāja uzdevumi
+
+1.  Priekšsēdētājam ir šādi uzdevumi:
+
+a) sasaukt kolēģijas sanāksmes un sagatavot darba kārtību;
+
+b) paziņot vadošajai uzraudzības iestādei un attiecīgajām uzraudzības iestādēm lēmumus, ko kolēģija pieņēmusi saskaņā ar 65. pantu;
+
+c) nodrošināt kolēģijas uzdevumu savlaicīgu izpildi, jo īpaši saistībā ar konsekvences mehānismu, kas minēts 63. pantā.
+
+2.  Kolēģija savā reglamentā nosaka pienākumu sadali starp priekšsēdētāju un priekšsēdētāja vietniekiem.
+
+75. pants
+
+Sekretariāts
+
+1.  Kolēģijai ir sekretariāts, kuru nodrošina Eiropas Datu aizsardzības uzraudzītājs.
+
+2.  Sekretariāts pilda uzdevumus tikai pēc kolēģijas priekšsēdētāja norādēm.
+
+3.  Uz Eiropas Datu aizsardzības uzraudzītāja personālu, kas ir iesaistīts tādu uzdevumu veikšanā, kuri ar šo regulu ir uzticēti kolēģijai, attiecas pakļautības kārtība, kas ir atsevišķa no tā personāla, kurš ir iesaistīts tādu uzdevumu veikšanā, kurus devis Eiropas Datu aizsardzības uzraudzītājs.
+
+4.  Attiecīgā gadījumā kolēģija un Eiropas Datu aizsardzības uzraudzītājs izveido un publicē saprašanas memorandu, ar ko tiek īstenots šis pants, noteikta sadarbības kārtība un ko piemēro tam Eiropas Datu aizsardzības uzraudzītāja personālam, kas iesaistīts tādu uzdevumu veikšanā, kuri ar šo regulu ir uzticēti kolēģijai.
+
+5.  Sekretariāts sniedz analītisku, administratīvu un loģistikas atbalstu kolēģijai.
+
+6.  Sekretariāts jo īpaši ir atbildīgs par:
+
+a) Kolēģijas ikdienas darbu;
+
+b) saziņu starp Kolēģijas locekļiem, priekšsēdētāju un Komisiju;
+
+c) saziņu ar citām institūcijām un sabiedrību;
+
+d) elektronisko līdzekļu izmantošanu iekšējai un ārējai saziņai;
+
+e) attiecīgās informācijas tulkošanu;
+
+f) kolēģijas sanāksmju sagatavošanu un turpmākiem pasākumiem;
+
+g) kolēģijas pieņemto atzinumu, lēmumu par strīdu izšķiršanu starp uzraudzības iestādēm un citu dokumentu sagatavošanu, izstrādi un publicēšanu.
+
+76. pants
+
+Konfidencialitāte
+
+1.  Kolēģijas apspriedes ir konfidenciālas, ja kolēģija to uzskata par nepieciešamu, kā paredzēts tās reglamentā.
+
+2.  Piekļuvi dokumentiem, kas iesniegti kolēģijas locekļiem, ekspertiem un trešo personu pārstāvjiem, nosaka Eiropas Parlamenta un Padomes Regulā (EK) Nr. 1049/2001 ( 3 ).
+
+
+
+VIII NODAĻA
+
+Tiesību aizsardzības līdzekļi, atbildība un sankcijas
+
+77. pants
+
+Tiesības iesniegt sūdzību uzraudzības iestādē
+
+1.  Neskarot jebkādus citus administratīvos tiesību aizsardzības līdzekļus vai tiesību aizsardzību tiesā, katram datu subjektam ir tiesības iesniegt sūdzību uzraudzības iestādē, jo īpaši tajā dalībvalstī, kurā ir viņa pastāvīgā dzīvesvieta, darbavieta vai iespējamā pārkāpuma izdarīšanas vieta, ja datu subjekts uzskata, ka viņa personas datu apstrāde pārkāpj šo regulu.
+
+2.  Uzraudzības iestāde, kurā ir iesniegta sūdzība, informē sūdzības iesniedzēju par sūdzības izskatīšanas virzību un iznākumu, tostarp par tiesību aizsardzības tiesā iespēju saskaņā ar 78. pantu.
+
+78. pants
+
+Tiesības uz efektīvu tiesību aizsardzību tiesā pret uzraudzības iestādi
+
+1.  Neskarot jebkādus citus administratīvos vai ārpustiesas tiesību aizsardzības līdzekļus, katrai fiziskai vai juridiskai personai ir tiesības uz efektīvu tiesību aizsardzību tiesā pret uzraudzības iestādes pieņemtu juridiski saistošu lēmumu, kas skar minētās personas.
+
+2.  Neskarot jebkādus citus administratīvos vai ārpustiesas tiesību aizsardzības līdzekļus, katram datu subjektam ir tiesības uz efektīvu tiesību aizsardzību tiesā, ja uzraudzības iestāde, kas ir kompetenta, ievērojot 55. un 56. pantu, trīs mēnešu laikā neizskata sūdzību vai neinformē datu subjektu par sūdzības, kas iesniegta, ievērojot 77. pantu, izskatīšanas virzību vai rezultātiem.
+
+3.  Tiesvedību pret uzraudzības iestādi uzsāk tās dalībvalsts tiesā, kurā atrodas uzraudzības iestāde.
+
+4.  Ja tiesvedību sāk par uzraudzības iestādes lēmumu, pirms kura pieņemšanas kolēģija saistībā ar konsekvences mehānismu bija nākusi klajā ar atzinumu vai pieņēmusi lēmumu, tad uzraudzības iestāde minēto atzinumu vai lēmumu nosūta tiesai.
+
+79. pants
+
+Tiesības uz efektīvu tiesību aizsardzību tiesā pret pārzini vai apstrādātāju
+
+1.  Neskarot pieejamos administratīvos vai ārpustiesas tiesību aizsardzības līdzekļus, tai skaitā tiesības iesniegt sūdzību uzraudzības iestādē, ievērojot 77. pantu, ikvienam datu subjektam ir tiesības uz efektīvu tiesību aizsardzību tiesā, ja viņš uzskata, ka viņa tiesības saskaņā ar šo regulu ir pārkāptas, tādas viņa personas datu apstrādes rezultātā, kura neatbilst šai regulai.
+
+2.  Prasību pret pārzini vai apstrādātāju ceļ tās dalībvalsts tiesā, kurā atrodas pārziņa vai apstrādātāja uzņēmējdarbības vieta. Alternatīvi šādu prasību var celt tās dalībvalsts tiesās, kur atrodas datu subjekta pastāvīgā dzīvesvieta, izņemot, ja pārzinis vai apstrādātājs ir dalībvalsts publiska iestāde, kas rīkojas, pildot savas publiskās pilnvaras.
+
+80. pants
+
+Datu subjektu pārstāvība
+
+1.  Datu subjektam ir tiesības pilnvarot bezpeļņas struktūru, organizāciju vai apvienību, kura ir pienācīgi izveidota saskaņā ar dalībvalsts tiesību aktiem, kuras statūtos noteiktie mērķi atbilst sabiedrības interesēm un kura darbojas datu subjekta tiesību un brīvību aizsardzības jomā, lai attiecībā uz viņu personas datu aizsardzību viņa vārdā iesniegtu sūdzību, viņa vārdā īstenotu 77., 78. un 79. pantā minētās tiesības un viņa vārdā īstenotu 82. pantā minētās tiesības saņemt kompensāciju, ja to paredz dalībvalsts tiesību akti.
+
+2.  Dalībvalstis var paredzēt, ka jebkurai šā panta 1. punktā minētajai struktūrai, organizācijai vai apvienībai neatkarīgi no datu subjekta dotā pilnvarojuma ir tiesības minētajā dalībvalstī iesniegt sūdzību uzraudzības iestādei, kura ir kompetenta, ievērojot 77. pantu, un īstenot tiesības, kas minētas 78. un 79. pantā, ja tā uzskata, ka apstrādes rezultātā pārkāptas datu subjekta tiesības saskaņā ar šo regulu.
+
+81. pants
+
+Tiesvedības apturēšana
+
+1.  Ja dalībvalsts kompetentās tiesas rīcībā ir informācija par tiesvedību, kas par to pašu priekšmetu citas dalībvalsts tiesā ir sākta attiecībā uz tā paša pārziņa vai apstrādātāja veiktu apstrādi, tā sazinās ar minēto citas dalībvalsts tiesu, lai gūtu apstiprinājumu par to, ka šāda tiesvedība tiešām ir sākta.
+
+2.  Ja par to pašu priekšmetu citas dalībvalsts tiesā ir sākta tiesvedība attiecībā uz tā paša pārziņa vai apstrādātāja veiktu apstrādi, jebkura kompetentā tiesa, kas nav tiesa, kurā pirmajā celta prasība, var apturēt tās tiesvedību.
+
+3.  Ja minētā tiesvedība notiek pirmajā instancē, jebkura tiesa, kas nav tiesa, kurā pirmajā celta prasība, pēc kādas puses iesniegta pieteikuma var arī atteikties no jurisdikcijas, ja attiecīgās prasības ir tās tiesas jurisdikcijā, kurā pirmajā iesniegta prasība, un ja tās tiesību akti ļauj šīs prasības apvienot.
+
+82. pants
+
+Tiesības uz kompensāciju un atbildība
+
+1.  Jebkurai personai, kurai šīs regulas pārkāpuma rezultātā ir nodarīts materiāls vai nemateriāls kaitējums, ir tiesības no pārziņa vai apstrādātāja saņemt kompensāciju par tai nodarīto kaitējumu.
+
+2.  Jebkurš apstrādē iesaistītais pārzinis ir atbildīgs par kaitējumu, kas nodarīts ar apstrādi, kura pārkāpj šo regulu. Apstrādātājs ir atbildīgs par kaitējumu, kas nodarīts ar apstrādi, tikai tad, ja tas nav izpildījis šajā regulā paredzētos pienākumus, kas konkrēti adresēti apstrādātājam, vai ja tas ir rīkojies neatbilstīgi vai pretēji pārziņa likumīgiem norādījumiem.
+
+3.  Pārzini vai apstrādātāju atbrīvo no atbildības saskaņā ar 2. punktu, ja tas pierāda, ka nekādā veidā nav atbildīgs par notikumu, ar ko nodarīts attiecīgais kaitējums.
+
+4.  Ja vienā un tajā pašā apstrādē ir iesaistīts vairāk nekā viens pārzinis vai apstrādātājs vai gan pārzinis, gan apstrādātājs un ja tie saskaņā ar 2. un 3. punktu ir atbildīgi par jebkādu kaitējumu, kas nodarīts ar apstrādi, katru pārzini vai apstrādātāju sauc pie atbildības par visu nodarīto kaitējumu, lai datu subjektam nodrošinātu efektīvu kompensāciju.
+
+5.  Ja saskaņā ar 4. punktu pārzinis vai apstrādātājs par nodarīto kaitējumu pilnā apmērā ir izmaksājis kompensāciju, minētais pārzinis vai apstrādātājs ir tiesīgs no citiem šajā pašā apstrādē iesaistītajiem pārziņiem vai apstrādātājiem par kaitējumu pieprasīt kompensācijas daļu, kas atbilst to atbildības apmēram saskaņā ar 2. punktā izklāstītajiem nosacījumiem.
+
+6.  Tiesvedību par to, lai īstenotu tiesības saņemt kompensāciju, sāk tajās tiesās, kas ir kompetentas saskaņā ar 79. panta 2. punktā minētās dalībvalsts tiesību aktiem.
+
+83. pants
+
+Vispārīgi nosacījumi par administratīvo naudas sodu piemērošanu
+
+1.  Katra uzraudzības iestāde nodrošina, ka par 4., 5. un 6. punktā minētajiem šīs regulas pārkāpumiem saskaņā ar šo pantu paredzēto administratīvo naudas sodu piemērošana katrā konkrētā gadījumā ir iedarbīga, samērīga un atturoša.
+
+2.  Administratīvie naudas sodi atkarībā no katras konkrētās lietas apstākļiem tiek piemēroti, papildinot 58. panta 2. punkta a)–h) apakšpunktā un j) apakšpunktā minētos pasākumus vai šo pasākumu vietā. Lemjot par to, vai piemērot administratīvo naudas sodu, un pieņemot lēmumu par administratīvā naudas soda apmēru, katrā konkrētā gadījumā pienācīgi ņem vērā šādus elementus:
+
+a) pārkāpuma būtību, smagumu un ilgumu, ņemot vērā attiecīgo datu apstrādes veidu, apmēru vai nolūku, kā arī ietekmēto datu subjektu skaitu un tiem nodarītā kaitējuma apmēru;
+
+b) to, vai pārkāpums izdarīts tīši vai neuzmanības dēļ;
+
+c) jebkādu pārziņa vai apstrādātāja rīcību, lai mazinātu kaitējumu, kas nodarīts datu subjektiem;
+
+d) pārziņa vai apstrādātāja atbildības līmeni, ņemot vērā tehniskos un organizatoriskos pasākumiem, ko tie īsteno saskaņā ar 25. un 32. pantu;
+
+e) jebkādus attiecīgus pārziņa vai apstrādātāja iepriekšējus pārkāpumus;
+
+f) sadarbības pakāpi ar uzraudzības iestādi, lai atlīdzinātu pārkāpumu un mazinātu tā iespējamās nelabvēlīgās sekas;
+
+g) to, kādu kategoriju personas datus ietekmējis pārkāpums;
+
+h) veidu, kādā par pārkāpumu uzzināja uzraudzības iestāde, jo īpaši to, vai pārzinis vai apstrādātājs ir ziņojis par pārkāpumu, un šādā gadījumā – kādā apjomā;
+
+i) ja 58. panta 2. punktā minētie pasākumi iepriekš par šo pašu priekšmetu jau ir tikuši vērsti pret attiecīgo pārzini vai apstrādātāju, kā minētie pasākumi ir tikuši pildīti;
+
+j) apstiprināto rīcības kodeksu ievērošanu saskaņā ar 40. pantu vai apstiprināto sertifikācijas mehānismu ievērošanu saskaņā ar 42. pantu; un
+
+k) jebkādu citu pastiprinošu vai mīkstinošu apstākli, kas piemērojams lietas apstākļiem, piemēram, no pārkāpuma tieši vai netieši gūti finansiālie labumi vai novērsti zaudējumi.
+
+3.  Ja pārzinis vai apstrādātājs tīši vai aiz neuzmanības attiecībā uz to pašu vai saistītu apstrādes darbību pārkāpj vairākus šīs regulas noteikumus, kopējais administratīvā naudas soda apmērs nepārsniedz summu, kas paredzēta par vissmagāko pārkāpumu.
+
+4.  Administratīvus naudas sodus apmērā līdz EUR 10 000 000 vai, uzņēmuma gadījumā, līdz 2 % no tā kopējā visā pasaulē iepriekšējā finanšu gadā gūtā gada apgrozījuma atkarībā no tā, kuras summas apmērs ir lielāks, saskaņā ar 2. punktu piemēro par šādu noteikumu pārkāpumiem:
+
+a) pārziņa un apstrādātāja pienākumi saskaņā ar 8., 11., 25.–39., 42. un 43. pantu;
+
+b) sertifikācijas struktūras pienākumi saskaņā ar 42. un 43. pantu;
+
+c) pārraudzības struktūras pienākumi saskaņā ar 41. panta 4. punktu.
+
+5.  Administratīvus naudas sodus apmērā līdz EUR 20 000 000 vai, uzņēmuma gadījumā, līdz 4 % no tā kopējā visā pasaulē iepriekšējā finanšu gadā gūtā gada apgrozījuma atkarībā no tā, kuras summas apmērs ir lielāks, saskaņā ar 2. punktu piemēro par šādu noteikumu pārkāpumiem:
+
+a) apstrādes pamatprincipi, tostarp nosacījumi par piekrišanu, ievērojot 5., 6., 7. un 9. pantu;
+
+b) datu subjekta tiesības saskaņā ar 12.–22. pantu;
+
+c) personas datu nosūtīšana saņēmējam uz trešo valsti vai starptautisku organizāciju saskaņā ar 44.–49. pantu;
+
+d) visi pienākumi, ievērojot dalībvalsts tiesību aktus, kuri pieņemti saskaņā ar IX nodaļu;
+
+e) ja nav ievērots uzraudzības iestādes rīkojums vai pagaidu vai galīgs apstrādes vai datu aprites ierobežojums saskaņā ar 58. panta 2. punktu, vai nav sniegta piekļuve, pārkāpjot 58. panta 1. punktu.
+
+6.  Saskaņā ar šā panta 2. punktu par 58. panta 2. punktā minētā uzraudzības iestādes rīkojuma neievērošanu piemēro administratīvus naudas sodus apmērā līdz EUR 20 000 000 vai, uzņēmuma gadījumā, līdz 4 % no tā kopējā visā pasaulē iepriekšējā finanšu gadā gūtā gada apgrozījuma atkarībā no tā, kuras summas apmērs ir lielāks.
+
+7.  Neskarot 58. panta 2. punktā paredzētās uzraudzības iestāžu korektīvās pilnvaras, katra dalībvalsts var izstrādāt noteikumus par to, vai un līdz kādam apjomam administratīvos naudas sodus var piemērot publiskām iestādēm un struktūrām, kas veic uzņēmējdarbību minētajā dalībvalstī.
+
+8.  Uzraudzības iestādes pilnvaru veikšanai saskaņā ar šo pantu piemēro atbilstošas procesuālas garantijas saskaņā ar Savienības un dalībvalsts tiesību aktiem, tostarp efektīvu tiesību aizsardzību tiesā un pienācīgu procedūru ievērošanu.
+
+9.  Ja dalībvalsts tiesību sistēmā nav paredzēti administratīvi naudas sodi, šo pantu var piemērot tā, ka naudas sodu ierosina kompetentā uzraudzības iestāde, bet uzliek kompetentās valsts tiesas, vienlaikus nodrošinot, ka minētie tiesību aizsardzības līdzekļi ir efektīvi un tiem ir līdzvērtīga iedarbība ar uzraudzības iestāžu uzliktiem administratīviem naudas sodiem. Jebkurā gadījumā uzliktie naudas sodi ir iedarbīgi, samērīgi un atturoši. Līdz 2018. gada 25. maijam minētās dalībvalstis paziņo Komisijai to tiesību aktu noteikumus, ko tās pieņem, ievērojot šo punktu, un nekavējoties paziņo Komisijai par jebkuru turpmāku grozošo aktu vai jebkuriem turpmākiem šo noteikumu grozījumiem.
+
+84. pants
+
+Sankcijas
+
+1.  Dalībvalstis paredz noteikumus par citām sankcijām, ko piemēro par šīs regulas pārkāpumiem, jo īpaši pārkāpumiem, par kuriem nav paredzēti administratīvi naudas sodi saskaņā ar 83. pantu, un veic visus nepieciešamos pasākumus, lai nodrošinātu, ka šos noteikumus īsteno. Šādas sankcijas ir iedarbīgas, samērīgas un atturošas.
+
+2.  Līdz 2018. gada 25. maijam katra dalībvalsts paziņo Komisijai to tiesību aktu noteikumus, ko tā pieņem, ievērojot 1. punktu, un nekavējoties paziņo Komisijai par jebkuriem turpmākiem šo noteikumu grozījumiem.
+
+
+
+IX NODAĻA
+
+Noteikumi par īpašām apstrādes situācijām
+
+85. pants
+
+Apstrāde un vārda un informācijas brīvība
+
+1.  Dalībvalstis ar tiesību aktiem saglabā līdzsvaru starp tiesībām uz personas datu aizsardzību saskaņā ar šo regulu un tiesībām uz vārda un informācijas brīvību, tostarp apstrādi žurnālistikas vajadzībām un akadēmiskās, mākslinieciskās vai literārās izpausmes vajadzībām.
+
+2.  Apstrādei žurnālistikas vajadzībām vai akadēmiskās, mākslinieciskās vai literārās izpausmes vajadzībām dalībvalstis paredz izņēmumus vai atkāpes no II nodaļas (Principi), III nodaļas (Datu subjekta tiesības), IV nodaļas (Pārzinis un apstrādātājs), V nodaļas (Personas datu nosūtīšana uz trešām valstīm vai starptautiskām organizācijām), VI nodaļas (Neatkarīgas uzraudzības iestādes), VII nodaļas (Sadarbība un konsekvence) un IX nodaļas (Īpašas datu apstrādes situācijas) attiecībā apstrādi, ja tas ir nepieciešams, lai panāktu līdzsvaru starp tiesībām uz personas datu aizsardzību un vārda un informācijas brīvību.
+
+3.  Katra dalībvalsts paziņo Komisijai to tiesību aktu noteikumus, ko tā pieņēmusi, ievērojot 2. punktu, un nekavējoties paziņo Komisijai par jebkuru turpmāku grozošo aktu jebkuriem turpmākiem šo noteikumu grozījumiem.
+
+86. pants
+
+Apstrāde un publiska piekļuve oficiāliem dokumentiem
+
+Personas datus, kas iekļauti oficiālos dokumentos, kuri ir publiskas iestādes vai publiskas vai privātas struktūras rīcībā, lai veiktu kādu uzdevumu sabiedrības interesēs, šī iestāde vai struktūra drīkst atklāt saskaņā ar Savienības vai dalībvalsts tiesību aktiem, ko piemēro publiskai iestādei vai struktūrai, lai publisku piekļuvi oficiāliem dokumentiem saskaņotu ar tiesībām uz personas datu aizsardzību saskaņā ar šo regulu.
+
+87. pants
+
+Valsts identifikācijas numura apstrāde
+
+Dalībvalstis var sīkāk paredzēt īpašus nosacījumus attiecībā uz attiecīgās valsts identifikācijas numura vai jebkura cita vispārēja pielietojuma identifikatora apstrādi. Minētajā gadījumā valsts identifikācijas numuru vai jebkuru citu vispārēja pielietojuma identifikatoru izmanto vienīgi saskaņā ar atbilstošām garantijām datu subjekta tiesībām un brīvībām saskaņā ar šo regulu.
+
+88. pants
+
+Apstrāde saistībā ar nodarbinātību
+
+1.  Ar tiesību aktiem vai ar koplīgumiem dalībvalstis var paredzēt konkrētākus noteikumus, lai nodrošinātu tiesību un brīvību aizsardzību attiecībā uz darbinieku personas datu apstrādi saistībā ar nodarbinātību, jo īpaši darbā pieņemšanas nolūkos, darba līguma izpildei, ietverot likumā vai koplīgumā paredzētu saistību izpildi, darba vadībai, plānošanai un organizēšanai, vienlīdzībai un daudzveidībai darbavietā, veselībai un drošībai darbavietā, darba devēja vai klienta īpašuma aizsardzībai un individuālu vai kolektīvu ar nodarbinātību saistītu tiesību vai priekšrocību izmantošanas vai baudīšanas nolūkos un darba attiecību izbeigšanas nolūkos.
+
+2.  Minētie noteikumi ietver piemērotus un konkrētus pasākumus nolūkā aizsargāt datu subjekta cilvēka cieņu, leģitīmas intereses un pamattiesības, jo īpaši attiecībā uz apstrādes pārredzamību, personas datu nosūtīšanu uzņēmumu grupas vai uzņēmējsabiedrību grupas, kas iesaistīta kopīgā saimnieciskā darbībā, ietvaros un uzraudzības sistēmām darba vietā.
+
+3.  Katra dalībvalsts līdz 2018. gada 25. maijam paziņo Komisijai to tiesību aktu noteikumus, ko tā pieņem, ievērojot 1. punktu, un nekavējoties paziņo Komisijai par jebkuriem turpmākiem šo noteikumu grozījumiem.
+
+89. pants
+
+Garantijas un atkāpes, kas attiecas uz apstrādi arhivēšanas nolūkos sabiedrības interesēs, zinātniskās vai vēstures pētniecības nolūkos vai statistikas nolūkos
+
+1.  Uz apstrādi arhivēšanas nolūkos sabiedrības interesēs, zinātniskās vai vēstures pētniecības nolūkos, vai statistikas nolūkos saskaņā ar šo regulu attiecas atbilstošas garantijas datu subjekta tiesībām un brīvībām. Ar minētajām garantijām nodrošina, ka pastāv tehniski un organizatoriski pasākumi, jo īpaši, lai nodrošinātu datu minimizēšanas principa ievērošanu. Minētie pasākumi var ietvert pseidonimizēšanu, ar noteikumu, ka minētos nolūkus var sasniegt minētajā veidā. Ja minētos nolūkus var sasniegt, veicot turpmāku apstrādi, kas neļauj vai vairs neļauj identificēt datu subjektus, minētos nolūkus sasniedz minētajā veidā.
+
+2.  Ja personas datus apstrādā zinātniskās vai vēstures pētniecības nolūkos vai statistikas nolūkos, Savienības vai dalībvalsts tiesību aktos var paredzēt atkāpes no tiesībām, kas minētas 15., 16., 18. un 21. pantā, ņemot vērā šā panta 1. punktā minētos nosacījumus un garantijas, ciktāl šādas tiesības var neļaut vai būtiski traucēt sasniegt konkrētos nolūkus, un šādas atkāpes ir vajadzīgas minēto nolūku sasniegšanai.
+
+3.  Ja personas datus apstrādā statistikas nolūkos sabiedrības interesēs, Savienības vai dalībvalsts tiesību aktos var paredzēt atkāpes no tiesībām, kas minētas 15., 16., 18., 19., 20. un 21. pantā, ņemot vērā šā panta 1. punktā minētos nosacījumus un garantijas, ciktāl šādas tiesības var neļaut vai būtiski traucēt sasniegt konkrētos nolūkus, un šādas atkāpes ir vajadzīgas minēto nolūku sasniegšanai.
+
+4.  Ja 2. un 3. punktā minētā apstrāde vienlaikus kalpo vēl citam nolūkam, atkāpes piemēro vienīgi apstrādei, kas tiek veikta minētajos punktos paredzētajos nolūkos.
+
+90. pants
+
+Pienākumi ievērot slepenību
+
+1.  Dalībvalstis var pieņemt īpašus noteikumus, kuri paredz uzraudzības iestāžu pilnvaras, kas minētas 58. panta 1. punkta e) un f) apakšpunktā, attiecībā uz pārziņiem vai apstrādātājiem, uz kuriem saskaņā ar Savienības vai dalībvalsts tiesību aktiem vai valsts kompetento iestāžu ieviestiem noteikumiem attiecas dienesta noslēpuma glabāšanas pienākums vai citi līdzvērtīgi pienākumi ievērot slepenību, ja tas ir nepieciešami un samērīgi, lai panāktu līdzsvaru starp tiesībām uz personas datu aizsardzību un pienākumu ievērot slepenību. Minētos noteikumus piemēro tikai tiem personas datiem, ko pārzinis vai apstrādātājs saņēmis vai ieguvis tādas darbības rezultātā, uz kuru attiecas minētais pienākums ievērot slepenību, vai ieguvis tādas darbības laikā.
+
+2.  Katra dalībvalsts līdz 2018. gada 25. maijam paziņo Komisijai par noteikumiem, ko tā pieņēmusi, ievērojot 1. punktu, un nekavējoties paziņo Komisijai par jebkuriem turpmākiem šo noteikumu grozījumiem.
+
+91. pants
+
+Esošie baznīcu un reliģisko apvienību datu aizsardzības noteikumi
+
+1.  Ja baznīca un reliģiska apvienība vai kopiena kādā dalībvalstī šīs regulas spēkā stāšanās laikā piemēro vispusīgus noteikumus par fizisku personu aizsardzību attiecībā uz apstrādi, šādus noteikumus var turpināt piemērot ar noteikumu, ka tos saskaņo ar šo regulu.
+
+2.  Baznīcas un reliģiskas apvienības, kas piemēro vispusīgus noteikumus saskaņā ar šā panta 1. punktu, ir pakļautas neatkarīgas pārraudzības iestādes pārraudzībai, kura var būt specifiska, ar noteikumu, ka tā atbilst nosacījumiem, kas paredzēti šīs regulas VI nodaļā.
+
+
+
+X NODAĻA
+
+Deleģētie akti un īstenošanas akti
+
+92. pants
+
+Deleģēšanas īstenošana
+
+1.  Pilnvaras pieņemt deleģētos aktus Komisijai piešķir, ievērojot šajā pantā izklāstītos nosacījumus.
+
+2.  Pilnvaras pieņemt 12. panta 8. punktā un 43. panta 8. punktā minētos deleģētos aktus Komisijai piešķir uz nenoteiktu laiku no 2016. gada 24. maija.
+
+3.  Eiropas Parlaments vai Padome jebkurā laikā var atsaukt 12. panta 8. punktā un 43. panta 8. punktā minēto pilnvaru deleģēšanu. Ar lēmumu par atsaukšanu izbeidz tajā norādīto pilnvaru deleģēšanu. Lēmums stājas spēkā nākamajā dienā pēc tā publicēšanas Eiropas Savienības Oficiālajā Vēstnesī vai vēlākā dienā, kas tajā norādīta. Tas neskar jau spēkā esošos deleģētos aktus.
+
+4.  Tiklīdz Komisija pieņem deleģēto aktu, tā par to paziņo vienlaikus Eiropas Parlamentam un Padomei.
+
+5.  Saskaņā ar 12. panta 8. punktu un 43. panta 8. punktu pieņemts deleģētais akts stājas spēkā tikai tad, ja trīs mēnešos no dienas, kad minētais akts paziņots Eiropas Parlamentam un Padomei, ne Eiropas Parlaments, ne Padome nav izteikuši iebildumus vai ja pirms minētā laikposma beigām gan Eiropas Parlaments, gan Padome ir informējuši Komisiju par savu nodomu neizteikt iebildumus. Pēc Eiropas Parlamenta vai Padomes iniciatīvas šo laikposmu pagarina par trīs mēnešiem.
+
+93. pants
+
+Komiteju procedūra
+
+1.  Komisijai palīdz komiteja. Minētā komiteja ir komiteja Regulas (ES) Nr. 182/2011 nozīmē.
+
+2.  Ja ir atsauce uz šo punktu, piemēro Regulas (ES) Nr. 182/2011 5. pantu.
+
+3.  Ja ir atsauce uz šo punktu, piemēro Regulas (ES) Nr. 182/2011 8. pantu saistībā ar tās 5. pantu.
+
+
+
+XI NODAĻA
+
+Nobeiguma noteikumi
+
+94. pants
+
+Direktīvas 95/46/EK atcelšana
+
+1.  Direktīvu 95/46/EK atceļ no 2018. gada 25. maija.
+
+2.  Atsauces uz atcelto direktīvu uzskata par atsaucēm uz šo regulu. Atsauces uz Darba grupu personu aizsardzībai attiecībā uz personas datu apstrādi, kas izveidota ar Direktīvas 95/46/EK 29. pantu, uzskata par atsaucēm uz Eiropas Datu aizsardzības kolēģiju, kas izveidota ar šo regulu.
+
+95. pants
+
+Saistība ar Direktīvu 2002/58/EK
+
+Šī regula neuzliek papildu pienākumus fiziskām vai juridiskām personām attiecībā uz apstrādi saistībā ar publiski pieejamu elektronisko komunikāciju pakalpojumu sniegšanu publiskos komunikāciju tīklos Savienībā jautājumos, saistībā ar kuriem tām ir piemērojami Direktīvas 2002/58/EK īpašie noteikumi ar to pašu mērķi.
+
+96. pants
+
+Saistība ar iepriekš noslēgtiem nolīgumiem
+
+Starptautiskie nolīgumi, kuri ietver personas datu nosūtīšanu uz trešām valstīm vai starptautiskām organizācijām un kurus dalībvalstis ir noslēgušas pirms 2016. gada 24. maija, un kuri ir saskaņā ar Savienības tiesību aktiem, kas ir piemērojami pirms minētās dienas, paliek spēkā līdz brīdim, kad tie tiek grozīti, aizstāti vai atcelti.
+
+97. pants
+
+Komisijas ziņojumi
+
+1.  Komisija līdz 2020. gada 25. maijam un pēc tam reizi četros gados iesniedz šīs regulas novērtējuma un pārskata ziņojumus Eiropas Parlamentam un Padomei. Ziņojumus publisko.
+
+2.  Saistībā ar 1. punktā minētajiem novērtējumiem un pārskatiem Komisija jo īpaši pārbauda, kā tiek piemērota un darbojas:
+
+a) V nodaļa par personas datu nosūtīšanu uz trešām valstīm vai starptautiskām organizācijām, jo īpaši attiecībā uz lēmumiem, kas pieņemti saskaņā ar šīs regulas 45. panta 3. punktu, un lēmumiem, kas pieņemti, balstoties uz Direktīvas 95/46/EK 25. panta 6. punktu;
+
+b) VII nodaļa par sadarbību un konsekvenci.
+
+3.  Piemērojot 1. punktu, Komisija var pieprasīt informāciju no dalībvalstīm un uzraudzības iestādēm.
+
+4.  Veicot 1. un 2. punktā minētos novērtējumus un pārskatīšanu, Komisija ņem vērā Eiropas Parlamenta un Padomes viedokļus un atzinumus, un tos, kas iegūti no citām attiecīgajām struktūrām vai avotiem.
+
+5.  Komisija, ja nepieciešams, iesniedz atbilstīgus priekšlikumus, lai grozītu šo regulu, jo īpaši ņemot vērā informācijas tehnoloģiju attīstību un progresu informācijas sabiedrībā.
+
+98. pants
+
+Citu Savienības tiesību aktu datu aizsardzības jomā pārskatīšana
+
+Komisija attiecīgā gadījumā iesniedz leģislatīvu aktu priekšlikumus, lai izdarītu grozījumus citos Savienības tiesību aktos personas datu aizsardzības jomā nolūkā nodrošināt fizisku personu vienādu un konsekventu aizsardzību attiecībā uz apstrādi. Tas jo īpaši attiecas uz noteikumiem par fizisku personu aizsardzību attiecībā uz apstrādi Savienības iestādēs, struktūrās, birojos un aģentūrās un uz šādu datu brīvu apriti.
+
+99. pants
+
+Stāšanās spēkā un piemērošana
+
+1.  Šī regula stājas spēkā divdesmitajā dienā pēc tās publicēšanas Eiropas Savienības Oficiālajā Vēstnesī.
+
+2.  To piemēro no 2018. gada 25. maija.
+
+Šī regula uzliek saistības kopumā un ir tieši piemērojama visās dalībvalstīs.
+
+
+( 1 ) Eiropas Parlamenta un Padomes Direktīva (ES) 2015/1535 (2015. gada 9. septembris), ar ko nosaka informācijas sniegšanas kārtību tehnisko noteikumu un Informācijas sabiedrības pakalpojumu noteikumu jomā (OV L 241, 17.9.2015., 1. lpp.).
+
+( 2 ) Eiropas Parlamenta un Padomes Regula (EK) 765/2008 (2008. gada 9. jūlijs), ar ko nosaka akreditācijas un tirgus uzraudzības prasības attiecībā uz produktu tirdzniecību un atceļ Regulu (EEK) Nr. 339/93 (OV L 218, 13.8.2008., 30. lpp.).
+
+( 3 ) Eiropas Parlamenta un Padomes Regula (EK) Nr. 1049/2001 (2001. gada 30. maijs) par publisku piekļuvi Eiropas Parlamenta, Padomes un Komisijas dokumentiem (OV L 145, 31.5.2001., 43. lpp.).
+

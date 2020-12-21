@@ -1,0 +1,2308 @@
+
+
+02016R0679 — HR — 04.05.2016 — 000.002
+
+Ovaj je tekst namijenjen isključivo dokumentiranju i nema pravni učinak. Institucije Unije nisu odgovorne za njegov sadržaj. Vjerodostojne inačice relevantnih akata, uključujući njihove preambule, one su koje su objavljene u Službenom listu Europske unije i dostupne u EUR-Lexu. Tim službenim tekstovima može se izravno pristupiti putem poveznica sadržanih u ovom dokumentu.
+
+►B
+	
+
+UREDBA (EU) 2016/679 EUROPSKOG PARLAMENTA I VIJEĆA
+
+od 27. travnja 2016.
+
+o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opća uredba o zaštiti podataka)
+
+(Tekst značajan za EGP)
+
+( L 119 4.5.2016, 1)
+
+
+Koju je ispravio:
+
+►C1
+	
+
+,  L 127, 23.5.2018,  2 (2016/679)
+
+
+
+▼B
+
+UREDBA (EU) 2016/679 EUROPSKOG PARLAMENTA I VIJEĆA
+
+od 27. travnja 2016.
+
+o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opća uredba o zaštiti podataka)
+
+(Tekst značajan za EGP)
+
+
+
+POGLAVLJE I.
+
+Opće odredbe
+
+Članak 1.
+
+Predmet i ciljevi
+
+1.  Ovom se Uredbom utvrđuju pravila povezana sa zaštitom pojedinaca u pogledu obrade osobnih podataka i pravila povezana sa slobodnim kretanjem osobnih podataka.
+
+2.  Ovom se Uredbom štite temeljna prava i slobode pojedinaca, a posebno njihovo pravo na zaštitu osobnih podataka.
+
+3.  Slobodno kretanje osobnih podataka unutar Unije ne ograničava se ni zabranjuje iz razloga povezanih sa zaštitom pojedinaca u pogledu obrade osobnih podataka.
+
+Članak 2.
+
+Glavno područje primjene
+
+1.  Ova se Uredba primjenjuje na obradu osobnih podataka koja se u cijelosti obavlja automatizirano te na neautomatiziranu obradu osobnih podataka koji čine dio sustava pohrane ili su namijenjeni biti dio sustava pohrane.
+
+2.  Ova se Uredba ne odnosi na obradu osobnih podataka:
+
+(a) tijekom djelatnosti koja nije obuhvaćena opsegom prava Unije;
+
+(b) koju obavljaju države članice kada obavljaju aktivnosti koje su obuhvaćene područjem primjene glave V. poglavlja 2. UEU-a;
+
+(c) koju provodi fizička osoba tijekom isključivo osobnih ili kućnih aktivnosti;
+
+(d) koju obavljaju nadležna tijela u svrhu sprečavanja, istrage, otkrivanja ili progona kaznenih djela ili izvršavanja kaznenih sankcija, uključujući zaštitu od prijetnji javnoj sigurnosti i njihova sprečavanja.
+
+3.  Na obradu osobnih podataka koju obavljaju institucije, tijela, uredi i agencije Unije primjenjuje se Uredba (EZ) br. 45/2001. Uredba (EZ) br. 45/2001 i drugi pravni akti Unije primjenjivi na takvu obradu osobnih podataka moraju se prilagoditi načelima i pravilima ove Uredbe u skladu s člankom 98.
+
+4.  Ovom se Uredbom ne dovodi u pitanje primjena Direktive 2000/31/EZ, osobito pravilâ o odgovornosti posrednih davatelja usluga iz članaka od 12. do 15. te direktive.
+
+Članak 3.
+
+Teritorijalno područje primjene
+
+1.  Ova se Uredba odnosi na obradu osobnih podataka u okviru aktivnosti poslovnog nastana voditelja obrade ili izvršitelja obrade u Uniji, neovisno o tome obavlja li se obrada u Uniji ili ne.
+
+2.  Ova se Uredba primjenjuje na obradu osobnih podataka ispitanikâ u Uniji koju obavlja voditelj obrade ili izvršitelj obrade bez poslovnog nastana u Uniji, ako su aktivnosti obrade povezane s:
+
+(a) nuđenjem robe ili usluga takvim ispitanicima u Uniji, neovisno o tome treba li ispitanik izvršiti plaćanje; ili
+
+(b) praćenjem njihova ponašanja dokle god se njihovo ponašanje odvija unutar Unije.
+
+3.  Ova se Uredba primjenjuje na obradu osobnih podataka koju obavlja voditelj obrade koji nema poslovni nastan u Uniji, već na mjestu gdje se pravo države članice primjenjuje na temelju međunarodnog javnog prava.
+
+Članak 4.
+
+Definicije
+
+Za potrebe ove Uredbe:
+
+1. „osobni podaci” znači svi podaci koji se odnose na pojedinca čiji je identitet utvrđen ili se može utvrditi („ispitanik”); pojedinac čiji se identitet može utvrditi jest osoba koja se može identificirati izravno ili neizravno, osobito uz pomoć identifikatora kao što su ime, identifikacijski broj, podaci o lokaciji, mrežni identifikator ili uz pomoć jednog ili više čimbenika svojstvenih za fizički, fiziološki, genetski, mentalni, ekonomski, kulturni ili socijalni identitet tog pojedinca;
+
+2. „obrada” znači svaki postupak ili skup postupaka koji se obavljaju na osobnim podacima ili na skupovima osobnih podataka, bilo automatiziranim bilo neautomatiziranim sredstvima kao što su prikupljanje, bilježenje, organizacija, strukturiranje, pohrana, prilagodba ili izmjena, pronalaženje, obavljanje uvida, uporaba, otkrivanje prijenosom, širenjem ili stavljanjem na raspolaganje na drugi način, usklađivanje ili kombiniranje, ograničavanje, brisanje ili uništavanje;
+
+3. „ograničavanje obrade” znači označivanje pohranjenih osobnih podataka s ciljem ograničavanja njihove obrade u budućnosti;
+
+4. „izrada profila” znači svaki oblik automatizirane obrade osobnih podataka koji se sastoji od uporabe osobnih podataka za ocjenu određenih osobnih aspekata povezanih s pojedincem, posebno za analizu ili predviđanje aspekata u vezi s radnim učinkom, ekonomskim stanjem, zdravljem, osobnim sklonostima, interesima, pouzdanošću, ponašanjem, lokacijom ili kretanjem tog pojedinca;
+
+5. „pseudonimizacija” znači obrada osobnih podataka na način da se osobni podaci više ne mogu pripisati određenom ispitaniku bez uporabe dodatnih informacija, pod uvjetom da se takve dodatne informacije drže odvojeno te da podliježu tehničkim i organizacijskim mjerama kako bi se osiguralo da se osobni podaci ne mogu pripisati pojedincu čiji je identitet utvrđen ili se može utvrditi;
+
+6. „sustav pohrane” znači svaki strukturirani skup osobnih podataka dostupnih prema posebnim kriterijima, bilo da su centralizirani, decentralizirani ili raspršeni na funkcionalnoj ili zemljopisnoj osnovi;
+
+7. „voditelj obrade” znači fizička ili pravna osoba, tijelo javne vlasti, agencija ili drugo tijelo koje samo ili zajedno s drugima određuje svrhe i sredstva obrade osobnih podataka; kada su svrhe i sredstva takve obrade utvrđeni pravom Unije ili pravom države članice, voditelj obrade ili posebni kriteriji za njegovo imenovanje mogu se predvidjeti pravom Unije ili pravom države članice;
+
+8. „izvršitelj obrade” znači fizička ili pravna osoba, tijelo javne vlasti, agencija ili drugo tijelo koje obrađuje osobne podatke u ime voditelja obrade;
+
+9. „primatelj” znači fizička ili pravna osoba, tijelo javne vlasti, agencija ili drugo tijelo kojem se otkrivaju osobni podaci, neovisno o tome je li on treća strana. Međutim, tijela javne vlasti koja mogu primiti osobne podatke u okviru određene istrage u skladu s pravom Unije ili države članice ne smatraju se primateljima; obrada tih podataka koju obavljaju ta tijela javne vlasti mora biti u skladu s primjenjivim pravilima o zaštiti podataka prema svrhama obrade;
+
+10. „treća strana” znači fizička ili pravna osoba, tijelo javne vlasti, agencija ili drugo tijelo koje nije ispitanik, voditelj obrade, izvršitelj obrade ni osobe koje su ovlaštene za obradu osobnih podataka pod izravnom nadležnošću voditelja obrade ili izvršitelja obrade;
+
+11. „privola” ispitanika znači svako dobrovoljno, posebno, informirano i nedvosmisleno izražavanje želja ispitanika kojim on izjavom ili jasnom potvrdnom radnjom daje pristanak za obradu osobnih podataka koji se na njega odnose;
+
+12. „povreda osobnih podataka” znači kršenje sigurnosti koje dovodi do slučajnog ili nezakonitog uništenja, gubitka, izmjene, neovlaštenog otkrivanja ili pristupa osobnim podacima koji su preneseni, pohranjeni ili na drugi način obrađivani;
+
+13. „genetski podaci” znači osobni podaci koji se odnose na naslijeđena ili stečena genetska obilježja pojedinca koja daju jedinstvenu informaciju o fiziologiji ili zdravlju tog pojedinca, i koji su dobiveni osobito analizom biološkog uzorka dotičnog pojedinca;
+
+14. „biometrijski podaci” znači osobni podaci dobiveni posebnom tehničkom obradom u vezi s fizičkim obilježjima, fiziološkim obilježjima ili obilježjima ponašanja pojedinca koja omogućuju ili potvrđuju jedinstvenu identifikaciju tog pojedinca, kao što su fotografije lica ili daktiloskopski podaci;
+
+15. „podaci koji se odnose na zdravlje” znači osobni podaci povezani s fizičkim ili mentalnim zdravljem pojedinca, uključujući pružanje zdravstvenih usluga, kojima se daju informacije o njegovu zdravstvenom statusu;
+
+16. „glavni poslovni nastan” znači:
+
+(a) što se tiče voditelja obrade s poslovnim nastanima u više od jedne države članice, mjesto njegove središnje uprave u Uniji, osim ako se odluke o svrhama i sredstvima obrade osobnih podataka donose u drugom poslovnom nastanu voditelja obrade u Uniji te je potonji poslovni nastan ovlašten provoditi takve odluke, u kojem seslučaju poslovni nastan u okviru kojeg se donose takve odluke treba smatrati glavnim poslovnim nastanom;
+
+(b) što se tiče izvršitelja obrade s poslovnim nastanima u više od jedne države članice, mjesto njegove središnje uprave u Uniji, ili, ako izvršitelj obradenema središnju upravu u Uniji, poslovni nastan izvršitelja obrade u Uniji u kojem se odvijaju glavne aktivnosti obrade u kontekstu aktivnosti poslovnog nastana izvršitelja obrade u mjeri u kojoj izvršitelj obrade podliježe posebnim obvezama u skladu s ovom Uredbom;
+
+17. „predstavnik” znači fizička ili pravna osoba s poslovnim nastanom u Uniji koju je voditelj obrade ili izvršitelj obrade imenovao pisanim putem u skladu s člankom 27., a koja predstavlja voditelja obrade ili izvršitelja obrade u pogledu njihovih obveza na temelju ove Uredbe;
+
+18. „poduzeće” znači fizička ili pravna osoba koja se bavi gospodarskom djelatnošću, bez obzira na pravni oblik te djelatnosti, uključujući partnerstva ili udruženja koja se redovno bave gospodarskom djelatnošću;
+
+19. „grupa poduzetnika” znači poduzetnik u vladajućem položaju te njemu podređeni poduzetnici;
+
+20. „obvezujuća korporativna pravila” znači politike zaštite osobnih podataka kojih se voditelj obrade ili izvršitelj obrade s poslovnim nastanom na državnom području države članice pridržava za prijenose ili skupove prijenosa osobnih podataka voditelju obrade ili izvršitelju obrade u jednoj ili više trećih zemalja unutar grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću;
+
+21. „nadzorno tijelo” znači neovisno tijelo javne vlasti koje je osnovala država članica u skladu s člankom 51.;
+
+22. „predmetno nadzorno tijelo” znači nadzorno tijelo koje je povezano s obradom osobnih podataka zato što:
+
+(a) voditelj obrade ili izvršitelj obrade ima poslovni nastan na državnom području države članice tog nadzornog tijela;
+
+(b) obrada bitno utječe ili je izgledno da će bitno utjecati na ispitanike koji borave u državi članici tog nadzornog tijela; ili
+
+(c) podnesena je pritužba tom nadzornom tijelu.
+
+23. „prekogranična obrada” znači ili:
+
+(a) obrada osobnih podataka koja se odvija u Uniji u kontekstu aktivnosti poslovnih nastana u više od jedne države članice voditelja obrade ili izvršitelja obrade, a voditelj obrade ili izvršitelj obrade ima poslovni nastan u više od jedne države članice; ili
+
+(b) obrada osobnih podataka koja se odvija u Uniji u kontekstu aktivnosti jedinog poslovnog nastana voditelja obrade ili izvršitelja obrade, ali koja bitno utječe ili je izgledno da će bitno utjecati na ispitanike u više od jedne države članice.
+
+24. „relevantni i obrazloženi prigovor” znači prigovor na nacrt odluke kao i na to je li došlo do kršenja ove Uredbe, ili je li djelovanje predviđeno u vezi s voditeljem obrade ili izvršiteljem obrade u skladu s ovom Uredbom, koji jasno pokazuje važnost rizika koje predstavlja nacrt odluke u pogledu temeljnih prava i sloboda ispitanika i, ako je primjenjivo, slobodnog protoka osobnih podataka unutar Unije;
+
+25. „usluga informacijskog društva” znači usluga kako je definirana člankom 1. stavkom 1. točkom 2. Direktive 2015/1535 Europskog parlamenta i Vijeća ( 1 );
+
+26. „međunarodna organizacija” znači organizacija i njezina podređena tijela uređena međunarodnim javnim pravom ili bilo koje drugo tijelo koje su sporazumom ili na osnovi sporazuma osnovale dvije ili više zemalja.
+
+
+
+POGLAVLJE II.
+
+Načela
+
+Članak 5.
+
+Načela obrade osobnih podataka
+
+1.  Osobni podaci moraju biti:
+
+▼C1
+
+(a) zakonito, pošteno i transparentno obrađivani s obzirom na ispitanika („zakonitost, poštenost i transparentnost”);
+
+▼B
+
+(b) prikupljeni u posebne, izričite i zakonite svrhe te se dalje ne smiju obrađivati na način koji nije u skladu s tim svrhama; daljnja obrada u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe, u skladu s člankom 89. stavkom 1. ne smatra se neusklađenom s prvotnim svrhama („ograničavanje svrhe”);
+
+(c) primjereni, relevantni i ograničeni na ono što je nužno u odnosu na svrhe u koje se obrađuju („smanjenje količine podataka”);
+
+(d) točni i prema potrebi ažurni; mora se poduzeti svaka razumna mjera radi osiguravanja da se osobni podaci koji nisu točni, uzimajući u obzir svrhe u koje se obrađuju, bez odlaganja izbrišu ili isprave („točnost”);
+
+(e) čuvani u obliku koji omogućuje identifikaciju ispitanikâ samo onoliko dugo koliko je potrebno u svrhe radi kojih se osobni podaci obrađuju; osobni podaci mogu se pohraniti na dulja razdoblja ako će se osobni podaci obrađivati isključivo u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe u skladu s člankom 89. stavkom 1., što podliježe provedbi primjerenih tehničkih i organizacijskih mjera propisanih ovom Uredbom radi zaštite prava i sloboda ispitanika („ograničenje pohrane”);
+
+(f) obrađivani na način kojim se osigurava odgovarajuća sigurnost osobnih podataka, uključujući zaštitu od neovlaštene ili nezakonite obrade te od slučajnog gubitka, uništenja ili oštećenja primjenom odgovarajućih tehničkih ili organizacijskih mjera („cjelovitost i povjerljivost”);
+
+2.  Voditelj obrade odgovoran je za usklađenost sa stavkom 1. te je mora biti u mogućnosti dokazati („pouzdanost”).
+
+Članak 6.
+
+Zakonitost obrade
+
+1.  Obrada je zakonita samo ako i u onoj mjeri u kojoj je ispunjeno najmanje jedno od sljedećega:
+
+(a) ispitanik je dao privolu za obradu svojih osobnih podataka u jednu ili više posebnih svrha;
+
+(b) obrada je nužna za izvršavanje ugovora u kojem je ispitanik stranka ili kako bi se poduzele radnje na zahtjev ispitanika prije sklapanja ugovora;
+
+(c) obrada je nužna radi poštovanja pravnih obveza voditelja obrade;
+
+▼C1
+
+(d) obrada je nužna kako bi se zaštitili životno važni interesi ispitanika ili druge fizičke osobe;
+
+▼B
+
+(e) obrada je nužna za izvršavanje zadaće od javnog interesa ili pri izvršavanju službene ovlasti voditelja obrade;
+
+(f) obrada je nužna za potrebe legitimnih interesa voditelja obrade ili treće strane, osim kada su od tih interesa jači interesi ili temeljna prava i slobode ispitanika koji zahtijevaju zaštitu osobnih podataka, osobito ako je ispitanik dijete.
+
+Točka (f) prvog podstavka ne odnosi se na obradu koju provode tijela javne vlasti pri izvršavanju svojih zadaća.
+
+▼C1
+
+2.  Države članice mogu zadržati ili uvesti posebne odredbe kako bi se primjena pravila ove Uredbe s obzirom na obradu prilagodila radi usklađivanja sa stavkom 1. točkama (c) i (e) tako da se preciznije odrede posebni zahtjevi za obradu te druge mjere za osiguravanje zakonite i poštene obrade, među ostalim za druge posebne situacije obrade kako je predviđeno u poglavlju IX.
+
+▼B
+
+3.  Pravna osnova za obradu iz stavka 1. točaka (c) i (e) utvrđuje se u:
+
+(a) pravu Unije; ili
+
+(b) pravu države članice kojem voditelj obrade podliježe.
+
+Svrha obrade određuje se tom pravnom osnovom ili, u pogledu obrade iz stavka 1. točke (e), mora biti nužna za izvršavanje zadaće od javnog interesa ili izvršavanje službene ovlasti voditelja obrade. Ta pravna osnova može sadržavati posebne odredbe kako bi se prilagodila primjena pravila ove Uredbe, među ostalim opće uvjete kojima se uređuje zakonitost obrade od strane voditelja obrade, vrste podataka koji su predmet obrade, dotične ispitanike, subjekte kojima se osobni podaci mogu otkriti i svrhe u koje se podaci mogu otkriti, ograničavanje svrhe, razdoblje pohrane te aktivnosti obrade i postupke obrade, uključujući mjere za osiguravanje zakonite i poštene obrade, kao i za druge posebne situacije obrade kako je navedeno u poglavlju IX. Pravom Unije ili pravom države članice mora se ostvariti cilj od javnog interesa te ono mora biti razmjerno zakonitom cilju koji se želi postići.
+
+4.  Ako se obrada u svrhu koja je različita od svrhe u koju su podaci prikupljeni ne temelji na privoli ispitanika ili na pravu Unije ili pravu države članice koje predstavlja nužnu i razmjernu mjeru u demokratskom društvu za zaštitu ciljeva iz članka 23. stavka 1., voditelj obrade, s ciljem utvrđivanja je li obrada u drugu svrhu u skladu sa svrhom u koju su osobni podaci prvotno prikupljeni, uzima u obzir, među ostalim:
+
+(a) svaku vezu između svrha prikupljanja osobnih podataka i svrha namjeravanog nastavka obrade;
+
+(b) kontekst u kojem su prikupljeni osobni podaci, posebno u pogledu odnosa između ispitanikâ i voditelja obrade;
+
+(c) prirodu osobnih podataka, osobito činjenicu obrađuju li se posebne kategorije osobnih podataka u skladu s člankom 9. ili osobni podaci koji se odnose na kaznene osude i kažnjiva djela u skladu s člankom 10.;
+
+(d) moguće posljedice namjeravanog nastavka obrade za ispitanike;
+
+(e) postojanje odgovarajućih zaštitnih mjera, koje mogu uključivati enkripciju ili pseudonimizaciju.
+
+Članak 7.
+
+Uvjeti privole
+
+1.  Kada se obrada temelji na privoli, voditelj obrade mora moći dokazati da je ispitanik dao privolu za obradu svojih osobnih podataka.
+
+2.  Ako ispitanik da privolu u vidu pisane izjave koja se odnosi i na druga pitanja, zahtjev za privolu mora biti predočen na način da ga se može jasno razlučiti od drugih pitanja, u razumljivom i lako dostupnom obliku uz uporabu jasnog i jednostavnog jezika. Svaki dio takve izjave koji predstavlja kršenje ove Uredbe nije obvezujući.
+
+3.  Ispitanik ima pravo u svakom trenutku povući svoju privolu. Povlačenje privole ne utječe na zakonitost obrade na temelju privole prije njezina povlačenja. Prije davanja privole, ispitanika se o tome obavješćuje. Povlačenje privole mora biti jednako jednostavno kao i njezino davanje.
+
+4.  Kada se procjenjuje je li privola bila dobrovoljna, u najvećoj mogućoj mjeri uzima se u obzir je li, među ostalim, izvršenje ugovora, uključujući pružanje usluge, uvjetovano privolom za obradu osobnih podataka koja nije nužna za izvršenje tog ugovora.
+
+Članak 8.
+
+Uvjeti koji se primjenjuju na privolu djeteta u odnosu na usluge informacijskog društva
+
+1.  Kada se primjenjuje članak 6. stavak 1. točka (a), u pogledu nuđenja usluga informacijskog društva izravno djetetu, obrada osobnih podataka djeteta zakonita je ako dijete ima najmanje 16 godina. Ako je dijete ispod dobne granice od 16 godina takva je obrada zakonita samo ako i u mjeri u kojoj je privolu dao ili odobrio nositelj roditeljske odgovornosti nad djetetom.
+
+Države članice mogu u te svrhe zakonom predvidjeti nižu dobnu granicu, pod uvjetom da takva niža dobna granica nije niža od 13 godina.
+
+2.  Voditelj obrade mora uložiti razumne napore u provjeru je li privolu u takvim slučajevima dao ili odobrio nositelj roditeljske odgovornosti nad djetetom, uzimajući u obzir dostupnu tehnologiju.
+
+3.  Stavak 1. ne utječe na opće ugovorno pravo država članica kao što su pravila o valjanosti, sklapanju ili učinku ugovora kada je riječ o djetetu.
+
+Članak 9.
+
+Obrada posebnih kategorija osobnih podataka
+
+1.  Zabranjuje se obrada osobnih podataka koji otkrivaju rasno ili etničko podrijetlo, politička mišljenja, vjerska ili filozofska uvjerenja ili članstvo u sindikatu te obrada genetskih podataka, biometrijskih podataka u svrhu jedinstvene identifikacije pojedinca, podataka koji se odnose na zdravlje ili podataka o spolnom životu ili seksualnoj orijentaciji pojedinca.
+
+2.  Stavak 1. ne primjenjuje se ako je ispunjen jedno od sljedećeg:
+
+(a) ispitanik je dao izričitu privolu za obradu tih osobnih podataka za jednu ili više određenih svrha, osim ako se pravom Unije ili pravom države članice propisuje da ispitanik ne može ukinuti zabranu iz stavka 1.;
+
+(b) obrada je nužna za potrebe izvršavanja obveza i ostvarivanja posebnih prava voditelja obrade ili ispitanika u području radnog prava i prava o socijalnoj sigurnosti te socijalnoj zaštiti u mjeri u kojoj je to odobreno u okviru prava Unije ili prava države članice ili kolektivnog ugovora u skladu s pravom države članice koje propisuje odgovarajuće zaštitne mjere za temeljna prava i interese ispitanika;
+
+(c) obrada je nužna za zaštitu životno važnih interesa ispitanika ili drugog pojedinca ako ispitanik fizički ili pravno nije u mogućnosti dati privolu;
+
+(d) obrada se provodi u sklopu legitimnih aktivnosti s odgovarajućim zaštitnim mjerama zaklade, udruženja ili drugog neprofitnog tijela s političkim, filozofskim, vjerskim ili sindikalnim ciljem te pod uvjetom da se obrada odnosi samo na članove ili bivše članove tijela ili na osobe koje imaju redovan kontakt s njom u vezi s njezinim svrhama i da osobni podaci nisu priopćeni nikome izvan tog tijela bez privole ispitanika;
+
+(e) obrada se odnosi na osobne podatke za koje je očito da ih je objavio ispitanik;
+
+(f) obrada je nužna za uspostavu, ostvarivanje ili obranu pravnih zahtjeva ili kad god sudovi djeluju u sudbenom svojstvu;
+
+(g) obrada je nužna za potrebe značajnog javnog interesa na temelju prava Unije ili prava države članice koje je razmjerno željenom cilju te kojim se poštuje bit prava na zaštitu podataka i osiguravaju prikladne i posebne mjere za zaštitu temeljnih prava i interesa ispitanika;
+
+(h) obrada je nužna u svrhu preventivne medicine ili medicine rada radi procjene radne sposobnosti zaposlenika, medicinske dijagnoze, pružanja zdravstvene ili socijalne skrbi ili tretmana ili upravljanja zdravstvenim ili socijalnim sustavima i uslugama na temelju prava Unije ili prava države članice ili u skladu s ugovorom sa zdravstvenim radnikom te u skladu s uvjetima i zaštitnim mjerama iz stavka 3.;
+
+(i) obrada je nužna u svrhu javnog interesa u području javnog zdravlja kao što je zaštita od ozbiljnih prekograničnih prijetnji zdravlju ili osiguravanje visokih standarda kvalitete i sigurnosti zdravstvene skrbi te lijekova i medicinskih proizvoda, na temelju prava Unije ili prava države članice kojim se propisuju odgovarajuće i posebne mjere za zaštitu prava i sloboda ispitanika, posebno čuvanje profesionalne tajne;
+
+(j) obrada je nužna u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe u skladu s člankom 89. stavkom 1. na temelju prava Unije ili prava države članice koje je razmjerno cilju koji se nastoji postići te kojim se poštuje bit prava na zaštitu podataka i osiguravaju prikladne i posebne mjere za zaštitu temeljnih prava i interesa ispitanika.
+
+3.   ►C1  Osobni podaci iz stavka 1. mogu se obrađivati u svrhe navedene u stavku 2. točki (h) kada te podatke obrađuje stručnjak ili se podaci obrađuju pod odgovornošću stručnjaka koji podliježe obvezi čuvanja profesionalne tajne sukladno pravu Unije ili ◄ pravu države članice ili pravilima koja su odredila nadležna nacionalna tijela ili druga osoba koja također podliježe obvezi čuvanja tajne sukladno pravu Unije ili pravu države članice ili pravilima koja su utvrdila nadležna nacionalna tijela.
+
+4.  Države članice mogu zadržati ili uvesti dodatne uvjete, uključujući ograničenja s obzirom na obradu genetskih podataka, biometrijskih podataka ili podataka koji se odnose na zdravlje.
+
+Članak 10.
+
+Obrada osobnih podataka koji se odnose na kaznene osude i kažnjiva djela
+
+Obrada osobnih podataka koji se odnose na kaznene osude i kažnjiva djela ili povezane mjere sigurnosti na temelju članka 6. stavka 1. provodi se samo pod nadzorom službenog tijela ili kada je obrada odobrena pravom Unije ili pravom države članice kojim se propisuju odgovarajuće zaštitne mjere za prava i slobode ispitanikâ. Svaki sveobuhvatni registar kaznenih osuda vodi se samo pod nadzorom službenog tijela vlasti.
+
+Članak 11.
+
+Obrada koja ne zahtijeva identifikaciju
+
+1.  Ako se u svrhe u koje voditelj obrade obrađuje osobne podatke ne zahtijeva ili više ne zahtijeva da voditelj obrade identificira ispitanika, voditelj obrade nije obvezan zadržavati, stjecati ili obrađivati dodatne informacije radi identificiranja ispitanika samo u svrhu poštovanja ove Uredbe.
+
+2.  Ako u slučajevima iz stavka 1.ovog članka voditelj obrade može dokazati da nije u mogućnosti identificirati ispitanika, voditelj obrade o tome na odgovarajući način obavješćuje ispitanika, ako je to moguće. U takvim slučajevima ne primjenjuju se članci od 15. do 20., osim ako ispitanik u svrhu ostvarivanja svojih prava iz tih članaka pruži dodatne informacije koje omogućuju njegovu identifikaciju.
+
+
+
+POGLAVLJE III.
+
+Prava ispitanika
+
+
+
+Odjeljak 1.
+
+Transparentnost i modaliteti
+
+Članak 12.
+
+Transparentne informacije, komunikacija i modaliteti za ostvarivanje prava ispitanika
+
+1.  Voditelj obrade poduzima odgovarajuće mjere kako bi se ispitaniku pružile sve informacije iz članaka 13. i 14. i sve komunikacije iz članaka od 15. do 22. i članka 34. u vezi s obradom u sažetom, transparentnom, razumljivom i lako dostupnom obliku, uz uporabu jasnog i jednostavnog jezika, osobito za svaku informaciju koja je posebno namijenjena djetetu. Informacije se pružaju u pisanom obliku ili drugim sredstvima, među ostalim, ako je prikladno, elektroničkim putem. Ako to zatraži ispitanik, informacije se mogu pružiti usmenim putem, pod uvjetom da je drugim sredstvima utvrđen identitet ispitanika.
+
+2.  Voditelj obrade olakšava ostvarivanje prava ispitanika iz članaka od 15. do 22. U slučajevima iz članka 11. stavka 1. voditelj obrade ne smije odbiti postupiti po zahtjevu ispitanika u svrhu ostvarivanja njegovih prava iz članaka od 15. do 22., osim ako voditelj obrade dokaže da nije u mogućnosti utvrditi identitet ispitanika.
+
+3.  Voditelj obrade ispitaniku na zahtjev pruža informacije o poduzetim radnjama iz članaka od 15. do 22. bez nepotrebnog odgađanja i u svakom slučaju u roku od mjesec dana od zaprimanja zahtjeva. Taj se rok može prema potrebi produljiti za dodatna dva mjeseca, uzimajući u obzir složenost i broj zahtjevâ. Voditelj obrade obavješćuje ispitanika o svakom takvom produljenju u roku od mjesec dana od zaprimanja zahtjeva, zajedno s razlozima odgađanja. Ako ispitanik podnese zahtjev elektroničkim putem, informacije se pružaju elektroničkim putem ako je to moguće, osim ako ispitanik zatraži drugačije.
+
+▼C1
+
+4.  Ako voditelj obrade ne postupi po zahtjevu ispitanika, voditelj obrade bez odgađanja i najkasnije jedan mjesec od primitka zahtjeva izvješćuje ispitanika o razlozima zbog kojih nije postupio i o mogućnosti podnošenja pritužbe nadzornom tijelu i traženja sudskog pravnog lijeka.
+
+▼B
+
+5.  Informacije pružene u skladu s člancima 13. i 14. i sva komunikacija i djelovanja iz članaka od 15. do 22. i članka 34. pružaju se bez naknade. Ako su zahtjevi ispitanika očito neutemeljeni ili pretjerani, osobito zbog njihova učestalog ponavljanja, voditelj obrade može:
+
+(a) naplatiti razumnu naknadu uzimajući u obzir administrativne troškove pružanja informacija ili obavijesti ili postupanje po zahtjevu; ili
+
+(b) odbiti postupiti po zahtjevu.
+
+Teret dokaza očigledne neutemeljenosti ili pretjeranosti zahtjeva jest na voditelju obrade.
+
+6.  Ne dovodeći u pitanje članak 11., ako voditelj obrade ima opravdane sumnje u pogledu identiteta pojedinca koji podnosi zahtjev iz članaka od 15. do 21., voditelj obrade može tražiti pružanje dodatnih informacija neophodnih za potvrđivanje identiteta ispitanika.
+
+7.  Informacije koje treba pružiti ispitanicima u skladu s člancima 13. i 14. mogu se pružiti u kombinaciji sa standardiziranim ikonama kako bi se na lako vidljiv, razumljiv i jasno čitljiv način pružio smislen pregled namjeravane obrade. Ako su ikone prikazane elektroničkim putem, one moraju biti strojno čitljive.
+
+8.  Komisija je ovlaštena donositi delegirane akte u skladu s člankom 92. u svrhu određivanja informacija koje se prikazuju ikonama te postupaka za utvrđivanje standardiziranih ikona.
+
+
+
+Odjeljak 2.
+
+Informacije i pristup osobnim podacima
+
+Članak 13.
+
+Informacije koje treba dostaviti ako se osobni podaci prikupljaju od ispitanika
+
+1.  Ako su osobni podaci koji se odnose na ispitanika prikupljeni od ispitanika, voditelj obrade u trenutku prikupljanja osobnih podataka ispitaniku pruža sve sljedeće informacije:
+
+(a) identitet i kontaktne podatke voditelja obrade i, ako je primjenjivo, predstavnika voditelja obrade;
+
+(b) kontaktne podatke službenika za zaštitu podataka, ako je primjenjivo;
+
+(c) svrhe obrade radi kojih se upotrebljavaju osobni podaci kao i pravnu osnovu za obradu;
+
+(d) ako se obrada temelji na članku 6. stavku 1. točki (f), legitimne interese voditelja obrade ili treće strane;
+
+(e) primatelje ili kategorije primatelja osobnih podataka, ako ih ima; i
+
+(f) ako je primjenjivo, činjenicu da voditelja obrade namjerava osobne podatke prenijeti trećoj zemlji ili međunarodnoj organizaciji te postojanje ili nepostojanje odluke Komisije o primjerenosti, ili u slučaju prijenosâ iz članaka 46. ili 47. ili članka 49. stavka 1. drugog podstavka upućivanje na prikladne ili odgovarajuće zaštitne mjere i načine pribavljanja njihove kopije ili mjesta na kojem su stavljene na raspolaganje.
+
+2.  Osim informacija iz stavka 1., voditelj obrade u trenutku kada se osobni podaci prikupljaju pruža ispitaniku sljedeće dodatne informacije potrebne kako bi se osigurala poštena i transparentna obrada:
+
+(a) razdoblje u kojem će osobni podaci biti pohranjeni ili, ako to nije moguće, kriterije kojima se utvrdilo to razdoblje;
+
+(b) postojanje prava da se od voditelja obrade zatraži pristup osobnim podacima i ispravak ili brisanje osobnih podataka ili ograničavanje obrade koji se odnose na ispitanika ili prava na ulaganje prigovora na obradu takvih te prava na prenosivost podataka;
+
+(c) ako se obrada temelji na članku 6. stavku 1. točki (a) ili članku 9. stavku 2. točki (a), postojanje prava da se u bilo kojem trenutku povuče privolu, a da to ne utječe na zakonitost obrade koja se temeljila na privoli prije nego što je ona povučena;
+
+(d) pravo na podnošenje prigovora nadzornom tijelu;
+
+▼C1
+
+(e) informaciju o tome je li pružanje osobnih podataka zakonska ili ugovorna obveza ili zahtjev nužan za sklapanje ugovora te ima li ispitanik obvezu pružanja osobnih podataka i koje su moguće posljedice ako se takvi podaci ne pruže;
+
+▼B
+
+(f) postojanje automatiziranog donošenja odluka, što uključuje izradu profila iz članka 22. stavaka 1. i 4. te, barem u tim slučajevima, smislene informacije o tome o kojoj je logici riječ, kao i važnost i predviđene posljedice takve obrade za ispitanika.
+
+3.  Ako voditelj obrade namjerava dodatno obrađivati osobne podatke u svrhu koja je različita od one za koju su osobni podaci prikupljeni, voditelj obrade prije te dodatne obrade ispitaniku pruža informacije o toj drugoj svrsi te sve druge relevantne informacije iz stavka 2.
+
+4.  Stavci 1., 2. i 3. ne primjenjuju se ako i u onoj mjeri u kojoj ispitanik već raspolaže informacijama.
+
+Članak 14.
+
+Informacije koje se trebaju pružiti ako osobni podaci nisu dobiveni od ispitanika
+
+1.  Ako osobni podaci nisu dobiveni od ispitanika, voditelj obrade ispitaniku pruža sljedeće informacije:
+
+(a) identitet i kontaktne podatke voditelja obrade i predstavnika voditelja obrade, ako je primjenjivo;
+
+(b) kontaktne podatke službenika za zaštitu podataka, ako je primjenjivo;
+
+(c) svrhe obrade kojoj su namijenjeni osobni podaci kao i pravnu osnovu za obradu;
+
+(d) kategorije osobnih podataka o kojima je riječ;
+
+(e) primatelje ili kategorije primatelja osobnih podataka, prema potrebi;
+
+(f) ako je primjenjivo, namjeru voditelja obrade da osobne podatke prenese primatelju u trećoj zemlji ili međunarodnoj organizaciji te postojanje ili nepostojanje odluke Komisije o primjerenosti, ili u slučaju prijenosâ iz članka 46. ili 47., ili članka 49. stavka 1. drugog podstavka upućivanje na prikladne ili odgovarajuće zaštitne mjere i načine pribavljanja njihove kopije ili mjesta na kojem su stavljene na raspolaganje;
+
+2.  Osim informacija iz stavka 1. voditelj obrade ispitaniku pruža sljedeće informacije neophodne za osiguravanje poštene i transparentne obrade s obzirom na ispitanika:
+
+(a) razdoblje u kojem će se osobni podaci pohranjivati ili, ako to nije moguće, kriterije kojima se utvrdilo to razdoblje;
+
+(b) ako se obrada temelji na članku 6. stavku 1. točki (f), legitimne interese voditelja obrade ili treće strane;
+
+(c) postojanje prava da se od voditelja obrade zatraži pristup osobnim podacima i ispravak ili brisanje osobnih podataka ili ograničavanje obrade koji se odnose na ispitanika i prava na ulaganje prigovora na obradu te prava na prenosivost podataka;
+
+(d) ako se obrada temelji na članku 6. stavku 1. točki (a) ili članku 9. stavku 2. točki (a), postojanje prava da se u bilo kojem trenutku povuče privolu, a da to ne utječe na zakonitost obrade koja se temeljila na privoli prije nego što je ona povučena;
+
+(e) pravo na podnošenje prigovora nadzornom tijelu;
+
+(f) izvor osobnih podataka i, prema potrebi, dolaze li iz javno dostupnih izvora;
+
+(g) postojanje automatiziranog donošenja odluka, što uključuje izradu profila iz članka 22. stavaka 1. i 4. te, barem u tim slučajevima, smislene informacije o tome o kojoj je logici riječ, kao i važnost i predviđene posljedice takve obrade za ispitanika.
+
+3.  Voditelj obrade pruža informacije iz stavaka 1. i 2.:
+
+(a) unutar razumnog roka nakon dobivanja osobnih podataka, a najkasnije u roku od jednog mjeseca, uzimajući u obzir posebne okolnosti obrade osobnih podataka;
+
+(b) ako se osobni podaci trebaju upotrebljavati za komunikaciju s ispitanikom, najkasnije u trenutku prve komunikacije ostvarene s tim ispitanikom; ili
+
+(c) ako je predviđeno otkrivanje podataka drugom primatelju, najkasnije u trenutku kada su osobni podaci prvi put otkriveni.
+
+4.  Ako voditelj obrade namjerava dodatno obrađivati osobne podatke u svrhu koja je različita od one za koju su osobni podaci dobiveni, voditelj obrade prije te dodatne obrade ispitaniku pruža informacije o toj drugoj svrsi te sve druge relevantne informacije iz stavka 2.
+
+5.  Stavci od 1. do 4. ne primjenjuju se ako i u mjeri u kojoj:
+
+(a) ispitanik već posjeduje informacije;
+
+(b) pružanje takvih informacija nemoguće je ili bi zahtijevalo nerazmjerne napore; posebno za obrade u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe, podložno uvjetima i zaštitnim mjerama iz članka 89. stavka 1. ili u mjeri u kojoj je vjerojatno da se obvezom iz stavka 1. ovog članka može onemogućiti ili ozbiljno ugroziti postizanje ciljeva te obrade. U takvim slučajevima voditelj obrade poduzima odgovarajuće mjere zaštite prava i sloboda te legitimnih interesa ispitanikâ, među ostalim stavljanjem informacija na raspolaganje javnosti;
+
+(c) dobivanje ili otkrivanje podataka izrijekom je propisano pravom Unije ili pravom države članice kojem podliježe voditelj obrade, a koje predviđa odgovarajuće mjere zaštite legitimnih interesa ispitanika; ili
+
+(d) ako osobni podaci moraju ostati povjerljivi u skladu s obvezom čuvanja profesionalne tajne koju uređuje pravo Unije ili pravo države članice, uključujući obvezu čuvanja tajne koja se navodi u statutu.
+
+Članak 15.
+
+Pravo ispitanika na pristup
+
+1.  Ispitanik ima pravo dobiti od voditelja obrade potvrdu obrađuju li se osobni podaci koji se odnose na njega te ako se takvi osobni podaci obrađuju, pristup osobnim podacima i sljedećim informacijama:
+
+(a) svrsi obrade;
+
+(b) kategorijama osobnih podataka o kojima je riječ;
+
+(c) primateljima ili kategorijama primatelja kojima su osobni podaci otkriveni ili će im biti otkriveni, osobito primateljima u trećim zemljama ili međunarodnim organizacijama;
+
+(d) ako je to moguće, predviđenom razdoblju u kojem će osobni podaci biti pohranjeni ili, ako to nije moguće, kriterijima korištenima za utvrđivanje tog razdoblja;
+
+(e) postojanju prava da se od voditelja obrade zatraži ispravak ili brisanje osobnih podataka ili ograničavanje obrade osobnih podataka koji se odnose na ispitanika ili prava na prigovor na takvu obradu
+
+(f) pravu na podnošenje pritužbe nadzornom tijelu;
+
+(g) ako se osobni podaci ne prikupljaju od ispitanika, svakoj dostupnoj informaciji o njihovu izvoru;
+
+(h) postojanju automatiziranog donošenja odluka, što uključuje izradu profila iz članka 22. stavaka 1. i 4. te, barem u tim slučajevima, smislenim informacijama o tome o kojoj je logici riječ, kao i važnosti i predviđenim posljedicama takve obrade za ispitanika.
+
+2.  Ako se osobni podaci prenose u treću zemlju ili međunarodnu organizaciju, ispitanik ima pravo biti informiran o odgovarajućim zaštitnim mjerama u skladu s člankom 46. koje se odnose na prijenos.
+
+3.  Voditelj obrade osigurava kopiju osobnih podataka koji se obrađuju. Za sve dodatne kopije koje zatraži ispitanik voditelj obrade može naplatiti razumnu naknadu na temelju administrativnih troškova. Ako ispitanik podnese zahtjev elektroničkim putem te osim ako ispitanik zatraži drukčije, informacije se pružaju u uobičajenom elektroničkom obliku.
+
+4.  Pravo na dobivanje kopije iz stavka 3. ne smije negativno utjecati na prava i slobode drugih.
+
+
+
+Odjeljak 3.
+
+Ispravak i brisanje
+
+Članak 16.
+
+Pravo na ispravak
+
+Ispitanik ima pravo bez nepotrebnog odgađanja ishoditi od voditelja obrade ispravak netočnih osobnih podataka koji se na njega odnose. Uzimajući u obzir svrhe obrade, ispitanik ima pravo dopuniti nepotpune osobne podatke, među ostalim i davanjem dodatne izjave.
+
+Članak 17.
+
+Pravo na brisanje („pravo na zaborav”)
+
+1.  Ispitanik ima pravo od voditelja obrade ishoditi brisanje osobnih podataka koji se na njega odnose bez nepotrebnog odgađanja te voditelj obrade ima obvezu obrisati osobne podatke bez nepotrebnog odgađanja ako je ispunjen jedan od sljedećih uvjeta:
+
+(a) osobni podaci više nisu nužni u odnosu na svrhe za koje su prikupljeni ili na drugi način obrađeni;
+
+(b) ispitanik povuče privolu na kojoj se obrada temelji u skladu s člankom 6. stavkom 1. točkom (a) ili člankom 9. stavkom 2. točkom (a) i ako ne postoji druga pravna osnova za obradu;
+
+(c) ispitanik uloži prigovor na obradu u skladu s člankom 21. stavkom 1. te ne postoje jači legitimni razlozi za obradu, ili ispitanik uloži prigovor na obradu u skladu s člankom 21. stavkom 2.;
+
+(d) osobni podaci nezakonito su obrađeni;
+
+(e) osobni podaci moraju se brisati radi poštovanja pravne obveze iz prava Unije ili prava države članice kojem podliježe voditelj obrade;
+
+(f) osobni podaci prikupljeni su u vezi s ponudom usluga informacijskog društva iz članka 8. stavka 1.
+
+2.  Ako je voditelj obrade javno objavio osobne podatke i dužan je u skladu sa stavkom 1. obrisati te osobne podatke, uzimajući u obzir dostupnu tehnologiju i trošak provedbe, voditelj obrade poduzima razumne mjere, uključujući tehničke mjere, kako bi informirao voditelje obrade koji obrađuju osobne podatke da je ispitanik zatražio od tih voditelja obrade da izbrišu sve poveznice do njih ili kopiju ili rekonstrukciju tih osobnih podataka.
+
+3.  Stavci 1. i 2. ne primjenjuju se u mjeri u kojoj je obrada nužna:
+
+(a) radi ostvarivanja prava na slobodu izražavanja i informiranja;
+
+(b) radi poštovanja pravne obveze kojom se zahtijeva obrada u pravu Unije ili pravu države članice kojem podliježe voditelj obrade ili za izvršavanje zadaće od javnog interesa ili pri izvršavanju službene ovlasti voditelja obrade;
+
+(c) zbog javnog interesa u području javnog zdravlja u skladu s člankom 9. stavkom 2. točkama (h) i (i) kao i člankom 9. stavkom 3.;
+
+(d) u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe u skladu s člankom 89. stavkom 1. u mjeri u kojoj je vjerojatno da se pravom iz stavka 1. može onemogućiti ili ozbiljno ugroziti postizanje ciljeva te obrade; ili
+
+(e) radi postavljanja, ostvarivanja ili obrane pravnih zahtjeva.
+
+Članak 18.
+
+Pravo na ograničenje obrade
+
+1.  Ispitanik ima pravo od voditelja obrade ishoditi ograničenje obrade ako je ispunjeno jedno od sljedećeg:
+
+(a) ispitanik osporava točnost osobnih podataka, na razdoblje kojim se voditelju obrade omogućuje provjera točnosti osobnih podataka;
+
+(b) obrada je nezakonita i ispitanik se protivi brisanju osobnih podataka te umjesto toga traži ograničenje njihove uporabe;
+
+(c) voditelj obrade više ne treba osobne podatke za potrebe obrade, ali ih ispitanik traži radi postavljanja, ostvarivanja ili obrane pravnih zahtjeva;
+
+(d) ispitanik je uložio prigovor na obradu na temelju članka 21. stavka 1. očekujući potvrdu nadilaze li legitimni razlozi voditelja obrade razloge ispitanika.
+
+2.  Ako je obrada ograničena stavkom 1., takvi osobni podaci smiju se obrađivati samo uz privolu ispitanika, uz iznimku pohrane, ili za postavljanje, ostvarivanje ili obranu pravnih zahtjeva ili zaštitu prava druge fizičke ili pravne osobe ili zbog važnog javnog interesa Unije ili države članice.
+
+3.  Ispitanika koji je ishodio ograničenje obrade na temelju stavka 1. voditelj obrade izvješćuje prije nego što ograničenje obrade bude ukinuto.
+
+Članak 19.
+
+Obveza izvješćivanja u vezi s ispravkom ili brisanjem osobnih podataka ili ograničenjem obrade
+
+Voditelj obrade priopćuje svaki ispravak ili brisanje osobnih podataka ili ograničenje obrade provedeno u skladu s člankom 16., člankom 17. stavkom 1. i člankom 18. svakom primatelju kojem su otkriveni osobni podaci, osim ako se to pokaže nemogućim ili zahtijeva nerazmjeran napor. Voditelj obrade obavješćuje ispitanika o tim primateljima ako to ispitanik zatraži.
+
+Članak 20.
+
+Pravo na prenosivost podataka
+
+1.   ►C1  Ispitanik ima pravo zaprimiti osobne podatke koji se odnose na njega, a koje je pružio voditelju obrade, u strukturiranom, uobičajeno upotrebljavanom i strojno čitljivom formatu ◄ te ima pravo prenijeti te podatke drugom voditelju obrade bez ometanja od strane voditelja obrade kojem su osobni podaci pruženi, ako:
+
+(a) obrada se temelji na privoli u skladu s člankom 6. stavkom 1. točkom (a) ili člankom 9. stavkom 2. točkom (a) ili na ugovoru u skladu s člankom 6. stavkom 1. točkom (b); i
+
+(b) obrada se provodi automatiziranim putem.
+
+2.  Prilikom ostvarivanja svojih prava na prenosivost podataka na temelju stavka 1. ispitanik ima pravo na izravni prijenos od jednog voditelja obrade drugome ako je to tehnički izvedivo.
+
+3.  Ostvarivanjem prava iz stavka 1. ovog članka ne dovodi se u pitanje članak 17. To se pravo ne primjenjuje na obradu nužnu za obavljanje zadaće od javnog interesa ili pri izvršavanju službene ovlasti dodijeljene voditelju obrade.
+
+4.  Pravo iz stavka 1. ne smije negativno utjecati na prava i slobode drugih.
+
+
+
+Odjeljak 4.
+
+Pravo na prigovor i automatizirano pojedinačno donošenje odluka
+
+Članak 21.
+
+Pravo na prigovor
+
+1.  Ispitanik ima pravo na temelju svoje posebne situacije u svakom trenutku uložiti prigovor na obradu osobnih podataka koji se odnose na njega, u skladu s člankom 6. stavkom 1. točkom (e) ili (f), uključujući izradu profila koja se temelji na tim odredbama. Voditelj obrade više ne smije obrađivati osobne podatke osim ako voditelj obrade dokaže da postoje uvjerljivi legitimni razlozi za obradu koji nadilaze interese, prava i slobode ispitanika ili radi postavljanja, ostvarivanja ili obrane pravnih zahtjeva.
+
+2.  Ako se osobni podaci obrađuju za potrebe izravnog marketinga, ispitanik u svakom trenutku ima pravo uložiti prigovor na obradu osobnih podataka koji se odnose na njega za potrebe takvog marketinga, što uključuje izradu profila u mjeri koja je povezana s takvim izravnim marketingom.
+
+3.  Ako se ispitanik protivi obradi za potrebe izravnog marketinga, osobni podaci više se ne smiju obrađivati u takve svrhe.
+
+4.  Najkasnije u trenutku prve komunikacije s ispitanikom, ispitaniku se izričito mora skrenuti pozornost na pravo iz stavaka 1. i 2. te se to mora učiniti na jasan način i odvojeno od bilo koje druge informacije.
+
+5.  U kontekstu služenja uslugama informacijskog društva i neovisno o Direktivi 2002/58/EZ ispitanik može ostvariti svoje pravo na prigovor automatiziranim putem koji se koristi tehničkim specifikacijama.
+
+6.  Ako se osobni podaci obrađuju u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe na temelju članka 89. stavka 1., ispitanik na temelju svoje posebne situacije ima pravo uložiti prigovor na obradu osobnih podataka koji se na njega odnose, osim ako je obrada nužna za provođenje zadaće koja se obavlja zbog javnog interesa.
+
+Članak 22.
+
+Automatizirano pojedinačno donošenje odluka, uključujući izradu profila
+
+1.  Ispitanik ima pravo da se na njega ne odnosi odluka koja se temelji isključivo na automatiziranoj obradi, uključujući izradu profila, koja proizvodi pravne učinke koji se na njega odnose ili na sličan način značajno na njega utječu.
+
+2.  Stavak 1. ne primjenjuje se ako je odluka:
+
+(a) potrebna za sklapanje ili izvršenje ugovora između ispitanika i voditelja obrade podataka;
+
+(b) dopuštena pravom Unije ili pravom države članice kojem podliježe voditelj obrade te koje također propisuje odgovarajuće mjere zaštite prava i sloboda te legitimnih interesa ispitanika; ili
+
+(c) temeljena na izričitoj privoli ispitanika.
+
+3.  U slučajevima iz stavka 2. točaka (a) i (c) voditelj obrade provodi odgovarajuće mjere zaštite prava i sloboda te legitimnih interesa ispitanika, barem prava na ljudsku intervenciju voditelja obrade, prava izražavanja vlastitog stajališta te prava na osporavanje odluke.
+
+4.  Odluke iz stavka 2. ne smiju se temeljiti na posebnim kategorijama osobnih podataka iz članka 9. stavka 1., osim ako se primjenjuje članak 9. stavak 2. točka (a) ili (g) te ako su uspostavljene odgovarajuće mjere zaštite prava i sloboda te legitimnih interesa ispitanika.
+
+
+
+Odjeljak 5.
+
+Ograničenja
+
+Članak 23.
+
+Ograničenja
+
+1.  Na temelju prava Unije ili prava države članice kojem podliježu voditelj obrade podataka ili izvršitelj obrade zakonskom mjerom može se ograničiti opseg obveza i prava iz članaka od 12. do 22. i članka 34. te članka 5. ako te odredbe odgovaraju pravima i obvezama predviđenima u člancima od 12. do 22., ako se takvim ograničenjem poštuje bit temeljnih prava i sloboda te ono predstavlja nužnu i razmjernu mjeru u demokratskom društvu za zaštitu:
+
+(a) nacionalne sigurnosti;
+
+(b) obrane;
+
+(c) javne sigurnosti;
+
+(d) sprečavanja, istrage, otkrivanja ili progona kaznenih djela ili izvršavanja kaznenopravnih sankcija, uključujući zaštitu od prijetnji javnoj sigurnosti i njihovo sprečavanje;
+
+(e) drugih važnih ciljeva od općeg javnog interesa Unije ili države članice, osobito važnog gospodarskog ili financijskog interesa Unije ili države članice, što uključuje monetarna, proračunska i porezna pitanja, javno zdravstvo i socijalnu sigurnost;
+
+(f) zaštite neovisnosti pravosuđa i sudskih postupaka;
+
+(g) sprečavanja, istrage, otkrivanja i progona kršenja etike za regulirane struke;
+
+(h) funkcije praćenja, inspekcije ili regulatorne funkcije koja je, barem povremeno, povezana s izvršavanjem službene ovlasti u slučajevima iz točaka od (a) do (e) i točke (g);
+
+(i) zaštite ispitanika ili prava i sloboda drugih;
+
+(j) ostvarivanja potraživanja u građanskim sporovima.
+
+2.  Osobito, svaka zakonodavna mjera iz stavka 1. sadrži posebne odredbe, prema potrebi, najmanje o:
+
+(a) svrhama obrade ili kategorijama obrade,
+
+(b) kategorijama osobnih podataka,
+
+(c) opsegu uvedenih ograničenja,
+
+(d) zaštitnim mjerama za sprečavanje zlouporabe ili nezakonitog pristupa ili prijenosa;
+
+(e) specifikaciji voditelja obrade ili kategorija voditeljâ obrade,
+
+(f) razdoblju pohrane i zaštitnim mjerama koje se mogu primijeniti uzimajući u obzir prirodu, opseg i svrhe obrade ili kategorije obrade;
+
+(g) rizicima za prava i slobode ispitanika; i
+
+(h) pravu ispitanika da budu obaviješteni o ograničenju, osim ako može biti štetno za svrhu tog ograničenja.
+
+
+
+POGLAVLJE IV.
+
+Voditelj obrade i izvršitelj obrade
+
+
+
+Odjeljak 1.
+
+Opće obveze
+
+Članak 24.
+
+Obveze voditelja obrade
+
+1.  Uzimajući u obzir prirodu, opseg, kontekst i svrhe obrade, kao i rizike različitih razina vjerojatnosti i ozbiljnosti za prava i slobode pojedinaca, voditelj obrade provodi odgovarajuće tehničke i organizacijske mjere kako bi osigurao i mogao dokazati da se obrada provodi u skladu s ovom Uredbom. Te se mjere prema potrebi preispituju i ažuriraju.
+
+2.  Ako su razmjerne u odnosu na aktivnosti obrade, mjere iz stavka 1. uključuju provedbu odgovarajućih politika zaštite podataka od strane voditelja obrade.
+
+3.  Poštovanje odobrenih kodeksa ponašanja iz članka 40. ili odobrenih mehanizama certificiranja iz članka 42. može se iskoristiti kao element za dokazivanje sukladnosti s obvezama voditelja obrade.
+
+Članak 25.
+
+Tehnička i integrirana zaštita podataka
+
+1.  Uzimajući u obzir najnovija dostignuća, trošak provedbe te prirodu, opseg, kontekst i svrhe obrade, kao i rizike različitih razina vjerojatnosti i ozbiljnosti za prava i slobode pojedinaca koji proizlaze iz obrade podataka, voditelj obrade, i u vrijeme određivanja sredstava obrade i u vrijeme same obrade, provodi odgovarajuće tehničke i organizacijske mjere, poput pseudonimizacije, za omogućavanje učinkovite primjene načela zaštite podataka, kao što je smanjenje količine podataka, te uključenje zaštitnih mjera u obradu kako bi se ispunili zahtjevi iz ove Uredbe i zaštitila prava ispitanika.
+
+2.  Voditelj obrade provodi odgovarajuće tehničke i organizacijske mjere kojima se osigurava da integriranim načinom budu obrađeni samo osobni podaci koji su nužni za svaku posebnu svrhu obrade. Ta se obveza primjenjuje na količinu prikupljenih osobnih podataka, opseg njihove obrade, razdoblje pohrane i njihovu dostupnost. Točnije, takvim se mjerama osigurava da osobni podaci nisu automatski, bez intervencije pojedinca, dostupni neograničenom broju pojedinca.
+
+3.  Odobren mehanizam certificiranja sukladno članku 42. može se iskoristiti kao element za dokazivanje sukladnosti sa zahtjevima iz stavaka 1. i 2. ovog članka.
+
+Članak 26.
+
+Zajednički voditelji obrade
+
+1.  Ako dvoje ili više voditelja obrade zajednički odrede svrhe i načine obrade, oni su zajednički voditelji obrade. Oni na transparentan način određuju svoje odgovornosti za poštovanje obveza iz ove Uredbe, osobito s obzirom na ostvarivanje prava ispitanika i svojih dužnosti u pogledu pružanja informacija iz članaka 13. i 14., te to čine međusobnim dogovorom, osim ako su odgovornosti voditeljâ obrade utvrđene pravom Unije ili pravom države članice kojem voditelji obrade podliježu i u mjeri u kojoj su one utvrđene. Dogovorom se može odrediti kontaktna točka za ispitanike.
+
+2.  Dogovor iz stavka 1. mora odražavati pojedinačne uloge i odnose zajedničkih voditelja obrade u odnosu na ispitanike. Bit dogovora mora biti dostupna ispitaniku.
+
+3.  Bez obzira na uvjete dogovora iz stavka 1. ispitanik može ostvarivati svoja prava iz ove Uredbe u vezi sa svakim voditeljem obrade, kao i protiv svakog od njih.
+
+Članak 27.
+
+Predstavnici voditeljâ obrade ili izvršitelja obrade koji nemaju poslovni nastan u Uniji
+
+1.  Ako se primjenjuje članak 3. stavak 2., voditelj obrade ili izvršitelj obrade pisanim putem imenuju predstavnika u Uniji.
+
+2.  Ova se obveza iz stavka 1. ovog članka ne primjenjuje na:
+
+(a) obradu koja je povremena, ne uključuje u velikoj mjeri obradu posebnih kategorija podataka iz članka 9. stavka 1. ili obradu osobnih podataka u vezi s kaznenim osudama i kažnjivim djelima iz članka 10. te za koju nije vjerojatno da će prouzročiti rizik za prava i slobode pojedinaca uzimajući u obzir prirodu, kontekst, opseg i svrhe obrade; ili
+
+(b) tijelo javne vlasti ili javno tijelo.
+
+3.  Predstavnik mora imati poslovni nastan u jednoj od država članica u kojoj se nalaze ispitanici čiji se osobni podaci obrađuju u vezi s robom ili uslugama koje im se nude ili čije se ponašanje prati.
+
+4.  Voditelj obrade ili izvršitelj obrade ovlašćuju predstavnika kako bi se, uz obraćanje voditelju obrade ili izvršitelju obrade ili umjesto obraćanja njima, njemu obraćali osobito nadzorna tijela i ispitanici u pogledu svih pitanja u vezi s obradom za potrebe osiguravanja sukladnosti s ovom Uredbom.
+
+5.  Imenovanje predstavnika voditelja obrade ili izvršitelja obrade ne utječe na pravne zahtjeve koji bi mogle biti postavljeni protiv samog voditelja obrade ili izvršitelja obrade.
+
+Članak 28.
+
+Izvršitelj obrade
+
+1.  Ako se obrada provodi u ime voditelja obrade, voditelj obrade koristi se jedino izvršiteljima obrade koji u dovoljnoj mjeri jamče provedbu odgovarajućih tehničkih i organizacijskih mjera na način da je obrada u skladu sa zahtjevima iz ove Uredbe i da se njome osigurava zaštita prava ispitanika.
+
+2.  Izvršitelj obrade ne smije angažirati drugog izvršitelja obrade bez prethodnog posebnog ili općeg pisanog odobrenja voditelja obrade. U slučaju općeg pisanog odobrenja, izvršitelj obrade obavješćuje voditelja obrade o svim planiranim izmjenama u vezi s dodavanjem ili zamjenom drugih izvršitelja obrade kako bi time voditelju obrade omogućio da uloži prigovor na takve izmjene.
+
+3.  Obrada koju provodi izvršitelj obrade uređuje se ugovorom ili drugim pravnim aktom u skladu s pravom Unije ili pravom države članice, koji izvršitelja obrade obvezuje prema voditelju obrade, a koji navodi predmet i trajanje obrade, prirodu i svrhu obrade, vrstu osobnih podataka i kategoriju ispitanika te obveze i prava voditelja obrade. Tim se ugovorom ili drugim pravnim aktom osobito određuje da izvršitelj obrade:
+
+(a) obrađuje osobne podatke samo prema zabilježenim uputama voditelja obrade, među ostalim s obzirom na prijenose osobnih podataka trećoj zemlji ili međunarodnoj organizaciji, osim ako to nalaže pravo Unije ili pravo države članice kojem podliježe izvršitelj obrade; u tom slučaju izvršitelj obrade izvješćuje voditelja obrade o tom pravnom zahtjevu prije obrade, osim ako se tim pravom zabranjuje takvo izvješćivanje zbog važnih razloga od javnog interesa;
+
+(b) osigurava da su se osobe ovlaštene za obradu osobnih podataka obvezale na poštovanje povjerljivosti ili da podliježu zakonskim obvezama o povjerljivosti;
+
+(c) poduzima sve potrebne mjere u skladu s člankom 32.;
+
+(d) poštuje uvjete iz stavaka 2. i 4. za angažiranje drugog izvršitelja obrade;
+
+(e) uzimajući u obzir prirodu obrade, pomaže voditelju obrade putem odgovarajućih tehničkih i organizacijskih mjera, koliko je to moguće, da ispuni obvezu voditelja obrade u pogledu odgovaranja na zahtjeve za ostvarivanje prava ispitanika koja su utvrđena u poglavlju III.;
+
+(f) pomaže voditelju obrade u osiguravanju usklađenosti s obvezama u skladu s člancima od 32. do 36., uzimajući u obzir prirodu obrade i informacije koje su dostupne izvršitelju obrade;
+
+(g) po izboru voditelja, briše ili vraća voditelju obrade sve osobne podatke nakon dovršetka pružanja usluga vezanih za obradu te briše postojeće kopije osim ako sukladno pravu Unije ili pravu države članice postoji obveza pohrane osobnih podataka;
+
+(h) voditelju obrade stavlja na raspolaganje sve informacije koje su neophodne za dokazivanje poštovanja obveza utvrđenih u ovom članku i koje omogućuju revizije, uključujući inspekcije, koje provodi voditelj obrade ili drugi revizor kojeg je ovlastio voditelj obrade, te im doprinose.
+
+U pogledu točke (h) prvog podstavka, izvršitelj obrade odmah obavješćuje voditelja obrade ako prema njegovu mišljenju određena uputa krši ovu Uredbu ili druge odredbe Unije ili države članice o zaštiti podataka.
+
+4.  Ako izvršitelj obrade angažira drugog izvršitelja obrade za provođenje posebnih aktivnosti obrade u ime voditelja obrade, iste obveze za zaštitu podataka kao one koje su navedene u ugovoru ili drugom pravnom aktu između voditelja obrade i izvršitelja obrade iz stavka 3. nameću se tom drugom izvršitelju obrade ugovorom ili drugim pravnim aktom u skladu s pravom Unije ili pravom države članice, a osobito obveza davanja dostatnih jamstava za provedbu odgovarajućih tehničkih i organizacijskih mjera na način da se obradom udovoljava zahtjevima iz ove Uredbe. Ako taj drugi izvršitelj obrade ne ispunjava obveze zaštite podataka, početni izvršitelj obrade ostaje u cijelosti odgovoran voditelju obrade za izvršavanje obveza tog drugog izvršitelja obrade.
+
+5.  Poštovanje od strane izvršitelja obrade odobrenih kodeksa ponašanja iz članka 40. ili odobrenog mehanizma certificiranja iz članka 42. može se koristiti kao element za dokazivanje pružanja dovoljnih jamstava iz stavaka 1. i 4. ovog članka.
+
+6.  Ne dovodeći u pitanje pojedinačni ugovor između voditelja obrade i izvršitelja obrade, ugovor ili drugi pravni akt iz stavaka 3. i 4.ovog članka može se temeljiti, u cijelosti ili djelomično, na standardnim ugovornim klauzulama iz stavaka 7. i 8. ovog članka, među ostalim klauzulama koje su dio certifikata dodijeljenog voditelju obrade ili izvršitelju obrade u skladu s člancima 42. i 43.
+
+7.  Komisija može utvrditi standardne ugovorne klauzule za pitanja iz stavka 3. i 4.ovog članka,a u skladu s postupkom ispitivanja iz članka 93. stavka 2.
+
+8.  Nadzorno tijelo može donijeti standardne ugovorne klauzule za pitanja iz stavka 3. i 4.ovog članka, a u skladu s mehanizmom za usklađivanje iz članka 63.
+
+9.  Ugovor ili drugi pravni akt iz stavaka 3. i 4. mora biti upisanom obliku, uključujući elektronički oblik.
+
+10.  Ne dovodeći u pitanje članke 82., 83. i 84., ako izvršitelj obrade krši ovu Uredbu utvrđivanjem svrhe i načine obrade podataka, izvršitelj obrade smatra se voditeljem obrade u pogledu te obrade.
+
+Članak 29.
+
+Obrada pod vodstvom voditelja obrade ili izvršitelja obrade
+
+Izvršitelj obrade i bilo koja osoba koja djeluje pod vodstvom voditelja obrade ili izvršitelja obrade koja ima pristup osobnim podacima, ne obrađuje te podatke ako to ne zatraži voditelj obrade, osim ako to nalaže pravo Unije ili pravo države članice.
+
+Članak 30.
+
+Evidencija aktivnosti obrade
+
+1.  Svaki voditelj obrade i predstavnik voditelja obrade, ako je primjenjivo, vodi evidenciju aktivnosti obrade za koje je odgovoran. Ta evidencija sadržava sve sljedeće informacije:
+
+(a) ime i kontaktne podatke voditelja obrade i, ako je primjenjivo, zajedničkog voditelja obrade, predstavnika voditelja obrade i službenika za zaštitu podataka;
+
+(b) svrhe obrade;
+
+(c) opis kategorija ispitanika i kategorija osobnih podataka;
+
+(d) kategorije primateljâ kojima su osobni podaci otkriveni ili će im biti otkriveni, uključujući primatelje u trećim zemljama ili međunarodne organizacije;
+
+(e) ako je primjenjivo, prijenose osobnih podataka u treću zemlju ili međunarodnu organizaciju, uključujući identificiranje te treće zemlje ili međunarodne organizacije te, u slučaju prijenosa iz članka 49. stavka 1. drugog podstavka, dokumentaciju o odgovarajućim zaštitnim mjerama;
+
+(f) ako je to moguće, predviđene rokove za brisanje različitih kategorija podataka;
+
+(g) ako je moguće, opći opis tehničkih i organizacijskih sigurnosnih mjera iz članka 32. stavka 1.
+
+2.  Svaki izvršitelj obrade i predstavnik izvršitelja obrade, ako je primjenjivo, vodi evidenciju svih kategorija aktivnosti obrade koje se obavljaju za voditelja obrade, koja sadržava:
+
+(a) ime i kontaktne podatke jednog ili više izvršitelja obrade i svakog voditelja obrade u čije ime izvršitelj obrade djeluje te, ako je primjenjivo, predstavnika voditelja obrade ili izvršitelja obrade te službenika za zaštitu podataka;
+
+(b) kategorije obrade koje se obavljaju u ime svakog voditelja obrade;
+
+(c) ako je primjenjivo, prijenos osobnih podataka u treću zemlju ili međunarodnu organizaciju, uključujući identificiranje te treće zemlje ili međunarodne organizacije te, u slučaju prijenosa iz članka 49. stavka 1. točke (h), dokumentaciju o odgovarajućim zaštitnim mjerama;
+
+(d) ako je moguće, opći opis tehničkih i organizacijskih sigurnosnih mjera iz članka 32. stavka 1.
+
+3.  Evidencija iz stavaka 1. i 2. mora biti u pisanom obliku, uključujući elektronički oblik.
+
+4.  Voditelj obrade ili izvršitelj obrade te predstavnik voditelja obrade ili izvršitelja obrade, ako je primjenjivo, na zahtjev daju nadzornom tijelu uvid u evidenciju.
+
+5.  Obveze iz stavaka 1. i 2. ne primjenjuju se na poduzeće ili organizaciju u kojoj je zaposleno manje od 250 osoba, osim ako će obrada koju provodi vjerojatno prouzročiti visok rizik za prava i slobode ispitanika, ako obrada nije povremena ili obrada uključuje posebne kategorije podataka iz članka 9. stavka 1. ili je riječ o osobnim podacima u vezi s kaznenim osudama i kažnjivim djelima iz članka 10.
+
+Članak 31.
+
+Suradnja s nadzornim tijelom
+
+Voditelj obrade i izvršitelj obrade te, ako je to primjenjivo, njihovi predstavnici, na zahtjev surađuju s nadzornim tijelom u ispunjavanju njegovih zadaća.
+
+
+
+Odjeljak 2.
+
+Sigurnost osobnih podataka
+
+Članak 32.
+
+Sigurnost obrade
+
+1.  Uzimajući u obzir najnovija dostignuća, troškove provedbe te prirodu, opseg, kontekst i svrhe obrade, kao i rizik različitih razina vjerojatnosti i ozbiljnosti za prava i slobode pojedinaca, voditelj obrade i izvršitelj obrade provode odgovarajuće tehničke i organizacijske mjere kako bi osigurali odgovarajuću razinu sigurnosti s obzirom na rizik, uključujući prema potrebi:
+
+(a) pseudonimizaciju i enkripciju osobnih podataka;
+
+(b) sposobnost osiguravanja trajne povjerljivosti, cjelovitosti, dostupnosti i otpornosti sustava i usluga obrade;
+
+(c) sposobnost pravodobne ponovne uspostave dostupnosti osobnih podataka i pristupa njima u slučaju fizičkog ili tehničkog incidenta;
+
+(d) proces za redovno testiranje, ocjenjivanje i procjenjivanje učinkovitosti tehničkih i organizacijskih mjera za osiguravanje sigurnosti obrade.
+
+2.  Prilikom procjene odgovarajuće razine sigurnosti u obzir se posebno uzimaju rizici koje predstavlja obrada, posebno rizici od slučajnog ili nezakonitog uništenja, gubitka, izmjene, neovlaštenog otkrivanja osobnih podataka ili neovlaštenog pristupa osobnim podacima koji su preneseni, pohranjeni ili na drugi način obrađivani.
+
+3.  Poštovanje odobrenog kodeksa ponašanja iz članka 40. ili odobrenog mehanizma certificiranja iz članka 42. može se iskoristiti kao element za dokazivanje sukladnosti sa zahtjevima iz stavka 1. ovog članka.
+
+4.  Voditelj obrade i izvršitelj obrade poduzimaju mjere kako bi osigurali da svaki pojedinac koji djeluje pod odgovornošću voditelja obrade ili izvršitelja obrade, a koji ima pristup osobnim podacima, ne obrađuje te podatke ako to nije prema uputama voditelja obrade, osim ako je to obvezan učiniti prema pravu Unije ili pravu države članice.
+
+Članak 33.
+
+Izvješćivanje nadzornog tijela o povredi osobnih podataka
+
+1.  U slučaju povrede osobnih podataka voditelj obrade bez nepotrebnog odgađanja i, ako je izvedivo, najkasnije 72 sata nakon saznanja o toj povredi, izvješćuje nadzorno tijelo nadležno u skladu s člankom 55. o povredi osobnih podataka, osim ako nije vjerojatno da će povreda osobnih podataka prouzročiti rizik za prava i slobode pojedinaca. Ako izvješćivanje nije učinjeno unutar 72 sata, mora biti popraćeno razlozima za kašnjenje.
+
+2.  Izvršitelj obrade bez nepotrebnog odgađanja izvješćuje voditelja obrade nakon što sazna za povredu osobnih podataka.
+
+3.  U izvješćivanju iz stavka 1. mora se barem:
+
+(a) opisati priroda povrede osobnih podataka, uključujući, ako je moguće, kategorije i približan broj dotičnih ispitanika te kategorije i približan broj dotičnih evidencija osobnih podataka;
+
+(b) navesti ime i kontaktne podatke službenika za zaštitu podataka ili druge kontaktne točke od koje se može dobiti još informacija;
+
+(c) opisati vjerojatne posljedice povrede osobnih podataka;
+
+(d) opisati mjere koje je voditelj obrade poduzeo ili predložio poduzeti za rješavanje problema povrede osobnih podataka, uključujući prema potrebi mjere umanjivanja njezinih mogućih štetnih posljedica.
+
+4.  Ako i u onoj mjeri u kojoj nije moguće istodobno pružiti informacije, informacije je moguće postupno pružati bez nepotrebnog daljnjeg odgađanja.
+
+5.  Voditelj obrade dokumentira sve povrede osobnih podataka, uključujući činjenice vezane zapovredu osobnih podataka, njezine posljedice i mjere poduzete za popravljanje štete. Ta dokumentacija nadzornom tijelu omogućuje provjeru poštovanja ovog članka.
+
+Članak 34.
+
+Obavješćivanje ispitanika o povredi osobnih podataka
+
+1.  U slučaju povrede osobnih podataka koje će vjerojatno prouzročiti visok rizik za prava i slobode pojedinaca, voditelj obrade bez nepotrebnog odgađanja obavješćuje ispitanika o povredi osobnih podataka.
+
+2.  Obavješćivanjem ispitanika iz stavka 1. ovog članka opisuje se priroda povrede osobnih podataka uporabom jasnog i jednostavnog jezika te ono sadržava barem informacije i mjere iz članka 33. stavka 3. točaka (b), (c) i (d).
+
+3.  Obavješćivanje ispitanika iz stavka 1. nije obvezno ako je ispunjen bilo koji od sljedećih uvjeta:
+
+(a) voditelj obrade poduzeo je odgovarajuće tehničke i organizacijske mjere zaštite i te su mjere primijenjene na osobne podatke pogođene povredom osobnih podataka, posebno one koje osobne podatke čine nerazumljivima bilo kojoj osobi koja im nije ovlaštena pristupiti, kao što je enkripcija;
+
+(b) voditelj obrade poduzeo je naknadne mjere kojima se osigurava da više nije vjerojatno da će doći do visokog rizika za prava i slobode ispitanika iz stavka 1.;
+
+(c) time bi se zahtijevao nerazmjeran napor. U takvom slučaju mora postojati javno obavješćivanje ili slična mjera kojom se ispitanici obavješćuju na jednako djelotvoran način.
+
+4.  Ako voditelj obrade nije do tog trenutka obavijestio ispitanika o povredi osobnih podataka, nakon razmatranja razine vjerojatnosti da će povreda osobnih podataka prouzročiti visok rizik, nadzorno tijelo može od njega zahtijevati da to učini ili može zaključiti da je ispunjen neki od uvjeta navedenih u stavku 3.
+
+
+
+Odjeljak 3.
+
+Procjena učinka na zaštitu podataka i prethodno savjetovanje
+
+Članak 35.
+
+Procjena učinka na zaštitu podataka
+
+1.  Ako je vjerojatno da će neka vrsta obrade, osobito putem novih tehnologija i uzimajući u obzir prirodu, opseg, kontekst i svrhe obrade, prouzročiti visok rizik za prava i slobode pojedinaca, voditelj obrade prije obrade provodi procjenu učinka predviđenih postupaka obrade na zaštitu osobnih podataka. Jedna procjena može se odnositi na niz sličnih postupaka obrade koji predstavljaju slične visoke rizike.
+
+2.  Pri provođenju procjene učinka na zaštitu podataka voditelj obrade traži savjet od službenika za zaštitu podataka, ako je on imenovan.
+
+3.  Procjena učinka na zaštitu podataka iz stavka 1. obvezna je osobito u slučaju:
+
+(a) sustavne i opsežne procjene osobnih aspekata u vezi s pojedincima koja se temelji na automatiziranoj obradi, uključujući izradu profila, i na temelju koje se donose odluke koje proizvode pravne učinke koji se odnose na pojedinca ili na sličan način značajno utječu na pojedinca;
+
+(b) opsežne obrade posebnih kategorija osobnih podataka iz članka 9. stavka 1. ili podataka u vezi s kaznenim osudama i kažnjivim djelima iz članka 10.; ili
+
+(c) sustavnog praćenja javno dostupnog područja u velikoj mjeri.
+
+4.  Nadzorno tijelo uspostavlja i javno objavljuje popis vrsta postupaka obrade koje podliježu zahtjevu za procjenu učinka na zaštitu podataka u skladu sa stavkom 1. Nadzorno tijelo priopćuje te popise Odboru iz članka 68.
+
+5.  Nadzorno tijelo može također uspostaviti i javno objaviti popis vrsta postupaka obrade za koje nije potrebna procjena učinka na zaštitu podataka. Nadzorno tijelo priopćuje te popise Odboru.
+
+6.  Prije usvajanja popisa iz stavaka 4. i 5. nadležno nadzorno tijelo primjenjuje mehanizam konzistentnosti iz članka 63. kada takvi popisi obuhvaćaju aktivnosti obrade koje su povezane s ponudom robe ili usluga ispitanicima ili s praćenjem njihova ponašanja u nekoliko država članica ili koje mogu znatno utjecati na slobodno kretanje osobnih podataka unutar Unije.
+
+7.  Procjena sadrži barem:
+
+(a) sustavan opis predviđenih postupaka obrade i svrha obrade, uključujući, ako je primjenjivo, legitimni interes voditelja obrade;
+
+(b) procjenu nužnosti i proporcionalnosti postupaka obrade povezanih s njihovim svrhama;
+
+(c) procjenu rizika za prava i slobode ispitanikâ iz stavka 1.; i
+
+(d) mjere predviđene za rješavanje problema rizika, što uključuje zaštitne mjere, sigurnosne mjere i mehanizme za osiguravanje zaštite osobnih podataka i dokazivanje sukladnosti s ovom Uredbom, uzimajući u obzir prava i legitimne interese ispitanika i drugih uključenih osoba.
+
+8.  Poštovanje odobrenih kodeksa ponašanja iz članka 40. od strane relevantnih voditelja obrade ili izvršitelja obrade uzima se u obzir pri procjeni učinka postupaka obrade koje provode ti voditelji obrade ili izvršitelji obrade, posebno u svrhe procjene učinka na zaštitu podataka.
+
+9.  Prema potrebi voditelj obrade od ispitanika ili njihovih predstavnika traži mišljenje o namjeravanoj obradi, ne dovodeći u pitanje komercijalne ili javne interese ili sigurnost postupka obrade.
+
+10.  Ako obrada u skladu s člankom 6. stavkom 1. točkom (c) ili (e) ima pravnu osnovu u pravu Unije ili pravu države članice kojem voditelj obrade podliježe, ako su tim pravom uređuju posebni postupci obrade ili skupina dotičnih postupaka te je procjena učinka na zaštitu podataka već provedena kao dio opće procjene učinka u kontekstu donošenja pravne osnove, stavci od 1. do 7. ne primjenjuju se, osim ako države članice smatraju da je potrebnoprovesti takvu procjenu prije aktivnosti obrade.
+
+11.  Prema potrebi voditelj obrade provodi preispitivanje kako bi procijenio je li obrada provedena u skladu s procjenom učinka na zaštitu podataka barem onda kada postoji promjena u razini rizika koji predstavljaju postupci obrade.
+
+Članak 36.
+
+Prethodno savjetovanje
+
+1.  Voditelj obrade savjetuje se s nadzornim tijelom prije obrade ako se procjenom učinka na zaštitu podataka iz članka 35. pokazalo da bi, u slučaju da voditelj obrade ne donese mjere za ublažavanje rizika, obrada dovela do visokog rizika.
+
+2.  Ako nadzorno tijelo smatra da bi se namjeravanom obradom iz stavka 1. kršila ova Uredba, osobito ako voditelj obrade nije u dovoljnoj mjeri utvrdio ili umanjio rizik, nadzorno tijelo u roku od najviše osam tjedana od zaprimanja zahtjeva za savjetovanje pisanim putem savjetuje voditelja obrade i, prema potrebi, izvršitelja obrade, te može iskoristiti bilo koju od svojih ovlasti iz članka 58. Taj se rok može prema potrebi produžiti za šest tjedana, uzimajući u obzir složenost namjeravane obrade. Nadzorno tijelo u roku od mjesec dana od zaprimanja zahtjeva obavješćuje voditelja obrade, i, prema potrebi, izvršitelja obrade o svakom takvom produljenju i o razlozima odgode. Ti se rokovi mogu suspendirati sve dok nadzorno tijelo ne dobije informacije koje je moglo zatražiti u svrhe savjetovanja.
+
+3.  Prilikom savjetovanja s nadzornim tijelom u skladu sa stavkom 1. voditelj obrade nadzornom tijelu dostavlja:
+
+(a) ako je primjenjivo, odgovarajuće odgovornosti voditelja obrade, zajedničkih voditelja obrade i izvršitelja obrade uključenih u obradu, osobito za obrade unutar grupe poduzetnika;
+
+(b) svrhu i sredstva namjeravane obrade;
+
+(c) zaštitne mjere i druge mjere za zaštitu prava i sloboda ispitanika u na temelju ove Uredbe;
+
+(d) ako je primjenjivo, kontaktne podatke službenika za zaštitu podataka;
+
+(e) procjenu učinka na zaštitu podataka kako je predviđena u članku 35.; i
+
+(f) sve druge informacije koje nadzorno tijelo zatraži.
+
+4.  Države članice savjetuju se s nadzornim tijelom tijekom izrade prijedloga zakonodavne mjere koju donosi nacionalni parlament ili podzakonske mjere koja se temelji na takvoj zakonodavnoj mjeri, a koja se odnosi na obradu.
+
+5.  Neovisno ostavku 2., od voditelja obrade se pravom države članice može zahtijevati da se savjetuju s nadzornim tijelom i od njega dobiju prethodno odobrenje u pogledu obrade koju obavlja voditelj obrade za izvršenje zadaće koju voditelj obrade provodi u javnom interesu, uključujući i obradu u vezi sa socijalnom zaštitom i javnim zdravljem.
+
+
+
+Odjeljak 4.
+
+Službenik za zaštitu podataka
+
+Članak 37.
+
+Imenovanje službenika za zaštitu podataka
+
+1.  Voditelj obrade i izvršitelj obrade imenuju službenika za zaštitu podataka u svakom slučaju u kojem:
+
+(a) obradu provodi tijelo javne vlasti ili javno tijelo, osim za sudove koji djeluju u okviru svoje sudske nadležnosti,
+
+(b) osnovne djelatnosti voditelja obrade ili izvršitelja obrade sastoje se od postupaka obrade koji zbog svoje prirode, opsega i/ili svrha iziskuju redovito i sustavno praćenje ispitanika u velikoj mjeri, ili
+
+▼C1
+
+(c) osnovne djelatnosti voditelja obrade ili izvršitelja obrade sastoje se od opsežne obrade posebnih kategorija podataka na temelju članka 9. ili osobnih podataka u vezi s kaznenim osudama i kažnjivim djelima iz članka 10.
+
+▼B
+
+2.  Grupa poduzetnika može imenovati jednog službenika za zaštitu podataka pod uvjetom da je službenik za zaštitu podataka lako dostupan iz svakog poslovnog nastana.
+
+3.  Ako je voditelj obrade ili izvršitelj obrade tijelo javne vlasti ili javno tijelo, za nekoliko takvih vlasti ili tijela može se imenovati jedan službenik za zaštitu podataka, uzimajući u obzir njihovu organizacijsku strukturu i veličinu.
+
+4.  U slučajevima osim onih iz stavka 1. voditelj obrade ili izvršitelj obrade ili udruženja i druga tijela koji predstavljaju kategoriju voditeljâ obrade ili izvršitelja obrade mogu ili, ako to nalaže pravo Unije ili pravo države članice, moraju imenovati službenika za zaštitu podataka. Službenik za zaštitu podataka može djelovati za takva udruženja i druga tijela koji predstavljaju voditelje obrade ili izvršitelje obrade.
+
+5.  Službenik za zaštitu podataka imenuje se na temelju stručnih kvalifikacija, a osobito stručnog znanja o pravu i praksama u području zaštite podataka te sposobnosti izvršavanja zadaća iz članka 39.
+
+6.  Službenik za zaštitu podataka može biti član osoblja voditelja obrade ili izvršitelja obrade ili obavljati zadaće na temelju ugovora o djelu.
+
+7.  Voditelj obrade ili izvršitelj obrade objavljuje kontaktne podatke službenika za zaštitu podataka i priopćuje ih nadzornom tijelu.
+
+Članak 38.
+
+▼C1
+
+Položaj službenika za zaštitu podataka
+
+▼B
+
+1.  Voditelj obrade i izvršitelj obrade osiguravaju da je službenik za zaštitu podataka na primjeren način i pravodobno uključen u sva pitanja u pogledu zaštite osobnih podataka.
+
+2.  Voditelj obrade i izvršitelj obrade podupiru službenika za zaštitu podataka u izvršavanju zadaća iz članka 39. pružajući mu potrebna sredstva za izvršavanje tih zadaća i ostvarivanje pristupa osobnim podacima i postupcima obrade te za održavanje njegova stručnog znanja.
+
+3.  Voditelj obrade i izvršitelj obrade osiguravaju da službenik za zaštitu podataka ne prima nikakve upute u pogledu izvršenja tih zadaća. Voditelj obrade ili izvršitelj obrade ne smiju ga razriješiti dužnosti ili kazniti zbog izvršavanja njegovih zadaća. Službenik za zaštitu podataka izravno odgovara najvišoj rukovodećoj razini voditelja obrade ili izvršitelja obrade.
+
+4.  Ispitanici mogu kontaktirati službenika za zaštitu podataka u pogledu svih pitanja povezanih s obradom svojih osobnih podataka i ostvarivanja svojih prava iz ove Uredbe.
+
+5.  Službenik za zaštitu podataka obvezan je tajnošću ili povjerljivošću u vezi s obavljanjem svojih zadaća, u skladu s pravom Unije ili pravom države članice.
+
+6.  Službenik za zaštitu podataka može ispunjavati i druge zadaće i dužnosti. Voditelj obrade ili izvršitelj obrade osigurava da takve zadaće i dužnosti ne dovedu do sukoba interesa.
+
+Članak 39.
+
+Zadaće službenika za zaštitu podataka
+
+1.  Službenik za zaštitu podataka obavlja najmanje sljedeće zadaće:
+
+(a) informiranje i savjetovanje voditelja obrade ili izvršitelja obrade te zaposlenika koji obavljaju obradu o njihovim obvezama iz ove Uredbe te drugim odredbama Unije ili države članice o zaštiti podataka;
+
+(b) praćenje poštovanja ove Uredbe te drugih odredaba Unije ili države članice o zaštiti podataka i politika voditelja obrade ili izvršitelja obrade u odnosu na zaštitu osobnih podataka, uključujući raspodjelu odgovornosti, podizanje svijesti i osposobljavanje osoblja koje sudjeluje u postupcima obrade te povezane revizije;
+
+(c) pružanje savjeta, kada je to zatraženo, u pogledu procjene učinka na zaštitu podataka i praćenje njezina izvršavanja u skladu s člankom 35.;
+
+(d) suradnja s nadzornim tijelom;
+
+(e) djelovanje kao kontaktna točka za nadzorno tijelo o pitanjima u pogledu obrade, što uključuje i prethodno savjetovanje iz članka 36. te savjetovanje, prema potrebi, o svim drugim pitanjima.
+
+2.  Službenik za zaštitu podataka pri obavljanju svojih zadaća vodi računa o riziku povezanom s postupcima obrade i uzima u obzir prirodu, opseg, kontekst i svrhe obrade.
+
+
+
+Odjeljak 5.
+
+Kodeksi ponašanja i certificiranje
+
+Članak 40.
+
+Kodeksi ponašanja
+
+1.  Države članice, nadzorna tijela, Odbor i Komisija potiču izradu kodeksâ ponašanja koji su namijenjeni pružanju doprinosa ispravnoj primjeni ove Uredbe, uzimajući u obzir posebna obilježja različitih sektora obrade i posebne potrebe mikro, malih i srednjih poduzeća.
+
+2.  Udruženja i druga tijela koja predstavljaju kategorije voditelja obrade ili izvršitelja obrade mogu izraditi kodekse ponašanja ili izmijeniti ili proširiti takve kodekse radi preciziranja primjene ove Uredbe, kao što je u pogledu:
+
+(a) poštene i transparentne obrade;
+
+(b) legitimnih interesa voditelj obrade u posebnim kontekstima;
+
+(c) prikupljanja osobnih podataka;
+
+(d) pseudonimizacije osobnih podataka;
+
+(e) informiranja javnosti i ispitanika;
+
+(f) ostvarivanja prava ispitanika;
+
+(g) informiranja i zaštite djece te načina pribavljanja privole nositelja roditeljske odgovornosti nad djetetom;
+
+(h) mjera i postupaka iz članaka 24. i 25. te mjera za osiguravanje sigurnosti obrade iz članka 32.;
+
+(i) izvješćivanja nadzornih tijela o povredama osobnih podataka i obavješćivanja ispitanika o takvim povredama;
+
+(j) prijenosa osobnih podataka trećim zemljama ili međunarodnim organizacijama; ili
+
+(k) izvansudskih postupaka i drugih postupaka za rješavanje sporova između voditelja obrade i ispitanika s obzirom na obradu, ne dovodeći u pitanje prava ispitanika na temelju članaka 77. i 79.
+
+▼C1
+
+3.  Osim što ih poštuju voditelji obrade i izvršitelji obrade koji podliježu ovoj Uredbi, kodekse ponašanja koji su odobreni na temelju stavka 5. ovog članka i koji imaju opću valjanost na temelju stavka 9. ovog članka mogu poštovati i voditelji obrade ili izvršitelji obrade koji ne podliježu ovoj Uredbi na temelju članka 3., kako bi osigurali odgovarajuće zaštitne mjere u okviru prijenosa osobnih podataka trećim zemljama ili međunarodnim organizacijama pod uvjetima iz članka 46. stavka 2. točke (e). Takvi voditelji obrade ili izvršitelji obrade putem ugovornih ili drugih pravno obvezujućih instrumenata preuzimaju obvezujuće i provedive obveze za primjenu tih odgovarajućih zaštitnih mjera, među ostalim s obzirom na prava ispitanika.
+
+▼B
+
+4.  Kodeks ponašanja iz stavka 2. ovog članka sadržava mehanizme koji tijelu iz članka 41. stavka 1. omogućuju da provodi obvezno praćenje sukladnosti voditeljâ obrade ili izvršiteljâ obrade koji su se obvezali na njegovu primjenu, ne dovodeći u pitanje zadaće i ovlasti nadzornih tijela koja su nadležna na temelju članka 55. ili članka 56.
+
+5.  Udruženja i druga tijela iz stavka2.ovog članka koji namjeravaju izraditi kodeks ponašanja ili izmijeniti ili proširiti postojeći kodeks, nacrt kodeksa, izmjenu ili proširenje predaju nadzornom tijelu koje je nadležno na temelju članka 55. Nadzorno tijelo daje mišljenje o tome je li nacrt kodeksa, izmjena ili proširenje u skladu s ovom Uredbom te takav nacrt kodeksa, izmjenu ili proširenje odobrava ako smatra da osigurava dovoljno prikladne zaštitne mjere.
+
+6.  Ako je nacrt kodeksa ponašanja, izmjena ili proširenje odobreno u skladu sa stavkom 5. te ako se dotični kodeks ponašanja ne odnosi na aktivnosti obrade u nekoliko država članica, nadzorno tijelo kodeks registrira i objavljuje.
+
+7.  Ako se nacrt kodeksa ponašanja odnosi na aktivnosti obrade u nekoliko država članica, nadzorno tijelo nadležno na temelju članka 55. prije davanja odobrenja nacrt kodeksa, izmjenu ili proširenje predaje u postupak iz članka 63. Odboru koji daje mišljenje o tome je li nacrt kodeksa,izmjena ili proširenje sukladan ovoj Uredbi ili, u situaciji iz stavka 3., osiguravaju li se njime odgovarajuće zaštitne mjere.
+
+8.  Ako se mišljenjem iz stavka 7. potvrdi da je nacrt kodeksa, izmjena ili proširenje u skladu s ovom Uredbom ili, u situaciji iz stavka 3. ovog članka, da se njima osiguravaju odgovarajuće zaštitne mjere, Odbor predaje svoje mišljenje Komisiji.
+
+9.  Komisija može provedbenim aktima odlučiti da odobreni kodeks, izmjene ili proširenja koji su joj predani u skladu sa stavkom 8. ovog članka imaju opću valjanost unutar Unije. Ti provedbeni akti donose se u skladu s postupkom ispitivanja iz članka 93. stavka 2.
+
+10.  Komisija osigurava odgovarajuću objavu odobrenih kodeksa za koje je odlučeno da imaju opću valjanost u skladu sa stavkom 9.
+
+11.  Odbor unosi sve odobrene kodekse ponašanja, izmjene i proširenja u evidenciju i objavljuje ih na bilo koji prikladan način.
+
+Članak 41.
+
+Praćenje odobrenih kodeksa ponašanja
+
+1.  Ne dovodeći u pitanje zadaće i ovlasti nadležnog nadzornog tijela iz članaka 57. i 58., praćenje sukladnosti s kodeksom ponašanja u skladu s člankom 40. može provoditi tijelo s odgovarajućim stupnjem stručnosti za predmet kodeksa i koje je u tu svrhu akreditiralo nadležno nadzorno tijelo.
+
+2.  Tijelo iz stavka 1. može biti akreditirano za praćenje sukladnosti s kodeksom ponašanja ako je to tijelo:
+
+(a) nadležnom nadzornom tijelu zadovoljavajuće dokazalo svoju neovisnost i stručnost u predmetu kodeksa;
+
+(b) uspostavilo postupke koji mu omogućuju procjenu kvalificiranosti voditelja obrade i izvršitelja obrade za primjenu kodeksa, praćenje njihova poštovanja odredbi kodeksa i periodičnog preispitivanja njegova funkcioniranja;
+
+(c) uspostavilo postupke i strukture za rješavanje pritužbi na kršenja kodeksa ili na način na koji voditelj obrade ili izvršitelj obrade provode ili su proveli kodeks i učinilo te postupke i strukture transparentnima ispitanicima i javnosti; i
+
+(d) nadležnom nadzornom tijelu na njemu zadovoljavajući način dokazalo da njegove zadaće i dužnosti ne dovode do sukoba interesa.
+
+▼C1
+
+3.  Nadležno nadzorno tijelo predaje Odboru nacrt zahtjevâ za akreditaciju tijela iz stavka 1. ovog članka u skladu s mehanizmom konzistentnosti iz članka 63.
+
+▼B
+
+4.  Ne dovodeći u pitanje zadaće i ovlasti nadležnog nadzornog tijela i odredbe poglavlja VIII., tijelo iz stavka 1. ovog članka, uz primjenu prikladnih zaštitnih mjera, poduzima odgovarajuće radnje u slučajevima u kojima voditelj obrade ili izvršitelj obrade krše kodeks, što uključuje suspendiranje ili isključivanje dotičnog voditelja obrade ili izvršitelja obrade iz kodeksa. Ono izvješćuje nadležno nadzorno tijelo o takvim radnjama i razlozima za njihovo poduzimanje.
+
+▼C1
+
+5.  Nadležno nadzorno tijelo povlači akreditaciju tijela iz stavka 1. ako se ne ispune zahtjevi za akreditaciju ili oni više nisu ispunjeni, ili ako radnje koje provodi tijelo krše ovu Uredbu.
+
+6.  Ovaj članak ne primjenjuje se na obradu koju obavljaju tijela javne vlasti i javna tijela.
+
+▼B
+
+Članak 42.
+
+Certificiranje
+
+1.  Države članice, nadzorna tijela, Odbor i Komisija potiču, osobito na razini Unije, uspostavu mehanizama certificiranja zaštite podataka te pečata i oznaka za zaštitu podataka u svrhu dokazivanja da su postupci obrade koje provode voditelj obrade i izvršitelj obrade u skladu s ovom Uredbom. Uzimaju se u obzir posebne potrebe mikro, malih i srednjih poduzeća.
+
+2.  Osim što ih poštuju voditelji obrade ili izvršitelji obrade koji podliježu ovoj Uredbi, mehanizmi certificiranja zaštite podataka, pečati ili oznake odobreni na temelju stavka 5.ovog članka mogu se uspostaviti kako bi se dokazalo postojanje odgovarajućih mjera zaštite koje osiguravaju voditelji obrade i izvršitelji obrade koji ne podliježu ovoj Uredbi na temelju članka 3. u okviru prijenosa osobnih podataka trećim zemljama ili međunarodnim organizacijama pod uvjetima iz članka 46. stavka 2. točke (f). Takvi voditelji obrade ili izvršitelji obrade putem ugovornih ili drugih pravno obvezujućih instrumenata preuzimaju obvezujuće i provedive obveze za primjenu tih odgovarajućih mjera zaštite, među ostalim u pogledu prava ispitanika.
+
+3.  Certificiranje je dobrovoljno i dostupno putem procesa koji je transparentan.
+
+4.  Certificiranje na temelju ovog članka ne umanjuje odgovornost voditelja obrade ili izvršitelja obrade za poštovanje ove Uredbe i ne dovodi u pitanje zadaće i ovlasti nadzornih tijela nadležnih na temelju članka 55. ili članka 56.
+
+▼C1
+
+5.  Certifikat na temelju ovog članka izdaju certifikacijska tijela iz članka 43. ili nadležno nadzorno tijelo, na temelju kriterija koje je odobrilo to nadležno nadzorno tijelo na temelju članka 58. stavka 3., ili Odbor na temelju članka 63. Ako je Odbor odobrio kriterije, iz toga može proizaći zajednička certifikacija: Europski pečat za zaštitu podataka.
+
+▼B
+
+6.  Voditelj obrade ili izvršitelj obrade koji svoje obrade predaje mehanizmu certificiranja pruža sve informacije i pristup svojim aktivnostima obrade koje su potrebne za vođenje postupka certificiranja certifikacijskom tijelu iz članka 43. ili prema potrebi nadležnom nadzornom tijelu.
+
+▼C1
+
+7.  Certifikat se voditelju obrade ili izvršitelju obrade izdaje na najviše tri godine i može se obnoviti pod istim uvjetima ako su i dalje ispunjeni relevantni kriteriji. Certifikacijska tijela iz članka 43. ili nadležno nadzorno tijelo povlače certifikat prema potrebi ako se ne ispune kriteriji za certificiranje ili ako oni više nisu ispunjeni.
+
+▼B
+
+8.  Odbor sve mehanizme certificiranja, pečate i oznake za zaštitu podataka unosi u evidenciju i objavljuje ih na bilo koji prikladan način.
+
+Članak 43.
+
+Certifikacijska tijela
+
+1.   ►C1  Ne dovodeći u pitanje zadaće i ovlasti nadležnog nadzornog tijela iz članaka 57. i 58., certifikacijska tijela s odgovarajućim stupnjem stručnosti iz područja zaštite podataka, nakon što o tome obavijeste nadzorno tijelo kako bi ono moglo prema potrebi izvršavati svoje ovlasti na temelju članka 58. stavka 2. točke (h), izdaju i obnavljaju certifikat. ◄ Države članice osiguravaju da je ta certifikacijska tijela akreditiralo jedno ili oba sljedeća tijela:
+
+(a) nadzorno tijelo koje je nadležno u skladu s člankom 55. ili člankom 56.;
+
+(b) nacionalno akreditacijsko tijelo imenovano u skladu s Uredbom (EZ) br. 765/2008 Europskog parlamenta i Vijeća ( 2 ) u skladu s EN-ISO/IEC 17065/2012 i s dodatnim zahtjevima koje određuje nadzorno tijelo koje je nadležno u skladu s člankom 55. ili člankom 56.
+
+2.  Certifikacijska tijela iz stavka 1. akreditirana su u skladu sa tim stavkom. samo ako su:
+
+(a) nadležnom nadzornom tijelu zadovoljavajuće dokazala svoju neovisnost i stručnost u predmetu certificiranja;
+
+(b) obvezala se poštovati kriterije iz članka 42. stavka 5. koje je odobrilo nadzorno tijelo nadležno na temelju članka 55. ili članka 56. ili Odbor na temelju članka 63.;
+
+(c) uspostavila postupke za izdavanje, periodično preispitivanje i povlačenje certificiranja, pečata i oznaka za zaštitu podataka;
+
+(d) uspostavila postupke i strukture za rješavanje pritužbi na kršenja certifikacije ili način na koji voditelj obrade ili izvršitelj obrade provode ili su proveli certificiranje, i učinila te postupke i strukture transparentnima ispitanicima i javnosti; i
+
+(e) nadležnom nadzornom tijelu na zadovoljavajući način dokazala da njegove zadaće i dužnosti ne dovode do sukoba interesa.
+
+3.   ►C1  Akreditacija certifikacijskih tijela iz stavaka 1. i 2. ovog članka provodi se na temelju zahtjeva koje je odobrilo nadzorno tijelo nadležno na temelju članka 55. ili članka 56. ili Odbor na temelju članka 63. ◄ Ako je akreditacija provedena na temelju stavka 1. točke (b) ovog članka, ti zahtjevi služe kao nadopuna zahtjevima predviđenima u Uredbi (EZ) br. 765/2008 i tehničkim pravilima kojima su opisani metode i postupci certifikacijskih tijela.
+
+4.  Certifikacijska tijela iz stavka 1. odgovorna su za ispravnu procjenu koja dovodi do certifikacije ili povlačenja takvog certifikata ne dovodeći u pitanje odgovornosti voditelja obrade ili izvršitelja obrade da poštuju ovu Uredbu. Akreditacija se izdaje na najviše pet godina i može se obnoviti pod istim uvjetima ako certifikacijsko tijelo i dalje ispunjava relevantne zahtjeve iz ovog članka.
+
+5.  Certifikacijska tijela iz stavka 1. nadležnim nadzornim tijelima navode razloge za davanje ili povlačenje zatraženog certifikata.
+
+▼C1
+
+6.  Nadzorno tijelo u lako dostupnom obliku objavljuje zahtjeve iz stavka 3. ovog članka i kriterije iz članka 42. stavka 5. Nadzorna tijela također prosljeđuju te zahtjeve i kriterije Odboru.
+
+▼B
+
+7.  Ne dovodeći u pitanje poglavlje VIII., nadležno nadzorno tijelo ili nacionalno akreditacijsko tijelo povlači akreditaciju certifikacijskog tijela na temelju stavka 1. ovog članka ako se ne ispune uvjeti za akreditaciju ili oni više nisu ispunjeni, ili ako se radnjama koje provodi certifikacijsko tijelo krši ova Uredba.
+
+8.  Komisija ima ovlasti donositi delegirane akte u skladu s člankom 92. u svrhu preciziranja zahtjeva koje je potrebno uzeti u obzir za mehanizme certificiranja zaštite podataka iz članka 42. stavka 1.
+
+9.  Komisija može donijeti provedbene akte kojima propisuje tehničke standarde za mehanizme certificiranja, pečate i oznake za zaštitu podataka te mehanizme promicanja i priznavanja tih mehanizama certificiranja, pečata i oznaka. Ti provedbeni akti donose se u skladu s postupkom ispitivanja iz članka 93. stavka 2.
+
+
+
+POGLAVLJE V.
+
+Prijenosi osobnih podataka trećim zemljama ili međunarodnim organizacijama
+
+Članak 44.
+
+Opća načela prijenosa
+
+Svaki prijenos osobnih podataka koji se obrađuju ili su namijenjeni za obradu nakon prijenosa u treću zemlju ili međunarodnu organizaciju odvija se jedino ako, u skladu s drugim odredbama ove Uredbe, voditelj obrade i izvršitelj obrade djeluju u skladu s uvjetima iz ovog poglavlja koji vrijede i za daljnje prijenose osobnih podataka iz treće zemlje ili međunarodne organizacije u još jednu treću zemlju ili međunarodnu organizaciju. Sve odredbe iz ovog poglavlja primjenjuju se kako bi se osiguralo da se ne ugrozi razina zaštite pojedinaca zajamčena ovom Uredbom.
+
+Članak 45.
+
+Prijenosi na temelju odluke o primjerenosti
+
+1.  Prijenos osobnih podataka trećoj zemlji ili međunarodnoj organizaciji može se dogoditi kada Komisija odluči da treća zemlja, područje, ili jedan ili više određenih sektora unutar te treće zemlje, ili međunarodna organizacija o kojoj je riječ osigurava primjerenu razinu zaštite. Takav prijenos ne zahtijeva posebno odobrenje.
+
+2.  Prilikom procjene primjerenosti stupnja zaštite Komisija osobito uzima u obzir sljedeće elemente:
+
+(a) vladavinu prava, poštovanje ljudskih prava i temeljnih sloboda, relevantno zakonodavstvo, i opće i sektorsko, što uključuje zakonodavstvo o javnoj sigurnosti, obrani, nacionalnoj sigurnosti, kaznenom pravu i pristupu tijela javne vlasti osobnim podacima, kao i provedbu tog zakonodavstva, pravila o zaštiti podataka, pravila struke i mjere sigurnosti, što uključuje pravila za daljnji prijenos osobnih podataka još jednoj trećoj zemlji ili međunarodnoj organizaciji, koja se poštuju u toj trećoj zemlji ili međunarodnoj organizaciji, sudsku praksu te postojanje djelotvornih i provedivih prava ispitanika te učinkovite upravne i sudske zaštite ispitanika čiji se osobni podaci prenose;
+
+(b) postojanje i djelotvorno funkcioniranje jednog neovisnog nadzornog tijela ili više njih u trećoj zemlji, ili tijela kojem podliježe međunarodna organizacija, s odgovornošću osiguravanja i provođenja poštovanja pravila o zaštiti podataka, što uključuje primjerene provedbene ovlasti za pomoć ispitanicima i savjetovanje ispitanika u ostvarivanju njihovih prava te za suradnju s nadzornim tijelima država članica; i
+
+(c) međunarodne obveze koje je dotična treća zemlja ili međunarodna organizacija preuzela, ili druge obveze koje proizlaze iz pravno obvezujućih konvencija ili instrumenata, kao i iz njezina sudjelovanja u multilateralnim ili regionalnim sustavima, osobito u vezi sa zaštitom osobnih podataka.
+
+3.  Komisija nakon procjene primjerenosti stupnja zaštite može putem provedbenog akta odlučiti da treća zemlja, područje, ili jedan ili više određenih sektora unutar treće zemlje, ili međunarodna organizacija osigurava primjerenu razinu zaštite u smislu stavka 2. ovog članka. U provedbenom aktu predviđa se mehanizam za periodično preispitivanje, najmanje svake četiri godine, kojim će se uzeti u obzir svi relevantni događaji u toj trećoj zemlji ili međunarodnoj organizaciji. U provedbenom aktu precizira se teritorijalna i sektorska primjena, a prema potrebi utvrđuje se i nadzorno tijelo ili nadzorna tijela iz stavka 2. točke (b) ovog članka. Provedbeni akt donosi se u skladu s postupkom ispitivanja iz članka 93. stavka 2.
+
+4.  Komisija kontinuirano prati razvoj događaja u trećim zemljama i međunarodnim organizacijama koji bi mogli utjecati na funkcioniranje odluka donesenih u skladu sa stavkom 3. ovog članka i odluka donesenih na temelju članka 25. stavka 6. Direktive 95/46/EZ.
+
+5.  Ako dostupne informacije otkrivaju, a osobito nakon preispitivanja iz stavka 3. ovog članka, da treća zemlja, područje ili jedan ili više određenih sektora unutar treće zemlje, ili međunarodna organizacija više ne osigurava primjerenu razinu zaštite u smislu stavka 2. ovog članka u mjeri u kojoj je to potrebno, Komisija provedbenim aktima stavlja izvan snage, mijenja ili suspendira odluku iz stavka 3. ovog članka bez retroaktivnog učinka. Ti provedbeni akti donose se u skladu s postupkom ispitivanja iz članka 93. stavka 2.
+
+Zbog valjano utemeljenih krajnje hitnih razloga, Komisija donosi odmah primjenjive provedbene akte u skladu s postupkom iz članka 93. stavka 3.
+
+6.  Komisija započinje savjetovanje s trećom zemljom ili međunarodnom organizacijom radi popravljanja stanja koje je dovelo do odluke u skladu sa stavkom 5.
+
+7.  Odluka u skladu sa stavkom 5. ovog članka ne dovodi u pitanje prijenose osobnih podataka u treću zemlju, na područje, ili u jedan ili više određenih sektora unutar te treće zemlje, ili međunarodnu organizaciju o kojoj je riječ u skladu s člancima od 46. do 49.
+
+8.  U Službenom listu Europske unije i na svojoj internetskoj stranici Komisija objavljuje popis trećih zemalja, područja i određenih sektora unutar treće zemlje i međunarodnih organizacija u pogledu kojih je donijela odluku da ne osiguravaju odgovarajuću razinu zaštite ili da je više ne osiguravaju.
+
+9.  Odluke koje je Komisija donijela na temelju članka 25. stavka 6. Direktive 95/46/EZ ostaju na snazi dok se ne izmijene, zamijene ili stave izvan snage odlukom Komisije donesenom u skladu sa stavkom 3. ili 5. ovog članka.
+
+Članak 46.
+
+Prijenosi koji podliježu odgovarajućim zaštitnim mjerama
+
+▼C1
+
+1.  Ako nije donesena odluka na temelju članka 45. stavka 3., voditelj obrade ili izvršitelj obrade trećoj zemlji ili međunarodnoj organizaciji osobne podatke mogu prenijeti samo ako je voditelj obrade ili izvršitelj obrade predvidio odgovarajuće zaštitne mjere i pod uvjetom da su ispitanicima na raspolaganju provediva prava i učinkoviti pravni lijekovi.
+
+▼B
+
+2.  Odgovarajuće zaštitne mjere iz stavka 1. mogu, bez potrebe za ikakvim posebnim ovlaštenjem nadzornog tijela, pružati:
+
+(a) pravno obvezujući i provedivi instrument između tijela javne vlasti ili javnih tijela;
+
+(b) obvezujuća korporativna pravila u skladu s člankom 47.;
+
+(c) standardne klauzule o zaštiti podataka koje donosi Komisija u skladu s postupkom ispitivanja iz članka 93. stavka 2.;
+
+(d) standardne klauzule o zaštiti podataka koje donosi nadzorno tijelo i koje Komisija odobrava u skladu s postupkom ispitivanja iz članka 93. stavka 2.;
+
+(e) odobreni kodeks ponašanja u skladu s člankom 40. zajedno s obvezujućim i provedivim obvezama voditelja obrade ili izvršitelja obrade u trećoj zemlji za primjenu odgovarajućih zaštitnih mjera, među ostalim u pogledu prava ispitanika; ili
+
+(f) odobreni mehanizam certificiranja u skladu s člankom 42. zajedno s obvezujućim i provedivim obvezama voditelja obrade ili izvršitelja obrade u trećoj zemlji za primjenu odgovarajućih zaštitnih mjera, između ostalog u pogledu prava ispitanika.
+
+3.  Pod uvjetom da to odobri nadležno nadzorno tijelo, odgovarajuće zaštitne mjere iz stavka 1. konkretno mogu pružiti i:
+
+(a) ugovorne klauzule između voditelja obrade ili izvršitelja obrade i voditelja obrade, izvršitelja obrade ili primatelja osobnih podataka u trećoj zemlji ili međunarodnoj organizaciji; ili
+
+(b) odredbe koje treba unijeti u administrativne dogovore između tijela javne vlasti ili javnih tijela i koja sadrže provediva i djelotvorna prava ispitanika.
+
+4.  Nadzorno tijelo u slučajevima iz stavka 3. ovog članka primjenjuje mehanizam konzistentnosti iz članka 63.
+
+5.  Odobrenja države članice ili nadzornog tijela na temelju članka 26. stavka 2. Direktive 95/46/EZ ostaju valjana dok ih nadzorno tijelo prema potrebi ne izmijeni, zamijeni ili stavi izvan snage. Odluke koje je Komisija donijela na osnovi članka 26. stavka 4. Direktive 95/46/EZ ostaju na snazi dok se prema potrebi ne izmijene, zamijene ili stave izvan snage odlukom Komisije donesenom u skladu sa stavkom 2. ovog članka.
+
+Članak 47.
+
+Obvezujuća korporativna pravila
+
+1.  Nadležno nadzorno tijelo odobrava obvezujuća korporativna pravila u skladu s mehanizmom konzistentnosti iz članka 63. pod uvjetom da:
+
+(a) su pravno obvezujuća i da se primjenjuju na svakog zainteresiranog člana određene grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću, što uključuje njihove zaposlenike, te da ih oni provode;
+
+(b) izrijekom daju provediva prava ispitanicima u pogledu obrade njihovih osobnih podataka; i
+
+▼C1
+
+(c) ispunjavaju zahtjeve utvrđene u stavku 2.
+
+▼B
+
+2.  Obvezujuća korporativna pravila iz stavka 1. određuju najmanje:
+
+(a) strukturu i kontaktne podatke grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću i svakog od njezinih članova;
+
+(b) prijenose podataka ili skupove prijenosa, uključujući i kategorije osobnih podataka, vrste obrade i njezine svrhe, vrstu ispitanika koji su time pogođeni i identifikaciju treće zemlje ili zemalja o kojima je riječ;
+
+(c) njihovo pravno obvezujuće obilježje, kako iznutra tako i prema van;
+
+▼C1
+
+(d) primjenu općih načela zaštite podataka, posebice ograničavanja svrhe, smanjenja količine podataka, ograničenog razdoblja pohrane, kvalitete podataka, tehničke i integrirane zaštite podataka, pravne osnove obrade, obrade posebnih kategorija osobnih podataka, mjera za osiguravanje sigurnosti podataka i zahtjeve u pogledu daljnjih prijenosa tijelima koja nisu obvezana obvezujućim korporativnim pravilima;
+
+▼B
+
+(e) prava ispitanikâ s obzirom na obradu i načine za ostvarenje tih prava, uključujući i pravo da ne podliježu odlukama koje se isključivo temelje na automatiziranoj obradi, što uključuje izradu profila u skladu s člankom 22., pravo na pritužbu nadležnom nadzornom tijelu i nadležnim sudovima država članica u skladu s člankom 79. i dobivanje sudske pomoći te, prema potrebi, naknade za kršenje obvezujućih korporativnih pravila;
+
+(f) da voditelj obrade ili izvršitelj obrade s poslovnim nastanom na državnom području države članice prihvati odgovornost za sva kršenja obvezujućih korporativnih pravila bilo kojeg zainteresiranog člana bez poslovnog nastana u Uniji; voditelj obrade ili izvršitelj obrade izuzet je od ove odgovornosti, u cijelosti ili djelomično, samo ako dokaže da taj član nije odgovoran za događaj koji je prouzročio štetu;
+
+(g) kako se ispitanicima pružaju informacija o obvezujućim korporativnim pravilima, osobito o odredbama iz točaka (d), (e) i (f) ovog stavka, pored informacija iz članaka 13. i 14.;
+
+(h) zadaće svakog službenika za zaštitu podataka imenovanog u skladu s člankom 37. ili bilo koje druge osobe ili subjekta odgovornih za praćenje usklađenosti s obvezujućim korporativnim pravilima unutar grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću,te praćenje osposobljavanja i rješavanja pritužbi;
+
+(i) postupke povodom pritužbi;
+
+(j) mehanizme unutar grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću, kojima se osigurava provjera poštovanja obvezujućih korporativnih pravila. Takvi mehanizmi uključuju revizije zaštite podataka i metode za korektivne mjere za zaštitu prava ispitanika. Rezultati takve provjere trebali bi se priopćiti osobi ili subjektu iz točke (h) i upravnom odboru poduzetnika u vladajućem položaju u grupi poduzetnika ili grupi poduzeća koja se bave zajedničkom gospodarskom djelatnošću, te se na zahtjev ustupiti nadležnom nadzornom tijelu;
+
+(k) mehanizme za izvješćivanje i vođenje evidencije o promjenama pravila i izvješćivanje nadzornog tijela o tim promjenama;
+
+(l) mehanizam suradnje s nadzornim tijelom radi osiguravanja usklađenosti svakog člana grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću, osobito tako da se nadzornom tijelu stave na raspolaganje rezultati provjera mjera iz točke (j);
+
+(m)  ►C1  mehanizme za izvješćivanje nadležnog nadzornog tijela o bilo kakvim pravnim zahtjevima koji se na člana grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću primjenjuju u trećoj zemlji ◄ , a koje bi mogle imati značajan štetan utjecaj na jamstva pružena obvezujućim korporativnim pravilima; i
+
+(n) odgovarajuće osposobljavanje za zaštitu podataka za osoblje koje ima stalan ili redovan pristup osobnim podacima.
+
+3.  Komisija može odrediti format i postupke razmjene informacija između voditeljâ obrade, izvršitelja obrade i nadzornih tijela za obvezujuća korporativna pravila u smislu ovog članka. Ti provedbeni akti donose se u skladu s postupkom ispitivanja iz članka 93. stavka 2.
+
+Članak 48.
+
+Prijenos ili otkrivanje podataka koji nisu dopušteni u pravu Unije
+
+Sve presude suda ili sve odluke upravnog tijela treće zemlje kojima se od voditelja obrade ili izvršitelja obrade zahtijeva prijenos ili otkrivanje osobnih podataka mogu biti priznate ili izvršive na bilo koji način samo ako se temelje na nekom međunarodnom sporazumu, poput ugovora o uzajamnoj pravnoj pomoći, koji je na snazi između treće zemlje koja je podnijela zahtjev i Unije ili države članice, ne dovodeći u pitanje druge razloge za prijenos u skladu s ovim poglavljem.
+
+Članak 49.
+
+Odstupanja za posebne situacije
+
+1.  Ako ne postoji odluka o primjerenosti u skladu s člankom 45. stavkom 3., ili odgovarajuće zaštitne mjere u skladu s člankom 46., što uključuje obvezujuća korporativna pravila, prijenos ili skup prijenosa osobnih podataka u treću zemlju ili međunarodnu organizaciju ostvaruje se samo pod jednim od sljedećih uvjeta:
+
+(a) ispitanik je izričito pristao na predloženi prijenos nakon što je bio obaviješten o mogućim rizicima takvih prijenosa za ispitanika zbog nepostojanja odluke o primjerenosti i odgovarajućih zaštitnih mjera;
+
+(b) prijenos je nužan za izvršavanje ugovora između ispitanika i voditelja obrade ili provedbu predugovornih mjera na zahtjev ispitanika;
+
+(c) prijenos je nužan radi sklapanja ili izvršavanja ugovora sklopljenog u interesu ispitanika između voditelja obrade i druge fizičke ili pravne osobe;
+
+(d) prijenos je nužan iz važnih razloga javnog interesa;
+
+(e) prijenos je nužan za postavljanje, ostvarivanje ili obranu pravnih zahtjeva;
+
+(f) prijenos je nužan za zaštitu životno važnih interesa ispitanika ili drugih osoba ako ispitanik fizički ili pravno ne može dati privolu;
+
+(g) prijenos se obavlja iz registra koji prema pravu Unije ili pravu države članice služi pružanju informacija javnosti i koji je otvoren na uvid javnosti ili bilo kojoj osobi koja može dokazati neki opravdani interes, ali samo u mjeri u kojoj su ispunjeni uvjeti propisani u pravu Unije ili pravu države članice za uvid u tom posebnom slučaju.
+
+Kad se prijenos ne može temeljiti na nekoj odredbi iz članka 45. ili 46., uključujući odredbe obvezujućih korporativnih pravila, i kad nije primjenjivo nijedno odstupanje za posebne situacije iz prvog podstavka ovog stavka, prijenos u treću zemlju ili međunarodnu organizaciju može se ostvariti samo ako se prijenos ne ponavlja, ako se odnosi samo na ograničen broj ispitanika, nužan je za potrebe uvjerljivih, legitimnih interesa voditelja obrade koji nisu podređeni interesima ili pravima i slobodama ispitanika, a voditelj obrade procijenio sve okolnosti prijenosa podataka te je na temelju te procjene predvidio odgovarajuće zaštitne mjere u pogledu zaštite osobnih podataka. Voditelj obrade obavješćuje nadzorno tijelo o tom prijenosu. Uz pružanje informacija iz članaka 13. i 14., voditelj obrade ispitanika obavješćuje o prijenosu i o uvjerljivim legitimnim interesima.
+
+2.  Prijenos na temelju prvog podstavka stavka 1. točke (g) ne uključuje osobne podatke u cjelini ni cijele kategorije osobnih podataka sadržanih u registru. Kada registar služi na uvid osobama koje imaju opravdani interes, prijenos se obavlja samo na zahtjev tih osoba ili ako su one primatelji.
+
+3.  Stavak 1. prvi podstavak točke (a), (b) i (c) i stavak 1. drugi podstavak ne primjenjuju se na aktivnosti koje provode tijela javne vlasti izvršavajući svoje javne ovlasti.
+
+4.  Javni interes iz prvog podstavka stavka 1. točke (d) mora biti priznat u pravu Unije ili u pravu države članice kojem podliježe voditelj obrade.
+
+5.  Ako nije donesena odluka o primjerenosti, pravo Unije ili pravo države članice mogu, iz važnih razloga javnog interesa, izričito odrediti ograničenja prijenosa određenih kategorija osobnih podataka trećoj zemlji ili međunarodnoj organizaciji. Države članice dužne su obavijestiti Komisiju o takvim odredbama.
+
+6.  Voditelj obrade ili izvršitelj obrade dokumentiraju procjenu kao i odgovarajuće mjere zaštite iz stavka 1. drugog podstavka ovog članka u evidencijama iz članka 30.
+
+Članak 50.
+
+Međunarodna suradnja s ciljem zaštite osobnih podataka
+
+Komisija i nadzorna tijela poduzimaju odgovarajuće mjere u pogledu trećih zemalja i međunarodnih organizacija s ciljem:
+
+(a) razvoja mehanizama međunarodne suradnje za olakšavanje djelotvornog izvršavanja zakonodavstva o zaštiti osobnih podataka;
+
+(b) osiguranja međunarodne uzajamne pomoći u izvršavanju zakonodavstva o zaštiti osobnih podataka, uključujući obavješćivanjem, upućivanjem pritužbi, pomoći u istragama i razmjenom informacija, u skladu s odgovarajućim zaštitnim mjerama za zaštitu osobnih podataka i drugim temeljnim pravima i slobodama;
+
+(c) uključivanja relevantnih dionika u raspravu i aktivnosti čiji je cilj produbiti međunarodnu suradnju u izvršavanju zakonodavstva o zaštiti osobnih podataka;
+
+(d) promicanja razmjene i dokumentiranja zakonodavstva i prakse u vezi sa zaštitom osobnih podataka, među ostalim u vezi sa sukobima nadležnosti s trećim zemljama.
+
+
+
+POGLAVLJE VI.
+
+Neovisna nadzorna tijela
+
+
+
+Odjeljak 1.
+
+Neovisni status
+
+Članak 51.
+
+Nadzorno tijelo
+
+1.  Svaka država članica osigurava da je jedno ili više neovisnih tijela javne vlasti odgovorno za praćenje primjene ove Uredbe kako bi se zaštitila temeljna prava i slobode pojedinaca u pogledu obrade i olakšao slobodan protok osobnih podataka unutar Unije („nadzorno tijelo”).
+
+2.  Svako nadzorno tijelo doprinosi dosljednoj primjeni ove Uredbe u cijeloj Uniji. U tu svrhu nadzorna tijela surađuju međusobno i s Komisijom u skladu s poglavljem VII.
+
+3.  Ako u državi članici postoji više od jednog nadzornog tijela, ta država članica imenuje nadzorno tijelo koje ta tijela predstavlja u Odboru i uspostavlja mehanizam kojim se osigurava da druga tijela poštuju pravila u vezi s mehanizmom konzistentnosti iz članka 63.
+
+4.  Svaka država članica izvješćuje Komisiju o odredbama zakona koje donosi u skladu s ovim poglavljem do 25. svibnja 2018. i, bez odgode, o svim naknadnim izmjenama koje na njih utječu.
+
+Članak 52.
+
+Neovisnost
+
+1.  Svako nadzorno tijelo djeluje potpuno neovisno pri obavljanju svojih dužnosti i izvršavanju svojih ovlasti u skladu s ovom Uredbom.
+
+2.  Član ili članovi svakog nadzornog tijela moraju biti slobodni od vanjskog utjecaja, bilo izravnog bilo neizravnog, pri obavljanju svojih dužnosti i izvršavanju svojih ovlasti u skladu s ovom Uredbom te ne smiju tražiti ni primati upute ni od koga.
+
+3.  Član ili članovi svakog nadzornog tijela moraju se suzdržavati od svih radnji koje nisu u skladu s njihovim dužnostima te se tijekom svojeg mandata ne smiju baviti nikakvom neusklađenom djelatnošću, bez obzira na to je li ona plaćena ili ne.
+
+4.  Svaka država članica osigurava da svako nadzorno tijelo ima ljudske, tehničke i financijske resurse, prostorije i infrastrukturu potrebne za djelotvorno obavljanje svojih zadaća i izvršavanje svojih ovlasti, uključujući one koje treba izvršavati u kontekstu uzajamne pomoći, suradnje i sudjelovanja u Odboru.
+
+5.  Svaka država članica osigurava da svako nadzorno tijelo odabire i ima vlastito osoblje kojim isključivo rukovodi član ili članovi predmetnog nadzornog tijela.
+
+6.  Svaka država članica osigurava da svako nadzorno tijelo podliježe financijskoj kontroli koja ne utječe na njegovu neovisnost i da ima zasebne, javne, godišnje proračune koji mogu biti dio cjelokupnog državnog ili nacionalnog proračuna.
+
+Članak 53.
+
+Opći uvjeti za članove nadzornog tijela
+
+1.  Države članice osiguravaju da svakog člana njihovih nadzornih tijela u okviru transparentnog postupka imenuje:
+
+— njihov parlament;
+
+— njihova vlada;
+
+— njihov šef države; ili
+
+— neovisno tijelo kojem je pravom države članice povjereno to imenovanje.
+
+2.  Svaki član mora imati kvalifikacije, iskustvo i vještine, posebno u području zaštite osobnih podataka, potrebne za obavljanje svojih dužnosti i izvršavanje svojih ovlasti.
+
+3.  Dužnosti člana završavaju u slučaju isteka mandata, ostavke ili razrješenja dužnosti u skladu s pravom dotične države članice.
+
+4.  Član smije biti otpušten samo u slučajevima teške povrede dužnosti ili ako član više ne ispunjava uvjete potrebne za izvršavanje dužnosti.
+
+Članak 54.
+
+Pravila za osnivanje nadzornog tijela
+
+1.  Svaka država članica zakonom predviđa sve od navedenog:
+
+(a) osnivanje svakog nadzornog tijela;
+
+(b) kvalifikacije i uvjete prihvatljivosti potrebne za imenovanje članom svakog nadzornog tijela;
+
+(c) pravila i postupke za imenovanje člana ili članova svakog nadzornog tijela;
+
+(d) trajanje mandata člana ili članova svakog nadzornog tijela ne kraćeg od četiri godine, osim za prvo imenovanje nakon 24. svibnja 2016., a čiji dio može trajati kraće ako je to potrebno kako bi se zaštitila neovisnost nadzornog tijela putem postupka postupnog imenovanja;
+
+(e) jesu li član ili članovi svakog nadzornog tijela prihvatljivi da budu ponovno izabrani i, ako jesu, na koliko mandata;
+
+(f) uvjete kojima se uređuju obveze člana ili članova osoblja svakog nadzornog tijela, zabrane djelovanja, poslova i pogodnosti koji nisu u skladu s tim tijekom i nakon mandata te pravila kojima se uređuje prestanak radnog odnosa.
+
+2.  Član ili članovi i osoblje svakog nadzornog tijela podliježu, u skladu s pravom Unije ili pravom države članice, obvezi čuvanja profesionalne tajne i za vrijeme mandata i nakon njegova završetka, s obzirom na sve povjerljive informacije koje doznaju tijekom obavljanja svojih dužnosti ili izvršavanja svojih ovlasti. Tijekom svojeg mandata ta se dužnost čuvanja profesionalne tajne posebno primjenjuje na izvješćivanje pojedinaca o kršenjima ove Uredbe.
+
+
+
+Odjeljak 2.
+
+Nadležnost, zadaće i ovlasti
+
+Članak 55.
+
+Nadležnost
+
+1.  Svako nadzorno tijelo nadležno je za obavljanje zadaća koje su mu povjerene i izvršavanje ovlasti koje su mu dodijeljene u skladu s ovom Uredbom na državnom području vlastite države članice.
+
+2.  Ako obradu obavljaju tijela javne vlasti ili privatna tijela koja postupaju na temelju članka 6. stavka 1.točke (c) ili (e), nadležno je nadzorno tijelo dotične države članice. U takvim slučajevima ne primjenjuje se članak 56.
+
+3.  Nadzorna tijela nisu nadležna nadzirati postupke obrade sudova kada obavljaju svoju sudbenu funkciju.
+
+Članak 56.
+
+Nadležnost vodećeg nadzornog tijela
+
+1.  Ne dovodeći u pitanje članak 55. nadzorno tijelo glavnog poslovnog nastana ili jedinog poslovnog nastana voditelja obrade ili izvršitelja obrade nadležno je djelovati kao vodeće nadzorno tijelo za prekograničnu obradu koju provodi taj voditelj obrade ili izvršitelj obrade u skladu s postupkom utvrđenim u članku 60.
+
+2.  Odstupajući od stavka 1. svako nadzorno tijelo nadležno je za rješavanje pritužbe koja mu je podnesena ili mogućeg kršenja ove Uredbe, ako se predmet odnosi samo na poslovni nastan u njegovoj državi članici ili bitno utječe samo na ispitanike u njegovoj državi članici.
+
+3.  U slučajevima iz stavka 2. ovog članka nadzorno tijelo bez odgode obavješćuje vodeće nadzorno tijelo o tom pitanju. U roku od tri tjedna nakon primitka obavijesti vodeće nadzorno tijelo odlučuje hoće li rješavati predmet u skladu s postupkom predviđenim u članku 60., uzimajući u obzir to ima li voditelj obrade ili izvršitelj obrade poslovni nastan u državi članici čije mu je nadzorno tijelo uputilo obavijest.
+
+4.  Ako vodeće nadzorno tijelo odluči riješiti predmet, primjenjuje se postupak iz članka 60. Nadzorno tijelo koje je uputilo obavijest vodećem nadzornom tijelu može vodećem nadzornom tijelu podnijeti nacrt za oduku. Vodeće nadzorno tijelo uzima u obzir što je više moguće taj nacrt prilikom izrade nacrta odluke iz članka 60. stavka 3.
+
+5.  Ako vodeće nadzorno tijelo odluči da neće rješavati predmet, rješava ga nadzorno tijelo koje je uputilo obavijest vodećem nadzornom tijelu, u skladu s člancima 61. i 62.
+
+6.  Vodeće nadzorno tijelo jedini je sugovornik voditelja obrade ili izvršitelja obrade u prekograničnoj obradi koju provodi taj voditelj obrade ili izvršitelj obrade.
+
+Članak 57.
+
+Zadaće
+
+1.  Ne dovodeći u pitanje ostale zadaće utvrđene u ovoj Uredbi, svako nadzorno tijelo na svom području:
+
+(a) prati i provodi primjenu ove Uredbe;
+
+(b) promiče javnu svijest o rizicima, pravilima, zaštitnim mjerama i pravima u vezi s obradom te njihovo razumijevanje. Aktivnosti koje su posebno namijenjene djeci moraju dobiti posebnu pozornost;
+
+(c) savjetuje, u skladu s pravom države članice, nacionalni parlament, vladu i druge institucije i tijela o zakonodavnim i administrativnim mjerama u vezi sa zaštitom prava i sloboda pojedinaca u pogledu obrade;
+
+(d) promiče osviještenost voditeljâ obrade i izvršiteljâ obrade o njihovim obvezama iz ove Uredbe;
+
+(e) na zahtjev pruža informacije bilo kojem ispitaniku u vezi s ostvarivanjem njihovih prava iz ove Uredbe, a prema potrebi, u tu svrhu surađuje s nadzornim tijelima u drugim državama članicama;
+
+(f) rješava pritužbe koje podnose ispitanik ili tijelo, organizacija ili udruženje u skladu s člankom 80. i istražuje u odgovarajućoj mjeri predmet pritužbe te podnositelja pritužbe u razumnom roku izvješćuje o napretku i ishodu istrage, posebno ako je potrebna daljnja istraga ili koordinacija s drugim nadzornim tijelom;
+
+(g) surađuje s drugim nadzornim tijelima, među ostalim dijeljenjem informacija, te pruža uzajamnu pomoć drugim nadzornim tijelima s ciljem osiguranja konzistentnosti primjene i provedbe ove Uredbe;
+
+(h) provodi istrage o primjeni ove Uredbe, među ostalim na temelju informacija primljenih od drugog nadzornog ili drugog tijela javne vlasti;
+
+(i) prati bitne razvoje u onoj mjeri u kojoj utječu na zaštitu osobnih podataka, osobito razvoj informacijskih i komunikacijskih tehnologija i komercijalnih praksi;
+
+(j) donosi standardne ugovorne klauzule iz članka 28. stavka 8. i članka 46. stavka 2. točke (d);
+
+▼C1
+
+(k) utvrđuje i vodi popis u vezi sa zahtjevom za procjenu učinka na zaštitu podataka u skladu s člankom 35. stavkom 4.;
+
+▼B
+
+(l) daje savjete o postupcima obrade iz članka 36. stavka 2.;
+
+(m) potiče izradu kodeksa ponašanja u skladu s člankom 40. stavkom 1. i daje mišljenje i odobrava takve kodekse ponašanja koji pružaju dostatne mjere zaštite, u skladu s člankom 40. stavkom 5.;
+
+(n) potiče uspostavu mehanizama certificiranja zaštite podataka te pečata i oznaka za zaštitu podataka u skladu s člankom 42. stavkom 1. i odobrava kriterije certificiranja u skladu s člankom 42. stavkom 5.;
+
+(o) prema potrebi, provodi periodično preispitivanje izdanih certifikata u skladu s člankom 42. stavkom 7.;
+
+▼C1
+
+(p) sastavlja i objavljuje zahtjeve za akreditaciju tijela za praćenje kodeksa ponašanja u skladu s člankom 41. i za akreditaciju certifikacijskog tijela u skladu s člankom 43.;
+
+▼B
+
+(q) provodi akreditaciju tijela za praćenje kodeksa ponašanja u skladu s člankom 41. i akreditaciju certifikacijskog tijela u skladu s člankom 43.;
+
+(r) odobrava ugovorne klauzule i odredbe iz članka 46. stavka 3.;
+
+(s) odobrava obvezujuća korporativna pravila u skladu s člankom 43.;
+
+(t) doprinosi aktivnostima Odbora;
+
+(u) vodi internu evidenciju o kršenjima ove Uredbe i mjerama koje su poduzete u skladu s člankom 58. stavkom 2.; i
+
+(v) ispunjava sve ostale zadaće u vezi sa zaštitom osobnih podataka.
+
+2.  Svako nadzorno tijelo olakšava podnošenje pritužaba iz stavka 1. točke (b) mjerama poput obrasca za podnošenje pritužbe koji se može ispuniti i elektroničkim putem, ne isključujući ostala sredstva komunikacije.
+
+3.  Obavljanje zadaća svakog nadzornog tijela besplatno je za ispitanika i, ako je primjenjivo, službenika za zaštitu podataka.
+
+4.  Ako su zahtjevi ispitanika očito neutemeljeni ili pretjerani, osobito zbog učestalog ponavljanja, nadzorno tijelo može naplatiti razumnu naknadu na temelju administrativnih troškova ili odbiti postupiti po zahtjevu. U tom je slučaju teret dokazivanja očite neutemeljenosti ili pretjeranosti zahtjeva na nadzornom tijelu.
+
+Članak 58.
+
+Ovlasti
+
+1.  Svako nadzorno tijelo ima sve sljedeće istražne ovlasti:
+
+(a) narediti voditelju obrade i izvršitelju obrade, a prema potrebi i predstavniku voditelja obrade ili izvršitelja obrade, da mu pruže sve informacije potrebne za obavljanje svojih zadaća;
+
+(b) provoditi istrage u obliku revizije zaštite podataka;
+
+(c) provoditi preispitivanje certifikata izdanih u skladu s člankom 42. stavkom 7.;
+
+(d) obavijestiti voditelja obrade ili izvršitelja obrade o navodnom kršenju ove Uredbe;
+
+(e) ishoditi, od voditelja obrade i izvršitelja obrade, pristup svim osobnim podacima i svim informacijama potrebnim za obavljanje svojih zadaća;
+
+(f) ishoditi pristup svim prostorijama voditelja obrade i izvršitelja obrade, uključujući svu opremu i sredstva za obradu podataka, u skladu s pravom Unije ili postupovnim pravom države članice.
+
+2.  Svako nadzorno tijelo ima sve sljedeće korektivne ovlasti:
+
+(a) izdavati upozorenja voditelju obrade ili izvršitelju obrade da bi namjeravani postupci obrade lako mogli prouzročiti kršenje odredaba ove Uredbe;
+
+(b) izdavati službene opomene voditelju obrade ili izvršitelju obrade ako se postupcima obrade krše odredbe ove Uredbe;
+
+(c) narediti voditelju obrade ili izvršitelju obrade da poštuje zahtjeve ispitanika za ostvarivanje njegovih prava u skladu s ovom Uredbom;
+
+(d) narediti voditelju obrade ili izvršitelju obrade da postupke obrade uskladi s odredbama ove Uredbe, prema potrebi na točno određen način i u točno zadanom roku;
+
+(e) narediti voditelju obrade da ispitanika obavijesti o povredi osobnih podataka;
+
+(f) privremeno ili konačno ograničiti, među ostalim zabraniti, obradu;
+
+(g) narediti ispravljanje ili brisanje osobnih podataka ili ograničavanje obrade u skladu s člancima 16., 17. i 18. i izvješćivanje o takvim radnjama primatelja kojima su osobni podaci otkriveni u skladu s člankom 17. stavkom 2. i člankom 19.;
+
+(h) povući certifikat ili certifikacijskom tijelu narediti da povuče certifikat izdan u skladu s člankom 42. i 43., ili certifikacijskom tijelu narediti da ne iza certifikat ako nisu ispunjeni zahtjevi za certificiranje ili ako oni više nisu ispunjeni;
+
+▼C1
+
+(i) izreći upravnu novčanu kaznu u skladu s člankom 83. uz mjere, ili umjesto mjera koje se navode u ovom stavku, ovisno o okolnostima svakog pojedinog slučaja;
+
+▼B
+
+(j) narediti suspenziju protoka podataka primatelju u trećoj zemlji ili međunarodnoj organizaciji.
+
+3.  Svako nadzorno tijelo ima sve sljedeće ovlasti u vezi s odobravanjem te savjetodavne ovlasti:
+
+(a) savjetovati voditelja obrade u skladu s prethodnim postupkom savjetovanja iz članka 36.,
+
+(b) na vlastitu inicijativu ili na zahtjev, izdati nacionalnom parlamentu, vladi države članice ili, u skladu s pravom države članice, drugim institucijama i tijelima, te javnosti, mišljenje o svakom pitanju u vezi sa zaštitom osobnih podataka;
+
+(c) odobriti obradu iz članka 36. stavka 5., ako se pravom države članice takvo prethodno odobrenje zahtijeva;
+
+(d) izdati mišljenje i odobriti nacrte kodeksâ ponašanja u skladu s člankom 40. stavkom 5.;
+
+(e) akreditirati certifikacijska tijela u skladu s člankom 43.;
+
+(f) izdati certifikate i odobriti kriterije certificiranja u skladu s člankom 42. stavkom 5.;
+
+(g) donijeti standardne klauzule o zaštiti podataka iz članka 28. stavka 8. i članka 46. stavka 2. točke (d);
+
+(h) odobriti ugovorne klauzule iz članka 46. stavka 3. točke (a);
+
+(i) odobriti administrativne dogovore iz članka 46. stavka 3. točke (b);
+
+(j) odobriti obvezujuća korporativna pravila u skladu s člankom 47.
+
+▼C1
+
+4.  Izvršavanje ovlasti dodijeljenih nadzornom tijelu u skladu s ovim člankom podliježe odgovarajućim zaštitnim mjerama, među ostalim učinkovitom sudskom pravnom lijeku i odgovarajućem postupku, utvrđenim u pravu Unije i pravu države članice u skladu s Poveljom.
+
+▼B
+
+5.  Svaka država članica zakonom propisuje da njezino nadzorno tijelo ima ovlasti obavijestiti pravosudna tijela o povredama ove Uredbe i, prema potrebi, pokrenuti pravne postupke ili u njima na drugi način sudjelovati kako bi se provele odredbe ove Uredbe.
+
+6.  Svaka država članica zakonom može predvidjeti da nadzorno tijelo uz ovlasti iz stavaka 1., 2. i 3. ima dodatne ovlasti. Izvršavanje tih ovlasti ne smije narušavati učinkovito djelovanje odredaba poglavlja VII.
+
+Članak 59.
+
+Izvješća o aktivnostima
+
+Svako nadzorno tijelo sastavlja godišnje izvješće o svojim aktivnostima kojima može biti obuhvaćen popis vrsta kršenja o kojima je izviješteno i vrste mjera poduzetih u skladu s člankom 58. stavkom 2. Ta se izvješća prosljeđuju nacionalnom parlamentu, vladi i drugim tijelima kako je određeno pravom države članice. Ona moraju biti dostupna javnosti, Komisiji i Odboru.
+
+
+
+POGLAVLJE VII.
+
+Suradnja i konzistentnost
+
+
+
+Odjeljak 1.
+
+Suradnja
+
+Članak 60.
+
+Suradnja vodećeg nadzornog tijela i drugih predmetnih nadzornih tijela
+
+1.  Vodeće nadzorno tijelo surađuje s drugim predmetnim nadzornim tijelima u skladu s ovim člankom kako bi se nastojao postići konsenzus. Vodeće nadzorno tijelo i predmetna nadzorna tijela međusobno razmjenjuju sve bitne informacije.
+
+2.  Vodeće nadzorno tijelo može u bilo kojem trenutku od drugih predmetnih nadzornih tijela zatražiti pružanje uzajamne pomoći u skladu s člankom 61. te može provoditi zajedničke operacije u skladu s člankom 62., posebno vođenje istraga ili praćenja provedbe mjere u vezi s voditeljem obrade ili izvršiteljem obrade s poslovnim nastanom u drugoj državi članici.
+
+3.  Vodeće nadzorno tijelo bez odgađanja obavješćuje o bitnim informacijama u vezi s predmetom druga predmetna nadzorna tijela. Bez odgađanja podnosi nacrt odluke drugim predmetnim nadzornim tijelima kako bi ona dala svoje mišljenje te pridaje dužnu pozornost njihovim stajalištima.
+
+4.  Ako neko od drugih predmetnih nadzornih tijela u roku od četiri tjedna nakon što je u skladu sa stavkom 3. ovog članka bilo obaviješteno izrazi relevantan i obrazložen prigovor na nacrt odluke, ako relevantan i obrazložen prigovor ne uzme u obzir ili smatra da prigovor nije relevantan ili obrazložen, vodeće nadzorno tijelo predmet predaje na rješavanje u sklopu mehanizma konzistentnosti iz članka 63.
+
+5.  Ako vodeće nadzorno tijelo namjerava uzeti u obzir relevantan i obrazložen prigovor, revidirani nacrt odluke podnosi drugim predmetnim nadzornim tijelima kako bi ona dala svoje mišljenje. Na taj revidirani nacrt odluke primjenjuje se postupak iz stavka 4. u roku od dva tjedna.
+
+6.  Ako ni jedno od drugih predmetnih nadzornih tijela ne uloži prigovor na nacrt odluke koju je podnijelo vodeće nadzorno tijelo u roku navedenom u stavcima 4. i 5. smatra se da se vodeće nadzorno tijelo i predmetna nadzorna tijela slažu s tim nacrtom odluke i on je za njih obvezujući.
+
+7.  Vodeće nadzorno tijelo donosi odluku i dostavlja je u glavni ili jedini poslovni nastan voditelja obrade ili izvršitelja obrade, prema potrebi, te obavješćuje druga predmetna nadzorna tijela i Odbor o dotičnoj odluci prilažući i bitne činjenice i obrazloženja. Nadzorno tijelo kojem je podnesena pritužba obavješćuje podnositelja pritužbe o odluci.
+
+8.  Odstupajući od stavka 7., ako je pritužba odbačena ili odbijena, nadzorno tijelo kojem je podnesena pritužba donosi odluku i dostavlja je podnositelju pritužbe te o tome obavješćuje voditelja obrade.
+
+▼C1
+
+9.  Ako su se vodeće nadzorno tijelo i predmetna nadzorna tijela složili odbaciti ili odbiti dijelove pritužbe, a u obzir uzeti druge dijelove te pritužbe, donosi se odvojena odluka za svaki dio predmeta. Vodeće nadzorno tijelo donosi odluku za dio koji se odnosi na djelovanja u vezi s voditeljem obrade i dostavlja je u glavni ili jedini poslovni nastan voditelja obrade ili izvršitelja obrade na državnom području svoje države članice te o tome izvješćuje podnositelja pritužbe, dok nadzorno tijelo podnositelja pritužbe donosi odluku za dio koji se odnosi na odbacivanje ili odbijanje te pritužbe i dostavlja je tom podnositelju pritužbe te o tome izvješćuje voditelja obrade ili izvršitelja obrade.
+
+▼B
+
+10.  Nakon što ga vodeće nadzorno tijelo u skladu sa stavcima 7. i 9. obavijesti o odluci, voditelj obrade ili izvršitelj obrade poduzima potrebne mjere kako bi osigurao da se odluka poštuje u odnosu na aktivnosti obrade, s obzirom na sve njegove poslovne nastane u Uniji. Voditelj obrade ili izvršitelj obrade o poduzetim mjerama za poštivanje odluke obavješćuju vodeće nadzorno tijelo koje izvješćuje druga predmetna nadzorna tijela.
+
+11.  Ako u izuzetnim okolnostima predmetno nadzorno tijelo ima razloga smatrati da postoji hitna potreba za djelovanjem kako bi se zaštitili interesi ispitanika, primjenjuje se hitni postupak iz članka 66.
+
+12.  Vodeće nadzorno tijelo i druga predmetna nadzorna tijela međusobno si dostavljaju informacije koje se zahtijevaju u skladu s ovim člankom elektroničkim putem, koristeći se standardiziranim formatom.
+
+Članak 61.
+
+Uzajamna pomoć
+
+1.  Nadzorna tijela međusobno si pružaju bitne informacije i uzajamnu pomoć kako bi konzistentno provela i primijenila ovu Uredbu i uspostavljaju mjere za djelotvornu uzajamnu suradnju. Uzajamna pomoć obuhvaća osobito zahtjeve za informacijama i mjerama nadzora, kao što su zahtjevi za provedbom prethodnog odobravanja i savjetovanja, inspekcija i istraga.
+
+2.  Svako nadzorno tijelo poduzima sve prikladne mjere potrebne da odgovori na zahtjev drugog nadzornog tijela bez nepotrebnog odgađanja i najkasnije u roku od mjesec dana nakon što je zaprimilo zahtjev. Takve mjere mogu posebno obuhvaćati prijenos bitnih informacija o vođenju istrage.
+
+3.  Zahtjevi za pomoć moraju sadržavati sve potrebne informacije, uključujući svrhu i razloge za zahtjev. Razmijenjene informacije smiju se upotrebljavati samo u zatraženu svrhu.
+
+4.  Nadzorno tijelo kojem je upućen zahtjev ne smije odbiti udovoljiti zahtjevu osim u slučaju da:
+
+(a) nije nadležno za predmet zahtjeva ili za mjere koje se od njega traže da ih provede; ili
+
+(b) poštovanje zahtjeva kršilo bi ovu Uredbu, pravo Unije ili pravo države članice kojem podliježe nadzorno tijelo kojem je zahtjev upućen.
+
+5.  Nadzorno tijelo kojem je upućen zahtjev izvješćuje nadzorno tijelo koje je podnijelo zahtjev o rezultatima ili, ovisno o slučaju, o napretku ili mjerama poduzetim da se zahtjev ispuni. Nadzorno tijelo kojem je upućen zahtjev obrazlaže razloge za svako odbijanje zahtjeva na temelju stavka 4.
+
+6.  Nadzorna tijela kojima je upućen zahtjev u pravilu pružaju informacije koje druga nadzorna tijela zatraže elektroničkim putem, koristeći se standardiziranim formatom.
+
+7.  Za bilo koju radnju poduzetu na zahtjev za uzajamnom pomoći nadzorno tijelo kojem je upućen zahtjev ne naplaćuje nikakvu pristojbu. Nadzorna tijela mogu dogovoriti pravila za uzajamne naknade posebnih izdataka koji proizlaze iz pružanja uzajamne pomoći u izvanrednim okolnostima.
+
+8.  Ako nadzorno tijelo ne pruži informacije iz stavka 5. ovog članka u roku od mjesec dana nakon zaprimanja zahtjeva drugog nadzornog tijela, nadzorno tijelo koje je podnijelo zahtjev može donijeti privremenu mjeru na državnom području svoje države članice u skladu s člankom 55. stavkom 1. U tom slučaju smatra se da postoji hitna potreba za djelovanjem u skladu s člankom 66. stavkom 1. i zahtijeva se hitna obvezujuća odluka Odbora u skladu s člankom 66. stavkom 2.
+
+9.  Komisija može, putem provedbenih akta, odrediti format i postupke za uzajamnu pomoć iz ovog članka i sustave razmjene informacija elektroničkim putem između nadzornih tijela i između nadzornih tijela i Odbora, a posebno standardizirani format iz stavka 6. ovog članka. Ti provedbeni akti donose se u skladu s postupkom ispitivanja navedenim u članku 93. stavku 2.
+
+Članak 62.
+
+Zajedničke operacije nadzornih tijela
+
+1.  Nadzorna tijela prema potrebi provode zajedničke operacije, uključujući zajedničke istrage i zajedničke mjere provedbe u kojima sudjeluju članovi ili osoblje nadzornih tijela drugih država članica.
+
+2.  Ako voditelj obrade ili izvršitelj obrade ima poslovne nastane u nekoliko država članica ili kad postoji vjerojatnost da će postupci obrade bitno utjecati na znatan broj ispitanika u više od jedne države članice, nadzorno tijelo svake od tih država članica ima pravo na sudjelovanje u zajedničkim operacijama. Nadzorno tijelo nadležno u skladu s člankom 56. stavkom 1. ili 4. poziva nadzorno tijelo svake od tih država članica da sudjeluje u zajedničkim operacijama i bez odgađanja odgovara na zahtjev nadzornog tijela za sudjelovanjem.
+
+3.  Nadzorno tijelo može, u skladu s pravom države članice, i uz odobrenje gostujućeg nadzornog tijela, dati ovlasti, među ostalim i ovlasti za vođenje istrage članovima ili osoblju gostujućeg nadzornog tijela koje sudjeluje u zajedničkim operacijama ili, u onoj mjeri u kojoj dopušta pravo države članice nadzornog tijela domaćina, odobriti članovima ili osoblju gostujućeg nadzornog tijela izvršavanje njihovih istražnih ovlasti u skladu s pravom države članice gostujućeg nadzornog tijela. Takve se istražne ovlasti mogu obavljati samo prema smjernicama članova ili osoblja nadzornog tijela domaćina i u njihovoj nazočnosti. Na članove ili osoblje gostujućeg nadzornog tijela primjenjuje se pravo države članice nadzornog tijela domaćina.
+
+4.  Ako, u skladu sa stavkom 1., osoblje gostujućeg nadzornog tijela djeluje u drugoj državi članici, država članica nadzornog tijela domaćina preuzima odgovornost za njihovo djelovanje, što uključuje odgovornost za svaku štetu koju to osoblje počini tijekom svojih operacija, u skladu s pravom države članice na čijem državnom području djeluje.
+
+5.  Država članica na čijem je državnom području šteta uzrokovana nadoknađuje takvu štetu pod uvjetima koji se primjenjuju kad štetu uzrokuje njezino osoblje. Država članica gostujućeg nadzornog tijela čije je osoblje uzrokovalo štetu bilo kojoj osobi na državnom području druge države članice toj državi članici nadoknađuje u potpunosti svaki iznos koji je ona platila osobama ovlaštenima u ime oštećene osobe.
+
+6.  Ne dovodeći u pitanje ostvarivanje svog prava u odnosu na treće strane i uz iznimku stavka 5. svaka država članica u slučaju predviđenom u stavku 1. suzdržava se od zahtjeva prema drugoj državi članici za naknadu štete iz stavka 4.
+
+7.  Kada se planira zajednička operacija i nadzorno tijelo u roku od mjesec dana ne ispuni obveze iz druge rečenice stavka 2. ovog članka, druga nadzorna tijela mogu donijeti privremenu mjeru na državnom području države članice za koje je nadležno u skladu s člankom 55. U tom slučaju smatra se da postoji hitna potreba za djelovanjem u skladu s člankom 66. stavkom 1. i zahtijeva se hitno mišljenje ili hitna obvezujuća odluka Odbora u skladu s člankom 66. stavkom 2.
+
+
+
+Odjeljak 2.
+
+Konzistentnost
+
+Članak 63.
+
+Mehanizam konzistentnosti
+
+Kako bi se doprinijelo dosljednoj primjeni ove Uredbe u cijeloj Uniji, nadzorna tijela surađuju međusobno i prema potrebi s Komisijom u okviru mehanizma konzistentnosti, kako je utvrđeno u ovom odjeljku.
+
+Članak 64.
+
+Mišljenje Odbora
+
+1.  Odbor daje mišljenje kada nadležno nadzorno tijelo namjerava donijeti bilo koju od mjera navedenih dalje u tekstu. Nadležno nadzorno tijelo u tu svrhu obavješćuje Odbor o nacrtu odluke ako ona:
+
+(a) ima za cilj donijeti popis postupaka obrade na koje se primjenjuje zahtjev procjene učinka na zaštitu podataka u skladu s člankom 35. stavkom 4.;
+
+(b) odnosi se na pitanje u skladu s člankom 40. stavkom 7. o tome jesu li nacrt kodeksa ponašanja ili izmjena ili dopuna kodeksa ponašanja usklađeni s ovom Uredbom;
+
+▼C1
+
+(c) ima za cilj odobriti zahtjeve za akreditaciju tijela na temelju članka 41. stavka 3., certifikacijskog tijela na temelju članka 43. stavka 3. ili kriterije za certifikaciju iz članka 42. stavka 5.;
+
+▼B
+
+(d) ima za cilj odrediti standardne klauzule zaštite podataka iz članka 46. stavka 2. točke (d) i iz članka 28. stavka 8.;
+
+(e) ima za cilj odobriti ugovorne klauzule iz članka 46. stavka 3. točke (a); ili
+
+(f) ima za cilj odobriti obvezujuća korporativna pravila u smislu članka 47.
+
+2.  Svako nadzorno tijelo, predsjednik Odbora ili Komisija mogu zatražiti da svaki predmet opće primjene ili s učincima u više od jedne države članice pregleda Odbor kako bi on dao mišljenje, posebno ako nadležno nadzorno tijelo ne poštuje obveze o uzajamnoj pomoći u skladu s člankom 61. ili o zajedničkim operacijama u skladu s člankom 62.
+
+3.  U slučajevima koji se navode u stavcima 1. i 2. Odbor daje mišljenje o predmetu koji je zaprimio ako već nije dao mišljenje o istoj stvari. To mišljenje usvaja se u roku od osam tjedana natpolovičnom većinom članova Odbora. Taj se rok može produžiti za dodatnih šest tjedana, uzimajući u obzir složenost predmeta. S obzirom na nacrt odluke iz stavka 1. koja se članovima Odbora dostavlja u skladu sa stavkom 5. smatra se da se član koji nije uložio prigovor u razumnom roku koji je odredio predsjednik slaže s nacrtom odluke.
+
+4.  Nadzorna tijela i Komisija bez nepotrebnog odgađanja elektroničkim putem priopćuju Odboru, upotrebljavajući standardizirani format, sve bitne informacije, uključujući, ovisno o slučaju, i sažetak činjenica, nacrt odluke, razloge zbog kojih je poduzimanje takve mjere neophodno i mišljenja drugih predmetnih nadzornih tijela.
+
+5.  Predsjednik Odbora bez nepotrebnog odgađanja elektroničkim putem izvješćuje:
+
+(a) članove Odbora i Komisiju o svim bitnim informacijama koje su mu priopćene upotrebljavajući standardizirani format. Tajništvo Odbora prema potrebi omogućuje prijevode bitnih informacija; i
+
+(b) nadzorno tijelo iz stavaka 1. i 2., ovisno o slučaju, i Komisiju o mišljenju i objavljuje ga.
+
+▼C1
+
+6.  Nadležno nadzorno tijelo iz stavka 1. ne donosi svoj nacrt odluke iz stavka 1. tijekom roka iz stavka 3.
+
+7.  Nadležno nadzorno tijelo iz stavka 1. osobito uvažava mišljenje Odbora i u roku od dva tjedna od zaprimanja mišljenja elektroničkim putem obavješćuje predsjednika Odbora o tome zadržava li ili mijenja svoj nacrt odluke, te izmijenjeni nacrt odluke, ako ga ima, dostavlja u standardiziranom formatu.
+
+8.  Ako nadležno nadzorno tijelo iz stavka 1. obavijesti predsjednika Odbora u roku navedenom u stavku 7. ovog članka da ne namjerava u obzir uzeti mišljenje Odbora, u cijelosti ili djelomično, uz relevantno obrazloženje, primjenjuje se članak 65. stavak 1.
+
+▼B
+
+Članak 65.
+
+Rješavanje sporova pri Odboru
+
+1.  Kako bi se osigurala ispravna i dosljedna primjena ove Uredbe u pojedinačnim slučajevima, Odbor donosi obvezujuću odluku u sljedećim slučajevima:
+
+(a)  ►C1  ako je, u slučaju iz članka 60. stavka 4., predmetno nadzorno tijelo podnijelo relevantan i obrazložen prigovor na nacrt odluke vodećeg nadzornog tijela, a vodeće nadzorno tijelo nije uzelo u obzir prigovor ili je takav prigovor odbilo kao nerelevantan ili neobrazložen. ◄ Obvezujuća odluka odnosi se na sva pitanja koja su predmet relevantnog i obrazloženog prigovora, a posebno na pitanje kršenja ove Uredbe;
+
+(b) ako postoje oprečna stajališta oko toga koje je od predmetnih nadzornih tijela nadležno za glavni poslovni nastan;
+
+(c) ako nadležno nadzorno tijelo ne zatraži mišljenje Odbora u slučaju navedenom u članku 64. stavku 1. ili ne uzme u obzir mišljenje Odbora dano u skladu s člankom 64. U tom slučaju svako predmetno nadzorno tijelo ili Komisija mogu o predmetu obavijestiti Odbor.
+
+2.  Odluka iz stavka 1. donosi se u roku od mjesec dana nakon što dvotrećinska većina članova Odbora uputi predmet. Taj se rok može produžiti za dodatnih mjesec dana, uzimajući u obzir složenost predmeta. Odluka iz stavka 1. obrazlaže se i upućuje vodećem nadzornom tijelu i svim predmetnim nadzornim tijelima te je za njih obvezujuća.
+
+3.  Ako Odbor ne može donijeti odluku u rokovima navedenim u stavku 2., odluku će donijeti u roku od dva tjedna nakon isteka drugog mjeseca iz stavka 2. natpolovičnom većinom članova Odbora. Ako su članovi Odbora podijeljenog mišljenja, odlučujući glas za donošenje odluke jest predsjednikov.
+
+4.  Predmetna nadzorna tijela ne donose odluku o predmetu upućenom Odboru u skladu sa stavkom 1. za vrijeme rokova navedenih u stavcima 2. i 3.
+
+▼C1
+
+5.  Predsjednik Odbora obavješćuje bez odlaganja zainteresirana nadzorna tijela o odluci iz stavka 1. O njoj obavješćuje Komisiju. Odluka se bez odlaganja objavljuje na internetskim stranicama Odbora nakon što je nadzorno tijelo priopćilo konačnu odluku iz stavka 6.
+
+▼B
+
+6.  Vodeće nadzorno tijelo ili, ovisno o slučaju, nadzorno tijelo koje je zaprimilo pritužbu svoju konačnu odluku donosi na temelju odluke iz stavka 1. ovog članka bez nepotrebnog odlaganja i najkasnije mjesec dana nakon što je Odbor priopćio svoju odluku. Vodeće nadzorno tijelo ili, ovisno o slučaju, nadzorno tijelo koje je zaprimilo pritužbu, obavješćuje Odbor kojeg je dana svoju konačnu odluku priopćilo voditelju obrade ili izvršitelju obrade odnosno ispitaniku. Konačna odluka predmetnih nadzornih tijela donosi se pod uvjetima iz članka 60. stavaka 7., 8. i 9. U konačnoj odluci poziva se na odluku iz stavka 1. ovog članka i u njoj se navodi da se odluka iz tog stavka objavljuje na internetskim stranicama Odbora u skladu sa stavkom 5. ovog članka. Konačnoj odluci prilaže se odluka iz stavka 1. ovog članka.
+
+Članak 66.
+
+Hitni postupak
+
+1.  U izuzetnim okolnostima, ako predmetno nadzorno tijelo smatra da postoji hitna potreba za djelovanjem kako bi se zaštitila prava i slobode ispitanika, ono može, odstupajući od mehanizma konzistentnosti iz članak 63., 64. i 65. ili postupka iz članka 60., odmah donijeti privremene mjere kojima se proizvode pravni učinci na svom području na određeno razdoblje valjanosti koje nije duže od tri mjeseca. Nadzorno tijelo bez odgađanja obavješćuje druga predmetna nadzorna tijela, Odbor i Komisiju o tim mjerama i razlozima za njihovo donošenje.
+
+2.  Ako nadzorno tijelo poduzme mjeru u skladu sa stavkom 1. i smatra da treba hitno donijeti završne mjere, ono može zatražiti hitno mišljenje ili hitnu obvezujuću odluku Odbora, navodeći razloge za traženje takvog mišljenja ili odluke.
+
+3.  Svako nadzorno tijelo može zatražiti hitno mišljenje ili hitnu obvezujuću odluku, ovisno o slučaju, od Odbora ako nadležno nadzorno tijelo nije poduzelo prikladnu mjeru u situaciji kada postoji hitna potreba za djelovanjem radi zaštite prava i sloboda ispitanika, uz obrazloženje traženja takvog mišljenja ili odluke uključujući i hitne potrebe za djelovanjem.
+
+4.  Odstupajući od članka 64. stavka 3. i članka 65. stavka 2. hitno mišljenje ili hitna obvezujuća odluka iz stavaka 2. i 3. ovog članka donosi se u roku od dva tjedna natpolovičnom većinom članova Odbora.
+
+Članak 67.
+
+Razmjena informacija
+
+Komisija može donijeti provedbene akte općeg područja primjene radi određivanja aranžmana za razmjenu informacija između nadzornih tijela elektroničkim putem i između nadzornih tijela i Odbora, osobito standardiziranog formata iz članka 64.
+
+Ti provedbeni akti donose se u skladu s postupkom ispitivanja navedenim u članku 93. stavku 2.
+
+
+
+Odjeljak 3
+
+Europski odbor za zaštitu podataka
+
+Članak 68.
+
+Europski odbor za zaštitu podataka
+
+1.  Europski odbor za zaštitu podataka („Odbor”) osniva se kao tijelo Unije koje ima pravnu osobnost.
+
+2.  Odbor predstavlja njegov predsjednik.
+
+3.  Odbor čine voditelji jednoga nadzornog tijela iz svake države članice i Europski nadzornik za zaštitu podataka, ili njihovi predstavnici.
+
+4.  Ako je u državi članici za praćenje primjene odredaba ove Uredbe odgovorno više od jednog nadzornog tijela, imenuje se zajednički predstavnik u skladu s pravom te države članice.
+
+5.  Komisija ima pravo sudjelovanja u aktivnostima i sastancima Odbora bez prava glasa. Komisija imenuje predstavnika. Predsjednik Odbora izvješćuje Komisiju o aktivnostima Europskog odbora za zaštitu podataka.
+
+6.  U slučajevima iz članka 65., Europski nadzornik za zaštitu podataka ima pravo glasa samo u pogledu odluka koje se tiču načela i pravila primjenjivih na institucije, tijela, urede i agencije Unije koja sadržajno odgovaraju onima iz ove Uredbe.
+
+Članak 69.
+
+Neovisnost
+
+1.  Odbor djeluje neovisno kada obavlja svoje zadaće ili izvršava svoje ovlasti u skladu s člancima 70. i 71.
+
+▼C1
+
+2.  Ne dovodeći u pitanje zahtjeve Komisije iz članka 70. stavaka 1. i 2., Odbor pri obavljanju svojih zadaća ili izvršavanju svojih ovlasti ne smije tražiti ni primati upute ni od koga.
+
+▼B
+
+Članak 70.
+
+Zadaće Odbora
+
+1.  Odbor osigurava dosljednu primjenu ove Uredbe. U tu svrhu Odbor na vlastitu inicijativu ili prema potrebi na zahtjev Komisije, osobito:
+
+(a) prati i osigurava pravilnu primjenu ove Uredbe u slučajevima predviđenima člancima 64. i 65. ne dovodeći u pitanje zadaće nacionalnih nadzornih tijela;
+
+(b) savjetuje Komisiju o svim pitanjima u pogledu zaštite osobnih podataka u Uniji, među ostalim i o svim predloženim izmjenama ove Uredbe;
+
+(c) savjetuje Komisiju o formatu i postupcima za razmjenu informacija među voditeljima obrade, izvršiteljima obrade i nadzornim tijelima za obvezujuća korporativna pravila;
+
+(d) izdaje smjernice, preporuke i primjere najbolje prakse o postupcima za brisanje poveznica na osobne podatke, kopija ili replika tih osobnih podataka iz javno dostupnih sredstava komunikacije iz članka 17. stavka 2;
+
+(e) ispituje na vlastitu inicijativu, na zahtjev jednog od svojih članova ili na zahtjev Komisije sva pitanja koja obuhvaćaju primjenu Uredbe i izdaje smjernice, preporuke i primjere najbolje prakse kako bi poticao dosljednu primjenu ove Uredbe;
+
+(f) izdaje smjernice, preporuke i primjere najbolje prakse u skladu s točkom (e) ovog članka u svrhu dodatnog određivanja kriterija i uvjeta za odluke koje se temelje na izradi profila u skladu s člankom 22. stavkom 2.;
+
+(g) izdaje smjernice, preporuke i primjere najbolje prakse u skladu s točkom (b) ovog članka za utvrđivanje povreda osobnih podataka te određivanje nepotrebnog odgađanja iz članka 33. stavaka 1. i 2. te za posebne okolnosti u kojima se od voditelja obrade ili izvršitelja obrade zahtijeva obavješćivanje o povredi osobnih podataka;
+
+(h) izdaje smjernice, preporuke i primjere najbolje prakse u skladu s točkom (b) ovog članka u pogledu okolnosti u kojima će povreda osobnih podataka vjerojatno dovesti do visokog rizika u pogledu pravâ i sloboda pojedinaca iz članka 34. stavka 1.
+
+(i) izdaje smjernice, preporuke i primjere najbolje prakse u skladu s točkom (e) ovog članka u svrhu dodatnog određivanja kriterija i zahtjeva za prijenose osobnih podataka na temelju obvezujućih korporativnih pravila kojih se pridržavaju voditelji obrade i obvezujućih korporativnih pravila kojih se pridržavaju izvršitelji obrade te daljnjih zahtjeva potrebnih za osiguravanje zaštite osobnih podataka ispitanika iz članka 47.;
+
+▼C1
+
+(j) izdaje smjernice, preporuke i primjere najbolje prakse u skladu s točkom (e) ovog članka u svrhu dodatnog određivanja kriterija i zahtjeva za prijenose osobnih podataka na temelju članka 49. stavka 1.;
+
+▼B
+
+(k) izrađuje smjernice za nadzorna tijela s obzirom na primjenu mjera iz članka 58. stavaka 1., 2. i 3. i određuje upravne novčane kazne u skladu s člankom 83.;
+
+▼C1
+
+(l) preispituje praktičnu primjenu smjernica, preporuka i primjera najbolje prakse;
+
+▼B
+
+(m) izdaje smjernice, preporuke i primjere najbolje prakse u skladu sa stavkom 1. točkom (e) za uspostavu zajedničkih postupaka za izvješćivanje pojedinaca o kršenjima ove Uredbe u skladu s člankom 54. stavkom 2.;
+
+(n) potiče izradu kodeksa ponašanja i uspostavu mehanizme certificiranja zaštite podataka te pečata i oznaka za zaštitu podataka u skladu s člancima 40. i 42.;
+
+▼C1
+
+(o) odobrava kriterije za certifikaciju u skladu s člankom 42. stavkom 5. te vodi javnu evidenciju mehanizama certificiranja, pečata i oznaka za zaštitu podataka u skladu s člankom 42. stavkom 8. i certificiranih voditelja obrade ili izvršitelja obrade s poslovnim nastanom u trećim zemljama u skladu s člankom 42. stavkom 7.;
+
+(p) odobrava zahtjeve iz članka 43. stavka 3. s obzirom na akreditaciju certifikacijskih tijela iz članka 43.;
+
+▼B
+
+(q) Komisiji daje mišljenje o zahtjevima za certificiranje iz članka 43. stavka 8.;
+
+(r) Komisiji daje mišljenje o ikonama iz članka 12. stavka 7.;
+
+(s) daje mišljenje Komisiji o procjeni primjerenosti razine zaštite koja postoji u trećoj zemlji ili međunarodnoj organizaciji, kao i o procjeni o tome je li treća zemlja, područje, ili jedan ili više određenih sektora unutar treće zemlje, ili međunarodna organizacija prestao osiguravati primjerenu razinu zaštite. U tu svrhu Komisija dostavlja Odboru svu potrebnu dokumentaciju, uključujući korespondenciju s vladom treće zemlje, vezano za tu treću zemlju, područja ili određenog sektora, ili s međunarodnom organizacijom.
+
+(t) daje mišljenja o nacrtima odluka nadzornih tijela u skladu s mehanizmom konzistentnosti iz članka 64. stavka 1. te o predmetima podnesenim na temelju članka 64. stavka 2. i pitanju obvezujućih odluka na temelju članka 65., uključujuću slučajeve iz članka 66.;
+
+(u) promiče suradnju i djelotvornu bilateralnu i multilateralnu razmjenu informacija i najboljih praksi između nadzornih tijela;
+
+(v) promiče zajedničke programe osposobljavanja i potpomaže razmjenu osoblja između nadzornih tijela te nadzornih tijela trećih zemalja ili međunarodnih organizacija;
+
+(w) promiče razmjenu znanja i dokumentacije o zakonodavstvu i praksi u području zaštite podataka s nadzornim tijelima za zaštitu podataka širom svijeta.
+
+(x) daje mišljenje o kodeksima ponašanja sastavljenima na razini Unije u skladu s člankom 40. stavkom 9.; i
+
+(y) vodi javnosti dostupnu elektroničku evidenciju odluka koje su donijela nadzorna tijela i sudovi o pitanjima rješavanim u okviru mehanizma konzistentnosti.
+
+2.  Ako Komisija zatraži savjet od Odbora, može navesti rok, uzimajući u obzir hitnost predmeta.
+
+3.  Odbor prosljeđuje Komisiji i odboru navedenom u članku 93. svoja mišljenja, smjernice, preporuke i primjere najbolje prakse te ih objavljuje.
+
+4.  Odbor se prema potrebi savjetuje sa zainteresiranim stranama i pruža im priliku da u razumnom roku dostave svoje komentare. Ne dovodeći u pitanje članak 76. Odbor javno objavljuje rezultate postupka savjetovanja.
+
+Članak 71.
+
+Izvješća
+
+1.  Odbor izrađuje godišnje izvješće u pogledu zaštite fizičkih osoba s obzirom na obradu u Uniji i, prema potrebi, u trećim zemljama i međunarodnim organizacijama. Izvješće se objavljuje i prenosi Europskom parlamentu, Vijeću i Komisiji.
+
+2.  Godišnje izvješće obuhvaća preispitivanje praktične primjene smjernica, preporuka i primjera najbolje prakse iz članka 70. stavka 1. točke (l) te obvezujućih odluka iz članka 65.
+
+Članak 72.
+
+Postupak
+
+1.  Ako nije drukčije predviđeno ovom Uredbom, Odbor donosi odluke natpolovičnom većinom glasova svojih članova.
+
+2.  Odbor svoj poslovnik donosi dvotrećinskom većinom glasova svojih članova i organizira vlastite operativne aranžmane.
+
+Članak 73.
+
+Predsjednik
+
+1.  Odbor izabire predsjednika i dva zamjenika predsjednika iz redova svojih članova natpolovičnom većinom.
+
+2.  Mandat predsjednika i zamjenikâ predsjednika traje pet godina i može se produljiti jedanput.
+
+Članak 74.
+
+Zadaće predsjednika
+
+1.  Predsjednik ima sljedeće zadaće:
+
+(a) saziva sastanke Odbora i priprema njegov dnevni red;
+
+(b) obavješćuje vodeće nadzorno tijelo i predmetna nadzorna tijela o odlukama koje je donio Odbor u skladu s člankom 65.;
+
+(c) osigurava pravodobno izvršavanje zadaća Odbora, osobito u vezi s mehanizmom konzistentnosti iz članka 63.
+
+2.  Odbor poslovnikom propisuje raspodjelu zadaća između predsjednika i zamjenikâ predsjednika.
+
+Članak 75.
+
+Tajništvo
+
+1.  Odbor ima tajništvo koje osigurava Europski nadzornik za zaštitu podataka.
+
+2.  Tajništvo obavlja svoje zadaće isključivo prema uputama predsjednika Odbora.
+
+3.  Na osoblje Europskog nadzornika za zaštitu podataka koje sudjeluje u obavljanju zadaća koje su ovom Uredbom povjerene Odboru primjenjuju se odvojene linije izvješćivanja od onih za osoblje koje sudjeluje u obavljanju zadaća povjerenih Europskom nadzorniku za zaštitu podataka.
+
+4.  Odbor i Europski nadzornik za zaštitu podataka prema potrebi utvrđuju i objavljuju memorandum o razumijevanju za provedbu ovog članka u kojem se utvrđuju uvjeti međusobne suradnje i koji se primjenjuje na osoblje Europskog nadzornika za zaštitu podataka koje sudjeluje u obavljanju zadaća koje su ovom Uredbom povjerene Odboru.
+
+5.  Tajništvo pruža analitičku, administrativnu i logističku potporu Odboru.
+
+6.  Tajništvo je osobito odgovorno za:
+
+(a) tekuće poslove Odbora;
+
+(b) komunikaciju između članova Odbora, njegova predsjednika i Komisije;
+
+(c) komunikaciju s drugim institucijama i javnošću;
+
+(d) uporabu elektroničkih sredstava za internu i eksternu komunikaciju;
+
+(e) prijevode bitnih informacija;
+
+(f) pripremu sastanaka Odbora i daljnje postupanje;
+
+(g) pripremu, izradu i objavu mišljenja, odluka o rješavanju sporova među nadzornim tijelima i drugih tekstova koje Odbor donosi.
+
+Članak 76.
+
+Povjerljivost
+
+1.  Rasprave Odbora povjerljive su ako tako odluči Odbor, kako je predviđeno u njegovom poslovniku.
+
+2.  Pristup dokumentima podnesenima članovima Odbora, stručnjacima i predstavnicima trećih strana uređuje se Uredbom (EZ) br. 1049/2001 Europskog parlamenta i Vijeća ( 3 ).
+
+
+
+POGLAVLJE VIII.
+
+Pravna sredstva, odgovornost i sankcije
+
+▼C1
+
+Članak 77.
+
+Pravo na pritužbu nadzornom tijelu
+
+1.  Ne dovodeći u pitanje nijedan drugi upravni ili sudski pravni lijek, svaki ispitanik ima pravo podnijeti pritužbu nadzornom tijelu, osobito u državi članici u kojoj ima uobičajeno boravište, u kojoj je njegovo radno mjesto ili mjesto navodnog kršenja, ako ispitanik smatra da obrada osobnih podataka koja se odnosi na njega krši ovu Uredbu.
+
+2.  Nadzorno tijelo kojem je podnesena pritužba obavješćuje podnositelja pritužbe o napretku i ishodu pritužbe, među ostalim o mogućnosti sudskog pravnog lijeka na temelju članka 78.
+
+Članak 78.
+
+Pravo na učinkoviti sudski pravni lijek protiv nadzornog tijela
+
+1.  Ne dovodeći u pitanje nijedan drugi upravni ili izvansudski pravni lijek, svaka fizička ili pravna osoba ima pravo na učinkoviti sudski pravni lijek protiv pravno obvezujuće odluke nekog nadzornog tijela koja se na nju odnosi.
+
+2.  Ne dovodeći u pitanje nijedan drugi upravni ili izvansudski pravni lijek svaki ispitanik ima pravo na učinkoviti sudski pravni lijek ako nadzorno tijelo nadležno na temelju članaka 55. i 56. ne riješi pritužbu ili ne izvijesti ispitanika u roku od tri mjeseca o napretku ili ishodu pritužbe podnesene na temelju članka 77.
+
+▼B
+
+3.  Postupci protiv nadzornog tijela vode se pred sudovima države članice u kojoj nadzorno tijelo ima poslovni nastan.
+
+4.  Ako je pokrenut postupak protiv odluke nadzornog tijela kojoj je prethodilo mišljenje ili odluka Odbora u okviru mehanizma konzistentnosti, nadzorno tijelo prosljeđuje to mišljenje ili odluku sudu.
+
+Članak 79.
+
+▼C1
+
+Pravo na učinkoviti sudski pravni lijek protiv voditelja obrade ili izvršitelja obrade
+
+1.  Ne dovodeći u pitanje nijedan dostupan upravni ili izvansudski pravni lijek, uključujući pravo na podnošenje pritužbe nadzornom tijelu na temelju članka 77., ispitanik ima pravo na učinkoviti sudski pravni lijek ako smatra da su mu zbog obrade njegovih osobnih podataka protivno ovoj Uredbi prekršena njegova prava iz ove Uredbe.
+
+▼B
+
+2.  Postupci protiv voditelja obrade ili izvršitelja obrade vode se pred sudovima države članice u kojoj voditelj obrade ili izvršitelj obrade ima poslovni nastan. Osim toga, takvi se postupci mogu voditi pred sudovima države članice u kojoj ispitanik ima uobičajeno boravište, osim ako je voditelj obrade ili izvršitelj obrade tijelo javne vlasti neke države članice koje djeluje izvršavajući svoje javne ovlasti.
+
+Članak 80.
+
+Zastupanje ispitanika
+
+1.  Ispitanik ima pravo ovlastiti neprofitno tijelo, organizaciju ili udruženje, koje je pravilno osnovano u skladu s pravom države članice, u čijem se statutu navode ciljevi od javnog interesa te je aktivno u području zaštite prava i sloboda ispitanika s obzirom na zaštitu njegovih osobnih podataka, da podnesu pritužbu u njegovo ime i da ostvaruju prava iz članaka 77., 78. i 79. u njegovo ime te da ostvaruju pravo na naknadu iz članka 82. u ime ispitanika ako je to predviđeno pravom države članice.
+
+2.  Države članice mogu predvidjeti da svako tijelo, organizacija ili udruženje iz stavka 1. ovog članka, neovisno o mandatu ispitanika, ima pravo u toj državi članici podnijeti pritužbu nadzornom tijelu nadležnom u skladu s člankom 77. i ostvarivati prava iz članaka 78. i 79. ako smatra da su uslijed obrade osobnih podataka prekršena prava ispitanika iz ove Uredbe.
+
+Članak 81.
+
+Suspenzija postupka
+
+1.  Ako nadležni sud države članice posjeduje informacije da je postupak u vezi s istim predmetom u smislu procesuiranja od istog voditelja obrade ili izvršitelja obrade u tijeku na sudu druge države članice, mora kontaktirati taj sud u drugoj državi članici kako bi potvrdio postojanje tog postupka.
+
+2.  Ako je postupak u vezi s istim predmetom u smislu procesuiranja od istog voditelja obrade ili izvršitelja obrade u tijeku na sudu u drugoj državi članici, svi nadležni sudovi osim suda pred kojim je prvo pokrenut postupak mogu suspendirati svoj postupak.
+
+3.  Ako se vodi prvostupanjski postupak, svi sudovi osim suda pred kojim je prvo pokrenut postupak mogu također na zahtjev jedne od stranaka odbiti nadležnost, ako je sud pred kojim je prvo pokrenut postupak nadležan za odlučivanje u predmetnom postupku i ako njegovo pravo dopušta spajanje predmeta.
+
+Članak 82.
+
+Pravo na naknadu štete i odgovornost
+
+1.  Svaka osoba koja je pretrpjela materijalnu ili nematerijalnu štetu zbog kršenja ove Uredbe ima pravo na naknadu od voditelja obrade ili izvršitelja obrade za pretrpljenu štetu.
+
+2.  Svaki voditelj obrade koji je uključen u obradu odgovoran je za štetu prouzročenu obradom kojom se krši ova Uredba. Izvršitelj obrade je odgovoran za štetu prouzročenu obradom samo ako nije poštovao obveze iz ove Uredbe koje su posebno namijenjene izvršiteljima obrade ili je djelovao izvan zakonitih uputa voditelja obrade ili protivno njima.
+
+3.  Voditelj obrade ili izvršitelj obrade izuzet je od odgovornosti na temelju stavka 2. ako dokaže da nije ni na koji način odgovoran za događaj koji je prouzročio štetu.
+
+4.  Ako je u istu obradu uključeno više od jednog voditelja obrade ili izvršitelja obrade ili su u istu obradu uključeni i voditelj obrade i izvršitelj obrade i ako su, u skladu sa stavcima 2. i 3., odgovorni za bilo kakvu štetu prouzročenu obradom, svaki voditelj obrade ili izvršitelj obrade smatra se odgovornim za cjelokupnu štetu kako bi se osigurala učinkovita naknada ispitaniku.
+
+5.  Ako je voditelj obrade ili izvršitelj obrade, u skladu sa stavkom 4., platio punu odštetu za pretrpljenu štetu, taj voditelj obrade ili izvršitelj obrade ima pravo zatražiti od drugih voditelja obrade ili izvršitelja obrade koji su uključeni u istu obradu dio odštete koji odgovara njihovu udjelu u odgovornosti za štetu u skladu s uvjetima iz stavka 2.
+
+6.  Sudski postupak za ostvarivanje prava na naknadu štete vodi se pred sudovima koji su nadležni prema pravu države članice iz članka 79. stavka 2.
+
+Članak 83.
+
+Opći uvjeti za izricanje upravnih novčanih kazni
+
+1.  Svako nadzorno tijelo osigurava da je izricanje upravnih novčanih kazni u skladu s ovim člankom u pogledu kršenja ove Uredbe iz stavaka 4., 5. i 6. u svakom pojedinačnom slučaju učinkovito, proporcionalno i odvraćajuće.
+
+2.  Upravne novčane kazne izriču se uz mjere ili umjesto mjera iz članka 58. stavka 2. točaka od (a) do (h) i članka 58. stavka 2. točke (j), ovisno o okolnostima svakog pojedinog slučaja. Pri odlučivanju o izricanju upravne novčane kazne i odlučivanju o iznosu te upravne novčane kazne u svakom pojedinom slučaju dužna se pozornost posvećuje sljedećem:
+
+(a) prirodi, težini i trajanju kršenja, uzimajući u obzir narav, opseg i svrhu obrade o kojoj je riječ kao i broj ispitanika i razinu štete koju su pretrpjeli;
+
+(b) ima li kršenje obilježje namjere ili nepažnje;
+
+(c) svakoj radnji koju je voditelj obrade ili izvršitelj obrade poduzeo kako bi ublažio štetu koju su pretrpjeli ispitanici;
+
+(d) stupnju odgovornosti voditelja obrade ili izvršitelja obrade uzimajući u obzir tehničke i organizacijske mjere koje su primijenili u skladu s člancima 25. i 32.;
+
+(e) svim relevantnim prijašnjim kršenjima voditelja obrade ili izvršitelja obrade;
+
+(f) stupnju suradnje s nadzornim tijelom kako bi se otklonilo kršenje i ublažili mogući štetni učinci tog kršenja;
+
+(g) kategorijama osobnih podataka na koje kršenje utječe;
+
+(h) načinu na koji je nadzorno tijelo doznalo za kršenje, osobito je li i u kojoj mjeri voditelj obrade ili izvršitelj obrade izvijestio o kršenju;
+
+(i) ako su protiv dotičnog voditelja obrade ili izvršitelja obrade u vezi s istim predmetom prethodno izrečene mjere iz članka 58. stavka 2., poštovanju tih mjera;
+
+(j) poštovanju odobrenih kodeksa ponašanja u skladu s člankom 40. ili odobrenih mehanizama certificiranja u skladu s člankom 42.; i
+
+(k) svim ostalim otegotnim ili olakotnim čimbenicima koji su primjenjivi na okolnosti slučaja, kao što su financijska dobit ostvarena kršenjem ili gubici izbjegnuti, izravno ili neizravno, tim kršenjem.
+
+3.  Ako voditelj obrade ili izvršitelj obrade za istu ili povezane obrade namjerno ili iz nepažnje prekrši nekoliko odredaba ove Uredbe ukupan iznos novčane kazne ne smije biti veći od administrativnog iznosa utvrđenog za najteže kršenje.
+
+4.  Za kršenja sljedećih odredaba, u skladu sa stavkom 2., mogu se izreći upravne novčane kazne u iznosu do 10 000 000  EUR, ili u slučaju poduzetnika do 2 % ukupnog godišnjeg prometa na svjetskoj razini za prethodnu financijsku godinu, ovisno o tome što je veće:
+
+(a) obveza voditelja obrade i izvršitelja obrade u skladu s člancima 8., 11., od 25. do 39., te 42. i 43.;
+
+(b) obveza certifikacijskog tijela u skladu s člancima 42. i 43.;
+
+(c) obveza tijela za praćenje u skladu s člankom 41.stavkom 4.;
+
+▼C1
+
+5.  Za kršenja sljedećih odredaba, u skladu sa stavkom 2., mogu se izreći upravne novčane kazne u iznosu do 20 000 000  EUR, ili u slučaju poduzetnika do 4 % ukupnog godišnjeg prometa na svjetskoj razini za prethodnu financijsku godinu, ovisno o tome što je veće:
+
+▼B
+
+(a) osnovnih načela za obradu, što uključuje uvjete privole u skladu s člancima 5., 6., 7. i 9.;
+
+(b) prava ispitanika u skladu s člancima od 12. do 22.;
+
+(c) prijenosa osobnih podataka primatelju u trećoj zemlji ili međunarodnoj organizaciji u skladu s člancima od 44. do 49.;
+
+(d) svih obveza u skladu s pravom države članice donesenim na temelju poglavlja IX.;
+
+(e) nepoštovanja naredbe ili privremenog ili trajnog ograničenje obrade ili suspenzije protoka podataka nadzornog tijela u skladu s člankom 58. stavkom 2. ili uskraćivanje pristupa kršenjem članka 58. stavka 1.
+
+6.  Za nepoštovanje naredbe nadzornog tijela iz članka 58. stavka 2. u skladu sa stavkom 2. ovog članka mogu se izreći upravne novčane kazne u iznosu do 20 000 000  EUR, ili u slučaju poduzetnika do 4 % ukupnog godišnjeg prometa na svjetskoj razini za prethodnu financijsku godinu, ovisno o tome što je veće.
+
+▼C1
+
+7.  Ne dovodeći u pitanje korektivne ovlasti nadzornih tijela iz članka 58. stavka 2. svaka država članica može utvrditi pravila mogu li se i u kojoj mjeri tijelima javne vlasti i javnim tijelima osnovanima u toj državi članici izreći upravne novčane kazne.
+
+8.  Na izvršavanje ovlasti nadzornog tijela u skladu s ovim člankom primjenjuju se odgovarajuće postupovne zaštitne mjere u skladu s pravom Unije i pravom države članice, uključujući učinkoviti sudski pravni lijek i pravilno postupanje.
+
+9.  Ako pravnim sustavom države članice nisu predviđene upravne novčane kazne, ovaj se članak može primjenjivati na način da novčanu kaznu pokreće nadležno nadzorno tijelo, a izriču je nadležni nacionalni sudovi pritom osiguravajući da su ti pravni lijekovi učinkoviti i imaju istovrijedan učinak kao i upravne novčane kazne koje izriču nadzorna tijela. U svakom slučaju novčane kazne koje se izriču moraju biti učinkovite, proporcionalne i odvraćajuće. Te države članice najkasnije do 25. svibnja 2018. obavješćuju Komisiju o odredbama svojih zakona koje donesu u skladu s ovim stavkom te, bez odgode, o svim daljnjim izmjenama zakona ili izmjeni koja na njih utječe.
+
+▼B
+
+Članak 84.
+
+Sankcije
+
+▼C1
+
+1.  Države članice utvrđuju pravila o ostalim sankcijama koje se primjenjuju na kršenja ove Uredbe, a posebno na ona kršenja koja ne podliježu upravnim novčanim kaznama na temelju članka 83., te poduzimaju sve potrebne mjere kako bi se osigurala njihova provedba. Te sankcije moraju biti učinkovite, proporcionalne i odvraćajuće.
+
+▼B
+
+2.  Svaka država članica priopćuje Komisiji odredbe svojih zakona koje je donijela u skladu sa stavkom 1. do 25. svibnja 2018. i bez odgađanja o svakoj sljedećoj izmjeni koja na njih utječe.
+
+
+
+POGLAVLJE IX.
+
+Odredbe u vezi s posebnim situacijama obrade
+
+Članak 85.
+
+Obrada i sloboda izražavanja i informiranja
+
+1.  Države članice zakonom usklađuju pravo na zaštitu osobnih podataka u skladu s ovom Uredbom s pravom na slobodu izražavanja i informiranja, što uključuje obradu u novinarske svrhe i svrhe akademskog, umjetničkog ili književnog izražavanja.
+
+2.  U vezi s obradom koja se obavlja u novinarske svrhe ili u svrhe akademskog, umjetničkog ili književnog izražavanja, države članice predviđaju izuzeća ili odstupanja od poglavlja II. (načela), poglavlja III. (prava ispitanika), poglavlja IV. (voditelj obrade i izvršitelj obrade), poglavlja V. (prijenos osobnih podataka trećim zemljama ili međunarodnim organizacijama), poglavlja VI. (neovisna nadzorna tijela), poglavlja VII. (suradnja i konzistentnost) i poglavlja IX. (posebne situacije obrade) ako su ona potrebna kako bi se uskladilo pravo na zaštitu osobnih podataka sa slobodom izražavanja i informiranja.
+
+3.  Svaka država članica Komisiji priopćuje odredbe svojih zakona koje je donijela u skladu sa stavkom 2. te, bez odgode, o svim daljnjim izmjenama zakona ili izmjeni koja na njih utječe.
+
+Članak 86.
+
+Obrada i javni pristup službenim dokumentima
+
+▼C1
+
+Tijelo javne vlasti, javno ili privatno tijelo može, u skladu s pravom Unije ili pravom države članice koje se primjenjuje na to tijelo javne vlasti ili to tijelo, otkriti osobne podatke iz službenih dokumenata, koje posjeduje u svrhu obavljanja zadaće u javnom interesu, kako bi se uskladio javni pristup službenim dokumentima s pravom na zaštitu osobnih podataka u skladu s ovom Uredbom.
+
+▼B
+
+Članak 87.
+
+Obrada nacionalnog identifikacijskog broja
+
+Države članice mogu dodatno utvrditi posebne uvjete za obradu nacionalnog identifikacijskog broja ili bilo kojeg drugog identifikatora opće primjene. U tom se slučaju nacionalni identifikacijski broj ili bilo koji drugi identifikator opće primjene upotrebljava samo uz primjenu odgovarajućih zaštitnih mjera u pogledu prava i sloboda ispitanika u skladu s ovom Uredbom.
+
+Članak 88.
+
+Obrada u kontekstu zaposlenja
+
+1.  Države članice mogu zakonom ili kolektivnim ugovorima predvidjeti preciznija pravila s ciljem osiguravanja zaštite prava i sloboda u vezi s obradom osobnih podataka zaposlenika u kontekstu zaposlenja, osobito za potrebe zapošljavanja, izvršavanja ugovora o radu, što uključuje ispunjavanje zakonski propisanih obveza ili obveza propisanih kolektivnim ugovorima, za potrebe upravljanja, planiranja i organizacije rada, jednakosti i različitosti na radnome mjestu, zdravlja i sigurnosti na radu, zaštite imovine poslodavca ili klijenta i za potrebe ostvarenja i uživanja prava i koristi iz radnog odnosa, na individualnoj ili kolektivnoj osnovi, te za potrebe prestanka radnog odnosa.
+
+2.  Ta pravila uključuju prikladne i posebne mjere za zaštitu ljudskog dostojanstva ispitanika, njegovih legitimnih interesa i temeljnih prava, posebno u odnosu na transparentnost obrade, prijenos osobnih podataka unutar grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću i sustavâ praćenja na radnom mjestu.
+
+3.  Svaka država članica priopćuje Komisiji te odredbe svojih zakona koje je donijela u skladu sa stavkom 1. do 25. svibnja 2018. i bez odgađanja o svakoj sljedećoj izmjeni koja na njih utječe.
+
+Članak 89.
+
+Zaštitne mjere i odstupanja vezano za obradu u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe
+
+1.  Na obradu u svrhe arhiviranja u javnom interesu, u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe primjenjuju se odgovarajuće zaštitne mjere u skladu s ovom Uredbom u pogledu prava i sloboda ispitanika. Tim zaštitnim mjerama osigurava se da su na snazi tehničke i organizacijske mjere, posebno kako bi se zajamčilo načelo smanjenja količine podataka. Te mjere mogu uključivati pseudonimizaciju, pod uvjetom da se te svrhe mogu postići na taj način. Ako se te svrhe mogu postići daljnjom obradom koja ne dopušta ili više ne dopušta identifikaciju ispitanika, te se svrhe postižu na taj način.
+
+2.  Ako se osobni podaci obrađuju u svrhe znanstvenog ili povijesnog istraživanja ili u statističke svrhe, pravom Unije ili pravom države članice mogu se predvidjeti odstupanja od prava navedenih u člancima 15., 16., 18. i 21., uz primjenu uvjeta i mjera zaštite iz stavka 1. ovog članka, u mjeri u kojoj je vjerojatno da bi se takvim pravima moglo onemogućiti ili ozbiljno ugroziti postizanje tih posebnih svrha te su takva odstupanja neophodna za postizanje tih svrha.
+
+3.  Ako se osobni podaci obrađuju u svrhe arhiviranja u javnom interesu, pravom Unije ili pravom države članice mogu se predvidjeti odstupanja od prava navedenih u člancima 15., 16., 18., 19., 20. i 21., uz primjenu uvjeta i mjera zaštite iz stavka 1. ovog članka, u mjeri u kojoj je vjerojatno da bi se takvim pravima moglo onemogućiti ili ozbiljno ugroziti postizanje tih posebnih svrha te su takva odstupanja neophodna za postizanje tih svrha.
+
+4.  Ako obrada navedena u stavcima 2. i 3. istovremeno služi i drugoj svrsi, odstupanja se primjenjuju samo za obradu u svrhe koje su navedene u tim stavcima.
+
+Članak 90.
+
+Obveze tajnosti
+
+1.  Države članice mogu donositi posebna pravila za utvrđivanje ovlasti nadzornih tijela iz članka 58. stavka 1.točaka (e) i (f) u pogledu voditelja obrade ili izvršitelja obrade koji, na temelju prava Unije ili prava države članice ili na temelju pravila koja su donijela nacionalna nadležna tijela, podliježu obvezi profesionalne tajne i drugim jednakovrijednim obvezama tajnosti, ako je to nužno i razmjerno kako bi se uskladilo pravo na zaštitu osobnih podataka s obvezom tajnosti. Ta se pravila primjenjuju samo na osobne podatke koje je voditelj obrade ili izvršitelj obrade dobio kao rezultat, ili primio tijekom aktivnosti koja je obuhvaćena obvezom tajnosti.
+
+2.  Svaka država članica priopćuje Komisiji pravila donesena na temelju stavka 1. do 25. svibnja 2018. i bez odgađanja o svakoj sljedećoj izmjeni koja na njih utječe.
+
+Članak 91.
+
+Postojeća pravila o zaštiti podataka crkava i vjerskih udruženja
+
+1.  Ako crkve i vjerska udruženja ili zajednice u državi članici primjenjuju, u vrijeme stupanja na snagu ove Uredbe, sveobuhvatna pravila u pogledu zaštite pojedinaca s obzirom na obradu, ta postojeća pravila mogu se i dalje primjenjivati pod uvjetom da se usklade s ovom Uredbom.
+
+2.  Crkve i vjerska udruženja koje primjenjuju sveobuhvatna pravila u skladu sa stavkom 1. ovog članka nadzire neovisno nadzorno tijelo koje može biti posebno tijelo, pod uvjetom da ispunjava uvjete utvrđene poglavljem VI. ove Uredbe.
+
+
+
+POGLAVLJE X.
+
+Delegirani akti i provedbeni akti
+
+Članak 92.
+
+Izvršavanje delegiranja ovlasti
+
+1.  Ovlast za donošenje delegiranih akata dodjeljuje se Komisiji podložno uvjetima utvrđenima u ovom članku.
+
+2.  Ovlast za donošenje delegiranih akata iz članka 12. stavka 8. i članka 43. stavka 8. dodjeljuje se Komisiji na neodređeno vrijeme počevši od 24. svibnja 2016.
+
+3.  Europski parlament ili Vijeće u svakom trenutku mogu opozvati delegiranje ovlasti iz članka 12. stavka 8. i članka 43. stavka 8. Odlukom o opozivu prekida se delegiranje ovlasti koje je u njoj navedeno. Odluka o opozivu počinje proizvoditi učinke sljedećeg dana od dana objave spomenute odluke u Službenom listu Europske unije ili na kasniji dan naveden u spomenutoj odluci. On ne utječe na valjanost delegiranih akata koji su već na snazi.
+
+4.  Čim donese delegirani akt, Komisija ga istodobno priopćuje Europskom parlamentu i Vijeću.
+
+5.  Delegirani akt donesen na temelju članka 12. stavka 8. i članka 43. stavka 8. stupa na snagu samo ako Europski parlament ili Vijeće u roku od tri mjeseca od priopćenja tog akta Europskom parlamentu i Vijeću na njega ne podnesu nikakav prigovor ili ako su prije isteka tog roka i Europski parlament i Vijeće obavijestili Komisiju da neće uložiti prigovore. Taj se rok produljuje za tri mjeseca na inicijativu Europskog parlamenta ili Vijeća.
+
+Članak 93.
+
+Postupak odbora
+
+1.  Komisiji pomaže odbor. Navedeni odbor je odbor u smislu Uredbe (EU) br. 182/2011.
+
+2.  Pri upućivanju na ovaj stavak, primjenjuje se članak 5. Uredbe (EU) br. 182/2011.
+
+3.  Pri upućivanju na ovaj stavak, primjenjuje se članak 8. Uredbe (EU) br. 182/2011 zajedno s njezinim člankom 5.
+
+
+
+POGLAVLJE XI.
+
+Završne odredbe
+
+Članak 94.
+
+Stavljanje izvan snage Direktive 95/46/EZ
+
+1.  Direktiva 95/46/EZ stavlja se izvan snage s učinkom od 25. svibnja 2018.
+
+2.  Upućivanja na direktivu koja je stavljena izvan snage tumače se kao upućivanja na ovu Uredbu. Upućivanja na Radnu skupinu o zaštiti pojedinaca s obzirom na obradu osobnih podataka osnovanu člankom 29. Direktive 95/46/EZ tumače se kao upućivanja na Europski odbor za zaštitu podataka osnovan ovom Uredbom.
+
+Članak 95.
+
+Odnos s Direktivom 2002/58/EZ
+
+Ovom Uredbom ne propisuju se dodatne obveze fizičkim ili pravnim osobama u pogledu obrade u vezi s pružanjem javno dostupnih elektroničkih komunikacijskih usluga u javnim komunikacijskim mrežama u Uniji povezanih s pitanjima u pogledu kojih vrijede posebne obveze s istim ciljem iz Direktive 2002/58/EZ.
+
+Članak 96.
+
+Odnos s prethodno sklopljenim sporazumima
+
+Međunarodni sporazumi koji uključuju prijenos osobnih podataka trećim zemljama ili međunarodnim organizacijama koje su države članice sklopile prije 24. svibnja 2016., a koji su u skladu s pravom Unije primjenjivim prije tog datuma, ostaju na snazi dok ih se ne izmijeni, zamijeni ili stavi izvan snage.
+
+Članak 97.
+
+Izvješća Komisije
+
+1.  Do 25. svibnja 2020. i svake četiri godine nakon toga Komisija podnosi izvješće Europskom parlamentu i Vijeću o ocjeni i preispitivanju ove Uredbe. Izvješća se javno objavljuju.
+
+2.  U okviru ocjena i preispitivanjâ iz stavka 1. Komisija osobito ispituje primjenu i funkcioniranje:
+
+(a) poglavlja V. o prijenosu osobnih podataka trećim zemljama ili međunarodnim organizacijama, a osobito u pogledu odluka donesenih na temelju članka 45. stavka 3. ove Uredbe i odluka donesenih na temelju članka 25. stavka 6. Direktive 95/46/EZ;
+
+(b) poglavlja VII. o suradnji i konzistentnosti.
+
+3.  Za potrebe stavka 1. Komisija može zatražiti informacije od država članica i nadzornih tijela.
+
+4.  Pri obavljanju ocjena i preispitivanjâ iz stavka 1. i 2. Komisija uzima u obzir stajališta i nalaze Europskog parlamenta, Vijeća te drugih relevantnih tijela ili izvora.
+
+5.  Komisija prema potrebi podnosi odgovarajuće prijedloge s ciljem izmjene ove Uredbe, posebno uzimajući u obzir razvoj informacijske tehnologije te s obzirom na napredak informacijskog društva.
+
+Članak 98.
+
+Preispitivanje drugih akata Unije o zaštiti podataka
+
+Komisija prema potrebi podnosi zakonodavne prijedloge s ciljem izmjene drugih pravnih akata Unije o zaštiti osobnih podataka kako bi se osigurala jedinstvena i dosljedna zaštita pojedinaca s obzirom na obradu. To se osobito odnosi na pravila u vezi sa zaštitom pojedinaca u pogledu obrade koju obavljaju institucije, tijela, uredi i agencije Unije te pravila u vezi sa slobodnim kretanjem takvih podataka.
+
+Članak 99.
+
+Stupanje na snagu i primjena
+
+1.  Ova Uredba stupa na snagu dvadesetog dana od dana objave u Službenom listu Europske unije.
+
+2.  Primjenjuje se od 25. svibnja 2018.
+
+Ova je Uredba u cijelosti obvezujuća i izravno se primjenjuje u svim državama članicama.
+
+
+( 1 ) Direktiva (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (SL L 241, 17.9.2015., str. 1.).
+
+( 2 ) Uredba (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta u odnosu na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 (SL L 218, 13.8.2008., str. 30.).
+
+( 3 ) Uredba (EZ) br. 1049/2001 Europskog parlamenta i Vijeća od 30. svibnja 2001. o javnom pristupu dokumentima Europskog parlamenta, Vijeća i Komisije (SL L 145, 31.5.2001., str. 43.).
+
