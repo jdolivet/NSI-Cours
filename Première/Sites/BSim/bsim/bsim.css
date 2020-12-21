@@ -1,0 +1,301 @@
+button.btn {
+    cursor: pointer;
+}
+
+#filetree {
+    display: block;
+    /*width: 100%;*/
+}
+
+#editor {
+    /*width: 100%;*/
+}
+
+#programmer-view .content {
+    position: relative;
+}
+
+.regfile .register {
+    color: gray;
+    text-align: right;
+}
+
+#programmer-view .regfile .register {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+table.regfile {
+    border: 1px solid gray;
+    width: 452px;
+    background-color: white;
+}
+
+#schematic-view table.regfile {
+    width: 358px;
+}
+
+.regfile, .disassembly, .tty, .memory, .stack, .pc-value, .pc-label {
+    font-family: Menlo, Monaco, monospace;
+    font-size: 12px;
+    line-height: 1.7;
+}
+
+.pc-label {
+    color: gray;
+}
+
+pre.tty-output {
+    height: 100px;
+    overflow-y: auto;
+    background-color: #fafafa;
+    border-radius: 0px;
+}
+
+.tty {
+    width: 600px;
+}
+
+div.stack-holder {
+    position: absolute;
+    left: 460px;
+    top: 0px;
+    width: 170px;
+    /*display: none;*/
+}
+
+div.stack {
+    border: 1px solid gray;
+    height: 398px;
+    background-color: white;
+}
+
+.stack td:nth-child(1) {
+    width: 30px;
+    text-align: right;
+}
+
+div.memory-holder {
+    position: absolute;
+    top: 0px;
+    left: 640px;
+    width: 140px;
+}
+
+#checkoff-failure {
+    position: absolute;
+    bottom: 0;
+    left: 620px;
+    height: 120px;
+    width: 340px;
+}
+
+.memory-key ul {
+    list-style: none;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+.memory-key span {
+    display: inline-block;
+    width: 15px;
+    height: 10px;
+    border: 1px solid gray;
+}
+
+.memory-key .read {
+    background-color: hsl(120, 60%, 75%);
+}
+
+.memory-key .write {
+    background-color: hsl(217, 67%, 75%);
+}
+
+div.memory {
+    border: 1px solid gray;
+    height: 398px;
+    background-color: white;
+}
+
+.memory td:nth-child(1), .stack td:nth-child(2) {
+    color: gray;
+    width: 40px;
+    text-align: right;
+    padding-right: 5px;
+    text-overflow: hidden;
+    overflow: hidden;
+}
+
+/* Highlight the last-written entries */
+/*.memory*/ .last-write.a4 td {
+    background-color: hsl(217, 67%, 95%);
+}
+
+/*.memory*/ .last-write.a3 td {
+    background-color: hsl(217, 67%, 90%);
+}
+
+/*.memory*/ .last-write.a2 td {
+    background-color: hsl(217, 67%, 85%);
+}
+
+/*.memory*/ .last-write.a1 td {
+    background-color: hsl(217, 67%, 80%);
+}
+
+/*.memory*/ .last-write.a0 td {
+    background-color: hsl(217, 67%, 75%);
+}
+
+/* Highlight the last-read entries */
+/*.memory*/ .last-read.b4 td {
+    background-color: hsl(120, 60%, 95%);
+}
+
+/*.memory*/ .last-read.b3 td {
+    background-color: hsl(120, 60%, 90%);
+}
+
+/*.memory*/ .last-read.b2 td {
+    background-color: hsl(120, 60%, 85%);
+}
+
+/*.memory*/ .last-read.b1 td {
+    background-color: hsl(120, 60%, 80%);
+}
+
+/*.memory*/ .last-read.b0 td {
+    background-color: hsl(120, 60%, 75%);
+}
+
+/* Deal with something being on both lists. */
+/*.memory*/ .last-read.last-write td {
+    background-color: hsl(169, 60%, 85%);
+}
+
+/* If it's first in either list, it should be darker. */
+/*.memory*/ .last-read.last-write.a0 td {
+    background-color: hsl(169, 60%, 75%);
+}
+
+/*.memory*/ .last-read.last-write.b0 td {
+    background-color: hsl(169, 60%, 75%);
+}
+
+/* regfile read indicators. */
+.regfile .last-read {
+    background-color: hsl(120, 60%, 75%);
+}
+.regfile .last-write {
+    background-color: hsl(217, 67%, 75%);
+}
+.regfile .last-read.last-write {
+    background-color: hsl(169, 60%, 75%);
+}
+
+
+.disassembly table, .memory table, .stack table {
+    table-layout: fixed;
+    border-spacing: 0px;
+}
+
+.current-instruction {
+    background-color: #3874D7;
+    color: white;
+}
+
+.supervisor-mode .current-instruction {
+    background-color: #CC3729;
+}
+
+div.disassembly {
+    height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 450px;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.disassembly td {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+/* Address */
+.disassembly td:nth-child(1) {
+    width: 40px;
+}
+
+/* Label */
+.disassembly td:nth-child(3) {
+    width: 100px;
+    max-width: 100px;
+    text-overflow: ellipsis;
+}
+.disassembly td:nth-child(1),
+.disassembly td:nth-child(3) {
+    color: gray;
+}
+.disassembly .current-instruction td:nth-child(1),
+.disassembly .current-instruction td:nth-child(3) {
+    color: #ddd;
+}
+
+/* Disassembled instruction */
+.disassembly  td:nth-child(4) {
+    width: 240px;
+}
+
+.disassembly .breakpoint {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    line-height: 18px;
+}
+
+.highlight-line{
+    background-color : yellow; 
+}
+
+.cache-wrapper {
+    display: none;
+}
+
+.cache-information {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.cache-column {
+    padding-left: 10px;
+    text-align: right;
+}
+
+.cache-stats {
+    padding-left: 5px;
+    text-align: right;
+}
+
+.cache-num {
+    color: blue;
+}
+
+.cache-val {
+    color: blue;
+    text-align: left;
+}
+
+.cache-select {
+    padding: 0;
+    margin: 5px 0 0 0;
+    font-size: 12px;
+    height: auto;
+    width: 120px;
+    line-height: 1;
+}
+
+.cache-sep {
+    border-left: 1px solid black;
+    margin-left: 5px;
+}

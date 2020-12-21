@@ -1,0 +1,61 @@
+text {
+    font-family: Menlo, Monaco, 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+    text-anchor: middle;
+    font-size: 10pt;
+    stroke: none;
+    fill: gray;
+}
+rect.border {
+    stroke: black;
+}
+
+text {
+    fill: gray;
+    stroke: none;
+}
+
+polyline {
+    fill: none;
+    stroke: gray;
+}
+
+polygon, rect {
+    fill: white;
+    stroke: gray;
+}
+
+.permanent polyline, .permanent rect, .permanent polygon {
+    stroke: black;
+}
+
+.permanent text {
+    fill: black;
+}
+
+.mux-selector text {
+    fill: red !important;
+}
+text.path-value {
+    fill: blue;
+    text-anchor: start;
+    visibility: hidden;
+}
+.process text.process-label {
+    font-size: 12pt;
+}
+
+.permanent text.path-value {
+    visibility: visible;
+    fill: blue;
+}
+
+#schematic-view .disassembly td:nth-child(3) {
+    width: 60px;
+    max-width: 50px;
+}
+
+#schematic-holder {
+    -webkit-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
