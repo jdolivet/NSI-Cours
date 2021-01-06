@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang = "fr">
+   <head>
+      <title>Compteur bouton</title>
+      <meta charset = "utf-8">
+      <script type = "text/javascript">
+         let compteur = 0;
+         function suivant(){
+            compteur = compteur + 1;
+            let v = document.getElementById("valeur");
+            v.innerHTML = compteur;
+         }
+      </script>
+   </head>
+   <body>
+      <button onclick = "suivant();">Clic !</button>
+      <span id = "valeur">0</span>
+   </body>
+</html>
+
