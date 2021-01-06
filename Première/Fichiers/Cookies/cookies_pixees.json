@@ -1,0 +1,16 @@
+[{
+	"Host raw": "http://pixees.fr/",
+	"Name raw": "complianceCookie",
+	"Path raw": "/",
+	"Content raw": "on",
+	"Expires": "02-02-2021 10:32:24",
+	"Expires raw": "1612272744",
+	"Send for": "Any type of connection",
+	"Send for raw": "false",
+	"HTTP only raw": "false",
+	"SameSite raw": "no_restriction",
+	"This domain only": "Valid for host only",
+	"This domain only raw": "true",
+	"Store raw": "firefox-default",
+	"First Party Domain": ""
+}]

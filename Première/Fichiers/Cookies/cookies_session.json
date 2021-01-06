@@ -1,0 +1,16 @@
+[{
+	"Host raw": "http://www.jdolivet.byethost13.com/",
+	"Name raw": "PHPSESSID",
+	"Path raw": "/",
+	"Content raw": "9608ce084bc00cac517a43c6e492ec3d",
+	"Expires": "06-01-2021 14:24:59",
+	"Expires raw": "1609953899",
+	"Send for": "Any type of connection",
+	"Send for raw": "false",
+	"HTTP only raw": "false",
+	"SameSite raw": "no_restriction",
+	"This domain only": "Valid for host only",
+	"This domain only raw": "true",
+	"Store raw": "firefox-default",
+	"First Party Domain": ""
+}]
