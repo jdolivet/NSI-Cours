@@ -1,0 +1,26 @@
+language: node_js
+node_js:
+- '0.11'
+env:
+  global:
+  - FTP_USER=x6004
+  - secure: H2rh0GEcdZD7fd0NAbCwlc0MFNOfpA7kwVjQfRaZc1hH1twv7EV/z5Aie7tTGdCvW4Ez5QEiNjXOBMGbLsQWc/g08vmb9RiRp+c5WvqLU4qA4UNhA/tVjMkKLM1lXR8A0/oQ/Wi9UQeZhPfBSfT6h2jogxgj7U8LCZKsO+hy6R8=
+
+branches:
+    only:
+        - master
+
+notifications:
+  email: false
+
+before_install:
+- sudo apt-get update -qq
+- sudo apt-get install -qq wput
+- npm install -g grunt-cli
+
+script:
+- grunt test
+- grunt
+
+after_success:
+- wput -nc -B built/ server/ ftp://$FTP_USER:$FTP_PASSWORD@6004.mattpf.net/web/
