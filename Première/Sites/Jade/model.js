@@ -1,4 +1,4 @@
-// Copyright (C) 2011-2016 Massachusetts Institute of Technology
+// Copyright (C) 2011-2017 Massachusetts Institute of Technology
 // Chris Terman
 
 // Model:
@@ -1001,70 +1001,47 @@ jade_defs.model = function (jade) {
         'black': 'rgb(0,0,0)'
     };
 
-    Component.prototype.draw_line = function(diagram, x1, y1, x2, y2, width) {
-        diagram.c.strokeStyle = this.selected ? diagram.selected_style :
+    Component.prototype.svg_line = function(diagram, x1, y1, x2, y2, width) {
+        var strokeStyle = this.selected ? diagram.selected_style :
             this.type() == 'wire' ? (diagram.show_grid ? diagram.normal_style : 'rgb(0,0,0)') :
             (colors_rgb[this.properties.color] ||  (diagram.show_grid ? diagram.component_style : 'rgb(0,0,0)'));
         var nx1 = this.transform_x(x1, y1) + this.coords[0];
         var ny1 = this.transform_y(x1, y1) + this.coords[1];
         var nx2 = this.transform_x(x2, y2) + this.coords[0];
         var ny2 = this.transform_y(x2, y2) + this.coords[1];
-        diagram.draw_line(nx1, ny1, nx2, ny2, width || 1);
+        return jade.utils.make_svg('line',{x1:nx1, y1:ny1, x2:nx2, y2:ny2,
+                                           'stroke-width': width || 1, stroke: strokeStyle});
     };
 
-    Component.prototype.draw_circle = function(diagram, x, y, radius, filled) {
-        if (filled) diagram.c.fillStyle = this.selected ? diagram.selected_style : diagram.normal_style;
-        else diagram.c.strokeStyle = this.selected ? diagram.selected_style :
+    Component.prototype.svg_circle = function(diagram, x, y, radius, filled) {
+        var fillStyle = 'none';
+        var strokeStyle = 'none';
+        if (filled) fillStyle = this.selected ? diagram.selected_style : diagram.normal_style;
+        else strokeStyle = this.selected ? diagram.selected_style :
             this.type() == 'wire' ? (diagram.show_grid ? diagram.normal_style : 'rgb(0,0,0)') :
             (colors_rgb[this.properties.color] ||  (diagram.show_grid ? diagram.component_style : 'rgb(0,0,0)'));
         var nx = this.transform_x(x, y) + this.coords[0];
         var ny = this.transform_y(x, y) + this.coords[1];
 
-        diagram.draw_arc(nx, ny, radius, 0, 2 * Math.PI, false, 1, filled);
+        return jade.utils.make_svg('circle',{cx: nx, cy: ny, r: radius,
+                                             fill: fillStyle, stroke: strokeStyle});
     };
 
     // draw arc from [x1,y1] to [x2,y2] passing through [x3,y3]
-    Component.prototype.draw_arc = function(diagram, x1, y1, x2, y2, x3, y3) {
-        diagram.c.strokeStyle = this.selected ? diagram.selected_style : this.type() == 'wire' ? diagram.normal_style : (colors_rgb[this.properties.color] ||  (diagram.show_grid ? diagram.component_style : 'rgb(0,0,0)'));
+    Component.prototype.svg_arc = function(diagram, x1, y1, x2, y2, x3, y3) {
+        var strokeStyle = this.selected ? diagram.selected_style : this.type() == 'wire' ? diagram.normal_style : (colors_rgb[this.properties.color] ||  (diagram.show_grid ? diagram.component_style : 'rgb(0,0,0)'));
 
         // transform coords, make second two points relative to x,y
-        var x = this.transform_x(x1, y1) + this.coords[0];
-        var y = this.transform_y(x1, y1) + this.coords[1];
-        var dx = this.transform_x(x2, y2) + this.coords[0] - x;
-        var dy = this.transform_y(x2, y2) + this.coords[1] - y;
-        var ex = this.transform_x(x3, y3) + this.coords[0] - x;
-        var ey = this.transform_y(x3, y3) + this.coords[1] - y;
+        var _x1 = this.transform_x(x1, y1) + this.coords[0];
+        var _y1 = this.transform_y(x1, y1) + this.coords[1];
+        var _x2 = this.transform_x(x2, y2) + this.coords[0];
+        var _y2 = this.transform_y(x2, y2) + this.coords[1];
+        var _x3 = this.transform_x(x3, y3) + this.coords[0];
+        var _y3 = this.transform_y(x3, y3) + this.coords[1];
 
-        // compute center of circumscribed circle
-        // http://en.wikipedia.org/wiki/Circumscribed_circle
-        var D = 2 * (dx * ey - dy * ex);
-        if (D === 0) { // oops, it's just a line
-            diagram.draw_line(x, y, dx + x, dy + y, 1);
-            return;
-        }
-        var dsquare = dx * dx + dy * dy;
-        var esquare = ex * ex + ey * ey;
-        var cx = (ey * dsquare - dy * esquare) / D;
-        var cy = (dx * esquare - ex * dsquare) / D;
-        var r = Math.sqrt((dx - cx) * (dx - cx) + (dy - cy) * (dy - cy)); // radius
-
-        // compute start and end angles relative to circle's center.
-        // remember that y axis is positive *down* the page;
-        // canvas arc angle measurements: 0 = x-axis, then clockwise from there
-        var start_angle = 2 * Math.PI - Math.atan2(-(0 - cy), 0 - cx);
-        var end_angle = 2 * Math.PI - Math.atan2(-(dy - cy), dx - cx);
-
-        // make sure arc passes through third point
-        var middle_angle = 2 * Math.PI - Math.atan2(-(ey - cy), ex - cx);
-        var angle1 = end_angle - start_angle;
-        if (angle1 < 0) angle1 += 2 * Math.PI;
-        var angle2 = middle_angle - start_angle;
-        if (angle2 < 0) angle2 += 2 * Math.PI;
-        var ccw = (angle2 > angle1);
-
-        diagram.draw_arc(cx + x, cy + y, r, start_angle, end_angle, ccw, 1, false);
+        return jade.utils.svg_arc(_x1,_y1,_x2,_y2,_x3,_y3,{stroke: strokeStyle});
     };
-
+    
     // result of rotating an alignment [rot*9 + align]
     var aOrient = [
         0, 1, 2, 3, 4, 5, 6, 7, 8, // NORTH (identity)
@@ -1081,49 +1058,46 @@ jade_defs.model = function (jade) {
 
     var textBaseline = ['top', 'top', 'top', 'middle', 'middle', 'middle', 'bottom', 'bottom', 'bottom'];
 
-    Component.prototype.draw_text = function(diagram, text, x, y, alignment, font, fill) {
+    Component.prototype.svg_text = function(diagram, text, x, y, alignment, font, fill) {
         var a = aOrient[this.coords[2] * 9 + alignment];
-        diagram.c.textAlign = textAlign[a];
-        diagram.c.textBaseline = textBaseline[a];
-        if (fill === undefined) diagram.c.fillStyle = this.selected ? diagram.selected_style : (colors_rgb[this.properties.color] || (diagram.show_grid ? diagram.component_style : 'rgb(0,0,0)'));
-        else diagram.c.fillStyle = fill;
-        diagram.draw_text(text,
-                          this.transform_x(x, y) + this.coords[0],
-                          this.transform_y(x, y) + this.coords[1],
-                          font);
+
+        if (fill === undefined) fill = this.selected ? diagram.selected_style : (colors_rgb[this.properties.color] || (diagram.show_grid ? diagram.component_style : 'rgb(0,0,0)'));
+
+        var attrs = {fill: fill};
+        if (font) attrs.style = 'font: ' + font;
+        return jade.utils.svg_text(text,
+                                   this.transform_x(x,y) + this.coords[0], this.transform_y(x,y) + this.coords[1],
+                                   textAlign[a], textBaseline[a], attrs);
     };
 
-    Component.prototype.draw_text_important = function(diagram, text, x, y, alignment, font, fill) {
-        var a = aOrient[this.coords[2] * 9 + alignment];
-        diagram.c.textAlign = textAlign[a];
-        diagram.c.textBaseline = textBaseline[a];
-        if (fill === undefined) diagram.c.fillStyle = this.selected ? diagram.selected_style : diagram.normal_style;
-        else diagram.c.fillStyle = fill;
-        diagram.draw_text_important(text,
-                                    this.transform_x(x, y) + this.coords[0],
-                                    this.transform_y(x, y) + this.coords[1],
-                                    font);
-    };
-
-    Component.prototype.draw = function(diagram) {
+    Component.prototype.svg = function(diagram) {
         // see if icon has been defined recently...
         if (this.icon === undefined) this.compute_bbox();
+
+        // build container element
+        var attrs = {
+            stroke: 'black',
+            'stroke-width': '1',
+            fill: 'black'
+        };
+        var svg = jade.utils.make_svg('g',attrs);
 
         if (this.icon && !this.icon.empty()) {
             var component = this; // for closure
             this.icon.map_over_components(function(c) {
-                c.draw_icon(component, diagram);
+                var s = c.svg_icon(component, diagram);
+                if (s) svg.appendChild(s);
             });
         } else {
             // user didn't supply an icon, so fake a stand-in
-            this.draw_text_important(diagram, this.type(), 0, 0, 4, diagram.annotation_font);
-            this.draw_line(diagram,-16,-16,16,-16,1);
-            this.draw_line(diagram,16,-16,16,16,1);
-            this.draw_line(diagram,16,16,-16,16,1);
-            this.draw_line(diagram,-16,16,-16,-16,1);
+            svg.setAttribute('transform','translate('+this.coords[0].toString()+' '+this.coords[1].toString()+')');
+            svg.appendChild(jade.utils.svg_text(this.type(),0,0,'center','middle',{font: diagram.annotation_font}));
+            svg.appendChild(jade.utils.make_svg('path',{d: 'M -16 -16 l 32 0 l 0 32 l -32 0 Z', fill: 'none'}));
         }
-    };
 
+        return svg;
+    };
+    
     // does mouse click fall on this component?
     Component.prototype.near = function(x, y) {
         return this.inside(x, y);
@@ -1306,16 +1280,10 @@ jade_defs.model = function (jade) {
         return this.x == x && this.y == y;
     };
 
-    ConnectionPoint.prototype.draw = function(diagram, n) {
-        if (n != 2) this.parent.draw_circle(diagram, this.offset_x, this.offset_y,
-                                            connection_point_radius, n > 2);
-    };
-
-    ConnectionPoint.prototype.draw_x = function(diagram) {
-        this.parent.draw_line(diagram, this.offset_x - 2, this.offset_y - 2,
-                              this.offset_x + 2, this.offset_y + 2, diagram.grid_style);
-        this.parent.draw_line(diagram, this.offset_x + 2, this.offset_y - 2,
-                              this.offset_x - 2, this.offset_y + 2, diagram.grid_style);
+    ConnectionPoint.prototype.svg = function(diagram, n) {
+        if (n == 2) return undefined;
+        return this.parent.svg_circle(diagram, this.offset_x, this.offset_y,
+                                      connection_point_radius, n > 2);
     };
 
     // see if three connection points are collinear
@@ -1350,6 +1318,8 @@ jade_defs.model = function (jade) {
         built_in_components: built_in_components,
         canonicalize: canonicalize,
         aOrient: aOrient,
+        textAlign: textAlign,
+        textBaseline: textBaseline,
         ConnectionPoint: ConnectionPoint,
         connection_point_radius: connection_point_radius
     };

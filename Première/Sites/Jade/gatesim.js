@@ -1326,7 +1326,7 @@ jade_defs.gatesim = function(jade) {
 
         // 9/11/14 SAW: DREG terminal names seem to be upper case, fixed refs here:
         this.d = connections.d;
-        this.clk = (type == 'dreg') ? connections.clk : connections.g;
+        this.clk = (type == 'dreg') ? connections.clk : (type == 'dlatch') ? connections.g : connections.gn;
         this.q = connections.q;
 
         this.d.add_fanout(this);
@@ -1341,7 +1341,7 @@ jade_defs.gatesim = function(jade) {
 
         this.properties = properties;
         // by default storage devices aren't lenient
-        this.lenient = (properties.lenient === undefined) ? false : properties.lenient !== 0;
+        this.lenient = (properties.lenient === undefined) ? true : properties.lenient !== 0;
         this.cout = properties.cout || 0;
         this.cin = properties.cin || 0;
         this.tcd = properties.tcd || 0;
@@ -1644,7 +1644,8 @@ jade_defs.gatesim = function(jade) {
                 if (word === undefined) {
                     continue;
                 }
-                for (var j = 0; j < this.width; j += 1, word >>= 1)
+                // N.B. the >> operator doesn't work on quantities larger than 32 bits
+                for (var j = 0; j < this.width; j += 1, word /= 2)
                     this.bits[i*this.width + j] = word & 1;
             }
         }

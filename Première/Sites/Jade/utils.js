@@ -1,4 +1,4 @@
-// Copyright (C) 2011-2015 Massachusetts Institute of Technology
+// Copyright (C) 2011-2017 Massachusetts Institute of Technology
 // Chris Terman
 
 jade_defs.utils = function (jade) {
@@ -658,6 +658,96 @@ jade_defs.utils = function (jade) {
 
     ///////////////////////////////////////////////////////////////////////////////
     //
+    // svg
+    //
+    //////////////////////////////////////////////////////////////////////////////
+
+    function make_svg(tag,attrs) {
+        var el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+        if (attrs) {
+            for (var k in attrs) el.setAttribute(k, attrs[k]);
+        }
+        return el;
+    }
+
+    // draw arc from [x1,y1] to [x2,y2] passing through [x3,y3]
+    function svg_arc(x1, y1, x2, y2, x3, y3, attrs) {
+        // make second two points relative to x,y
+        var bx = x2 - x1;
+        var by = y2 - y1;
+        var cx = x3 - x1;
+        var cy = y3 - y1;
+
+        // compute center of circumscribed circle
+        // http://en.wikipedia.org/wiki/Circumscribed_circle
+        var D = 2 * (bx * cy - by * cx);
+        if (D === 0) { // oops, it's just a line
+            return make_svg('line',{x1:x1, y1:y1, x2:x2, y2:y2});
+        }
+        var bsquare = bx * bx + by * by;
+        var csquare = cx * cx + cy * cy;
+        var ux = (cy * bsquare - by * csquare) / D;
+        var uy = (bx * csquare - cx * bsquare) / D;
+        var r = Math.sqrt((bx-ux)*(bx-ux) + (by-uy)*(by-uy)); // radius
+
+        // compute start and end angles relative to circle's center.
+        // remember that y axis is positive *down* the page;
+        // canvas arc angle measurements: 0 = x-axis, then clockwise from there
+        ux += x1;
+        uy += y1;
+        var start_angle = Math.atan2(uy-y1,x1-ux);
+        if (start_angle < 0) start_angle += 2*Math.PI;
+        var end_angle = Math.atan2(uy-y2,x2-ux);
+        if (end_angle < 0) end_angle += 2*Math.PI;
+        var middle_angle = Math.atan2(uy-y3,x3-ux);
+        if (middle_angle < 0) middle_angle += 2*Math.PI;
+
+        var angle1 = middle_angle - start_angle;   // end angle relative to start
+        if (angle1 < 0) angle1 += 2*Math.PI;
+        var angle2 = end_angle - start_angle;      // middle angle relative to start
+        if (angle2 < 0) angle2 += 2*Math.PI;
+
+        var flags;
+        if (angle1 > angle2) {
+            // going clockwise we get to end point before middle point,
+            // so go the other way (sweep = 1)
+            flags = ((2*Math.PI - angle2) > Math.PI) ? '1 1 ': '0 1 ';
+        } else {
+            // going clockwise we get to middle point before end point,
+            // so all is good (sweep = 0)
+            flags = (angle2 > Math.PI) ? '1 0 ' : '0 0 ';
+        }
+
+        //console.log(JSON.stringify([x1,y1,x2,y2,x3,y3,ux+x1,uy+y1,r,start_angle,end_angle,middle_angle]));
+
+        var path = "M " + x1.toString() + " " + y1.toString();
+        path += " A " + r.toString() + " " + r.toString() + " 0 ";  // rx, ry, x-axis-rotation
+        path += flags + x2.toString() + " " + y2.toString();   // large_arc, sweep, dx,dy
+
+        if (attrs === undefined) attrs = {};
+        attrs.d = path;
+        attrs.fill = 'none';
+        return make_svg('path',attrs);
+    };
+
+    // text positioned such that x,y falls at requested horizontal and vertical alignment
+    function svg_text(s,x,y,horizontal,vertical,attrs) {
+        if (attrs === undefined) attrs = {};
+        attrs.x = x;
+        attrs.y = y;
+        attrs.stroke = 'none';
+        if (horizontal)
+            attrs['text-anchor'] = {left: 'start', center: 'middle', right: 'end'}[horizontal];
+        if (vertical)
+            attrs.dy = {top: '0.9em', middle: '0.4em', bottom: '-0.1em'}[vertical];
+
+        var svg = make_svg('text',attrs);
+        svg.textContent = s;
+        return svg;
+    };
+
+    ///////////////////////////////////////////////////////////////////////////////
+    //
     // Module exports
     //
     //////////////////////////////////////////////////////////////////////////////
@@ -672,8 +762,10 @@ jade_defs.utils = function (jade) {
         parse_source: parse_source,
         parse_signal: parse_signal,
         signal_equals: signal_equals,
-        md5: md5
+        md5: md5,
+        make_svg: make_svg,
+        svg_arc: svg_arc,
+        svg_text: svg_text
     };
 
 };
-

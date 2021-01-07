@@ -1,4 +1,4 @@
-// Copyright (C) 2011-2016 Massachusetts Institute of Technology
+// Copyright (C) 2011-2017 Massachusetts Institute of Technology
 // Chris Terman
 
 // pollute the global namespace with a single variable
@@ -34,7 +34,7 @@ jade_defs.jade = function() {
 
 jade_defs.top_level = function(jade) {
 
-    var version = "Jade 2.2.54 (2016 \u00A9 MIT EECS)";
+    var version = "Jade 2.3.17 (2020 \u00A9 MIT EECS)";
 
     var about_msg = version +
             "<p>Chris Terman wrote the schematic entry, testing and gate-level simulation tools." +
@@ -85,7 +85,8 @@ jade_defs.top_level = function(jade) {
         this.module_tools.append(this.module_tool(jade.icons.delete_module_icon,'delete-module','Delete current module',delete_module,'hierarchy-tool'));
         this.module_tools.append(this.module_tool(jade.icons.download_icon,'download-modules','Save modules to module clipboard',download_modules));
         this.module_tools.append(this.module_tool(jade.icons.upload_icon,'upload-modules','Select modules to load from module clipboard',upload_modules));
-        this.module_tools.append(this.module_tool(jade.icons.recycle_icon,'start-over','Discard all work on this problem and start over',start_over));
+        // too dangerous!
+        // this.module_tools.append(this.module_tool(jade.icons.recycle_icon,'start-over','Discard all work on this problem and start over',start_over));
         if (jade.cloud_upload) {
             this.module_tools.append(this.module_tool(jade.icons.cloud_upload_icon,'cloud-upload','Upload designs to the cloud',jade.cloud_upload));
         }
@@ -113,7 +114,7 @@ jade_defs.top_level = function(jade) {
         this.selected_tab = undefined;
 
         // add status line at the bottom
-        this.status.text('Copyright \u00A9 MIT EECS 2011-2015');
+        this.status.text('Copyright \u00A9 MIT EECS 2011, 2020');
 
         // set up handler to resize jade
         var me = this;
@@ -153,11 +154,12 @@ jade_defs.top_level = function(jade) {
             // we're full screen, so resize when window resizes
             $(window).on('resize',function() {
                 var body = $('body');
-                // 8, 12 are fudge factors to avoid scrollbars...
-                var win_w = $(window).width() - (body.outerWidth(true) - body.width()) - 8;
-                var win_h = $(window).height() - (body.outerHeight(true) - body.height()) - 12;
+                body.css('overflow','hidden');   // avoid scrollbars
+                var win_w = $(window).width() - (body.outerWidth(true) - body.width());
+                var win_h = $(window).height() - (body.outerHeight(true) - body.height());
                 me.resize(win_w,win_h);
             });
+            $(window).trigger('resize');  // initial sizing
         }
     }
 
@@ -275,6 +277,24 @@ jade_defs.top_level = function(jade) {
             this.resize($(this.parent).width(),$(this.parent).height());
         else $(window).trigger('resize');  // let editors know their size
 
+        // start by loading shared modules from the server
+        if (this.configuration.shared_modules) {
+            $.each(this.configuration.shared_modules, function (index,filename) {
+                console.log('sync loading '+filename);
+                $.ajax(filename,{
+                    dataType: 'json',
+                    async: false,
+                    error: function(jqXHR,textStatus,errorThrown) {
+                        console.log('oops, error loading '+filename);
+                    },
+                    success: function(data,jqXHR,textStatus,errorThrown) {
+                        jade.model.load_json(data,true);
+                        console.log('finished sync loading '+filename);
+                    }
+                });
+            });
+        }
+
         // load state (dictionary of module_name:json).  Start with initial_state
         // then overwrite with user's state
         if (this.configuration.initial_state) {
@@ -325,31 +345,6 @@ jade_defs.top_level = function(jade) {
             if (this.selected_tab !== undefined) mark += '.' + this.selected_tab;
         }
     };
-
-    /*
-    Jade.prototype.load_library = function(json) {
-        if (this.id === undefined) return;
-
-        // create a library for this particular instance, initialize from div body
-        json = $.trim(json);
-        if (json.length == 0) json = '{}';
-
-        // replace an existing library with the one we're loading!
-        // prevent load from marking state as dirty
-        new Library(this.id,JSON.parse(json));
-
-        // update current module to the one in the new library!
-        if (this.module)
-            this.module = find_module(this.module.get_name());
-
-        this.refresh();   // update all the editors since library changed
-    };
-
-    Jade.prototype.save_library = function() {
-        if (this.id === undefined || libraries[this.id] === undefined) return '{}';
-        return JSON.stringify(libraries[this.id].json());
-    };
-     */
 
     Jade.prototype.edit = function(module) {
         if (typeof module == 'string') module = jade.model.find_module(module);
@@ -639,71 +634,6 @@ jade_defs.top_level = function(jade) {
                restart,offset);
     }
 
-    /*
-    function copy_library(diagram) {
-        var j = diagram.editor.jade;
-        var offset = j.settings.offset();
-        j.settings.toggle();   // all done with settings pop-up
-        
-        var content = $('<div style="margin:10px;"><div id="msg" style="display:none;color:red;margin-bottom:10px;"></div></div>');
-        content.append('New library name:');
-        var input = build_input('text',10,'library');
-        $(input).css('vertical-align','middle');
-        content.append(input);
-
-        function copy() {
-            var lib = $(input).val();
-
-            function try_again(msg) {
-                $('#msg',content).text(msg);
-                $('#msg',content).show();
-                dialog('Copy Library',content,copy,offset);
-            }
-
-            // load/make the requested library
-            lib = jade.model.load_library(lib);
-
-            if (Object.keys(lib.modules).length != 0 || lib.read_only) {
-                try_again('Library already exists: '+lib.name);
-                return;
-            }
-
-            // grab json representation of current library
-            var module = diagram.aspect.module;
-            var json = module.library.json();
-
-            // update instances of lib's modules to instances
-            // of the module in the new library.
-            // iterate through each module in library
-            var cur_lib_name = module.library.name;
-            var new_lib_name = lib.name;
-            $.each(json,function (mname,mod) {
-                if (mod.schematic) {
-                    // iterate through each schematic component
-                    $.each(mod.schematic,function (index,component) {
-                        // if component is an instance of a module in the current
-                        // library, update it to be an instance of the same
-                        // module in the new library
-                        var type = component[0].split(':');
-                        if (type.length == 2 && type[0] == cur_lib_name)
-                            component[0] = new_lib_name + ':' + type[1];
-                    });
-                }
-            });
-
-            // now load updated json into new library
-            lib.load(json);
-            jade.save_to_server(lib);   // save new library to server
-
-            // find current module in new library and edit that!
-            module = lib.module(module.name);
-            j.edit(module.get_name());
-        }
-
-        dialog('Copy Library',content,copy,offset);
-    }
-     */
-
     //////////////////////////////////////////////////////////////////////
     //
     // Diagram editor base class
@@ -715,23 +645,10 @@ jade_defs.top_level = function(jade) {
         this.aspect = undefined;
 
         // setup canas
-        this.canvas = $('<canvas></canvas>').addClass(class_name)[0];
-
-        // handle retina devices properly
-        var context = this.canvas.getContext('2d');
-        var devicePixelRatio = window.devicePixelRatio || 1;
-        var backingStoreRatio = context.webkitBackingStorePixelRatio ||
-            context.mozBackingStorePixelRatio ||
-            context.msBackingStorePixelRatio ||
-            context.oBackingStorePixelRatio ||
-            context.backingStorePixelRatio || 1;
-        this.pixelRatio = 1; //devicePixelRatio / backingStoreRatio;
-
-        this.sctl_r = 16; // scrolling control parameters
-        this.sctl_x = this.sctl_r + 8; // upper left
-        this.sctl_y = this.sctl_r + 8;
-        this.zctl_left = this.sctl_x - 8;
-        this.zctl_top = this.sctl_y + this.sctl_r + 8;
+        this.canvas = $('<div><svg></svg></div>').addClass(class_name)[0]
+        ;
+        this.canvas.diagram = this;
+        this.svg = this.canvas.children.item(0);
 
         // ethanschoonover.com
         this.background_style = 'rgb(250,250,250)'; // backgrund color for diagram [base3]
@@ -745,13 +662,47 @@ jade_defs.top_level = function(jade) {
         this.property_font = '5pt sans-serif'; // point size for Component property text
         this.annotation_font = '6pt sans-serif'; // point size for diagram annotations
 
-        // repaint simply draws this buffer and then adds selected elements on top
-        this.bg_image = $('<canvas></canvas>')[0];
-        this.bg_image.getContext('2d').scale(this.pixelRatio,this.pixelRatio);
+        // grid in the background
+        this.svg_grid = jade.utils.make_svg('g',{
+            id: 'grid',
+            stroke: this.grid_style,
+            'stroke-width': 0.2,
+            fill: 'none'
+        });
+        this.svg.appendChild(this.svg_grid);
+
+        // then static content
+        this.svg_content = jade.utils.make_svg('g',{
+            id: 'content',
+            stroke: this.normal_style,
+            'stroke-width': 1,
+            'stroke-linecap': 'round',
+            fill: 'none'
+        });
+        this.svg.appendChild(this.svg_content);
+
+        // then selected content
+        this.svg_selected = jade.utils.make_svg('g',{
+            id: 'selected',
+            stroke: this.selected_style,
+            'stroke-width': 1,
+            'stroke-linecap': 'round',
+            fill: 'none'
+        });
+        this.svg.appendChild(this.svg_selected);
+        
+        // scrolling controls on top
+        this.svg.appendChild(this.svg_controls(24,24));
+
+        // module name
+        this.svg_module_name = jade.utils.svg_text('',4,4,'left','bottom',{
+            style: 'font: 12pt sans-serif',
+            fill: this.normal_style,
+            stroke: 'none'
+        });
+        this.svg.appendChild(this.svg_module_name);
 
         this.canvas.tabIndex = 1; // so we get keystrokes
-
-        this.canvas.diagram = this;
 
         // initial state
         this.dragging = false;
@@ -761,6 +712,7 @@ jade_defs.top_level = function(jade) {
 
         this.origin_x = 0;
         this.origin_y = 0;
+        this.scale = 1;
         this.cursor_x = 0;
         this.cursor_y = 0;
         this.unsel_bbox = [Infinity, Infinity, - Infinity, - Infinity];
@@ -842,8 +794,8 @@ jade_defs.top_level = function(jade) {
 
         if (nscale > this.zoom_min) {
             // keep center of view unchanged
-            this.origin_x += (this.canvas.width / 2) * (1.0 / this.scale - 1.0 / nscale);
-            this.origin_y += (this.canvas.height / 2) * (1.0 / this.scale - 1.0 / nscale);
+            this.origin_x += ($(this.canvas).width() / 2) * (1.0 / this.scale - 1.0 / nscale);
+            this.origin_y += ($(this.canvas).height() / 2) * (1.0 / this.scale - 1.0 / nscale);
             this.scale = nscale;
             this.redraw_background();
         }
@@ -857,8 +809,8 @@ jade_defs.top_level = function(jade) {
         if (diagram_w === 0) this.scale = 1;
         else {
             // compute scales that would make diagram fit, choose smallest
-            var scale_x = this.canvas.width / diagram_w;
-            var scale_y = this.canvas.height / diagram_h;
+            var scale_x = $(this.canvas).width() / diagram_w;
+            var scale_y = $(this.canvas).height() / diagram_h;
             this.scale = Math.pow(this.zoom_factor,
                                   Math.ceil(Math.log(Math.min(scale_x, scale_y)) / Math.log(this.zoom_factor)));
             if (this.scale < this.zoom_min) this.scale = this.zoom_min;
@@ -866,14 +818,15 @@ jade_defs.top_level = function(jade) {
         }
 
         // center the diagram
-        this.origin_x = (this.bbox[2] + this.bbox[0]) / 2 - this.canvas.width / (2 * this.scale);
-        this.origin_y = (this.bbox[3] + this.bbox[1]) / 2 - this.canvas.height / (2 * this.scale);
+        this.origin_x = (this.bbox[2] + this.bbox[0]) / 2 - $(this.canvas).width() / (2 * this.scale);
+        this.origin_y = (this.bbox[3] + this.bbox[1]) / 2 - $(this.canvas).height() / (2 * this.scale);
 
         this.redraw_background();
     };
 
     function diagram_toggle_grid(diagram) {
         diagram.show_grid = !diagram.show_grid;
+        $(diagram.canvas).css('background-color',diagram.show_grid ? diagram.background_style : 'white');
         diagram.redraw_background();
     }
 
@@ -977,7 +930,7 @@ jade_defs.top_level = function(jade) {
         else return Math.floor((v + (grid >> 1)) / grid) * grid;
     };
 
-    // rotate selection about center of its bounding box
+   // rotate selection about center of its bounding box
     Diagram.prototype.rotate = function(rotation) {
         var bbox = this.aspect.selected_bbox();
         var grid = this.aspect.selected_grid();
@@ -1032,18 +985,16 @@ jade_defs.top_level = function(jade) {
         diagram.rotate(3);
     }
 
-    Diagram.prototype.resize = function() {
-        var w = parseFloat($(this.canvas).css('width'));
-        var h = parseFloat($(this.canvas).css('height'));
+    Diagram.prototype.resize = function(tw,th) {
+        if (tw === undefined) {
+            var c = $(this.canvas);
+            tw = c.width();
+            th = c.height();
+        }
 
-        this.canvas.width = w*this.pixelRatio;
-        this.canvas.height = h*this.pixelRatio;
-        // after changing dimension, have to reset context 
-        this.canvas.getContext('2d').scale(this.pixelRatio,this.pixelRatio);
-
-        this.bg_image.width = w*this.pixelRatio;
-        this.bg_image.height = h*this.pixelRatio;
-        this.bg_image.getContext('2d').scale(this.pixelRatio,this.pixelRatio);
+        this.svg.setAttribute('viewbox','0 0 '+ tw + ' ' + th);
+        $(this.svg).width(tw);
+        $(this.svg).height(th);
 
         this.zoomall();
     };
@@ -1057,98 +1008,94 @@ jade_defs.top_level = function(jade) {
     // here to redraw background image containing static portions of the diagram
     // Also redraws dynamic portion.
     Diagram.prototype.redraw_background = function() {
-        var c = this.bg_image.getContext('2d');
-        this.c = c;
-
-        c.lineCap = 'round';
-
-        // paint background color -- use color from style sheet
-        c.fillStyle = this.show_grid ? this.background_style : 'white';
-        c.fillRect(0, 0, this.bg_image.width, this.bg_image.height);
-
-        if (!this.diagram_only && this.show_grid) {
-            // grid
-            c.strokeStyle = this.grid_style;
-            var first_x = this.origin_x;
-            var last_x = first_x + this.bg_image.width / this.scale;
-            var first_y = this.origin_y;
-            var last_y = first_y + this.bg_image.height / this.scale;
-            var i;
-
-            for (i = this.grid * Math.ceil(first_x / this.grid); i < last_x; i += this.grid) {
-                this.draw_line(i, first_y, i, last_y, 0.2);
-            }
-
-            for (i = this.grid * Math.ceil(first_y / this.grid); i < last_y; i += this.grid) {
-                this.draw_line(first_x, i, last_x, i, 0.2);
-            }
-
-            // indicate origin
-            this.draw_arc(0, 0, this.grid / 2, 0, 2 * Math.PI, false, 0.2, false);
-        }
-
         // unselected components
         this.unsel_bbox = this.aspect.unselected_bbox();
 
+        // set up offset and scale
+        var transform = 'translate(' +
+                (-this.origin_x*this.scale).toString() + ' ' +
+                (-this.origin_y*this.scale).toString() + ')' +
+                ' scale(' + this.scale.toString() + ')';
+        this.svg_grid.setAttribute('transform',transform);
+        this.svg_content.setAttribute('transform',transform);
+        this.svg_selected.setAttribute('transform',transform);
+
+        // grid
+        $(this.svg_grid).empty();   // start with a clean slate
+        if (!this.diagram_only && this.show_grid) {
+            var first_x = this.origin_x;
+            var last_x = first_x + $(this.canvas).width() / this.scale;
+            var first_y = this.origin_y;
+            var last_y = first_y + $(this.canvas).height() / this.scale;
+            var i;
+
+            for (i = this.grid * Math.ceil(first_x / this.grid); i < last_x; i += this.grid) {
+                this.svg_grid.appendChild(jade.utils.make_svg('line',{x1:i, y1:first_y, x2:i, y2:last_y}));
+            }
+
+            for (i = this.grid * Math.ceil(first_y / this.grid); i < last_y; i += this.grid) {
+                this.svg_grid.appendChild(jade.utils.make_svg('line',{x1:first_x, y1:i, x2:last_x, y2:i}));
+            }
+
+            // indicate origin
+            this.svg_grid.appendChild(jade.utils.make_svg('circle',{cx:0, cy:0, r: this.grid/2}));
+        }
+
+
+        // draw unselected components
+        $(this.svg_content).empty();   // start with a clean slate
         var diagram = this; // for closure below
         this.aspect.map_over_components(function(c) {
-            if (!c.selected) c.draw(diagram);
+            if (c.selected) return;
+            var s = c.svg(diagram);
+            if (s) diagram.svg_content.appendChild(s);
         });
 
         // show name of module in lower right corner
-        if (this.aspect && this.aspect.module) {
-            var name = this.aspect.module.get_name();
-            //if (this.aspect.read_only()) name += ' (read only)';
-            c.textAlign = 'left';
-            c.textBaseline = 'bottom';
-            c.font = '12pt sans-serif';
-            c.fillStyle = this.normal_style;
-            c.fillText(name, 2, this.canvas.height - 2);
-        }
+        var name = '';
+        if (this.aspect && this.aspect.module) name = this.aspect.module.get_name();
+        this.svg_module_name.textContent = name;
+        this.svg_module_name.setAttribute('y',$(this.canvas).height() - 4);
 
         this.redraw(); // background changed, redraw on screen
     };
 
     // redraw what user sees = static image + dynamic parts
     Diagram.prototype.redraw = function() {
-        var c = this.canvas.getContext('2d');
-        this.c = c;
-
-        c.lineCap = 'round';
-
-        // put static image in the background.  Make sure we don't scale twice!
-        c.drawImage(this.bg_image, 0, 0, this.bg_image.width/this.pixelRatio, this.bg_image.height/this.pixelRatio);
-
         // selected components
         this.bbox = this.aspect.selected_bbox(this.unsel_bbox);
         if (this.bbox[0] == Infinity) this.bbox = [0, 0, 0, 0];
 
+        // draw selected components
+        $(this.svg_selected).empty();   // start with a clean slate
         var diagram = this; // for closure below
         this.aspect.map_over_components(function(c) {
-            if (c.selected) c.draw(diagram);
+            if (!c.selected) return;
+            var s = c.svg(diagram);
+            if (s) diagram.svg_selected.appendChild(s);
         });
 
         // connection points: draw one at each location
+        var s;
         for (var location in this.aspect.connection_points) {
             var cplist = this.aspect.connection_points[location];
-            cplist[0].draw(this, cplist.length);
+            s = cplist[0].svg(this, cplist.length);
+            if (s) this.svg_selected.appendChild(s);
         }
 
         // draw editor-specific dodads, enable appropriate tools
-        this.editor.redraw(this);
+        s = this.editor.redraw(this);
+        if (s) this.svg_selected.appendChild(s);
 
         // draw selection rectangle
         if (this.select_rect) {
             var t = this.select_rect;
-            c.lineWidth = 1;
-            c.strokeStyle = this.selected_style;
-            c.beginPath();
-            c.moveTo(t[0], t[1]);
-            c.lineTo(t[0], t[3]);
-            c.lineTo(t[2], t[3]);
-            c.lineTo(t[2], t[1]);
-            c.lineTo(t[0], t[1]);
-            c.stroke();
+            var path = "M "+ t[0].toString() + " " + t[1].toString();
+            path += " L "+ t[2].toString() + " " + t[1].toString();
+            path += " L "+ t[2].toString() + " " + t[3].toString();
+            path += " L "+ t[0].toString() + " " + t[3].toString();
+            path += " Z";
+            this.svg_selected.appendChild(jade.utils.make_svg('path',{d: path}));
         }
 
         // add any annotations
@@ -1156,140 +1103,46 @@ jade_defs.top_level = function(jade) {
             // annotations are callbacks that get a chance to do their thing
             this.annotations[i](this);
         }
-
-        // add scrolling/zooming control
-        var r = this.sctl_r;
-        var x = this.sctl_x;
-        var y = this.sctl_y;
-
-        // circle with border
-        c.fillStyle = this.background_style;
-        c.beginPath();
-        c.arc(x, y, r, 0, 2 * Math.PI);
-        c.fill();
-
-        c.strokeStyle = this.control_style;
-        c.lineWidth = 0.5;
-        c.beginPath();
-        c.arc(x, y, r, 0, 2 * Math.PI);
-        c.stroke();
-
-        // direction markers for scroll
-        c.lineWidth = 3;
-        c.beginPath();
-
-        c.moveTo(x + 4, y - r + 8); // north
-        c.lineTo(x, y - r + 4);
-        c.lineTo(x - 4, y - r + 8);
-
-        c.moveTo(x + r - 8, y + 4); // east
-        c.lineTo(x + r - 4, y);
-        c.lineTo(x + r - 8, y - 4);
-
-        c.moveTo(x + 4, y + r - 8); // south
-        c.lineTo(x, y + r - 4);
-        c.lineTo(x - 4, y + r - 8);
-
-        c.moveTo(x - r + 8, y + 4); // west
-        c.lineTo(x - r + 4, y);
-        c.lineTo(x - r + 8, y - 4);
-
-        c.stroke();
-
-        // zoom control
-        x = this.zctl_left;
-        y = this.zctl_top;
-        c.lineWidth = 0.5;
-        c.fillStyle = this.background_style; // background
-        c.fillRect(x, y, 16, 48);
-        c.strokeStyle = this.control_style; // border
-        c.strokeRect(x, y, 16, 48);
-        c.lineWidth = 1.0;
-        c.beginPath();
-        // zoom in label
-        c.moveTo(x + 4, y + 8);
-        c.lineTo(x + 12, y + 8);
-        c.moveTo(x + 8, y + 4);
-        c.lineTo(x + 8, y + 12);
-        // zoom out label
-        c.moveTo(x + 4, y + 24);
-        c.lineTo(x + 12, y + 24);
-        c.stroke();
-        // surround label
-        c.strokeRect(x + 4, y + 36, 8, 8);
-        c.fillStyle = this.background_style;
-        c.fillRect(x + 7, y + 34, 2, 10);
-        c.fillRect(x + 3, y + 39, 10, 2);
     };
 
-    Diagram.prototype.moveTo = function(x, y) {
-        var xx = Math.floor((x - this.origin_x) * this.scale);
-        var yy = Math.floor((y - this.origin_y) * this.scale);
-        if ((this.c.lineWidth & 1) == 1) {
-            // odd line width, offset to avoid fuzziness
-            xx += 0.5;
-            yy += 0.5;
-        }
-        this.c.moveTo(xx,yy);
+    Diagram.prototype.svg_controls = function(x,y) {
+        var svg = jade.utils.make_svg('g',{
+            id: 'controls',
+            transform: 'translate(' + x.toString() + ' ' + y.toString() +')',
+            stroke: this.control_style,
+            'stroke-width': 0.5,
+            fill: 'none'
+        });
+        this.sctl_x = x;
+        this.sctl_y = y;
+        this.sctl_r = 16;
+        this.zctl_left = x - 8;
+        this.zctl_top = y + 24;
+
+        // scrolling
+        svg.appendChild(jade.utils.make_svg('circle',{x: 0, y: 0, r: this.sctl_r,
+                                                      fill: this.background_style}));
+        
+        // direction markers
+        svg.appendChild(jade.utils.make_svg('path',{d: "M 4 -8 l -4 -4 l -4 4", 'stroke-width': 3}));  // north
+        svg.appendChild(jade.utils.make_svg('path',{d: "M 8 4 l 4 -4 l -4 -4", 'stroke-width': 3}));  // east
+        svg.appendChild(jade.utils.make_svg('path',{d: "M 4 8 l -4 4 l -4 -4", 'stroke-width': 3}));  // south
+        svg.appendChild(jade.utils.make_svg('path',{d: "M -8 4 l -4 -4 l 4 -4", 'stroke-width': 3}));  // west
+
+        // zoom controls
+        svg.appendChild(jade.utils.make_svg('path',{d: "M -8 24 l 16 0 l 0 48 l -16 0 Z", fill: this.background_style}));
+        svg.appendChild(jade.utils.make_svg('path',{d: "M -4 32 l 8 0 m -4 -4 l 0 8", 'stroke-width': 1}));  // zoom in
+        svg.appendChild(jade.utils.make_svg('path',{d: "M -4 48 l 8 0", 'stroke-width': 1}));  // zoom out
+        svg.appendChild(jade.utils.make_svg('path',{d: "M -4 60 l 3 0 m 2 0 l 3 0 l 0 3 m 0 2 l 0 3 l -3 0 m -2 0 l -3 0 l 0 -3 m 0 -2 l 0 -3", 'stroke-width': 1}));  // surround
+
+        return svg;
     };
 
-    Diagram.prototype.lineTo = function(x, y) {
-        var xx = Math.floor((x - this.origin_x) * this.scale);
-        var yy = Math.floor((y - this.origin_y) * this.scale);
-        if ((this.c.lineWidth & 1) == 1) {
-            // odd line width, offset to avoid fuzziness
-            xx += 0.5;
-            yy += 0.5;
-        }
-        this.c.lineTo(xx,yy);
-    };
-
-    Diagram.prototype.line_width = function(width) {
-        // integer line widths help us avoid the horrors of antialiasing on H and V lines
-        return Math.max(1,Math.floor(width * this.scale));
-    };
-
-    Diagram.prototype.draw_line = function(x1, y1, x2, y2, width) {
-        var c = this.c;
-        c.lineWidth = this.line_width(width);
-        c.beginPath();
-        this.moveTo(x1,y1);
-        this.lineTo(x2,y2);
-        c.stroke();
-    };
-
-    Diagram.prototype.draw_arc = function(x, y, radius, start_radians, end_radians, anticlockwise, width, filled) {
-        var c = this.c;
-        c.lineWidth = this.line_width(width);
-        c.beginPath();
-        var xx = Math.floor((x - this.origin_x) * this.scale);
-        var yy = Math.floor((y - this.origin_y) * this.scale);
-        if ((this.c.lineWidth & 1) == 1) {
-            // odd line width, offset to avoid fuzziness => match lines
-            xx += 0.5;
-            yy += 0.5;
-        }
-        c.arc(xx, yy, radius * this.scale, start_radians, end_radians, anticlockwise);
-        if (filled) c.fill();
-        else c.stroke();
-    };
-
-    Diagram.prototype.draw_text = function(text, x, y, font) {
-        var c = this.c;
-
-        // scale font size appropriately
-        var s = font.match(/\d+/)[0];
-        s = Math.max(2, Math.round(s * this.scale));
-        c.font = font.replace(/\d+/, s.toString());
-
-        var xx = Math.floor((x - this.origin_x) * this.scale);
-        var yy = Math.floor((y - this.origin_y) * this.scale);
-        c.fillText(text, xx, yy);
-    };
-
-    Diagram.prototype.draw_text_important = function(text, x, y, font) {
-        this.draw_text(text, x, y, font);
-    };
+    ///////////////////////////////////////////////////////////////////////////////
+    //
+    //  Event handling
+    //
+    ////////////////////////////////////////////////////////////////////////////////
 
     // convert event coordinates into
     //   mouse_x,mouse_y = coords relative to upper left of canvas
@@ -1304,12 +1157,6 @@ jade_defs.top_level = function(jade) {
         this.cursor_x = this.on_grid(this.aspect_x);
         this.cursor_y = this.on_grid(this.aspect_y);
     };
-
-    ///////////////////////////////////////////////////////////////////////////////
-    //
-    //  Event handling
-    //
-    ////////////////////////////////////////////////////////////////////////////////
 
     // process keystrokes, consuming those that are meaningful to us
     Diagram.prototype.key_down = function(event) {
@@ -1391,14 +1238,14 @@ jade_defs.top_level = function(jade) {
         if (sx * sx + sy * sy <= this.sctl_r * this.sctl_r) { // click in scrolling control
             // click on scrolling control, check which quadrant
             if (Math.abs(sy) > Math.abs(sx)) { // N or S
-                delta = this.canvas.height / (8 * this.scale);
+                delta = $(this.canvas).height() / (8 * this.scale);
                 if (sy > 0) delta = -delta;
                 temp = this.origin_y - delta;
                 if (temp > this.origin_min * this.grid && temp < this.origin_max * this.grid)
                     this.origin_y = temp;
             }
             else { // E or W
-                delta = this.canvas.width / (8 * this.scale);
+                delta = $(this.canvas).width() / (8 * this.scale);
                 if (sx < 0) delta = -delta;
                 temp = this.origin_x + delta;
                 if (temp > this.origin_min * this.grid && temp < this.origin_max * this.grid)
@@ -1445,8 +1292,8 @@ jade_defs.top_level = function(jade) {
             if (!reselect) this.unselect_all(which);
 
             // if there's nothing to drag, set up a selection rectangle
-            if (!this.dragging) this.select_rect = [this.mouse_x, this.mouse_y,
-                                                    this.mouse_x, this.mouse_y];
+            if (!this.dragging) this.select_rect = [this.aspect_x, this.aspect_y,
+                                                    this.aspect_x, this.aspect_y];
         } else if (!this.dragging) {
             // shift-click on background starts a pan
             this.panning = true;
@@ -1478,8 +1325,8 @@ jade_defs.top_level = function(jade) {
         }
         else if (this.select_rect) {
             // update moving corner of selection rectangle
-            this.select_rect[2] = this.mouse_x;
-            this.select_rect[3] = this.mouse_y;
+            this.select_rect[2] = this.aspect_x;
+            this.select_rect[3] = this.aspect_y;
         }
         else if (this.panning) {
             // see how far we moved
@@ -1520,8 +1367,8 @@ jade_defs.top_level = function(jade) {
             // in mouse_down handler
             if (r[0] != r[2] || r[1] != r[3]) {
                 // convert to diagram coordinates
-                var s = [r[0] / this.scale + this.origin_x, r[1] / this.scale + this.origin_y,
-                         r[2] / this.scale + this.origin_x, r[3] / this.scale + this.origin_y];
+                //var s = [r[0] / this.scale + this.origin_x, r[1] / this.scale + this.origin_y, r[2] / this.scale + this.origin_x, r[3] / this.scale + this.origin_y];
+                var s = [r[0],r[1],r[2],r[3]];
                 jade.model.canonicalize(s);
 
                 if (!shiftKey) this.unselect_all();
@@ -1715,7 +1562,7 @@ jade_defs.top_level = function(jade) {
 
     function jade_window(title, content, offset) {
         // create the div for the top level of the window
-        var win = $('<div class="jade-window">'+
+        var win = $('<div class="jade-window" style="max-width: '+ (window.innerWidth - 10) +'px; overflow: auto;">'+
                     ' <div class="jade-window-title">' + title + '<span style="float:right;cursor: pointer">'+jade.icons.close_icon + '</span></div>' + //'<img style="float: right"></img></div>' +
                     '</div>');
         win[0].content = content;

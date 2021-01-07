@@ -1,36 +1,38 @@
 # combo HTTP server (GETs) and key/value store (POSTs)
+# uses a json file to save user state
 
-import BaseHTTPServer
-import SocketServer
+try:
+    from BaseHTTPServer import BaseHTTPRequestHandler
+    import SocketServer as socketserver
+except:
+    # python 3 compatibility
+    from http.server import BaseHTTPRequestHandler
+    import socketserver
+
 import mimetypes
-import sqlite3
 import posixpath
 import shutil
 import os
 import cgi
+import json
+import atexit
+import urllib
 
-dbfile = 'modules.db'
+jsonfile = 'labs.json'
 PORT = 8000
 
-table = """create table if not exists key_value (
-  key text primary key,
-  val text
-);"""
-
-# connect to db storing (user,key,value) triples
-db = sqlite3.connect(dbfile)
-c = db.cursor()
-c.execute(table);   # initialize table if necessary
-
-class JadeRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
+class JadeRequestHandler(BaseHTTPRequestHandler):
     def log_message(self,format,*args):
+        #print format % args
         return
 
+    # serve up static files
     def do_GET(self):
         path = self.path
         path = path.split('?',1)[0]
         path = path.split('#',1)[0]
         path = path.replace('/','')
+        if path == '': path = 'index.html'
         ctype = self.guess_type(path)
         try:
             f = open(path, 'rb')
@@ -53,35 +55,46 @@ class JadeRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
 
     def do_POST(self):
         # determine key, value
-        ctype, pdict = cgi.parse_header(self.headers.getheader('content-type'))
+        ctype, pdict = cgi.parse_header(self.headers['content-type'])
+        postvars = {}
         if ctype == 'multipart/form-data':
-            postvars = cgi.parse_multipart(self.rfile, pdict)
+            for k,v in cgi.parse_multipart(self.rfile, pdict).items():
+                # python3 returns everything as bytes, so decode into strings
+                if type(k) == bytes: k = k.decode()
+                postvars[k] = [s.decode() if type(s) == bytes else s for s in v]
         elif ctype == 'application/x-www-form-urlencoded':
-            length = int(self.headers.getheader('content-length'))
-            postvars = cgi.parse_qs(self.rfile.read(length), keep_blank_values=1)
-        else:
-            postvars = {}
+            length = int(self.headers['content-length'])
+            content = self.rfile.read(length)
+            for k,v in cgi.parse_qs(content, keep_blank_values=1).items():
+                # python3 returns everything as bytes, so decode into strings
+                if type(k) == bytes: k = k.decode()
+                postvars[k] = [s.decode() if type(s) == bytes else s for s in v]
+
         key = postvars.get('key',[None])[0]
         value = postvars.get('value',[None])[0]
+        self.log_message('%s',json.dumps([key,value]))
+        
+        # read json file with user's state
+        with open(jsonfile,'r') as f:
+            labs = json.load(f)
 
         response = ''
         if value is None:
-            # return stored value
-            c.execute('select val from key_value where key=?;',(key,))
-            row = c.fetchone()
-            if row is not None:
-                response = row[0]
+            # send state for particular lab to user
+            response = labs.get(key,'{}')
+            response = response.encode('utf-8')
         else:
-            # update stored value
-            c.execute('insert or replace into key_value (key,val) values (?,?);',
-                      (key,value))
-            db.commit()
+            # update state for particular lab
+            response = value
+            labs[key] = value
+            with open(jsonfile,'w') as f:
+                json.dump(labs,f)
                                                         
         self.send_response(200)
         self.send_header("Content-type", 'text/plain')
         self.send_header("Content-Length", str(len(response)))
         self.end_headers()
-        self.wfile.write(response)
+        self.wfile.write(response.encode())
 
     def guess_type(self, path):
         base, ext = posixpath.splitext(path)
@@ -100,6 +113,14 @@ class JadeRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         '': 'application/octet-stream', # Default
     })
         
-httpd = SocketServer.TCPServer(("",PORT),JadeRequestHandler)
-print "Jade Server: port",PORT
+httpd = socketserver.TCPServer(("",PORT),JadeRequestHandler)
+
+def cleanup():
+  # free the socket
+  print("CLEANING UP!")
+  httpd.shutdown()
+  print("CLEANED UP")
+
+atexit.register(cleanup)
+print("Jade Server: port",PORT)
 httpd.serve_forever()
