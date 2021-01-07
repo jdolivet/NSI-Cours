@@ -1,0 +1,5 @@
+Il permet de construire des circuits logiques et d'en vérifier le fonctionnement : on vérifie que les signaux électriques correspondent à la table de vérité du composant.
+
+Avant de construire le circuit, il faut paramétrer les tests dans l'onglet test.
+
+Il faut préciser le mode dans lequel on souhaite utiliser le logiciel (device ou gate).

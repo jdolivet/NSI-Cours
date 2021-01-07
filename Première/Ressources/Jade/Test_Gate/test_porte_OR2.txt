@@ -1,0 +1,18 @@
+.power Vdd=1
+.thresholds Vol=0 Vil=0.1 Vih=0.9 Voh=1
+
+.group inputs A B
+.group outputs Z
+  
+.mode gate
+
+.cycle assert inputs tran 9n sample outputs tran 1n
+00 L
+01 H
+10 H
+11 H
+
+.plot A
+.plot B
+.plot Z
+

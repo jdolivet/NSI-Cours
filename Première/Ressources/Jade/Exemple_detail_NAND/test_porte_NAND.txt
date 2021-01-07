@@ -1,0 +1,38 @@
+// set up Vdd, establish signaling voltages 
+.power Vdd=1 
+// Vol, Voh set voltages generated for input signals 
+// Vil, Vih set voltage thresholds for determining logic values 
+.thresholds Vol=0 Vil=0.1 Vih=0.9 Voh=1 
+
+// test actions are applied to named groups of signals. 
+// A signal can appear in more than one group. Order 
+// of groups and signals within each group determine 
+// order of values on each line of test values 
+.group inputs A B 
+.group outputs Z 
+
+// set type of simulation to be performed 
+// device -- transient simulation; components must be from from /analog 
+// gate -- gate-level simulation; components must be from /gates 
+.mode device 
+
+/* 
+Tests are sequences of lines supplying test values; .cycle specifies the sequence of actions that will be performed for each test. Available actions are assert group -- set values for signals in group with H,L test values deassert group -- stop setting values for signals in group with H,L test values sample group -- check values of signals in group with 0,1 test values tran time -- run simulation for specified time interval signal=val -- set signal to specified value 
+*/ 
+.cycle assert inputs tran 9n sample outputs tran 1n 
+
+// the tests themselves -- one test per line 
+// to assert signal this cycle use 0,1; use Z or - if not to be asserted 
+// to sample signal this cycle use L,H; use - if not to be sampled 
+// whitespace can be used to improve readability, non-blank characters 
+// are associated, in order, with signals listed in .group above. 
+00 L 
+01 H 
+10 H 
+11 L 
+
+// (optional) produce plots showing the test inputs and/or outputs 
+.plot A 
+.plot B 
+.plot Z
+
