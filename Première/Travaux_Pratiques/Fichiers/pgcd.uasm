@@ -1,0 +1,25 @@
+.include "beta.uasm"
+// Pour les booleens : True = 1 et False = 0
+// Vous devez completer les parties manquantes
+
+	LD(a,R0)			// R0 <-- a
+	LD(b,R1)			// ... 
+	CMPEQ(R0, R1, R2)	// R2 <-- (R0 == R1) 
+	BT(R2, end)			// Si (R2 != 0) Alors l'instruction suivante est a l'adresse "end"
+loop: 			// Etiquette : entree de la boucle
+	CMPLT(R1, R0, R2)	// R2 <-- (R0 > R1)
+	BF(R2, else)		// Si (R2 == 0) Alors ...
+	SUB(R0, R1, R0)		// R0 <-- (R0 - R1)
+	BR(cond)			// macro pour BEQ(R31,cond,R31) : l'instruction suivante est a l'adresse "cond"
+else: 			// ...
+	// ...
+cond: 			// ...
+	// ...
+end:  			// Etiquette : fin du programme
+	ST(R1,d)			// d <-- R1
+	HALT()				// Fin du programme
+
+a: LONG(15)		// Declaration et initialisation de a
+b: LONG(9)		// Declaration et initialisation de b
+d: LONG(0)		// Declaration (et initialisation) de d
+
