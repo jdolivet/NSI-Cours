@@ -1,6 +1,6 @@
 from dates import cree, contient, ajoute
 
-def contient_doublon(tab : list) -> bool:
+def contient_doublon(tab: list) -> bool:
     """Le tableau tab contient-il un doublon?"""
     ens = cree()
     for elt in tab:
