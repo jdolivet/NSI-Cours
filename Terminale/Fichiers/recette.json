@@ -1,0 +1,18 @@
+{
+	"titre" : "Crêpes sucrées",
+	"difficulté" : "facile",
+	"temps" : { "unité" : "min", "valeur" : 1},
+	"note" : "pour 10 crêpes",
+	"ingredients" : [
+		{"nom" : "farine", "q" : { "unité" : "g", "valeur" : 200 } },
+		{ "nom" : "sucre ", "q" : { "unité" : "g", "valeur" : 200 } },
+		{"nom" : "œufs", "q" : {"unité" : "", "valeur" : 2 } },
+		{"nom" : "lait", "q" : { "unité" : "cl", "valeur" : 40 } }
+	] ,
+	"étapes" : [
+		"mélanger les ingrédients solides",
+		"ajouter le lait",
+		"laisser reposer",
+		"cuire sur une poêle beurrée"
+	]
+}

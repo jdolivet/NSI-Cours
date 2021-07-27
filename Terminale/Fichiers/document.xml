@@ -1,0 +1,17 @@
+<recette difficulté="facile">
+    <titre>Crêpes sucrées</titre>
+    <temps>1h</temps>
+    <note>pour 10 crêpes</note>
+    <ingredients>
+        <i q="200g">farine</i>
+        <i q="40g">sucre</i>
+        <i q="2">œufs</i>
+        <i q="40cl">lait</i>
+    </ingredients>
+    <etapes>
+        <e>mélanger les ingrédients solides</e>
+        <e>ajouter le lait</e>
+        <e>laisser reposer</e>
+        <e>cuire sur une poêle beurrée</e>
+    </etapes>
+</recette>
