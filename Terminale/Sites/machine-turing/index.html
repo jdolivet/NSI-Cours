@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Machine de Turing</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    </head>
+    <body>
+        <!-- GRAIN:TURING -->
+        <link type="text/css" rel="stylesheet" href="turing.css" />
+        <div id="grain-turing">
+            <div id="grain-turing-options">
+                <p>
+                    Choisir un programme : <br/>
+                    <select id="grain-turing-select">
+                        <option value="0">Ajouter 1</option>
+                        <option value="1">Soustraire 1</option>
+                        <option value="2">Multiplier par 2</option>
+                        <option value="3">Inverser les 0 et 1</option>
+                        <option value="4">Doubler une liste de 1</option>
+                        <option value="5">Détecter des palindromes</option>
+                    </select>
+                </p>
+                <p>
+                    Entrer une valeur binaire :<br/>
+                    <input type="text" id="grain-turing-input" placeholder="10011010"/>
+                    <input type="button" id="grain-turing-btnInput" value="OK"/>
+                </p>
+                <p>
+                    Lancer le programme : <br/>
+                    <input type="button" id="grain-turing-pasapas" value="Pas à pas" />
+                    <input type="range" id="grain-turing-range" value="1" max="9" min="1" title="Vitesse de défilement"/>
+                    <input type="button" id="grain-turing-commencer" value="Commencer" />
+
+                </p>
+            </div>
+            <table id="grain-turing-table">
+                <thead>
+                    <tr>
+                        <th>Etat</th>
+                        <th>Lit</th>
+                        <th>Ecrit</th>
+                        <th>Déplace</th>
+                        <th>Suivant</th>
+                    </tr>
+                </thead>
+                <tbody id="grain-turing-tbody"></tbody>
+            </table>
+            <div id="grain-turing-chaine"></div>
+            <div id="grain-turing-pointer"></div>
+            <div id="grain-turing-texte"></div>
+        </div>
+        <script src="jquery-1.8.2.min.js"></script>
+        <script src="turing.js"></script>
+        <!-- FIN DU GRAIN -->
+    </body>
+</html>

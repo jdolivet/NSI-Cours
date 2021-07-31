@@ -1,0 +1,119 @@
+/* 
+    Document   : turing
+    Created on : 23 nov. 2012, 19:41:20
+    Author     : Hugo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body {
+    background-color: #CCC;
+}
+#grain-turing {
+    font-family: Arial;
+    font-size: 15px;
+    background-color: white;
+    border: solid 3px black;
+    width: 720px;
+    margin: auto;
+    margin-top: 100px;
+    position: relative;
+    overflow: hidden;
+}
+#grain-turing-options {
+    float: left;
+    margin: 20px; 
+    margin-bottom: 35px;
+    border: solid 2px #900;
+    background-color: #C55;
+    color: white;
+    width: 300px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+}
+#grain-turing-options p {
+    margin: 10px;
+}
+#grain-turing-range {
+    width: 60px;
+    vertical-align:middle;
+}
+#grain-turing-input {
+
+}
+#grain-turing-table {
+    float: right;
+    width: 300px;
+    margin: 20px;
+    margin-bottom: 35px;
+    background-color: #ffb510; 
+    border: solid 2px #dd8500;
+    border-collapse: collapse;
+}
+#grain-turing-table th {
+    width: 20%;   
+    border: solid 2px #dd8500;
+}
+#grain-turing-table td {
+    text-align: center;
+    border: solid 2px #dd8500;
+    height: 18px;
+}
+#grain-turing-table .encours{
+    background-color: rgb(255, 215, 126);;
+    color: red;
+    font-weight: bold;
+}
+
+#grain-turing-chaine {
+    position: relative;
+    clear: both;
+    height: 25px;
+    left: 375px;
+    transition: linear .5s left;
+    -moz-transition: .5s all;
+    -o-transition: .5s left;
+    -ms-transition: .5s left;
+    -webkit-transition: linear .5s left;
+}
+#grain-turing-chaine div {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    border: solid 2px gray;
+    margin: 1px;
+    vertical-align: top;
+    position: absolute;
+    border-radius: 4px;
+}
+
+#grain-turing-pointer {
+    height: 18px;
+    border: solid 4px red;
+    border-radius: 7px;
+    width: 18px;
+    position: relative;
+    top: -26px;
+    left: 349px;
+    display: inline-block;
+    margin-bottom: 10px;
+
+}
+#grain-turing-texte {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    width: 670px;
+    top: -16px;
+    font-size: 13px;
+    color: red;
+    font-weight: bold;
+}
+#grain-turing-commencer {
+    font-weight: bold;
+}

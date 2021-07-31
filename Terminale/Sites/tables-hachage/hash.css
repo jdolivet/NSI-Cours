@@ -1,0 +1,46 @@
+#hash-demo{
+	/* Here you can choose the width for an easier integration in your web page*/
+	/*width: 600px;*/
+	min-width: 600px;
+}
+
+#hash-demo fieldset{
+	padding: 20px;
+}
+#hash-demo .algo{
+	text-align: center;
+}
+#hash-demo .second{
+	overflow: hidden; /* clears the float */
+}
+#hash-demo .second .set{
+	float: left;
+	width: 50%;
+}
+#hash-demo .second .qet{
+	overflow: hidden;
+}
+
+#hash-demo .hash-hl{
+	font-weight: bold;
+	color: red;
+}
+
+#hash-demo .hash-bucket{
+	display: inline-block;
+	width: 50px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	vertical-align: top
+}
+#hash-demo .hash-index{
+	height: 20px;
+	color: red;
+}
+#hash-demo .hash-value{
+	height: 20px;
+	border: 1px solid black;
+	color: blue;
+}
+

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<title>Table de hachage</title>
+		<link type="text/css" rel="stylesheet" href="hash.css"/>
+		<script type="text/javascript" src="hash.js"></script>
+                <script type="text/javascript" src="vendor/jsrender.js"></script>
+		<script id="player-list-choose-template" type="text/x-jsrender">
+			{{for players ~ai=ai ~defaults=defaults ~colors=colors}}
+				<div class="player-info" style="border: 5px solid {{:~colors[#data]}}">
+					<span class="player-name"> Joueur {{:#data + 1}}</span>
+					<br>
+					<select id="player-select-{{:#data}}">
+						{{for ~ai ~player=#data + 1}} <!-- random issue, data = 0 gives player = "", hack to fix it-->
+							<option value={{:#index}} {{if #index==~defaults[~player - 1]}} selected="selected" {{/if}}>
+								{{:#data.name}}
+							</option>
+						{{/for}}
+					</select>
+				</div>
+			{{/for}}
+		</script>
+		<script id="hash-algo-select-template" type="text/x-jsrender">
+			<!-- WTF IE8, if you need to update the code for more modern browsers you can put the select element directly in the page-->
+			<select id="hash-demo-algo" onchange="hash.algoSelection(this);">
+				{{for algos}}
+					<option value="{{:#index}}">
+						{{:name}}
+					</option>
+				{{/for}}
+			</select>
+		</script>
+		<script id="hash-table-template" type="text/x-jsrender">
+			<div class="hash-bucket">
+				<div class="hash-index">
+					{{:#index}}
+				</div>
+				<div class="hash-value">
+					{{if #data >= 0}}{{:#data}}{{/if}}
+				</div>
+			</div>
+		</script>
+	</head>
+	<body>
+		<div id="hash-demo">
+			<fieldset class="algo" id="hash-add-select-please">
+				<legend>Choix de l'algorithme de hachage</legend>
+				Algorithme 
+			</fieldset>
+			<div class="second">
+				<fieldset class="set">
+					<legend>Enregistrement</legend>
+					Saisie : Manuelle <input type="radio" name="insert" id="hash-default-insert" onclick="hash.inputChange(false);" checked="checked"/> 
+					Automatique <input type="radio" name="insert" onclick="hash.inputChange(true);"/>
+					<br/>
+					<br/>
+					<span id="hash-demo-insert"> Valeur : <input type="text" name="insert" id="hash-demo-insert-input"/></span>
+					<!--<div id="hash-demo-insert-button">-->
+						<button onclick="hash.doInsert()">Insérer</button>
+					<!--</div>-->
+				</fieldset>
+				<fieldset class="get">
+					<legend>Recherche</legend>
+					Valeur : <input type="text" name="search" id="hash-demo-search-input"/>
+					<br/>
+					<br/>
+					<button onclick="hash.doSearch()">Chercher</button>
+				</fieldset>
+			</div>
+			<fieldset class="third">
+				<legend>Contenu de la table de hachage</legend>
+				<div id="hash-demo-view"></div>
+			</fieldset>
+			<fieldset class="fourth">
+				<legend>Opérations effectuées</legend>
+				<p id="hash-demo-log">
+				</p>
+			</div>
+		</div>
+	</body>
+</html>

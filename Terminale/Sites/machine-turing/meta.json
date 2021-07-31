@@ -1,0 +1,50 @@
+{
+    "name": "La machine de Turing",
+    "width": "800px",
+    "height": "600px",
+    "comment": "Simulation de la machine de turing, en code ouvert pour y proposer d'autres exemples de programme",
+    "link": "http://interstices.info/machine-turing-interactive",
+    "links": [
+        {
+            "title": "Document dans lequel ce grain s'insère",
+            "uri": "http://interstices.info/machine-turing-interactive"
+        },
+        {
+            "title": "Document original dans lequel le grain Java s'insère",
+            "uri": "http://interstices.info/applet-machine-turing"
+        },
+        {
+            "title": "Un enseignant fait évoluer ce grain",
+            "uri": "http://dichotomies.fr/2013/infomath/applets/machine-de-turing/"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Ben Abdallah, Hamdi",
+            "email": "hamdi.benabd@gmail.com",
+            "role": "auteur",
+            "comment": "version initiale en Java"
+        },
+        {
+            "name": "Lehmann Dussout, Hugo",
+            "role": "auteur",
+            "comment": "version HTLM5/JS"
+        },
+        {
+            "name": "www.centralelilleprojets.fr",
+            "role": "producteur"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "CC BY-NC-SA",
+            "uri": "http://creativecommons.org/licenses/by-nc-sa/3.0/fr",
+            "comment": "s'applique aux documents"
+        },
+        {
+            "name": "CeCILL-C",
+            "uri": "http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html",
+            "comment": "s'applique au code source"
+        }
+    ]
+}
