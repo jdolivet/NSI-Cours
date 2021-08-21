@@ -1,0 +1,412 @@
+/* CSS Stylesheet for Javascript Turing machine simulator */
+
+body {
+  text-align: center;
+  
+  font-family: sans-serif;
+}
+
+#Machine {
+  border: 2px solid #ff6666;
+/*  background-color: #dfdfda; */
+/*  background-color: #ffe1e1; */
+  background-color: #ffefda;
+  padding-top: 0.5em;
+  padding-bottom: 0.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+/*  height: 10em; */
+  text-align: center;
+  display: inline-block;
+}
+
+.BoxTitle {
+  position: relative;
+  top : 12px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  height: 15px;
+  display: inline; 
+  background-color: #eeeeee;
+/*  background: solid;*/
+  border: 1px solid grey;
+  font-family: sans-serif;
+/*  font-variant: small-caps; */
+  font-size: small;
+  z-index: 3;
+/*  font-weight: bold; */
+}
+
+#MachineTapeContainer {
+  max-width: 90vw;	/* Max width 90% of window width */
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+#MachineTape {
+  background-color: #eee8aa;
+  padding-top: 10px;
+  padding-left: 0px;
+  font-size: x-large;
+  margin-bottom: 1em;
+  overflow: auto;
+  position: relative;
+}
+
+
+.tape {
+  display: inline;
+  font-family: "Courier New", courier;
+  padding: 0;
+  margin: 0;
+}
+
+.OneDirectionalTape {
+  border-left: 3px solid red;
+}
+
+#LeftTape {
+  text-align: right;
+  padding-left: 5px;
+}
+
+#RightTape {
+  text-align: left;
+  padding-right: 5px;
+}
+
+#ActiveTape {
+  color: red;
+  border: 1px solid LightGrey;
+  font-weight: bold;
+  background-color: #bbf8ff;
+}
+
+#ActiveTapeArea {
+  position: relative;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+#RunningTapeDisplay {
+/*  overflow: auto; */
+  height: 2.5em;
+  white-space: pre;
+}
+
+#InitialTapeDisplay {
+  margin-bottom: 4px;
+}
+
+#InitialState {
+  width: 50px;
+}
+
+.MachineStatusContainer {
+  text-align: center;
+  width: 150px;
+  position: relative;
+  top: -1em;
+  margin: 0;
+  padding: 0;
+}
+
+.MachineStatusBox {
+  border: 1px solid grey;
+  padding-top: 12px;
+  padding-bottom: 0.25em;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+  margin-top: 5px;
+  margin-bottom: 8px;
+  margin-left: 0;
+  margin-right: 0;
+/*  text-align: center; */
+  font-family: "Courier New", courier;
+  background-color: #C9F2C9;
+  overflow: hidden;
+}
+
+
+#MachineStateContainer {
+  float: left;
+}
+
+#MachineStepsContainer {
+  float: right;
+}
+
+#MachineMiddleSection {
+  text-align: center;
+  height: 4em;
+  position: relative;
+  width: 100%;
+}
+
+#MachineStatusMsgWrapper {
+  position: relative;
+  display: inline;
+/*  z-index: 10; */
+}
+
+#MachineStatusMsgBg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  background-color: #88eeee;
+  display: none;
+}
+
+#MachineStatusMsgText {
+  text-align: center;
+  width: 60%;
+  height: 3em;
+  display: inline;
+  position: relative;
+  font-size: larger;
+  z-index: 2;
+  padding: 0.5em;
+}
+
+#MachineLowerSection {
+  position: relative;
+  display: table;
+}
+
+#MachineLowerSection2 {
+  display: table-row;
+}
+
+
+#MachineProgramContainer {
+  text-align: center;
+  width: 100%;
+  position: relative;
+/*  top: -2em; */
+  display: table-cell;
+}
+
+#MachineProgramBlock {
+  padding-top: 8px;
+  text-align: center;
+  overflow: hidden;
+}
+
+#MachineProgramBlock2 {
+  padding: 4px;
+  display: inline-block;
+}
+
+#MachineControlBlock {
+  width: 300px;
+  display: table-cell;
+}
+
+
+#MachineButtonsBlock {
+  min-width: 275px;
+  max-width: 300px;
+  height: 100%;
+  text-align: left;
+  margin-left: 10px;
+  border: 1px solid grey;
+  padding: 4px;
+  margin-top: 4px;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  background: #dedede;
+}
+
+#LoadBlock {
+}
+
+button {
+  min-width: 75px;
+}
+
+#MachineHead {
+  position: absolute;
+/*  left: -50%; */ /* Note: This works properly on Firefox but not on Chrome, IE - due to bugs? */
+  left: -9px; /* Using this because of Chrome, IE bugs - see above */
+  top: 100%;
+  width: 32px;
+/*  display: none; */
+}
+
+/* Triangle using css tricks */
+.HeadTop {
+  height: 10px;
+  width: 0px;
+}
+
+/* Arrow outline */
+.HeadTop:before {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 17px solid transparent;
+  border-right: 17px solid transparent;
+  border-bottom: 10px solid #333333;
+}
+
+/* Arrow interior */
+.HeadTop:after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 0;
+  margin-top:1px;
+  margin-left:2px;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 9px solid #ff9933;
+}
+
+.HeadBody {
+  width: 32px;
+  height: 14px;
+  text-align: center;
+  font-size: small;
+  background: #ff9933;
+  border-left: 1px solid #333333;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+}
+
+
+
+
+/** Miscellaneous **/
+#IntroText {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1 {
+  margin-bottom: 0.2em;
+}
+
+code {
+/*  background: #e0e0e0;*/
+  font-size: larger;
+}
+
+#SyntaxInfo {
+  text-align: left;
+  margin-top: 15px;
+  margin-left: 2em;
+  margin-bottom: 10px;
+}
+
+#AboutMenu {
+  text-align: left;
+  margin-left: 2em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.AboutItem {
+  display: inline;
+}
+
+.AboutContent {
+  display: none;
+}
+
+#AboutContentContainer {
+  margin-top: 8px;
+  margin-left: 20px;
+}
+
+#MetaInfo div {
+  margin-top: 0.5em;
+}
+
+#LoadMenu {
+  display: none;  /* Initially hidden */
+}
+
+#SaveStatus {
+  display: none;  /* Initially hidden */
+  position: relative;
+  margin-top: 5px;
+  word-wrap: break-word;
+}
+
+#SaveStatusFg {
+  background: transparent;
+  position: relative;
+  z-index: 10;
+}
+
+#SaveStatusBg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+#ResetMessage {
+  color: red;
+  display: none;
+}
+
+.glow {
+  box-shadow: 0px 0px 3px red;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.backlinks {
+  text-align: center;
+  margin-bottom: 0.2em;
+}
+
+.Signature {
+  text-align: right;
+  font-style: italic;
+  font-size: smaller;
+}
+
+#debugOuter {
+  clear: both;
+}
+
+.DebugClass {
+  display: none;
+}
+
+.clear {
+  clear: both;
+}
+
+.disabled {
+  color: grey;
+}
+
+.cleardiv {
+  clear: both;
+  height: 0px;
+}
+
+li {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
