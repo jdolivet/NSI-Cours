@@ -1,0 +1,101 @@
+"name","attack","base_egg_steps","base_happiness","capture_rate","classfication","defense","experience_growth","height_m","hp","percentage_male","pokedex_number","sp_attack","sp_defense","speed","type1","type2","weight_kg","generation","is_legendary"
+Rayquaza,180,30720,0,45.0,Sky High Pokémon,100,1250000,7.0,105,384,180,100,115,dragon,flying,206.5,3,True
+Moltres,100,20480,35,3.0,Flame Pokémon,90,1250000,2.0,90,146,125,85,90,fire,flying,60.0,1,True
+Palossand,75,3840,70,60.0,Sand Castle Pokémon,110,1000000,1.3,85,770,100,75,35,ghost,ground,250.0,7,False
+Flaaffy,55,5120,70,120.0,Wool Pokémon,55,1059860,0.8,70,180,80,60,45,electric,,13.3,2,False
+Nidoran♂,57,5120,70,235.0,Poison Pin Pokémon,40,1059860,0.5,46,32,40,40,50,poison,,9.0,1,False
+Jumpluff,55,5120,70,45.0,Cottonweed Pokémon,70,1059860,0.8,75,189,55,95,110,grass,flying,3.0,2,False
+Servine,60,5120,70,45.0,Grass Snake Pokémon,75,1059860,0.8,60,496,60,75,83,grass,,16.0,5,False
+Avalugg,117,5120,70,55.0,Iceberg Pokémon,184,1000000,2.0,95,713,44,46,28,ice,,505.0,6,False
+Regigigas,160,30720,0,3.0,Colossal Pokémon,110,1250000,3.7,110,486,80,110,100,normal,,420.0,4,True
+Zangoose,115,5120,70,90.0,Cat Ferret Pokémon,60,600000,1.3,73,335,60,60,90,normal,,40.3,3,False
+Sandile,72,5120,70,180.0,Desert Croc Pokémon,35,1059860,0.7,50,551,35,35,65,ground,dark,15.2,5,False
+Tapu Bulu,130,3840,70,3.0,Land Spirit Pokémon,115,1250000,1.9,70,787,85,95,75,grass,fairy,45.5,7,True
+Kyurem,120,30720,0,3.0,Boundary Pokémon,90,1250000,3.0,125,646,170,100,95,dragon,ice,325.0,5,True
+Azelf,125,20480,140,3.0,Willpower Pokémon,70,1250000,0.3,75,482,125,70,115,psychic,,0.3,4,True
+Typhlosion,84,5120,70,45.0,Volcano Pokémon,78,1059860,1.7,78,157,109,85,100,fire,,79.5,2,False
+Chimecho,50,6400,70,45.0,Wind Chime Pokémon,80,800000,0.6,75,358,95,90,65,psychic,,1.0,3,False
+Alakazam,50,5120,70,50.0,Psi Pokémon,65,1059860,1.5,55,65,175,105,150,psychic,,48.0,1,False
+Furfrou,80,5120,70,160.0,Poodle Pokémon,60,1000000,1.2,75,676,65,90,102,normal,,28.0,6,False
+Combusken,85,5120,70,45.0,Young Fowl Pokémon,60,1059860,0.9,60,256,85,60,55,fire,fighting,19.5,3,False
+Swoobat,57,3840,70,45.0,Courting Pokémon,55,1000000,0.9,67,528,77,55,114,psychic,flying,10.5,5,False
+Baltoy,40,5120,70,255.0,Clay Doll Pokémon,55,1000000,0.5,40,343,40,70,55,ground,psychic,21.5,3,False
+Purrloin,50,5120,70,255.0,Devious Pokémon,37,1000000,0.4,41,509,50,37,66,dark,,10.1,5,False
+Mr. Mime,45,6400,70,45.0,Barrier Pokémon,65,1000000,1.3,40,122,100,120,90,psychic,fairy,54.5,1,False
+Mesprit,105,20480,140,3.0,Emotion Pokémon,105,1250000,0.3,80,481,105,105,80,psychic,,0.3,4,True
+Venomoth,65,5120,70,75.0,Poison Moth Pokémon,60,1000000,1.5,70,49,90,75,90,bug,poison,12.5,1,False
+Lillipup,60,3840,70,255.0,Puppy Pokémon,45,1059860,0.4,45,506,25,45,55,normal,,4.1,5,False
+Latias,100,30720,90,3.0,Eon Pokémon,120,1250000,1.4,80,380,140,150,110,dragon,psychic,40.0,3,True
+Togedemaru,98,2560,70,180.0,Roly-Poly Pokémon,63,1000000,0.3,65,777,40,73,96,electric,steel,3.3,7,False
+Suicune,75,20480,35,3.0,Aurora Pokémon,115,1250000,2.0,100,245,90,115,85,water,,187.0,2,True
+Unfezant,115,3840,70,45.0,Proud Pokémon,80,1059860,1.2,80,521,65,55,93,normal,flying,29.0,5,False
+Roselia,60,5120,70,150.0,Thorn Pokémon,45,1059860,0.3,50,315,100,80,65,grass,poison,2.0,3,False
+Buzzwole,139,30720,0,25.0,Swollen Pokémon,139,1250000,2.4,107,794,53,53,79,bug,fighting,333.6,7,True
+Necrozma,107,30720,0,3.0,Prism Pokémon,101,1250000,2.4,97,800,127,89,79,psychic,,230.0,7,True
+Starmie,75,5120,70,60.0,Mysterious Pokémon,85,1250000,1.1,60,121,100,85,115,water,psychic,80.0,1,False
+Jellicent,60,5120,70,60.0,Floating Pokémon,70,1000000,2.2,100,593,85,105,60,water,ghost,135.0,5,False
+Zweilous,85,10240,35,45.0,Hostile Pokémon,70,1250000,1.4,72,634,65,70,58,dark,dragon,50.0,5,False
+Shaymin,103,30720,100,45.0,Gratitude Pokémon,75,1059860,0.2,100,492,120,75,127,grass,grass,2.1,4,True
+Groudon,180,30720,0,3.0,Continent Pokémon,160,1250000,3.5,100,383,150,90,90,ground,,950.0,3,True
+Uxie,75,20480,140,3.0,Knowledge Pokémon,130,1250000,0.3,75,480,75,130,95,psychic,,0.3,4,True
+Lickilicky,85,5120,70,30.0,Licking Pokémon,95,1000000,1.7,110,463,80,95,50,normal,,140.0,4,False
+Donphan,120,5120,70,60.0,Armor Pokémon,120,1000000,1.1,90,232,60,60,50,ground,,120.0,2,False
+Pikachu,55,2560,70,190.0,Mouse Pokémon,40,1000000,0.4,35,25,50,50,90,electric,,6.0,1,False
+Barboach,48,5120,70,190.0,Whiskers Pokémon,43,1000000,0.4,50,339,46,41,60,water,ground,1.9,3,False
+Voltorb,30,5120,70,190.0,Ball Pokémon,50,1000000,0.5,40,100,55,55,100,electric,,10.4,1,False
+Mantyke,20,6400,70,25.0,Kite Pokémon,50,1250000,1.0,45,458,60,120,50,water,flying,65.0,4,False
+Minccino,50,3840,70,255.0,Chinchilla Pokémon,40,800000,0.4,55,572,40,40,75,normal,,5.8,5,False
+Genesect,120,30720,0,3.0,Paleozoic Pokémon,95,1250000,1.5,71,649,120,95,99,bug,steel,82.5,5,True
+Articuno,85,20480,35,3.0,Freeze Pokémon,100,1250000,1.7,90,144,95,125,85,ice,flying,55.4,1,True
+Poochyena,55,3840,70,255.0,Bite Pokémon,35,1000000,0.5,35,261,30,30,35,dark,,13.6,3,False
+Mew,100,30720,100,45.0,New Species Pokémon,100,1059860,0.4,100,151,100,100,100,psychic,,4.0,1,True
+Terrakion,129,20480,35,3.0,Cavern Pokémon,90,1250000,1.9,91,639,72,90,108,rock,fighting,260.0,5,True
+Hakamo-o,75,10240,70,45.0,Scaly Pokémon,90,1250000,1.2,55,783,65,70,65,dragon,fighting,47.0,7,False
+Huntail,104,5120,70,60.0,Deep Sea Pokémon,105,600000,1.7,55,367,94,75,52,water,,27.0,3,False
+Drampa,60,5120,70,70.0,Placid Pokémon,85,1000000,3.0,78,780,135,91,36,normal,dragon,185.0,7,False
+Meloetta,128,30720,100,3.0,Melody Pokémon,90,1250000,0.6,100,648,77,77,128,normal,psychic,6.5,5,True
+Magcargo,50,5120,70,75.0,Lava Pokémon,120,1000000,0.8,60,219,90,80,30,fire,rock,55.0,2,False
+Spewpa,22,3840,70,120.0,Scatterdust Pokémon,60,1000000,0.3,45,665,27,30,29,bug,,8.4,6,False
+Latios,130,30720,90,3.0,Eon Pokémon,100,1250000,2.0,80,381,160,120,110,dragon,psychic,60.0,3,True
+Spearow,60,3840,70,255.0,Tiny Bird Pokémon,30,1000000,0.3,40,21,31,31,70,normal,flying,2.0,1,False
+Giratina,120,30720,0,3.0,Renegade Pokémon,100,1250000,4.5,150,487,120,100,90,ghost,dragon,750.0,4,True
+Politoed,75,5120,70,45.0,Frog Pokémon,75,1059860,1.1,90,186,90,100,70,water,,33.9,2,False
+Swellow,85,3840,70,45.0,Swallow Pokémon,60,1059860,0.7,60,277,75,50,125,normal,flying,19.8,3,False
+Exeggcute,40,5120,70,90.0,Egg Pokémon,80,1250000,0.4,60,102,60,45,40,grass,psychic,2.5,1,False
+Talonflame,81,3840,70,45.0,Scorching Pokémon,71,1059860,1.2,78,663,74,69,126,fire,flying,24.5,6,False
+Chimchar,58,5120,70,45.0,Chimp Pokémon,44,1059860,0.5,44,390,58,44,61,fire,,6.2,4,False
+Cosmog,29,30720,0,45.0,Nebula Pokémon,31,1250000,0.2,43,789,29,31,37,psychic,,0.1,7,True
+Bounsweet,30,5120,70,235.0,Fruit Pokémon,38,1059860,0.3,42,761,30,38,32,grass,,3.2,7,False
+Sawsbuck,100,5120,70,75.0,Season Pokémon,70,1000000,1.9,80,586,60,70,95,normal,grass,92.5,5,False
+Electrike,45,5120,70,120.0,Lightning Pokémon,40,1250000,0.6,40,309,65,40,65,electric,,15.2,3,False
+Nihilego,53,30720,0,45.0,Parasite Pokémon,47,1250000,1.2,109,793,127,131,103,rock,poison,55.5,7,True
+Shelgon,95,10240,35,45.0,Endurance Pokémon,100,1250000,1.1,65,372,60,50,50,dragon,,110.5,3,False
+Deoxys,95,30720,0,3.0,DNA Pokémon,90,1250000,1.7,50,386,95,90,180,psychic,,60.8,3,True
+Jirachi,100,30720,100,3.0,Wish Pokémon,100,1250000,0.3,100,385,100,100,100,steel,psychic,1.1,3,True
+Emboar,123,5120,70,45.0,Mega Fire Pig Pokémon,65,1059860,1.6,110,500,100,65,65,fire,fighting,150.0,5,False
+Electrode,50,5120,70,60.0,Ball Pokémon,70,1000000,1.2,60,101,80,80,150,electric,,66.6,1,False
+Kartana,181,30720,0,255.0,Drawn Sword Pokémon,131,1250000,0.3,59,798,59,31,109,grass,steel,0.1,7,True
+Fennekin,45,5120,70,45.0,Fox Pokémon,40,1059860,0.4,40,653,62,60,60,fire,,9.4,6,False
+Magmortar,95,6400,70,30.0,Blast Pokémon,67,1000000,1.6,75,467,125,95,83,fire,,68.0,4,False
+Xurkitree,89,30720,0,30.0,Glowing Pokémon,71,1250000,3.8,83,796,173,71,83,electric,,100.0,7,True
+Heatran,90,2560,100,3.0,Lava Dome Pokémon,106,1250000,1.7,91,485,130,106,77,fire,steel,430.0,4,True
+Delphox,69,5120,70,45.0,Fox Pokémon,72,1059860,1.5,75,655,114,100,104,fire,psychic,39.0,6,False
+Swirlix,48,5120,70,200.0,Cotton Candy Pokémon,66,1000000,0.4,62,684,59,57,49,fairy,,3.5,6,False
+Silcoon,35,3840,70,120.0,Cocoon Pokémon,55,1000000,0.6,50,266,25,25,15,bug,,10.0,3,False
+Wobbuffet,33,5120,70,45.0,Patient Pokémon,58,1000000,1.3,190,202,33,58,33,psychic,,28.5,2,False
+Luxio,85,5120,100,120.0,Spark Pokémon,49,1059860,0.9,60,404,60,49,60,electric,,30.5,4,False
+Crobat,90,3840,70,90.0,Bat Pokémon,80,1000000,1.8,85,169,70,80,130,poison,flying,75.0,2,False
+Zekrom,150,30720,0,3.0,Deep Black Pokémon,120,1250000,2.9,100,644,120,100,90,dragon,electric,345.0,5,True
+Beartic,130,5120,70,60.0,Freezing Pokémon,80,1000000,2.6,95,614,70,80,50,ice,,260.0,5,False
+Cloyster,95,5120,70,60.0,Bivalve Pokémon,180,1250000,1.5,50,91,85,45,70,water,ice,132.5,1,False
+Lunala,113,30720,0,45.0,Moone Pokémon,89,1250000,4.0,137,792,137,107,97,psychic,ghost,120.0,7,True
+Medicham,100,5120,70,90.0,Meditate Pokémon,85,1000000,1.3,60,308,80,85,100,fighting,psychic,31.5,3,False
+Shiinotic,45,5120,70,75.0,Illuminating Pokémon,80,1000000,1.0,60,756,90,100,30,grass,fairy,11.5,7,False
+Dialga,120,30720,0,3.0,Temporal Pokémon,120,1250000,5.4,100,483,150,100,90,steel,dragon,683.0,4,True
+Manaphy,100,2560,70,3.0,Seafaring Pokémon,100,1250000,0.3,100,490,100,100,100,water,,1.4,4,True
+Regice,50,20480,35,3.0,Iceberg Pokémon,100,1250000,1.8,80,378,100,200,50,ice,,175.0,3,True
+Roggenrola,75,3840,70,255.0,Mantle Pokémon,85,1059860,0.4,55,524,25,25,15,rock,,18.0,5,False
+Virizion,90,20480,35,3.0,Grassland Pokémon,72,1250000,2.0,91,640,90,129,108,grass,fighting,200.0,5,True
+Torkoal,85,5120,70,90.0,Coal Pokémon,140,1000000,0.5,70,324,85,70,20,fire,,80.4,3,False
+Bagon,75,10240,35,45.0,Rock Head Pokémon,60,1250000,0.6,45,371,40,30,50,dragon,,42.1,3,False
+Ledyba,20,3840,70,255.0,Five Star Pokémon,30,800000,1.0,40,165,40,80,55,bug,flying,10.8,2,False
