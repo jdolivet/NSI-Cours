@@ -1,9 +1,0 @@
-Votre compte rendu doit faire apparaître : 
-
-- la répartition des tâches au sein du groupe
-- la communication au sein du groupe
-- le projet initial et son évolution
-- les adaptations (et les choix ayant entraînés ces changements)
-- les problèmes rencontrés (description des bugs, des problèmes de conceptions) et les solutions ayant permis de les résoudre
-- les tests : comment avez vous tester votre projet?
-- les perspectives d'évolution (les aspects à améliorer, développer, fonctionnalités supplémentaires, ...)
