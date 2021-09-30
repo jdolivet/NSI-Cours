@@ -1,0 +1,456 @@
+0
+00:00:00,870 --> 00:00:03,840
+MAX: In this video, we'll be looking at a special kind of recursion
+
+1
+00:00:03,840 --> 00:00:06,160
+strategy called use it or lose it.
+
+2
+00:00:06,160 --> 00:00:09,560
+And we'll take a look at the strategy using an example where
+
+3
+00:00:09,560 --> 00:00:13,260
+it's particularly effective.
+
+4
+00:00:13,260 --> 00:00:16,050
+Suppose we have a handful of coins.
+
+5
+00:00:16,050 --> 00:00:24,135
+Let's say we have a $0.01 piece, a $0.051 piece, a $0. 10 piece,
+
+6
+00:00:24,135 --> 00:00:26,950
+and a $0. 25 piece.
+
+7
+00:00:26,950 --> 00:00:30,160
+And then suppose we had some target amount.
+
+8
+00:00:30,160 --> 00:00:33,310
+Let's write the exact change function to see
+
+9
+00:00:33,310 --> 00:00:37,770
+if we can reach that target amount using the coins that we have in our hand.
+
+10
+00:00:37,770 --> 00:00:40,190
+This function will take two parameters.
+
+11
+00:00:40,190 --> 00:00:43,770
+The first parameter is a list of integers representing the worth
+
+12
+00:00:43,770 --> 00:00:45,770
+of each coin we have in our hand.
+
+13
+00:00:45,770 --> 00:00:50,100
+And the second parameter is a target amount that we want to make change for.
+
+14
+00:00:50,100 --> 00:00:54,520
+So let's say we called exact change using
+
+15
+00:00:54,520 --> 00:00:59,820
+these coins that we have in our hand and a target amount, say $0. 15.
+
+16
+00:00:59,820 --> 00:01:04,819
+Now the question is, can we make $0. 15 from these coins in our hand?
+
+17
+00:01:04,819 --> 00:01:06,620
+And the answer is yes.
+
+18
+00:01:06,620 --> 00:01:12,210
+We can make that amount by just grabbing the $0. 10 piece and the $0.05 piece.
+
+19
+00:01:12,210 --> 00:01:14,300
+10 plus 5, 15.
+
+20
+00:01:14,300 --> 00:01:17,400
+Now say we wanted to see if we could make
+
+21
+00:01:17,400 --> 00:01:20,180
+$0. 13 from these coins in our hand.
+
+22
+00:01:20,180 --> 00:01:21,970
+Could we do that?
+
+23
+00:01:21,970 --> 00:01:23,310
+The answer is no.
+
+24
+00:01:23,310 --> 00:01:27,860
+We have a $0. 10 piece, and we have one $0.01 piece,
+
+25
+00:01:27,860 --> 00:01:32,230
+but we don't have two more $0.01 pieces to make a total of 13,
+
+26
+00:01:32,230 --> 00:01:35,000
+which would be 10 plus 1, plus 1, plus 1.
+
+27
+00:01:35,000 --> 00:01:39,580
+But we only have one of these, so we can only make $0. 11.
+
+28
+00:01:39,580 --> 00:01:44,110
+Now we'll see how this function translates into what we'll actually
+
+29
+00:01:44,110 --> 00:01:46,327
+see when we create this function.
+
+30
+00:01:50,070 --> 00:01:53,090
+MAURY: But how are we going to define the exact change function?
+
+31
+00:01:53,090 --> 00:01:56,890
+Just like with recursion, we'll want to choose our base cases, our smallest
+
+32
+00:01:56,890 --> 00:01:58,300
+forms of the problem.
+
+33
+00:01:58,300 --> 00:02:01,610
+Remember, since base cases can't be broken down at all,
+
+34
+00:02:01,610 --> 00:02:05,490
+we have to handle the base cases before we try to reduce the problem.
+
+35
+00:02:05,490 --> 00:02:09,710
+If the target amount of change is 0, regardless of the coins we have,
+
+36
+00:02:09,710 --> 00:02:10,880
+we can make change easily.
+
+37
+00:02:10,880 --> 00:02:12,310
+We just don't do anything.
+
+38
+00:02:12,310 --> 00:02:17,340
+So let's go ahead and return true if our target amount is 0.
+
+39
+00:02:17,340 --> 00:02:20,180
+If we still have change left to make on the other hand,
+
+40
+00:02:20,180 --> 00:02:23,990
+but we don't have any coins, it's impossible to make change.
+
+41
+00:02:23,990 --> 00:02:28,240
+So let's return false in that case.
+
+42
+00:02:28,240 --> 00:02:30,290
+Now that we've got our base cases covered,
+
+43
+00:02:30,290 --> 00:02:33,450
+let's move on to the signature part of use it or lose it.
+
+44
+00:02:33,450 --> 00:02:37,880
+We know that if we have more coins, we've got ourselves a harder problem.
+
+45
+00:02:37,880 --> 00:02:40,330
+So let's go ahead and trade our problem in for an easier
+
+46
+00:02:40,330 --> 00:02:42,514
+problem with fewer coins.
+
+47
+00:02:42,514 --> 00:02:45,680
+Let's say we're trying to decide if we should use the first coin in our list
+
+48
+00:02:45,680 --> 00:02:47,070
+or not.
+
+49
+00:02:47,070 --> 00:02:51,800
+A way to make our problem smaller is to first assume that we use that coin,
+
+50
+00:02:51,800 --> 00:02:55,164
+then determine whether it's possible to make the remaining amount of change
+
+51
+00:02:55,164 --> 00:02:56,205
+with the remaining coins.
+
+52
+00:02:59,070 --> 00:03:03,240
+Let's call this our use it result. So as you can see,
+
+53
+00:03:03,240 --> 00:03:06,015
+we set use it equal to a call to exact change
+
+54
+00:03:06,015 --> 00:03:09,700
+where we've reduced the target amount by the first coin
+
+55
+00:03:09,700 --> 00:03:12,750
+and we reduced our coin list to everything but the first coin.
+
+56
+00:03:16,500 --> 00:03:19,460
+Now let's go onto the lose it case.
+
+57
+00:03:19,460 --> 00:03:21,400
+The lose it case is even simpler.
+
+58
+00:03:21,400 --> 00:03:25,830
+What we're going to do is we're going to make another call to exact change,
+
+59
+00:03:25,830 --> 00:03:30,000
+but this time instead of using our coin we're going to lose it.
+
+60
+00:03:30,000 --> 00:03:34,200
+So we set lose it equal to a call to exact change
+
+61
+00:03:34,200 --> 00:03:37,730
+without changing the amount this time, but still removing
+
+62
+00:03:37,730 --> 00:03:40,560
+the first element of our coin list.
+
+63
+00:03:40,560 --> 00:03:43,570
+Then to bring our two results together, we
+
+64
+00:03:43,570 --> 00:03:49,130
+want to see what happens if either lose it works or use it works.
+
+65
+00:03:49,130 --> 00:03:52,780
+And if either of those work, we want to return true.
+
+66
+00:03:52,780 --> 00:03:56,190
+So the operator we have in that case is or.
+
+67
+00:03:56,190 --> 00:03:59,380
+So if use it is true, we return true.
+
+68
+00:03:59,380 --> 00:04:03,140
+And if lose it is true we return true.
+
+69
+00:04:03,140 --> 00:04:06,910
+So to break it down one more time, for use it or lose it,
+
+70
+00:04:06,910 --> 00:04:10,010
+we have a set of things we're considering using to solve a problem,
+
+71
+00:04:10,010 --> 00:04:11,960
+only some of which we'll need.
+
+72
+00:04:11,960 --> 00:04:14,772
+First we check to see if we're at one of our base cases
+
+73
+00:04:14,772 --> 00:04:16,620
+and can solve the problem immediately.
+
+74
+00:04:16,620 --> 00:04:20,779
+But if not, we see what happens with we use the first element in our list.
+
+75
+00:04:20,779 --> 00:04:24,760
+Than we check to see what happens if we don't.
+
+76
+00:04:24,760 --> 00:04:27,200
+Then recursively continue from each.
+
+77
+00:04:27,200 --> 00:04:33,260
+If either of those work, either using it or not using it, we return true.
+
+78
+00:04:33,260 --> 00:04:36,000
+Now if you've followed along with the reasoning so far
+
+79
+00:04:36,000 --> 00:04:41,280
+but still don't really understand why user it or lose it works, don't worry.
+
+80
+00:04:41,280 --> 00:04:43,060
+We're going to look at some visualization
+
+81
+00:04:43,060 --> 00:04:47,070
+to see what the computer is doing and get a better understanding of how
+
+82
+00:04:47,070 --> 00:04:49,420
+use it or lose it works.
+
+83
+00:04:49,420 --> 00:04:54,840
+So we've got our call to exact change with $0. 15 that we're trying to make
+
+84
+00:04:54,840 --> 00:04:59,380
+and our coin list of $0.01, $0.05, $0. 10 and $0. 25,
+
+85
+00:04:59,380 --> 00:05:03,330
+and we're going to break it down into our two cases.
+
+86
+00:05:03,330 --> 00:05:08,120
+On the left we have our lose it case where we've and made up our $0.01 piece
+
+87
+00:05:08,120 --> 00:05:10,090
+but haven't changed the amount.
+
+88
+00:05:10,090 --> 00:05:12,980
+And on our right side we have our use it case,
+
+89
+00:05:12,980 --> 00:05:17,660
+where we've reduced the amount by the appropriate coin value.
+
+90
+00:05:17,660 --> 00:05:22,610
+Remember this is a recursive, so each call will continue making two calls
+
+91
+00:05:22,610 --> 00:05:24,570
+until it finds a base case.
+
+92
+00:05:24,570 --> 00:05:28,810
+So that continues, branching into two, and each of those
+
+93
+00:05:28,810 --> 00:05:31,350
+continue, branching into two.
+
+94
+00:05:31,350 --> 00:05:34,790
+And eventually we find a base case.
+
+95
+00:05:34,790 --> 00:05:39,670
+Here on the right, we have 0, our target amount,
+
+96
+00:05:39,670 --> 00:05:42,150
+and a coin list with $0. 25 in it.
+
+97
+00:05:42,150 --> 00:05:46,670
+But we don't care about the coin list, since having an amount equal to 0
+
+98
+00:05:46,670 --> 00:05:48,540
+is our true base case.
+
+99
+00:05:48,540 --> 00:05:52,630
+So that call will return true.
+
+100
+00:05:52,630 --> 00:05:57,560
+However, the recursion still continues, and just to the left of that,
+
+101
+00:05:57,560 --> 00:06:03,140
+both of those cases in lose it turn out to be false, so that one is false.
+
+102
+00:06:03,140 --> 00:06:05,900
+But what happens to the case above it?
+
+103
+00:06:05,900 --> 00:06:08,460
+Well, you might remember that the last line of the code
+
+104
+00:06:08,460 --> 00:06:11,590
+is returned use it or lose it.
+
+105
+00:06:11,590 --> 00:06:15,670
+And since one is true, that's enough to make the case above it true.
+
+106
+00:06:15,670 --> 00:06:19,220
+And similarly, the true case kind of crawls
+
+107
+00:06:19,220 --> 00:06:25,930
+back up the tree, making the case above that true and the call above that true.
+
+108
+00:06:25,930 --> 00:06:31,150
+So overall, the function will return true, just like we expect it.
+
+109
+00:06:31,150 --> 00:06:33,590
+This is a pretty versatile algorithm strategy
+
+110
+00:06:33,590 --> 00:06:37,320
+for whenever we want to choose several objects from a bigger group.
+
+111
+00:06:37,320 --> 00:06:39,635
+And you might find some opportunities use this strategy
+
+112
+00:06:39,635 --> 00:06:44,640
+on some of the problem sets of this chapter or for writing you own code.
+
+113
+00:06:44,640 --> 00:06:46,490
+Good luck.
+

@@ -1,0 +1,680 @@
+0
+00:00:00,472 --> 00:00:02,179
+MAX: These days we're sending around a lot of private
+
+1
+00:00:02,179 --> 00:00:04,597
+information through the cloud and your passwords
+
+2
+00:00:04,597 --> 00:00:07,908
+and credit card numbers and emails are all protected
+
+3
+00:00:07,908 --> 00:00:10,021
+by something called encryption.
+
+4
+00:00:10,021 --> 00:00:14,430
+Encryption is a way of taking information and modifying it
+
+5
+00:00:14,430 --> 00:00:17,701
+so that it's hard or even impossible for unauthorized
+
+6
+00:00:17,701 --> 00:00:20,342
+viewers to understand it.
+
+7
+00:00:20,342 --> 00:00:22,516
+A cipher is an algorithm for a technique
+
+8
+00:00:22,516 --> 00:00:25,340
+used to encrypt information.
+
+9
+00:00:25,340 --> 00:00:28,429
+While, modern ciphers can be very complex
+
+10
+00:00:28,429 --> 00:00:29,912
+and very difficult to break,
+
+11
+00:00:29,912 --> 00:00:31,801
+today we'll be looking at one of a
+
+12
+00:00:31,801 --> 00:00:33,691
+much, much older method.
+
+13
+00:00:33,691 --> 00:00:36,108
+You may have heard of it, it's called the Caesar Cipher.
+
+14
+00:00:36,108 --> 00:00:38,668
+The Caesar Cipher was named after Julius Caesar,
+
+15
+00:00:38,668 --> 00:00:42,102
+a famous Roman dictator who would used the Caesar Cipher
+
+16
+00:00:42,102 --> 00:00:44,621
+and basically shifted letters forward in the alphabet
+
+17
+00:00:44,621 --> 00:00:48,522
+whenever he wanted to send a secret messages to his generals.
+
+18
+00:00:48,522 --> 00:00:50,859
+Let's look at some of the details of this Caesar Cipher.
+
+19
+00:00:50,859 --> 00:00:53,500
+We'll be handing it over to Maury.
+
+20
+00:00:53,500 --> 00:00:56,100
+MAURY: A Caesar Cipher is an encryption technique that takes
+
+21
+00:00:56,100 --> 00:00:59,575
+in a normal string called a plain text and substitutes
+
+22
+00:00:59,575 --> 00:01:02,561
+each letter in that string with another letter that's
+
+23
+00:01:02,561 --> 00:01:04,382
+a fixed number of spaces
+
+24
+00:01:04,382 --> 00:01:05,601
+down in the alphabet.
+
+25
+00:01:05,601 --> 00:01:06,373
+Confused?
+
+26
+00:01:06,373 --> 00:01:09,827
+Let me see if I can clarify things with an example.
+
+27
+00:01:09,827 --> 00:01:13,423
+Let's encode, also known as encipher a plain text
+
+28
+00:01:13,423 --> 00:01:16,998
+into a cipher text, where all of the letters are shifted
+
+29
+00:01:16,998 --> 00:01:19,823
+three letters down the alphabet.
+
+30
+00:01:19,823 --> 00:01:22,626
+This number three is called the key.
+
+31
+00:01:22,626 --> 00:01:25,227
+If you write out all possible letters and letters
+
+32
+00:01:25,227 --> 00:01:27,990
+you'd replace it with under our key, you'd see
+
+33
+00:01:27,990 --> 00:01:29,276
+something like this.
+
+34
+00:01:32,970 --> 00:01:35,550
+Now onto the actual enciphering.
+
+35
+00:01:35,550 --> 00:01:38,923
+Say that our plain text is the word, lazy.
+
+36
+00:01:38,923 --> 00:01:41,706
+The first character in the plain text L,
+
+37
+00:01:41,706 --> 00:01:46,094
+would become O, since O is three letters after L.
+
+38
+00:01:46,094 --> 00:01:49,223
+The second character A, would become D.
+
+39
+00:01:49,223 --> 00:01:52,210
+Now, the third letter, Z.
+
+40
+00:01:52,210 --> 00:01:54,648
+What's three letters below Z?
+
+41
+00:01:54,648 --> 00:01:57,228
+It turns out that if you reach the end of the alphabet
+
+42
+00:01:57,228 --> 00:01:59,707
+when shifting down, you're supposed to wrap around.
+
+43
+00:01:59,707 --> 00:02:03,709
+This means that Z would become C since we wrap
+
+44
+00:02:03,709 --> 00:02:06,777
+around from Z to A to move one character,
+
+45
+00:02:06,777 --> 00:02:11,777
+one letter down and A to C to move two letters down.
+
+46
+00:02:12,872 --> 00:02:16,454
+And finally, the fourth letter, Y, will become B.
+
+47
+00:02:20,166 --> 00:02:22,746
+Now that you know how to encipher a plain text
+
+48
+00:02:22,746 --> 00:02:25,875
+using a Caesar Cipher you're ready to hear about
+
+49
+00:02:25,875 --> 00:02:27,826
+the Caesar Cipher program that you're supposed
+
+50
+00:02:27,826 --> 00:02:29,004
+to be writing.
+
+51
+00:02:29,004 --> 00:02:31,828
+Here, we pulled up our solution so we can show you
+
+52
+00:02:31,828 --> 00:02:33,941
+how it all should come together.
+
+53
+00:02:33,941 --> 00:02:37,537
+In the first part, we'll write the encipher function.
+
+54
+00:02:37,537 --> 00:02:40,381
+The input to this function is a plain text string
+
+55
+00:02:40,381 --> 00:02:43,449
+and the integer key and it returns the corresponding
+
+56
+00:02:43,449 --> 00:02:45,258
+cipher text.
+
+57
+00:02:45,258 --> 00:02:48,671
+Let's try to encipher the string lazy
+
+58
+00:02:48,671 --> 00:02:51,576
+with the key of three like we did before.
+
+59
+00:02:51,576 --> 00:02:53,472
+So let's just type that in.
+
+60
+00:03:01,328 --> 00:03:03,015
+Nice.
+
+61
+00:03:03,015 --> 00:03:06,834
+Here we have the letters, ODCB, which is exactly
+
+62
+00:03:06,834 --> 00:03:10,085
+the letters that we got when we did it by hand.
+
+63
+00:03:10,085 --> 00:03:12,137
+Then, in the second part we'll be writing
+
+64
+00:03:12,137 --> 00:03:13,742
+the decipher function.
+
+65
+00:03:13,742 --> 00:03:16,708
+Here we're given a string enciphered using a
+
+66
+00:03:16,708 --> 00:03:19,248
+Caesar Cipher but we're not sure what
+
+67
+00:03:19,248 --> 00:03:21,666
+the key is that we're supposed to use.
+
+68
+00:03:21,666 --> 00:03:25,140
+Your goal is to guess the key and return the deciphered
+
+69
+00:03:25,140 --> 00:03:27,822
+string that corresponds to that guess.
+
+70
+00:03:27,822 --> 00:03:30,646
+In the best case scenario that deciphered string
+
+71
+00:03:30,646 --> 00:03:33,409
+will be equivalent to the plain text.
+
+72
+00:03:33,409 --> 00:03:37,310
+Let's try to decipher this really interesting string
+
+73
+00:03:37,310 --> 00:03:38,921
+right here.
+
+74
+00:03:43,811 --> 00:03:44,969
+Nice.
+
+75
+00:03:44,969 --> 00:03:47,996
+It actually returned an intelligible plain text,
+
+76
+00:03:47,996 --> 00:03:50,048
+which is what we expect.
+
+77
+00:03:50,048 --> 00:03:52,730
+MAX: So, here we are in the python shell
+
+78
+00:03:52,730 --> 00:03:54,213
+and we're going to go over the strategy
+
+79
+00:03:54,213 --> 00:03:57,444
+for creating encrypt using the Caesar Cipher
+
+80
+00:03:57,444 --> 00:04:00,044
+as well as go over some useful functions built
+
+81
+00:04:00,044 --> 00:04:03,519
+into Python that you might want to use.
+
+82
+00:04:03,519 --> 00:04:05,307
+We recommend writing a helper function
+
+83
+00:04:05,307 --> 00:04:08,496
+that shifts a single letter by a given value.
+
+84
+00:04:08,496 --> 00:04:13,474
+So, one thing that might be useful is being able
+
+85
+00:04:13,474 --> 00:04:16,908
+to convert your letter to it's corresponding ASCII
+
+86
+00:04:16,908 --> 00:04:18,878
+valued number.
+
+87
+00:04:18,878 --> 00:04:23,878
+For example, ord of lowercase a, gives you 97.
+
+88
+00:04:24,010 --> 00:04:27,057
+Whereas, ord of lowercase z gives you 122.
+
+89
+00:04:27,057 --> 00:04:30,186
+The uppercase letters have different ASCII values
+
+90
+00:04:30,186 --> 00:04:32,468
+than lowercase letters as you can see.
+
+91
+00:04:37,602 --> 00:04:39,755
+And if your number is between 65 and 90,
+
+92
+00:04:39,755 --> 00:04:41,503
+it will be uppercase.
+
+93
+00:04:41,503 --> 00:04:44,768
+If it's between 97 and 122, it'll be lowercase
+
+94
+00:04:44,768 --> 00:04:47,125
+and if it's outside of either of those ranges,
+
+95
+00:04:47,125 --> 00:04:49,705
+it won't be an alphabetic character and your
+
+96
+00:04:49,705 --> 00:04:52,631
+Caesar Cipher shouldn't do anything to it.
+
+97
+00:04:52,631 --> 00:04:54,662
+Your essential strategy for converting a single letter
+
+98
+00:04:54,662 --> 00:04:58,949
+should be to convert it to it's number then add
+
+99
+00:04:58,949 --> 00:05:00,114
+your key to it.
+
+100
+00:05:01,198 --> 00:05:05,573
+Then, use the module operator to bring it back into
+
+101
+00:05:05,573 --> 00:05:07,787
+range of being lowercase or uppercase,
+
+102
+00:05:07,787 --> 00:05:09,920
+if it was to begin with.
+
+103
+00:05:09,920 --> 00:05:14,350
+And then to convert from your number back to your
+
+104
+00:05:14,350 --> 00:05:19,350
+new character, using the CHR, or character method.
+
+105
+00:05:22,172 --> 00:05:27,172
+So that will take 97 and convert it back to an a,
+
+106
+00:05:27,231 --> 00:05:28,456
+for example.
+
+107
+00:05:30,014 --> 00:05:34,626
+Then, once you have your function that takes a single
+
+108
+00:05:34,626 --> 00:05:37,775
+letter and shifts it by a key, you can use a list
+
+109
+00:05:37,775 --> 00:05:41,106
+comprehension to make a list of all your newly
+
+110
+00:05:41,106 --> 00:05:44,683
+enciphered letters and then you can take your list
+
+111
+00:05:46,203 --> 00:05:51,203
+and join it all together using Python's join function.
+
+112
+00:05:55,207 --> 00:05:57,482
+That should outline a pretty basic stategy for
+
+113
+00:05:57,482 --> 00:05:59,798
+how you'll make encipher.
+
+114
+00:05:59,798 --> 00:06:03,903
+So, if we're given a cipher text and we also know the key,
+
+115
+00:06:03,903 --> 00:06:06,544
+we can take 26 minus the key
+
+116
+00:06:06,544 --> 00:06:10,445
+and decipher it just like we encipher it.
+
+117
+00:06:10,445 --> 00:06:13,452
+However, if we don't know the key, things start
+
+118
+00:06:13,452 --> 00:06:16,398
+to get a little more complicated.
+
+119
+00:06:16,398 --> 00:06:18,937
+We can use a list comprehension to make a list
+
+120
+00:06:18,937 --> 00:06:22,432
+of all the possible candidate strings.
+
+121
+00:06:22,432 --> 00:06:25,114
+And we then wait for our code to make an educated guess
+
+122
+00:06:25,114 --> 00:06:29,035
+as to which one is our desired message.
+
+123
+00:06:29,035 --> 00:06:30,660
+Let's just say the desired message is going
+
+124
+00:06:30,660 --> 00:06:32,164
+to be in English.
+
+125
+00:06:32,164 --> 00:06:34,317
+Let's use some of the information we know about English
+
+126
+00:06:34,317 --> 00:06:38,462
+to take an educated guess or create a heuristic,
+
+127
+00:06:38,462 --> 00:06:41,089
+that let's us figure out which one is our desired message.
+
+128
+00:06:42,769 --> 00:06:46,609
+For example, we know that English has a lot of vowels,
+
+129
+00:06:46,609 --> 00:06:49,271
+so maybe the candidate string with the most vowels
+
+130
+00:06:49,271 --> 00:06:51,166
+might be the right one.
+
+131
+00:06:52,318 --> 00:06:54,898
+However, if you want to consider all of the letters,
+
+132
+00:06:54,898 --> 00:06:57,397
+you may have already written a function that takes the
+
+133
+00:06:57,397 --> 00:07:01,197
+Scrabble score of a string and we know
+
+134
+00:07:01,197 --> 00:07:04,915
+that in Scrabble more common letters are given
+
+135
+00:07:04,915 --> 00:07:08,470
+fewer points. So perhaps the string with the smallest
+
+136
+00:07:08,470 --> 00:07:11,761
+Scrabble score is likely to be English.
+
+137
+00:07:11,761 --> 00:07:13,651
+If you'd like to be more precise,
+
+138
+00:07:13,651 --> 00:07:16,333
+we've given you a function that takes in a letter
+
+139
+00:07:16,333 --> 00:07:18,913
+and gives you a frequency, or how common
+
+140
+00:07:18,913 --> 00:07:22,123
+it shows up in typical English.
+
+141
+00:07:22,123 --> 00:07:25,760
+You might find that taking the sum of the letter frequency
+
+142
+00:07:25,760 --> 00:07:28,503
+across the strings gives you a good estimate
+
+143
+00:07:28,503 --> 00:07:30,961
+of how likely that string is to be English
+
+144
+00:07:30,961 --> 00:07:34,618
+and then you'd take the one with the best frequency score.
+
+145
+00:07:34,618 --> 00:07:37,320
+Some more advanced ways that you don't quite expect involve
+
+146
+00:07:37,320 --> 00:07:40,632
+using dictionaries or finding which combinations of letters
+
+147
+00:07:40,632 --> 00:07:43,781
+are more common. However, we think that the
+
+148
+00:07:43,781 --> 00:07:45,996
+singular approach should work pretty well
+
+149
+00:07:45,996 --> 00:07:48,466
+but you're definitely encouraged to experiment
+
+150
+00:07:48,466 --> 00:07:49,950
+and try your own ways.
+
+151
+00:07:49,950 --> 00:07:51,778
+MAURY: Once you have a way of scoring a string for its
+
+152
+00:07:51,778 --> 00:07:54,358
+Englishness, we're now ready to put everything
+
+153
+00:07:54,358 --> 00:07:56,167
+together and write the decipher function.
+
+154
+00:07:56,167 --> 00:07:58,219
+The first thing we will need to do is create a list
+
+155
+00:07:58,219 --> 00:08:01,083
+comprehension that generates a list of all possible
+
+156
+00:08:01,083 --> 00:08:03,135
+candidate strings.
+
+157
+00:08:03,135 --> 00:08:05,350
+The next thing we'll need to do is use that list
+
+158
+00:08:05,350 --> 00:08:08,702
+in a list comprehension to create a new list.
+
+159
+00:08:08,702 --> 00:08:10,734
+This new list will have an element for each
+
+160
+00:08:10,734 --> 00:08:12,826
+candidate's string and that element
+
+161
+00:08:12,826 --> 00:08:15,386
+will be a list consisting of two items.
+
+162
+00:08:15,386 --> 00:08:18,475
+The first item is a score and the second item is
+
+163
+00:08:18,475 --> 00:08:22,538
+the candidate string that led to us having that score.
+
+164
+00:08:22,538 --> 00:08:24,793
+And then finally, we can use this new list
+
+165
+00:08:24,793 --> 00:08:27,983
+to find the high score and then we return
+
+166
+00:08:27,983 --> 00:08:30,441
+the candidate string that led us to having
+
+167
+00:08:30,441 --> 00:08:32,879
+that higher score. And that pretty much wraps up
+
+168
+00:08:32,879 --> 00:08:34,789
+how to write the decipher function.
+
+169
+00:08:34,789 --> 00:08:35,649
+Good luck.
+

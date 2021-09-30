@@ -1,0 +1,280 @@
+0
+00:00:00,890 --> 00:00:03,780
+SIMON: Simon here from Harvey Mudd CS5 xMOOCs.
+
+1
+00:00:03,780 --> 00:00:09,410
+And today we are going to be talking about list comprehensions.
+
+2
+00:00:09,410 --> 00:00:14,080
+Suppose we want to write a function that takes in a list,
+
+3
+00:00:14,080 --> 00:00:19,090
+doubles every number in that list, and then returns that list.
+
+4
+00:00:19,090 --> 00:00:22,420
+We could write a function to do this recursively.
+
+5
+00:00:22,420 --> 00:00:26,870
+This function takes in a list and returns a new list
+
+6
+00:00:26,870 --> 00:00:29,730
+with each element of the old one doubled.
+
+7
+00:00:29,730 --> 00:00:33,490
+As you can see, this isn't the most visually appealing code.
+
+8
+00:00:33,490 --> 00:00:38,170
+And there are better ways to write a function that does what we want.
+
+9
+00:00:38,170 --> 00:00:43,940
+We want to write code that does some thing, that thing being the function
+
+10
+00:00:43,940 --> 00:00:47,420
+of doubling to every item in a list.
+
+11
+00:00:47,420 --> 00:00:51,240
+And Python gives us a couple ways to actually do this.
+
+12
+00:00:51,240 --> 00:00:54,250
+The first is the map function.
+
+13
+00:00:54,250 --> 00:00:59,180
+Map takes a function and, as the name suggests,
+
+14
+00:00:59,180 --> 00:01:02,850
+maps it on to every element of a list.
+
+15
+00:01:02,850 --> 00:01:19,720
+So if we have a double function as so and we have a list like this one,
+
+16
+00:01:19,720 --> 00:01:31,920
+we can call map of double L and that will return a new list that
+
+17
+00:01:31,920 --> 00:01:36,730
+is L but with every element doubled.
+
+18
+00:01:36,730 --> 00:01:40,460
+So negative 5 became negative 10.
+
+19
+00:01:40,460 --> 00:01:42,670
+OK, this 2 over here became 4.
+
+20
+00:01:42,670 --> 00:01:51,460
+You can see that map indeed did double every number in f.
+
+21
+00:01:51,460 --> 00:01:57,070
+Map is nice, but it means you have to write a function to do anything, even
+
+22
+00:01:57,070 --> 00:02:00,290
+something as simple as doubling x.
+
+23
+00:02:00,290 --> 00:02:06,440
+A simpler way to perform a function on each element of a list
+
+24
+00:02:06,440 --> 00:02:09,360
+is something we call list comprehension.
+
+25
+00:02:09,360 --> 00:02:13,710
+For example, let's use a list comprehension
+
+26
+00:02:13,710 --> 00:02:18,240
+to double every number in a list.
+
+27
+00:02:18,240 --> 00:02:21,680
+To do this, we would use the following syntax
+
+28
+00:02:21,680 --> 00:02:24,130
+that you can see in the next function defined.
+
+29
+00:02:27,530 --> 00:02:31,210
+Let's go through what's happening here.
+
+30
+00:02:31,210 --> 00:02:38,480
+The first part says what we want to do to each element of our list, which
+
+31
+00:02:38,480 --> 00:02:41,830
+is, in this case multiply each element by 2.
+
+32
+00:02:45,240 --> 00:02:50,650
+For i defines what we want to call each element of our list.
+
+33
+00:02:50,650 --> 00:02:58,620
+In this case, we call it i, but it could really be any variable name.
+
+34
+00:02:58,620 --> 00:03:08,060
+Then in L tells us that i will take on each value in the list
+
+35
+00:03:08,060 --> 00:03:11,570
+and undergo the function we described in the beginning
+
+36
+00:03:11,570 --> 00:03:13,620
+of the list comprehension.
+
+37
+00:03:13,620 --> 00:03:16,330
+Essentially, you're telling Python to perform
+
+38
+00:03:16,330 --> 00:03:25,010
+a function f for each element of L.
+
+39
+00:03:25,010 --> 00:03:30,460
+To check if you understand this, try and write a list comprehension that
+
+40
+00:03:30,460 --> 00:03:32,480
+squares each element of some list L.
+
+41
+00:03:52,140 --> 00:03:59,735
+One list comprehension that would work to do this is x times x for x in L.
+
+42
+00:04:04,590 --> 00:04:07,500
+Although, there are a number of different ways you could write it.
+
+43
+00:04:07,500 --> 00:04:13,260
+To check if yours works, you can always test it in the Python shell.
+
+44
+00:04:13,260 --> 00:04:17,370
+We can also do more complex things with list comprehensions.
+
+45
+00:04:17,370 --> 00:04:22,850
+Suppose we want to multiply each element in a list by negative 7
+
+46
+00:04:22,850 --> 00:04:27,120
+if its absolute value is greater than 4.
+
+47
+00:04:27,120 --> 00:04:33,730
+Let's use the list range -7, 7.
+
+48
+00:04:33,730 --> 00:04:42,800
+To motivate this example, let's use the list range -6 to 7,
+
+49
+00:04:42,800 --> 00:04:45,730
+which will give us a list of all integers
+
+50
+00:04:45,730 --> 00:04:48,325
+from -6 to 6 inclusive.
+
+51
+00:04:50,860 --> 00:04:53,480
+I'll give you a syntactic hint.
+
+52
+00:04:53,480 --> 00:04:56,740
+To give our list comprehension a condition
+
+53
+00:04:56,740 --> 00:05:02,020
+at the end of the list comprehension, we write if insert condition.
+
+54
+00:05:04,910 --> 00:05:08,630
+Try to write this yourself.
+
+55
+00:05:08,630 --> 00:05:09,720
+This is what we got.
+
+56
+00:05:13,870 --> 00:05:17,350
+We can see that our list variable is b.
+
+57
+00:05:17,350 --> 00:05:22,640
+And we'll multiply each element b by -7.
+
+58
+00:05:22,640 --> 00:05:28,130
+The if statement tells Python that it'll only
+
+59
+00:05:28,130 --> 00:05:34,000
+compute the first statement if the absolute value of b is greater than 4.
+
+60
+00:05:34,000 --> 00:05:48,370
+If we run this, we get just as we hoped.
+
+61
+00:05:48,370 --> 00:05:53,470
+In summary if we want to do something to or in other words,
+
+62
+00:05:53,470 --> 00:05:57,060
+perform a function on everything in a list,
+
+63
+00:05:57,060 --> 00:06:00,510
+we can either use map or a list comprehension.
+
+64
+00:06:00,510 --> 00:06:03,990
+We learned how list comprehensions work by implicitly
+
+65
+00:06:03,990 --> 00:06:08,540
+using the map function that we also introduced to you in this video.
+
+66
+00:06:08,540 --> 00:06:13,730
+List comprehensions can also filter out certain values from a list.
+
+67
+00:06:13,730 --> 00:06:17,710
+Because of the concise syntax of list comprehensions,
+
+68
+00:06:17,710 --> 00:06:20,910
+they become a very powerful and flexible tool.
+
+69
+00:06:20,910 --> 00:06:25,740
+We highly recommend you use them when appropriate in future assignments.
+
