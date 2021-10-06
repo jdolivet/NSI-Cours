@@ -1,0 +1,174 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2b:90:6a:ca:18:ac:59:69:42:5f:4a:1f:fe:fe:7b:f5
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = NL, O = GEANT Vereniging, CN = GEANT OV RSA CA 4
+        Validity
+            Not Before: Sep 15 00:00:00 2021 GMT
+            Not After : Sep 15 23:59:59 2022 GMT
+        Subject: C = FR, L = Le Chesnay-Rocquencourt, O = INSTITUT NATIONAL DE RECHERCHE EN INFORMATIQUE ET EN AUTOMATIQUE, OU = DSI, CN = www.interstices.info
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:b6:dc:f4:01:73:45:de:e0:14:15:ae:a9:d0:5b:
+                    fb:7d:9a:1f:9a:82:0c:56:7c:13:37:23:6c:84:b2:
+                    a5:dd:de:06:f2:d7:23:25:95:70:9b:37:41:e2:96:
+                    fd:3b:3f:3d:17:0b:39:50:74:c2:65:07:17:42:f9:
+                    eb:4c:79:fa:51:87:2d:47:4d:d4:c1:1d:47:25:c6:
+                    f0:44:43:f0:66:63:78:d1:cd:4f:37:e2:2b:14:62:
+                    a6:98:1a:40:e6:06:c7:b8:d1:3c:dd:ca:5d:6b:0b:
+                    95:c9:3b:72:67:b6:7d:4f:36:8c:58:6b:c4:38:2f:
+                    29:df:55:11:25:02:36:2d:9b:26:12:7b:94:b7:7b:
+                    f0:42:9c:c2:6f:33:35:84:91:ef:66:2e:14:90:5b:
+                    a2:82:fe:4c:74:b2:c7:06:ef:74:5f:cf:2a:6a:0c:
+                    85:12:31:9c:a4:c9:a7:eb:ce:a0:69:c9:88:bc:50:
+                    bc:70:58:b1:b5:99:7b:be:cb:c5:6b:e2:1b:90:03:
+                    2e:5c:21:7a:d0:39:a5:97:55:28:2a:2e:41:c5:2e:
+                    1f:93:ae:14:92:79:65:7c:8a:3b:3a:00:58:48:06:
+                    3d:c2:b8:5d:a7:67:14:77:76:c5:6d:22:56:ba:68:
+                    8a:bb:55:77:33:52:0e:6c:33:3b:e9:0a:2f:c7:91:
+                    2a:f7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:6F:1D:35:49:10:6C:32:FA:59:A0:9E:BC:8A:E8:1F:95:BE:71:7A:0C
+
+            X509v3 Subject Key Identifier: 
+                E5:F6:0E:6F:0E:6C:A3:15:5C:C5:59:96:B8:E3:87:A8:CC:8E:00:4E
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.79
+                  CPS: https://sectigo.com/CPS
+                Policy: 2.23.140.1.2.2
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://GEANT.crl.sectigo.com/GEANTOVRSACA4.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://GEANT.crt.sectigo.com/GEANTOVRSACA4.crt
+                OCSP - URI:http://GEANT.ocsp.sectigo.com
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 46:A5:55:EB:75:FA:91:20:30:B5:A2:89:69:F4:F3:7D:
+                                11:2C:41:74:BE:FD:49:B8:85:AB:F2:FC:70:FE:6D:47
+                    Timestamp : Sep 15 13:51:13.795 2021 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:41:20:46:9F:38:D6:F6:05:95:C2:65:B5:
+                                28:8A:17:62:26:3C:53:8A:3E:59:9A:D8:9B:97:82:94:
+                                DB:44:89:FB:02:20:7F:8D:36:4C:1E:D7:04:B9:60:67:
+                                6D:EF:7D:7B:37:4C:9D:7C:DF:35:29:B6:4D:84:BF:C6:
+                                6A:C6:16:E8:06:F0
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 41:C8:CA:B1:DF:22:46:4A:10:C6:A1:3A:09:42:87:5E:
+                                4E:31:8B:1B:03:EB:EB:4B:C7:68:F0:90:62:96:06:F6
+                    Timestamp : Sep 15 13:51:13.729 2021 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:68:2F:3B:C7:81:B4:A1:CE:24:C3:8F:30:
+                                E0:CE:ED:64:81:45:7E:D4:46:A6:13:1F:DA:CE:01:43:
+                                81:5E:67:6F:02:20:2E:7D:92:B3:0E:4B:58:60:3A:2B:
+                                51:66:BE:DB:19:F8:AE:B6:13:33:B6:77:CF:C2:AB:61:
+                                89:B7:D5:E4:32:2B
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 29:79:BE:F0:9E:39:39:21:F0:56:73:9F:63:A5:77:E5:
+                                BE:57:7D:9C:60:0A:F8:F9:4D:5D:26:5C:25:5D:C7:84
+                    Timestamp : Sep 15 13:51:13.701 2021 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:8C:90:1C:66:EF:C2:91:64:83:D0:42:
+                                B9:F9:AB:9F:0B:95:35:DB:6E:89:90:69:36:2A:61:16:
+                                64:E2:57:B0:B4:02:20:22:E7:39:7F:98:F9:7F:84:50:
+                                7E:1F:C8:9A:39:B0:F5:50:C6:7E:FB:64:31:03:5A:EF:
+                                8B:9F:09:3E:78:BF:C4
+            X509v3 Subject Alternative Name: 
+                DNS:www.interstices.info, DNS:interstices.eu, DNS:interstices.fr, DNS:interstices.info, DNS:interstices.net, DNS:interstices1.inria.fr
+    Signature Algorithm: sha384WithRSAEncryption
+         8a:0e:6f:9b:7d:8f:e9:c0:80:7b:db:ff:24:87:5f:93:60:89:
+         7e:36:5e:92:53:66:e5:fe:c0:50:9a:55:d2:1f:4b:6b:67:05:
+         ab:5f:a8:df:08:95:cf:c8:12:08:79:a9:a4:9c:b1:56:f4:bd:
+         f9:64:bf:de:aa:e6:31:15:97:26:ab:73:b4:55:01:0f:80:cf:
+         16:8a:98:17:e9:93:c2:2a:f1:91:8f:04:6d:47:97:ee:ae:16:
+         0e:c6:2c:7e:aa:81:fb:12:ea:8d:ad:5d:46:da:b4:96:50:3d:
+         6c:18:d4:a9:58:60:c9:24:6e:69:0f:1b:28:ff:82:cc:21:03:
+         41:3e:83:16:0d:d2:3f:5f:a9:36:a8:fe:da:61:d4:d8:d3:ce:
+         d4:f9:df:9f:dd:ea:1c:d8:88:b4:50:64:c6:34:f6:ce:26:c7:
+         45:4c:40:c7:8f:e5:4f:5e:01:57:56:47:7f:d3:a7:8e:e0:4f:
+         6b:c1:a3:fd:52:25:f1:69:84:d3:d5:28:a2:ee:19:6e:40:05:
+         15:ec:74:ec:a4:b6:d4:4c:44:91:e1:da:58:33:1e:bb:82:d2:
+         99:3b:ec:01:b5:4c:26:65:3e:88:80:15:41:ea:43:30:b0:62:
+         ee:0f:c0:9a:6e:6b:31:1b:ef:7f:cd:07:5d:3b:ee:d1:10:cb:
+         9d:6d:99:2a:e9:59:2b:2d:08:bc:cc:50:8e:fb:a6:a3:c7:e2:
+         70:d2:95:f6:38:a3:9f:0e:e7:04:3d:d1:5c:6a:11:ed:6c:31:
+         80:ac:5e:7f:19:ff:0d:01:e9:b0:95:93:9c:eb:89:df:23:b8:
+         3b:7a:9c:16:23:8d:c3:b7:8e:6e:25:b7:bd:54:92:e7:2a:3a:
+         66:dd:54:6b:5e:d9:a8:b9:92:a8:86:9c:d8:c4:f2:cc:ad:53:
+         21:38:df:99:65:ec:d8:56:10:02:81:bc:97:d6:cf:71:ea:db:
+         9b:23:12:50:6f:ac:f2:75:73:e3:87:6b:fe:05:d0:23:1b:d3:
+         44:b6:aa:7b:ae:cb:b3:f8:64:f3:80:b3:ff:43:d1:84:dc:4a:
+         c6:be:4e:70:8f:d3:2d:88:ef:2f:bd:ef:9e:a0:da:d3:6d:b3:
+         7f:92:44:ac:ef:3e:3d:24:1c:5e:ae:ce:8e:da:16:06:f7:5f:
+         05:19:f2:0d:9f:e0:cd:92:e3:a6:cf:86:80:08:86:7e:b9:10:
+         5c:cb:43:b1:92:00:b5:73:24:e1:48:4d:20:ff:1b:c7:9a:41:
+         9e:9e:90:1a:34:65:a6:f4:62:0c:13:57:f5:af:dc:94:4f:b9:
+         01:7d:e3:91:4e:11:15:2e:8a:2b:dd:e0:27:43:21:cb:51:8f:
+         67:f4:ff:62:63:e7:2f:50
+-----BEGIN CERTIFICATE-----
+MIIH9zCCBd+gAwIBAgIQK5BqyhisWWlCX0of/v579TANBgkqhkiG9w0BAQwFADBE
+MQswCQYDVQQGEwJOTDEZMBcGA1UEChMQR0VBTlQgVmVyZW5pZ2luZzEaMBgGA1UE
+AxMRR0VBTlQgT1YgUlNBIENBIDQwHhcNMjEwOTE1MDAwMDAwWhcNMjIwOTE1MjM1
+OTU5WjCBpzELMAkGA1UEBhMCRlIxIDAeBgNVBAcTF0xlIENoZXNuYXktUm9jcXVl
+bmNvdXJ0MUkwRwYDVQQKE0BJTlNUSVRVVCBOQVRJT05BTCBERSBSRUNIRVJDSEUg
+RU4gSU5GT1JNQVRJUVVFIEVUIEVOIEFVVE9NQVRJUVVFMQwwCgYDVQQLEwNEU0kx
+HTAbBgNVBAMTFHd3dy5pbnRlcnN0aWNlcy5pbmZvMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAttz0AXNF3uAUFa6p0Fv7fZofmoIMVnwTNyNshLKl3d4G
+8tcjJZVwmzdB4pb9Oz89Fws5UHTCZQcXQvnrTHn6UYctR03UwR1HJcbwREPwZmN4
+0c1PN+IrFGKmmBpA5gbHuNE83cpdawuVyTtyZ7Z9TzaMWGvEOC8p31URJQI2LZsm
+EnuUt3vwQpzCbzM1hJHvZi4UkFuigv5MdLLHBu90X88qagyFEjGcpMmn686gacmI
+vFC8cFixtZl7vsvFa+IbkAMuXCF60Dmll1UoKi5BxS4fk64UknllfIo7OgBYSAY9
+wrhdp2cUd3bFbSJWumiKu1V3M1IObDM76Qovx5Eq9wIDAQABo4IDfzCCA3swHwYD
+VR0jBBgwFoAUbx01SRBsMvpZoJ68iugflb5xegwwHQYDVR0OBBYEFOX2Dm8ObKMV
+XMVZlrjjh6jMjgBOMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgJPMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECAjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vR0VBTlQuY3JsLnNlY3RpZ28u
+Y29tL0dFQU5UT1ZSU0FDQTQuY3JsMHUGCCsGAQUFBwEBBGkwZzA6BggrBgEFBQcw
+AoYuaHR0cDovL0dFQU5ULmNydC5zZWN0aWdvLmNvbS9HRUFOVE9WUlNBQ0E0LmNy
+dDApBggrBgEFBQcwAYYdaHR0cDovL0dFQU5ULm9jc3Auc2VjdGlnby5jb20wggF8
+BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AEalVet1+pEgMLWiiWn0830RLEF0vv1J
+uIWr8vxw/m1HAAABe+m5z4MAAAQDAEYwRAIgQSBGnzjW9gWVwmW1KIoXYiY8U4o+
+WZrYm5eClNtEifsCIH+NNkwe1wS5YGdt7317N0ydfN81KbZNhL/GasYW6AbwAHUA
+QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF76bnPQQAABAMARjBE
+AiBoLzvHgbShziTDjzDgzu1kgUV+1EamEx/azgFDgV5nbwIgLn2Ssw5LWGA6K1Fm
+vtsZ+K62EzO2d8/Cq2GJt9XkMisAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlN
+XSZcJV3HhAAAAXvpuc8lAAAEAwBHMEUCIQCMkBxm78KRZIPQQrn5q58LlTXbbomQ
+aTYqYRZk4lewtAIgIuc5f5j5f4RQfh/Imjmw9VDGfvtkMQNa74ufCT54v8QweQYD
+VR0RBHIwcIIUd3d3LmludGVyc3RpY2VzLmluZm+CDmludGVyc3RpY2VzLmV1gg5p
+bnRlcnN0aWNlcy5mcoIQaW50ZXJzdGljZXMuaW5mb4IPaW50ZXJzdGljZXMubmV0
+ghVpbnRlcnN0aWNlczEuaW5yaWEuZnIwDQYJKoZIhvcNAQEMBQADggIBAIoOb5t9
+j+nAgHvb/ySHX5NgiX42XpJTZuX+wFCaVdIfS2tnBatfqN8Ilc/IEgh5qaScsVb0
+vflkv96q5jEVlyarc7RVAQ+AzxaKmBfpk8Iq8ZGPBG1Hl+6uFg7GLH6qgfsS6o2t
+XUbatJZQPWwY1KlYYMkkbmkPGyj/gswhA0E+gxYN0j9fqTao/tph1NjTztT535/d
+6hzYiLRQZMY09s4mx0VMQMeP5U9eAVdWR3/Tp47gT2vBo/1SJfFphNPVKKLuGW5A
+BRXsdOykttRMRJHh2lgzHruC0pk77AG1TCZlPoiAFUHqQzCwYu4PwJpuazEb73/N
+B1077tEQy51tmSrpWSstCLzMUI77pqPH4nDSlfY4o58O5wQ90VxqEe1sMYCsXn8Z
+/w0B6bCVk5zrid8juDt6nBYjjcO3jm4lt71UkucqOmbdVGte2ai5kqiGnNjE8syt
+UyE435ll7NhWEAKBvJfWz3Hq25sjElBvrPJ1c+OHa/4F0CMb00S2qnuuy7P4ZPOA
+s/9D0YTcSsa+TnCP0y2I7y+9756g2tNts3+SRKzvPj0kHF6uzo7aFgb3XwUZ8g2f
+4M2S46bPhoAIhn65EFzLQ7GSALVzJOFITSD/G8eaQZ6ekBo0Zab0YgwTV/Wv3JRP
+uQF945FOERUuiivd4CdDIctRj2f0/2Jj5y9Q
+-----END CERTIFICATE-----
