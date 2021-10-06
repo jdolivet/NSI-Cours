@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width"/> <!--adaptation mobile-->
+		<title>Interstices - À l’attaque des codes secrets</title>
+	
+		<link href="css/smoothness/jquery-ui-1.9.2.custom.css" rel="stylesheet">
+		<link type="text/css" href="css/codes_secrets.css" rel="stylesheet"/>
+		
+		<script  src="js/jquery-1.8.2.min.js"></script>
+		<script  src="js/jquery-ui-1.9.2.custom.min.js"></script>
+		<script  src="js/seedrandom-min.js"></script>
+		<script  src="js/codes_secrets.js"></script>
+
+		
+	</head>
+	<body>
+	
+	
+	<!-- Première partie, chiffrement de César -->
+	<div id="shifted" class="cs_container">
+		<form>
+			<fieldset>
+			
+				<div id="shifted_dialog" class="help_dialog" title="Options">
+					<fieldset>
+						<p><input type="checkbox" id="shifted_mouseover"/><label for="shifted_mouseover">Aide au survol</label></p>
+						<p><span id="shifted_openAll" class="helpButton">Afficher toute l'aide</span></p>
+					</fieldset>
+				</div>
+				<span class="helpDialog" title="Réglages">Options</span>
+				<span class="help helpItem2" title="Aide">Que dois-je faire?</span>
+				<div class="legend">Chiffre par subsitution avec alphabet décalé</div>
+				<section>
+					<div class="plainTextContainer">
+						<label for="shifted_plainText" id="shifted_plainText-label" class="error-label">Texte avant transformation : </label><br />
+						<textarea rows="8" cols="60" id="shifted_plainText" class="tooltip"></textarea>
+					</div>
+				</section>
+				<section>
+					<table class="mleft50">
+						<tr>
+							<td>
+								<label for="shifted_key" id="shifted_key-label" class="error-label">Clef : </label>
+								<input type="text" id="shifted_key" size="4" value="3" class="tooltip"/>
+							</td>
+							<td class="pleft20">
+								<table>
+									<tr><td><strong>Alphabet original</strong> : </td><td class="alphabet">abcdefghijklmnopqrstuvwxyz</td></tr>
+									<tr><td><strong>Alphabet décalé</strong> : </td><td id="shifted_alphabet" class="alphabet">abcdefghijklmnopqrstuvwxyz</td></tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</section>
+				<section class="buttonsArea">
+					<span id="shifted_buttonsArea" class="tooltip">
+						<input type="button" value="Chiffrer" class="encode"/>
+						<input type="button" value="Déchiffrer" class="decode"/>
+						<input type="button" value="Echanger les textes" class="swap"/>
+					</span>
+				</section>
+				<section>
+					<div class="plainTextContainer">
+						<label for="shifted_encryptedText">Texte après transformation : </label><br />
+						<textarea id="shifted_encryptedText" class="encryptedText" readonly="readonly"></textarea>
+					</div>
+				</section>
+				<section>
+					<table>
+						<tr>
+							<td>
+								<span class="fba">Attaque par force brute : </span>
+							</td>
+							<td class="indent">
+								<input type="button" value="Lancer" class="brute_force_go"/>
+								<input type="button" value="Arrêter" class="brute_force_stop" disabled="disabled"/>
+								<input type="button" title="Précédent" value="<" class="brute_force_previous"/>
+								<input type="button" title="Suivant" value=">" class="brute_force_next"/>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<span class="kpa">Attaque à texte clair connu : </span>
+							</td>
+							<td class="indent">
+								<input type="text" class="knownPlainText tooltip"/>
+								<input type="button" class="knownPlainTextSubmit" value="Chercher"/>
+							</td>
+						</tr>
+					</table>
+				</section>
+			</fieldset>
+		</form>
+	</div>
+	
+	<!-- Deuxième partie, chiffrement par permutation -->
+	<div id="permuted" class="cs_container">
+		<form>
+			<fieldset>
+				<div class="legend">Chiffre par subsitution avec alphabet permuté</div>
+				<div id="permuted_dialog" class="help_dialog" title="Options">
+						<fieldset>
+							<p><input type="checkbox" id="permuted_mouseover"/><label for="permuted_mouseover">Aide au survol</label></p>
+							<p><span class="helpButton" id="permuted_openAll">Afficher toute l'aide</span></p>
+						</fieldset>
+				</div>
+				<span class="helpDialog" title="Réglages">Options</span>
+				<span class="help helpItem2" title="Aide">Que dois-je faire?</span>
+				<section>
+					<div class="plainTextContainer">
+						<label for="permuted_plainText" id="permuted_plainText-label">Texte avant transformation : </label><br />
+						<textarea rows="8" cols="60" id="permuted_plainText" class="tooltip"></textarea>
+					</div>
+				</section>
+	
+				<section>
+					<table  class="mleft50">
+						<tr>
+							<td>
+								<label for="permuted_key" id="permuted_key-label">Clef : </label>
+								<input type="text" id="permuted_key" size="4" value="314" class="tooltip"/>
+							</td>
+							<td class="pleft20">
+								<table>
+									<tr><td><strong>Alphabet original</strong> : </td><td class="alphabet">abcdefghijklmnopqrstuvwxyz</td></tr>
+									<tr><td><strong>Alphabet permuté</strong> : </td><td id="permuted_alphabet" class="alphabet">abcdefghijklmnopqrstuvwxyz</td></tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</section>
+				<section class="buttonsArea">
+					<span id="permuted_buttonsArea" class="tooltip">
+						<input type="button" value="Chiffrer" class="encode"/>
+						<input type="button" value="Déchiffrer" class="decode"/>
+						<input type="button" value="Echanger les textes" class="swap"/>
+					</span>
+				</section>
+				<section>
+					<div class="encryptedTextContainer">
+						<label for="permuted_encryptedText">Texte après transformation : </label><br />
+						<textarea id="permuted_encryptedText" class="encryptedText" readonly="readonly"></textarea>
+					</div>
+				</section>
+				<section>
+					<table>
+						<tr>
+							<td>
+								<span class="kpa">Attaque à texte clair connu : </span>
+							</td>
+							<td class="indent">
+								<input type="text" class="knownPlainText tooltip"/>
+								<input type="button" class="knownPlainTextSubmit" value="Chercher"/>
+							</td>
+						</tr>
+					</table>
+				</section>
+			</fieldset>
+		</form>
+	</div>
+	
+	<!-- Troisème partie, analyse fréquentielle-->
+	<div id="freq_ana" class="cs_container">
+		<form>
+			<fieldset>
+				<div class="legend">Attaque par analyse fréquentielle</div>
+				<div id="freq_ana_dialog" class="help_dialog" title="Options">
+						<fieldset>
+							<p><input type="checkbox" id="freq_ana_mouseover"/><label for="freq_ana_mouseover">Aide au survol</label></p>
+							<p><span class="helpButton" id="freq_ana_openAll">Afficher toute l'aide</span></p>
+						</fieldset>
+				</div>
+				<span class="helpDialog" title="Réglages">Options</span>
+				<span class="help helpItem2" title="Aide">Que dois-je faire?</span>
+				<section>
+					<div class="plainTextContainer">
+						<label for="freq_ana_plainText" id="freq_ana_plainText-label">Texte à déchiffrer : </label><br />
+						<textarea rows="8" cols="60" id="freq_ana_plainText" class="tooltip"></textarea>
+					</div>
+				</section>
+				
+				<section>
+					<table class="mleft50"><tr><td id="freq_ana_letters" class="tooltip"></td></tr></table>
+				</section>
+				
+				<section class="buttonsArea">
+					<span id="freq_ana_buttonsArea" class="tooltip">
+						<input type="button" value="Appliquer substitutions" class="encode" id="freq_ana_substitute"/>
+					</span>
+				</section>
+				
+				<section>
+					<div class="encryptedTextContainer">
+						<label for="freq_ana_encryptedText">Résultat des substitutions : </label><br />
+						<textarea id="freq_ana_encryptedText" class="encryptedText" readonly="readonly"></textarea>
+					</div>
+				</section>
+				
+				
+			</fieldset>
+		</form>
+	</div>
+	</body>
+</html>

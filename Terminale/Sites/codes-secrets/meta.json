@@ -1,0 +1,47 @@
+{
+    "name": "Codes secrets",
+    "width": "800px",
+    "height": "1300px",
+    "comment": "Deux exemples simples de codes secrets, pour découvrir comment ils sont construits et comment il est possible de les casser",
+    "link": "http://interstices.info/codes-secrets",
+    "links": [
+        {
+            "title": "Document original dans lequel ce grain s'insère",
+            "uri": "http://interstices.info/codes-secrets"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Villain, Quentin",
+            "email": "quentin.villain@tnservices.fr",
+            "role": "auteur",
+            "comment": "version HTLM5/JS"
+        },
+        {
+            "name": "Cunche, Mathieu",
+            "role": "auteur",
+            "comment": "version originale en Java"
+        },
+        {
+            "name": "Cunche, Mathieu",
+            "role": "auteur",
+            "comment": "concepteur"
+        },
+        {
+            "name": "http://www.tnservices.fr/",
+            "role": "producteur"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "CC BY-NC-SA",
+            "uri": "http://creativecommons.org/licenses/by-nc-sa/3.0/fr",
+            "comment": "s'applique aux documents"
+        },
+        {
+            "name": "CeCILL-C",
+            "uri": "http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html",
+            "comment": "s'applique au code source"
+        }
+    ]
+}
