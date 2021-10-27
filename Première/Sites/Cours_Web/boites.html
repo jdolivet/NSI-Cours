@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang = "fr">
+   <head>
+      <title>Boîtes JavaScript</title>
+      <meta charset = "utf-8">
+      <script type = "text/javascript">
+         let msg1 = "Bonjour";
+         let msg2 = "Comment allez-vous?";
+         alert(msg1);  // première boîte alert
+         let confirmation = confirm(msg2); // deuxième boîte confirm
+         if (confirmation) {
+             nom = prompt("Quel est ton nom?", "nom"); // troisième boite prompt
+             let nombre = 7;
+             let msg3 = new Array(2); // tableau de 2 éléments
+             msg3[0] = msg1;
+             msg3[1] = " " + nom + " : 3 fois " + nombre + " = " + 3 * nombre;
+             alert(msg3);
+         } else {
+             alert("Dommage!");
+         }
+      </script>
+   </head>
+   <body>
+      <p>Une page avec JavaScript</p>
+   </body>
+</html>
