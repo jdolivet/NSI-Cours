@@ -1,1 +1,3 @@
 Un message
+sur
+plusieurs lignes ...
