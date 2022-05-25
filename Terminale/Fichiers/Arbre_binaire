@@ -1,0 +1,29 @@
+/*
+  Arbre binaire
+
+  Date: Wed May 25 20:34:16 2022
+
+*/
+
+digraph G {
+	bgcolor="#FFFFFF";
+
+	"N()" [label="A"];
+	"N(0)" [label="B"];
+	"N(00)" [color="#FFFFFF", label=""];
+	"N(0)" -> "N(00)" [color="#000000", fontsize="8"];
+	"N(01)" [label="C"];
+	"N(010)" [color="#FFFFFF", label=""];
+	"N(01)" -> "N(010)" [color="#000000", fontsize="8"];
+	"N(011)" [color="#FFFFFF", label=""];
+	"N(01)" -> "N(011)" [color="#000000", fontsize="8"];
+	"N(0)" -> "N(01)" [color="#000000", fontsize="8"];
+	"N()" -> "N(0)" [color="#000000", fontsize="8"];
+	"N(1)" [label="D"];
+	"N(10)" [color="#FFFFFF", label=""];
+	"N(1)" -> "N(10)" [color="#000000", fontsize="8"];
+	"N(11)" [color="#FFFFFF", label=""];
+	"N(1)" -> "N(11)" [color="#000000", fontsize="8"];
+	"N()" -> "N(1)" [color="#000000", fontsize="8"];
+
+}
