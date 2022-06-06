@@ -12,10 +12,7 @@ class Noeud:
         self.droit  = d
         
     def __str__(self):
-        if self is not None:
-            repr_left = str(self.gauche)
-            repr_right = str(self.droit)
-            return f"({self.gauche}, {self.valeur}, {self.droit})"
+        return f"({self.gauche}, {self.valeur}, {self.droit})"
 
     def to_dot(self):
         """Renvoie une chaîne de caractères contenant la description au format dot de self."""
