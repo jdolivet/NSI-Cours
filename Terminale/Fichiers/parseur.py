@@ -6,7 +6,6 @@ from graphviz import Digraph
 def ast_graph(expression):
     graph = Digraph(format='png')
     code = ast.parse(expression)
- 
     # création des noeuds
     for node in ast.walk(code):
         label = node.__class__.__name__
@@ -17,7 +16,6 @@ def ast_graph(expression):
             elif label in ["Add", "Sub", "Mult", "Div", "Mod", "Pow"]:
                 label += "()"
             graph.node(str(id(node)), label)
-    
     # création des liens
     for node in ast.walk(code):
         if node.__class__.__name__ == "Name":
@@ -36,6 +34,13 @@ def ast_graph(expression):
     return graph
 
 
-expression = 'i = 3\nwhile i > O:\n    print("prends garde à toi !")\n    i = i - 1\nprint(1 / i)\nprint("Carmen épouse-moi !")'
+expression = """
+i = 3
+while i > O:
+    print("prends garde à toi !")
+    i = i - 1
+    print(1 / i)
+print("Carmen épouse-moi !")
+"""
 g = ast_graph(expression)
 g.render("arbre_de_syntaxe", view=True)
