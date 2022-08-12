@@ -2,7 +2,6 @@ import graphviz
 
 
 WHITE = "#FFFFFF"
-BLACK = "#000000"
 
 class Noeud:
     """Un noeud d'un arbre binaire"""
@@ -25,11 +24,11 @@ class Noeud:
                 s_a_g = arbre.gauche
                 description = (description +
                          aux(s_a_g, prefixe+'0') +
-                         f'\t"N({prefixe})" -> "N({prefixe}0)" [color="{BLACK}", fontsize="8"];\n')
+                         f'\t"N({prefixe})" -> "N({prefixe}0)";\n')
                 s_a_d = arbre.droit
                 description = (description +
                          aux(s_a_d, prefixe+'1') +
-                          f'\t"N({prefixe})" -> "N({prefixe}1)" [color="{BLACK}", fontsize="8"];\n')
+                          f'\t"N({prefixe})" -> "N({prefixe}1)";\n')
             return description  
         return f'/*\n\tArbre binaire\n*/\ndigraph G {{\n\tbgcolor="{WHITE}";\n{aux(self)}\n}}'   
     
@@ -38,3 +37,4 @@ class Noeud:
         le premier contenant la description de l'arbre au format dot, 
         le second contenant l'image au format PNG."""
         graphviz.Source(self.to_dot(), format='png').view(filename=nom)
+        
