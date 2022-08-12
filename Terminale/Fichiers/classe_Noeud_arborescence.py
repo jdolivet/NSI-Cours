@@ -20,15 +20,12 @@ class Noeud:
                 description = ''
                 for i in range(len(arbre.fils)):
                     s_a = arbre.fils[i]
-                    description = (description +
-                                   aux(s_a) +
-                                   f'\t{c} -- {s_a.valeur};\n')
+                    description = (description + aux(s_a) + f'\t{c} -> {s_a.valeur};\n')
             return description  
-        return f'/*\n\tArborescence\n*/\ngraph G {{\n{aux(self)}}}'   
+        return f'/*\n\tArborescence\n*/\ndigraph G {{\n{aux(self)}}}'   
     
     def show(self, nom="Arborescence"):
         """Visualise l'arbre et produit deux fichiers : filename et filename.png
         le premier contenant la description de l'arbre au format dot, 
         le second contenant l'image au format PNG."""
         graphviz.Source(self.to_dot(), format='png').view(filename=nom)
-
