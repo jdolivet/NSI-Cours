@@ -1,0 +1,459 @@
+<html>
+<head>
+<title>Jeu tour d'Hanoi</title>
+<style type="text/css">
+table {font:bold 13px Verdana}
+p {font:normal 11px Tahoma,Verdana}
+input,select {font:normal 12px Tahoma,Verdana}
+select {width:40px}
+a {font-weight:bold}
+.tower {position:absolute;visibility:visible;left:77px;top:184px;font:bold 10px Tahoma}
+.container {position:absolute;visibility:visible;}
+.towervert {position:absolute;visibility:visible;border:1px solid black;background-color:black}
+.towerhoriz {position:absolute;visibility:visible;border:1px solid black;font-size:1px;background-color:black}
+.disk {position:absolute;visibility:visible;border:1px solid black}
+</style>
+<script type="text/javascript">
+
+/***********************************************
+* Tower of Hanoi- by Glenn G. Vergara (glenngv@REMOVETHISyahoo.com)
+* This notice must stay intact for use
+* Visit Dynamic Drive (http://www.dynamicdrive.com/) for full source code
+***********************************************/
+
+var delay = 200; //in milliseconds
+
+var drag=false;
+var objDisk=null;
+var x = 0;
+var y = 0;
+var disksOnTower1 = new Array(null,null,null,null,null,null,null,null);
+var disksOnTower2 = new Array(null,null,null,null,null,null,null,null);
+var disksOnTower3 = new Array(null,null,null,null,null,null,null,null);
+var disksOnTowers = new Array(disksOnTower1,disksOnTower2,disksOnTower3);
+var offsetleft = 30;
+var offsettop = 30;
+var offsettower = 20;
+var offsethoriz = 30;
+var basetop = 0;
+var diskheight = 0;
+var midhoriztower = 0;
+var indexTo=1;
+var indexFr=1;
+var movectr=0;
+var gameOver=false;
+var prevIndex=0;
+var zindex = 0;
+var currTower=1;
+var prevTower=1;
+var demo=false;
+var arrFr = new Array(255);
+var arrTo = new Array(255);
+var idx = 0;
+var pos = 0;
+var t=null;
+var stop=false;
+
+
+function init(){
+if (document.getElementById){
+var diskno = document.hanoi.diskno;
+diskno.options.selectedIndex = 0;
+drawTowers();
+drawDisks(parseInt(diskno.options[diskno.options.selectedIndex].text)); 
+}
+}
+
+function initVars(){
+for (var i=0;i<disksOnTower1.length;i++){
+disksOnTower1[i]=null;
+disksOnTower2[i]=null;
+disksOnTower3[i]=null;
+}
+drag = false;
+indexTo = 1;
+indexFr = 1;
+movectr = 0;
+zindex = 0;
+idx = 0;
+pos = 0;
+t = null;
+gameOver=false;
+stop=false;
+demo=false;
+document.hanoi.btnUndo.disabled=true;
+}
+
+function drawTowers(){
+var title=document.getElementById("title");
+var tower1=document.getElementById("tower1");
+var tower2=document.getElementById("tower2");
+var tower3=document.getElementById("tower3");
+var settings=document.getElementById("settings");
+var titlewidth = parseInt(title.style.width);
+var titleheight = parseInt(title.style.height); 
+var towerwidth = parseInt(tower1.style.width);
+var towerheight = parseInt(tower1.style.height);
+var settingswidth = parseInt(settings.style.width);
+midhoriztower = parseInt(document.getElementById("horiztower1").style.width)/2;
+diskheight = parseInt(document.getElementById("disk1").style.height);
+
+title.style.left=offsetleft+(1.5*towerwidth)+offsettower-(titlewidth/2)+"px";
+title.style.top=offsettop+"px";
+tower1.style.left=offsetleft+"px";
+tower1.style.top=offsettop+titleheight+offsethoriz+"px";
+tower2.style.left=offsetleft+towerwidth+offsettower+"px";
+tower2.style.top=offsettop+titleheight+offsethoriz+"px";
+tower3.style.left=offsetleft+(towerwidth+offsettower)*2+"px";
+tower3.style.top=offsettop+titleheight+offsethoriz+"px";
+settings.style.left=offsetleft+(1.5*towerwidth)+offsettower-(settingswidth/2)+"px";
+settings.style.top=parseInt(tower1.style.top)+towerheight+offsethoriz+"px";
+}
+
+function drawDisks(disknum){
+var tower1=document.getElementById("tower1");
+var disktop = parseInt(tower1.style.top)+parseInt(document.getElementById("horiztower1").style.top);
+var lefttower1 = parseInt(tower1.style.left);
+var disk;
+var f=document.hanoi;
+basetop = disktop;
+for (var i=disksOnTower1.length;i>=1;i--){
+disk = document.getElementById("disk"+i);
+disk.style.zIndex=++zindex; 
+if (i<=disknum){
+disk.style.left=lefttower1+midhoriztower-parseInt(disk.style.width)/2+"px";
+disk.style.top=disktop-diskheight-1+"px";
+disktop = parseInt(disk.style.top);
+disksOnTowers[0][i-1]=disk;
+} 
+else {
+disk.style.left="-250px";
+disk.style.top="-250px";
+disksOnTowers[0][i-1]=null;
+}
+} 
+f.minmove.value=f.diskno.options[f.diskno.options.selectedIndex].value;
+f.yourmove.value=0;
+}
+
+function newGame(obj){
+if (movectr>0 && !gameOver && !stop){
+if (confirm("Le jeu va s arrêter, voulez-vous continuer ?")){
+initVars();
+drawDisks(parseInt(obj.options[obj.options.selectedIndex].text));
+}
+else document.hanoi.diskno.options.selectedIndex=prevIndex;
+}
+else {
+initVars();
+drawDisks(parseInt(obj.options[obj.options.selectedIndex].text));
+}
+}
+
+function initializeDrag(disk,e){
+if (!e) e=event;
+if (stop){
+alert("Vous ne pouvez pas continuer le jeu après avoir cliquer sur le bouton 'Stop'.\nCliquer sur le bouton 'Recommencer' ou selectionner le nombre de disques pour continuer à jouer.");
+return;
+}
+indexFr = indexTo;
+if (disk.id!=disksOnTowers[indexFr-1][0].id || gameOver || demo) return;
+objDisk=disk;
+x=e.clientX;
+y=e.clientY;
+tempx=parseInt(disk.style.left);
+tempy=parseInt(disk.style.top);
+document.onmousemove=dragDisk;
+}
+
+function dragDisk(e){
+if (!e) e=event;
+zindex++;
+drag=true;
+var posX = tempx+e.clientX-x;
+var posY = tempy+e.clientY-y;
+var objTower1 = document.getElementById("tower1");
+var objTower2 = document.getElementById("tower2");
+var objTower3 = document.getElementById("tower3");
+var tower1Left = parseInt(objTower1.style.left);
+var tower2Left = parseInt(objTower2.style.left);
+var tower3Left = parseInt(objTower3.style.left);
+var tower3Width = parseInt(objTower3.style.width);
+
+objDisk.style.zIndex=zindex;
+objDisk.style.left=posX+'px';
+objDisk.style.top=posY+'px'; 
+
+if (e.clientX>=document.body.clientWidth-10 || e.clientY>=document.body.clientHeight-5 || e.clientX==5 || e.clientY==5){ //outside available window
+indexTo=indexFr;
+dropDisk(objDisk);
+}
+else if ( //in the vicinity of tower 3
+(tower3Left<=posX) && 
+(tower3Left+tower3Width>=posX) && 
+(parseInt(objTower3.style.top)+parseInt(objTower3.style.height)>posY)
+){
+indexTo=3;
+}
+else if ((tower2Left<=posX) && (tower2Left+tower3Width>=posX)){ //in the vicinity of tower 2
+indexTo=2;
+}
+else if ((tower1Left<=posX) && (tower1Left+parseInt(objTower1.style.width)>=posX)){ //in the vicinity of tower 1
+indexTo=1;
+}
+else indexTo = indexFr;
+return false;
+}
+
+function dropDisk(disk){
+var f=document.hanoi;
+document.onmousemove=new Function("return false");
+if (!drag) return;
+var gameStatus=false;
+var topDisk = disksOnTowers[indexTo-1][0];
+if (indexFr==indexTo){
+getNewTop(indexFr,null);
+pushDisk(disk,indexFr); //put disk back to original tower
+getNewTop(indexFr,disk);
+}
+else if (topDisk==null) {
+pushDisk(disk,indexTo);
+getNewTop(indexFr,null);
+getNewTop(indexTo,disk);
+movectr++;
+currTower=indexTo;
+prevTower=indexFr;
+f.btnUndo.disabled=false;
+}
+else if (parseInt(disk.style.width)<parseInt(topDisk.style.width)){
+pushDisk(disk,indexTo);
+getNewTop(indexFr,null);
+getNewTop(indexTo,disk);
+movectr++;
+currTower=indexTo;
+prevTower=indexFr;
+if (indexTo==3) gameStatus=checkStatus();
+f.btnUndo.disabled=false;
+}
+else {
+getNewTop(indexFr,null);
+pushDisk(disk,indexFr); //put disk back to original tower
+getNewTop(indexFr,disk);
+}
+
+drag=false;
+f.yourmove.value=movectr;
+if (gameStatus) {
+f.btnUndo.disabled=true;
+minmove = parseInt(f.minmove.value);
+if (movectr==minmove) msg="\nCongratulations! Vous avez gagné en "+minmove+" déplacements."
+else if (movectr>minmove) msg="\nVous pouvez améliorer votre score."
+else msg="";
+alert("Game Over !!!"+msg);
+gameOver=true;
+}
+return;
+} 
+
+function checkStatus(){
+var gameStat = false;
+var disks=0;
+for (var i=0;i<disksOnTower3.length;i++){
+if (disksOnTowers[2][i]!=null) disks++;
+}
+if (disks==parseInt(document.hanoi.diskno.options[document.hanoi.diskno.options.selectedIndex].text)) gameStat=true;
+return gameStat;
+}
+
+function pushDisk(disk,index){
+var diskWidth = parseInt(disk.style.width);
+var towerLeft = parseInt(document.getElementById("tower"+index).style.left);
+var topDisk = disksOnTowers[index-1][0];
+if (topDisk!=null){
+topDiskWidth = parseInt(topDisk.style.width);
+topDiskTop = parseInt(topDisk.style.top);
+disk.style.left=towerLeft+midhoriztower-diskWidth/2+"px";
+disk.style.top=topDiskTop-diskheight-1+"px";
+}
+else {
+disk.style.left=towerLeft+midhoriztower-diskWidth/2+"px";
+disk.style.top=basetop-diskheight-1+"px";
+} 
+}
+
+function getNewTop(index,disk){
+if (disk==null){ //pop
+for (var i=0;i<disksOnTower1.length-1;i++){
+disksOnTowers[index-1][i]=disksOnTowers[index-1][i+1];
+}
+disksOnTowers[index-1][disksOnTower1.length-1]=null;
+}
+else { //push
+for (var i=disksOnTower1.length-1;i>=1;i--){
+disksOnTowers[index-1][i]=disksOnTowers[index-1][i-1];
+}
+disksOnTowers[index-1][0]=disk;
+}
+}
+
+function solve(btn){
+if (btn.value=="Solution"){
+if (movectr>0 && !gameOver && !stop)
+if (!confirm("le jeu va s arrêter, Voulez-vous vraiment recommencer?")) return;
+btn.value="Stop";
+initVars();
+stop=false;
+demo=true;
+var f=document.hanoi;
+f.btnIns.disabled=true;
+f.btnRes.disabled=true;
+f.btnUndo.disabled=true;
+disknum = parseInt(f.diskno.options[f.diskno.options.selectedIndex].text);
+drawDisks(disknum);
+getMoves(0, 2, 1, disknum); 
+t=window.setTimeout("moveDisk()",delay);
+}
+else {
+if (t) {
+window.clearTimeout(t);
+btn.value="Solution";
+frm.btnIns.disabled=false;
+frm.btnRes.disabled=false;
+t = null;
+stop=true;
+demo=false;
+}
+
+}
+}
+
+function moveDisk(){
+frm = document.hanoi;
+disk=disksOnTowers[arrFr[pos]][0];
+pushDisk(disk,arrTo[pos]+1);
+getNewTop(arrFr[pos]+1,null);
+getNewTop(arrTo[pos]+1,disk);
+movectr++;
+frm.yourmove.value=movectr;
+pos++;
+if (movectr<parseInt(frm.minmove.value)) t=window.setTimeout("moveDisk()",delay);
+else {
+alert("Pouvez-vous le faire en "+movectr+" déplacements?");
+gameOver=true;
+stop=false;
+frm.btnSolve.value="Solution";
+frm.btnIns.disabled=false;
+frm.btnRes.disabled=false;
+}
+}
+
+function getMoves(from,to,empty,numDisk){
+if (numDisk > 1) {
+getMoves(from, empty, to, numDisk - 1);
+arrFr[idx] = from;
+arrTo[idx++] = to;
+getMoves(empty, to, from, numDisk - 1);
+}
+else {
+arrFr[idx] = from;
+arrTo[idx++] = to;
+}
+}
+
+
+function unDo(btn){
+disk=disksOnTowers[currTower-1][0];
+pushDisk(disk,prevTower);
+getNewTop(currTower,null);
+getNewTop(prevTower,disk);
+movectr--;
+document.hanoi.yourmove.value=movectr;
+btn.disabled=true;
+}
+
+function displayIns(){
+var msg="Essayer de déplacer tous les disques de la tour 1 à la tour 3.\n";
+msg+="Vous ne pouvez déplacer qu un disque à la fois.\n";
+msg+="Vous ne pouvez pas mettre un gros disque sur un disque plus petit.";
+alert(msg);
+} 
+</script>
+
+<!--  debut coste google analytics -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3957455-2";
+urchinTracker();
+</script>
+
+<!-- fin code google analytics -->
+
+</head>
+<body onload="init();" onselectstart="return false" oncontextmenu="return false">
+<form name="hanoi">
+
+<div id="title" style="position:absolute;visibility:visible;left:-250px;top:-250px;width:160px;height:20px;font:bold 20px Tahoma;text-align:center;">Tour d'Hanoï</div>
+
+<div id="tower1" class="container" style="left:-250px;top:-250px;width:200px;height:200px" onmousemove="indexTo=1">
+<div id="verttower1" class="towervert" style="left:99px;top:10px;width:3px;height:170px"></div>
+<div id="horiztower1" class="towerhoriz" style="left:0px;top:180px;width:200px;height:2px"></div>
+<div class="tower">TOUR 1</div>
+</div>
+
+<div id="tower2" class="container" style="left:-250px;top:-250px;width:200px;height:200px" onmousemove="indexTo=2">
+<div id="verttower2" class="towervert" style="left:99px;top:10px;width:3px;height:170px"></div>
+<div id="horiztower2" class="towerhoriz" style="left:0px;top:180px;width:200px;height:2px"></div>
+<div class="tower">TOUR 2</div>
+</div>
+
+<div id="tower3" class="container" style="left:-250px;top:-250px;width:200px;height:200px" onmousemove="indexTo=3">
+<div id="verttower3" class="towervert" style="left:99px;top:10px;width:3px;height:170px"></div>
+<div id="horiztower3" class="towerhoriz" style="left:0px;top:180px;width:200px;height:2px"></div>
+<div class="tower">TOUR 3</div>
+</div>
+
+<div id="disk1" class="disk" style="left:-250px;top:-250px;width:50px;height:19px;background-color:pink" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 1"></div>
+<div id="disk2" class="disk" style="left:-250px;top:-250px;width:70px;height:19px;background-color:violet" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 2"></div>
+<div id="disk3" class="disk" style="left:-250px;top:-250px;width:90px;height:19px;background-color:indigo" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 3"></div>
+<div id="disk4" class="disk" style="left:-250px;top:-250px;width:110px;height:19px;background-color:blue" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 4"></div>
+<div id="disk5" class="disk" style="left:-250px;top:-250px;width:130px;height:19px;background-color:green" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 5"></div>
+<div id="disk6" class="disk" style="left:-250px;top:-250px;width:150px;height:19px;background-color:yellow" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 6"></div>
+<div id="disk7" class="disk" style="left:-250px;top:-250px;width:170px;height:19px;background-color:orange" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 7"></div>
+<div id="disk8" class="disk" style="left:-250px;top:-250px;width:190px;height:19px;background-color:red" onmousedown="initializeDrag(this,event)" onmouseup="dropDisk(this)" title="Disk 8"></div>
+
+<div id="settings" class="container" style="left:-250px;top:-250px;width:260px;">
+<table>
+<tr><td>Nombre de disques</td>
+<td>
+<select name="diskno" onchange="newGame(this)" onclick="prevIndex=this.options.selectedIndex">
+<option value="7" selected>3</option>
+<option value="15">4</option>
+<option value="31">5</option>
+<option value="63">6</option>
+<option value="127">7</option>
+<option value="255">8</option>
+</select>
+</td></tr>
+<tr><td>Nombre minimum de déplacements&nbsp;&nbsp;</td>
+<td><input name="minmove" style="border:none" size="3" value="255" readonly="readonly" /></td></tr>
+<tr><td>Votre nombre de déplacements</td>
+<td><input name="yourmove" style="border:none" size="3" value="0" readonly="readonly" /></td></tr>
+<tr><td colspan="2" align="center">
+<input type="button" name="btnIns" value="Instructions" onclick="displayIns()" />
+<input type="button" name="btnRes" value="Recommencer" onclick="newGame(document.hanoi.diskno)" />
+<input type="button" name="btnUndo" value="Annuler" onclick="unDo(this)" disabled="disabled" />
+<input type="button" name="btnSolve" value="Solution" onclick="solve(this)" />
+</td></tr>
+</table>
+<p>&nbsp;</p>
+
+</div>
+</form>
+
+
+
+
+</body>
+</html>
