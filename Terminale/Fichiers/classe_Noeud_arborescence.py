@@ -14,7 +14,7 @@ class Noeud:
 
     def to_dot(self):
         """Renvoie une chaîne de caractères contenant la description au format dot de self."""
-        def aux(arbre, prefixe='racine'):
+        def aux(arbre, prefixe='R'):
             c = arbre.valeur
             description = f'\t"N({prefixe})" [label="{c}"];\n'
             for i in range(len(arbre.fils)):
