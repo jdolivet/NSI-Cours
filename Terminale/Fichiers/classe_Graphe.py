@@ -30,11 +30,19 @@ class Graphe:
         description = '/*\n\tGraphe\n*/\ndigraph G {\n\tbgcolor="#FFFFFF";\n'
         for s in self.sommets():
             for v in self.voisins(s):
-                description += f"\t{s} -> {v}\n"
+                description += f'\t"{s}" -> "{v}"\n'
         return description + '}'
     
-    def show(self, nom="Graphe"):
+    def show(self, nom="Graphe'"):
         """Visualise l'arbre et produit deux fichiers : filename et filename.png
         le premier contenant la description de l'arbre au format dot, 
         le second contenant l'image au format PNG."""
         graphviz.Source(self.to_dot(), format='png').view(filename=nom)
+
+g0 = Graphe()
+g0.ajouter_arc(0, 1)
+g0.ajouter_arc(0, 3)
+g0.ajouter_arc(1, 2)
+g0.ajouter_arc(3, 1)
+
+g0.show()
