@@ -33,7 +33,7 @@ class Graphe:
                 description += f'\t"{s}" -> "{v}"\n'
         return description + '}'
     
-    def show(self, nom="Graphe'"):
+    def show(self, nom="Graphe"):
         """Visualise l'arbre et produit deux fichiers : filename et filename.png
         le premier contenant la description de l'arbre au format dot, 
         le second contenant l'image au format PNG."""
