@@ -38,11 +38,3 @@ class Graphe:
         le premier contenant la description de l'arbre au format dot, 
         le second contenant l'image au format PNG."""
         graphviz.Source(self.to_dot(), format='png').view(filename=nom)
-
-g0 = Graphe()
-g0.ajouter_arc(0, 1)
-g0.ajouter_arc(0, 3)
-g0.ajouter_arc(1, 2)
-g0.ajouter_arc(3, 1)
-
-g0.show()
