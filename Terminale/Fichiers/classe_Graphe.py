@@ -2,7 +2,7 @@ import graphviz
 
 
 class Graphe:
-    """Un graphe orienté comme un dictionnaire d'adjacence"""
+    """Un graphe non orienté comme un dictionnaire d'adjacence"""
 
     def __init__(self):
         self.adj = {}
@@ -15,6 +15,7 @@ class Graphe:
         self.ajouter_sommet(s1)
         self.ajouter_sommet(s2)
         self.adj[s1].add(s2)
+        self.adj[s2].add(s1)
 
     def arc(self, s1, s2) -> bool:
         return s2 in self.adj[s1]
@@ -27,10 +28,11 @@ class Graphe:
 
     def to_dot(self):
         """Renvoie une chaîne de caractères contenant la description au format dot de self."""
-        description = '/*\n\tGraphe\n*/\ndigraph G {\n\tbgcolor="#FFFFFF";\n'
+        description = '/*\n\tGraphe\n*/\nstrict graph G {\n\tbgcolor="#FFFFFF";\n'
         for s in self.sommets():
+            description += f'\t"{s}"\n'
             for v in self.voisins(s):
-                description += f'\t"{s}" -> "{v}"\n'
+                description += f'\t"{s}" -- "{v}"\n'
         return description + '}'
     
     def show(self, nom="Graphe"):
