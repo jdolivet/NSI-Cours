@@ -30,9 +30,9 @@ class Graphe:
         """Renvoie une chaîne de caractères contenant la description au format dot de self."""
         description = '/*\n\tGraphe\n*/\nstrict graph G {\n\tbgcolor="#FFFFFF";\n'
         for s in self.sommets():
-            description += f'\t"{s}"\n'
+            description += f'\t"{s}";\n'
             for v in self.voisins(s):
-                description += f'\t"{s}" -- "{v}"\n'
+                description += f'\t"{s}" -- "{v}";\n'
         return description + '}'
     
     def show(self, nom="Graphe"):
@@ -40,3 +40,4 @@ class Graphe:
         le premier contenant la description de l'arbre au format dot, 
         le second contenant l'image au format PNG."""
         graphviz.Source(self.to_dot(), format='png').view(filename=nom)
+
