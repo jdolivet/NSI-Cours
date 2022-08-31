@@ -139,7 +139,7 @@ f.yourmove.value=0;
 
 function newGame(obj){
 if (movectr>0 && !gameOver && !stop){
-if (confirm("Le jeu va s arrêter, voulez-vous continuer ?")){
+if (confirm("Le jeu va s arreter, voulez-vous continuer ?")){
 initVars();
 drawDisks(parseInt(obj.options[obj.options.selectedIndex].text));
 }
@@ -154,7 +154,7 @@ drawDisks(parseInt(obj.options[obj.options.selectedIndex].text));
 function initializeDrag(disk,e){
 if (!e) e=event;
 if (stop){
-alert("Vous ne pouvez pas continuer le jeu après avoir cliquer sur le bouton 'Stop'.\nCliquer sur le bouton 'Recommencer' ou selectionner le nombre de disques pour continuer à jouer.");
+alert("Vous ne pouvez pas continuer le jeu apres avoir cliquer sur le bouton 'Stop'.\nCliquer sur le bouton 'Recommencer' ou selectionner le nombre de disques pour continuer a jouer.");
 return;
 }
 indexFr = indexTo;
@@ -247,8 +247,8 @@ f.yourmove.value=movectr;
 if (gameStatus) {
 f.btnUndo.disabled=true;
 minmove = parseInt(f.minmove.value);
-if (movectr==minmove) msg="\nCongratulations! Vous avez gagné en "+minmove+" déplacements."
-else if (movectr>minmove) msg="\nVous pouvez améliorer votre score."
+if (movectr==minmove) msg="\nFelicitations! Vous avez gagne en "+minmove+" deplacements."
+else if (movectr>minmove) msg="\nVous pouvez ameliorer votre score."
 else msg="";
 alert("Game Over !!!"+msg);
 gameOver=true;
@@ -300,7 +300,7 @@ disksOnTowers[index-1][0]=disk;
 function solve(btn){
 if (btn.value=="Solution"){
 if (movectr>0 && !gameOver && !stop)
-if (!confirm("le jeu va s arrêter, Voulez-vous vraiment recommencer?")) return;
+if (!confirm("Le jeu va s'arreter. Voulez-vous vraiment recommencer?")) return;
 btn.value="Stop";
 initVars();
 stop=false;
@@ -339,7 +339,7 @@ frm.yourmove.value=movectr;
 pos++;
 if (movectr<parseInt(frm.minmove.value)) t=window.setTimeout("moveDisk()",delay);
 else {
-alert("Pouvez-vous le faire en "+movectr+" déplacements?");
+alert("Voulez-vous le faire en "+movectr+" deplacements?");
 gameOver=true;
 stop=false;
 frm.btnSolve.value="Solution";
@@ -373,9 +373,9 @@ btn.disabled=true;
 }
 
 function displayIns(){
-var msg="Essayer de déplacer tous les disques de la tour 1 à la tour 3.\n";
-msg+="Vous ne pouvez déplacer qu un disque à la fois.\n";
-msg+="Vous ne pouvez pas mettre un gros disque sur un disque plus petit.";
+var msg="Essayer de deplacer tous les disques de la tour 1 a la tour 3.\n";
+msg+="Vous ne pouvez deplacer qu'un disque a la fois.\n";
+msg+="Vous ne pouvez pas mettre un disque sur un disque plus petit.";
 alert(msg);
 } 
 </script>
