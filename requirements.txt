@@ -4,3 +4,5 @@ sklearn
 folium
 graphviz
 psutil
+PIL
+
