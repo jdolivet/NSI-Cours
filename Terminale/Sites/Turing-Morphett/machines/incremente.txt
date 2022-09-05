@@ -16,3 +16,5 @@ A ● ● l B
 B 0 1 * halt
 B 1 0 l B
 B ● 1 * halt
+
+;$INITIAL_TAPE:●●*10011●
