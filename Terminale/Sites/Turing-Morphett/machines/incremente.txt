@@ -1,20 +1,18 @@
 ; Incrémente un nombre de 1
 ; Entrée: un nombre entier positif représenté, en binaire,
 ; sur un morceau de ruban contenant des symboles 0 et 1, 
-; délimité de chaque côté par un symbole _.
-; Dans notre exemple : __10011_
+; délimité de chaque côté par des symboles ●.
+; Dans notre exemple : ●●10011●
 
-
+; Machine démarre à l'extrémité gauche du nombre
 ; Machine démarre à l'état A.
 
 ; Etat A
 A 0 0 r A
 A 1 1 r A
-A _ _ l B
+A ● ● l B
 
 ; Etat B
 B 0 1 * halt
 B 1 0 l B
-B _ 1 * halt
-
-;$INITIAL_TAPE:__10011_
+B ● 1 * halt
