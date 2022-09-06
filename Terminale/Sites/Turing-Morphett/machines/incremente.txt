@@ -17,4 +17,4 @@ B 0 1 * halt
 B 1 0 l B
 B _ 1 * halt
 
-;$INITIAL_TAPE:__*10011_
+;$INITIAL_TAPE:__10011_
