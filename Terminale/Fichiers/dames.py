@@ -11,7 +11,7 @@
 #   1 si on déplace le pion d'une case
 #   2 si on le déplace de deux cases (en mangeant le pion qu'il saute)
 
-import Tkinter as tk
+import tkinter as tk
 
 
 class Jeu:
@@ -28,6 +28,7 @@ class Jeu:
 # ---- La suite de ce fichier n'a pas besoin d'être modifiée ---
 
 _root = tk.Tk()
+_root.title("Jeu de dames")
 
 TAILLE = 40
 

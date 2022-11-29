@@ -5,7 +5,7 @@
 # Compléter ces deux fonctions afin que la visualisation de la grille
 # et l'interaction avec son contenu fonctionnent
 
-import Tkinter as tk
+import tkinter as tk
 
 
 def valeur_case(i, j):
@@ -27,6 +27,7 @@ def changer_valeur(i, j, v):
 # ---- La suite de ce fichier n'a pas besoin d'être modifiée ---
 
 _root = tk.Tk()
+_root.title("Sudoku")
 
 class Affichage:
     """ Représente l'affichage de la grille de Sudoku """
