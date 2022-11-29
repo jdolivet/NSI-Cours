@@ -1,4 +1,4 @@
-# Indexer une collection avec un ABR (page 150)
+# Indexer une collection avec un ABR 
 
 from csv import DictReader  # utilisé pour lire le fichier csv.
 import time  # utilisé pour chronométrer les durées d'exécution
