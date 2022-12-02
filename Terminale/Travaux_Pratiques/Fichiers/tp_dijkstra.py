@@ -1,6 +1,4 @@
-#
-# Chapitre 09 - TP 2 - Chemin le plus court avec l’algorithme de Dijkstra
-#
+# Chemin le plus court avec l’algorithme de Dijkstra
 
 from collections import defaultdict
 # `defaultdict` fonctionne comme un `dict` Python.
@@ -29,8 +27,38 @@ class Graphe:
     self.distances[(noeud_src, noeud_dest)] = distance
 
   def dijkstra(self, source):
-    # copier ici le code de la fonction dijkstra 
-    # de la partie cours
+    visite = {source: 0}
+    chemin = {}
+            
+    noeuds = set(self.noeuds)
+    print("noeuds: ", noeuds)
+                
+    while noeuds:
+      min_noeud = None
+      for noeud in noeuds: # trouver le noeud de cout minimal
+        if noeud in visite:
+          if min_noeud is None:
+            min_noeud = noeud
+          elif visite[noeud] < visite[min_noeud]:
+            min_noeud = noeud
+
+      if min_noeud is None:
+        break
+      
+      print("- min_noeud: ", min_noeud)
+      noeuds.remove(min_noeud)
+      poid_actuel = visite[min_noeud]
+      print("  poid_actuel: ", poid_actuel)
+    
+      for lien in self.liens[min_noeud]:
+        poid = poid_actuel + self.distances[(min_noeud, lien)]
+        if lien not in visite or poid < visite[lien]:
+          visite[lien] = poid
+          chemin[lien] = min_noeud
+          print("    - lien: ", lien)
+          print("      visite[lien]: ", visite[lien])
+          print("      chemin[lien]: ", chemin[lien])
+                        
     return visite, chemin
   
   def chemin_vers(self, chemin, source, dest):
