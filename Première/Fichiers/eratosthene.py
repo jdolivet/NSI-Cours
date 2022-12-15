@@ -3,8 +3,8 @@
 # Implémenter le crible d’Eratosthène en suivant les indications du fichier `eratosthene.py`.
 
 # Définir une variable `n` à 100.
-#  Puis créer un tableau `premier` de taille _n+1_ dont les 2 premiers éléments sont `False` et les suivants `True`.
-# Mettre à jour ce tableau de sorte que pour tout $i\leq n$, `premier[i]` vaille `True` ssi `i` est premier.
+#  Puis créer un tableau `premier` de taille n+1 dont les 2 premiers éléments sont `False` et les suivants `True`.
+# Mettre à jour ce tableau de sorte que pour tout i <= n, `premier[i]` vaille `True` ssi `i` est premier.
 
 # A compléter
 
