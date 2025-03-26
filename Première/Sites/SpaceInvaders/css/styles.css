@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "retroGaming";
+    src: url("../assets/retroGaming.ttf");
+}
+
+@font-face {
+    font-family: "openSans";
+    src: url("../assets/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("../assets/Montserrat/Montserrat-VariableFont_wght.ttf");
+}
+
+
+body {
+    font-family: "openSans";
+    margin: 10px 20px 200px 20px;
+    color: antiquewhite;
+    background-size: 16px 16px;
+    background-image:
+        linear-gradient(to bottom, rgb(50,50,50) 1px, transparent 1px),
+        linear-gradient(to right, rgb(50,50,50) 1px, black 1px);
+}
+
+#copyleft {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 9pt;
+	color: antiquewhite;
+}
+
+
+.keyboard {
+    border: 1px solid antiquewhite;
+    border-radius: 4px;
+    padding: 1px 8px;
+    font-size: 14px;
+    line-height: 14px;
+    background-color: antiquewhite;
+    color: black;
+}

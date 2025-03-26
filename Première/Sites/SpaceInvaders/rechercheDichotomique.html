@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="javascript/particles.js"></script>
+    <script src="javascript/spaceInvaders.js"></script>
+    <title>Dichotomie</title>
+</head>
+<body onload="initThings ();">
+	<ul style="line-height: 30px;">
+		<li><span class="keyboard" style="padding-right: 10px">&#9664;</span> et <span class="keyboard" style="padding-left: 10px">&#9654;</span> pour se déplacer, <span class="keyboard">Space</span> pour tirer ;</li>
+		<li>derrière chaque alien se cache un nombre ;</li>
+		<li>vous devez détruire l'alien cachant la cible indiquée dans le coin inférieur gauche de l'écran ;</li>
+		<li>vous disposez, pour commencer, d'un nombre restreint de missiles. Mais suffisants si vous adoptez <strong>la bonne stratégie !</strong></li>
+		<li>point crucial pour élaborer votre stratégie, les aliens sont initialement ordonnés, de la gauche vers la droite, de manière croissante (indication <span style="font-family: retrogaming">UP</span>), ou décroissante (indication <span style="font-family: retrogaming">DOWN</span>) ;</li>
+		<li>une fois la cible détruite, vous bénéficierez d'un surplus de missiles pour nettoyer la zone ;</li>
+		<li>il est possible que la cible soit un leurre et qu'elle soit absente : si tel est le cas, appuyer sur la touche <span class="keyboard">B</span> pour faire exploser l'intégralité des aliens. Mais attention, en cas d'erreur, <span style="font-family: retrogaming">GAME OVER !</span></li>
+	</ul>
+
+	<div id="container" style="text-align: center; outline: none; margin: 40px auto" tabindex="1"><canvas id="spaceInvaders" width="880" height="400" style="background-color: black; border: 4px solid white; border-radius: 8px;"></canvas></div>
+	<div id="copyleft"><div>JiiZ - 2024</div><a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="assets/images/licenceCreativeCommons-by-nc-sa.png" style="margin-left: 8px; vertical-align: middle;"/></a></div>
+</body>
+</html>
